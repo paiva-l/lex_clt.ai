@@ -43,6 +43,8 @@ A identificação da fase processual dependerá da abrangência e da atualidade 
 
 ## Arquitetura proposta
 
+> A arquitetura implementada, a base de conhecimento, as estratégias de chunking e embeddings, o banco vetorial e o roteiro da demonstração estão descritos em [docs/semana2_base_conhecimento_e_rag.md](docs/semana2_base_conhecimento_e_rag.md).
+
 O sistema será organizado em dois fluxos principais.
 
 ### Preparação das bases jurídicas
@@ -135,7 +137,7 @@ Os experimentos serão organizados nos seguintes notebooks:
 | `04_experimentos_chunking.ipynb` | Comparar estratégias de divisão dos textos. |
 | `05_construcao_base_avaliacao.ipynb` | Organizar perguntas e referências esperadas. |
 | `06_experimentos_recuperacao.ipynb` | Comparar busca lexical, vetorial e híbrida. |
-| `07_avaliacao_cross_encoder.ipynb` | Medir o efeito do reranking na relevância dos resultados. |
+| `07_integracao_rag_legislacao.ipynb` | Gerar respostas fundamentadas com citação de fontes e validar as citações. |
 | `08_avaliacao_rag_llm.ipynb` | Avaliar respostas, citações, limitações e erros do sistema. |
 
 A jurisprudência e a análise de documentos processuais poderão receber notebooks específicos nas etapas seguintes.
