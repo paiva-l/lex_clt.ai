@@ -1,0 +1,32 @@
+[
+  {
+    "estrategia":"A_artigo",
+    "chunks":5284,
+    "chunks_acima_limite":3517,
+    "limite_modelo":128
+  },
+  {
+    "estrategia":"B_subdispositivo",
+    "chunks":16978,
+    "chunks_acima_limite":6090,
+    "limite_modelo":128
+  },
+  {
+    "estrategia":"C_tokens_300_overlap_50",
+    "chunks":6849,
+    "chunks_acima_limite":4959,
+    "limite_modelo":128
+  },
+  {
+    "estrategia":"C_tokens_500_overlap_75",
+    "chunks":5940,
+    "chunks_acima_limite":4153,
+    "limite_modelo":128
+  },
+  {
+    "estrategia":"D_paragrafo_completo",
+    "chunks":10971,
+    "chunks_acima_limite":5801,
+    "limite_modelo":128
+  }
+]

@@ -1,0 +1,348 @@
+{
+  "query_id": "q_dev_03_v5",
+  "pergunta": "Estou sendo ofendida moralmente por muito tempo na empresa que trabalho, tem como eu sair da empresa sem perder meus direitos?",
+  "sources": [
+    {
+      "chunk_id": "04c973ef40942a621e832e90cb7bac8ae60e03091846bef97d516832de4f24c3",
+      "estrategia": "A_artigo",
+      "artigo_id": "a74e16c8391ec82e6089293a651bd510d957be9f58271f34c21adc1b3309d096",
+      "artigo_ref": "Art. 223-G",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II-A > Art. 223-G]",
+      "corpo_chunk": "##### Art. 223-G\n\nAo apreciar o pedido, o juízo considerará: (Incluído pela Lei nº 13.467, de 2017) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nI - a natureza do bem jurídico tutelado; (Incluído pela Lei nº 13.467, de 2017)\n\nII - a intensidade do sofrimento ou da humilhação; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - a possibilidade de superação física ou psicológica; (Incluído pela Lei nº 13.467, de 2017)\n\nIV - os reflexos pessoais e sociais da ação ou da omissão; (Incluído pela Lei nº 13.467, de 2017)\n\nV - a extensão e a duração dos efeitos da ofensa; (Incluído pela Lei nº 13.467, de 2017)\n\nVI - as condições em que ocorreu a ofensa ou o prejuízo moral; (Incluído pela Lei nº 13.467, de 2017)\n\nVII - o grau de dolo ou culpa; (Incluído pela Lei nº 13.467, de 2017)\n\nVIII - a ocorrência de retratação espontânea; (Incluído pela Lei nº 13.467, de 2017)\n\nIX - o esforço efetivo para minimizar a ofensa; (Incluído pela Lei nº 13.467, de 2017)\n\nX - o perdão, tácito ou expresso; (Incluído pela Lei nº 13.467, de 2017)\n\nXI - a situação social e econômica das partes envolvidas; (Incluído pela Lei nº 13.467, de 2017)\n\nXII - o grau de publicidade da ofensa. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1º Se julgar procedente o pedido, o juízo fixará a indenização a ser paga, a cada um dos ofendidos, em um dos seguintes parâmetros, vedada a acumulação: (Incluído pela Lei nº 13.467, de 2017) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nI - ofensa de natureza leve, até três vezes o último salário contratual do ofendido; (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nII - ofensa de natureza média, até cinco vezes o último salário contratual do ofendido; (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nIII - ofensa de natureza grave, até vinte vezes o último salário contratual do ofendido; (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nIV - ofensa de natureza gravíssima, até cinquenta vezes o último salário contratual do ofendido. (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\n§ 2º Se o ofendido for pessoa jurídica, a indenização será fixada com observância dos mesmos parâmetros estabelecidos no § 1º deste artigo, mas em relação ao salário contratual do ofensor. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 3º Na reincidência entre partes idênticas, o juízo poderá elevar ao dobro o valor da indenização. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II-A > Art. 223-G]\n##### Art. 223-G\n\nAo apreciar o pedido, o juízo considerará: (Incluído pela Lei nº 13.467, de 2017) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nI - a natureza do bem jurídico tutelado; (Incluído pela Lei nº 13.467, de 2017)\n\nII - a intensidade do sofrimento ou da humilhação; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - a possibilidade de superação física ou psicológica; (Incluído pela Lei nº 13.467, de 2017)\n\nIV - os reflexos pessoais e sociais da ação ou da omissão; (Incluído pela Lei nº 13.467, de 2017)\n\nV - a extensão e a duração dos efeitos da ofensa; (Incluído pela Lei nº 13.467, de 2017)\n\nVI - as condições em que ocorreu a ofensa ou o prejuízo moral; (Incluído pela Lei nº 13.467, de 2017)\n\nVII - o grau de dolo ou culpa; (Incluído pela Lei nº 13.467, de 2017)\n\nVIII - a ocorrência de retratação espontânea; (Incluído pela Lei nº 13.467, de 2017)\n\nIX - o esforço efetivo para minimizar a ofensa; (Incluído pela Lei nº 13.467, de 2017)\n\nX - o perdão, tácito ou expresso; (Incluído pela Lei nº 13.467, de 2017)\n\nXI - a situação social e econômica das partes envolvidas; (Incluído pela Lei nº 13.467, de 2017)\n\nXII - o grau de publicidade da ofensa. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1º Se julgar procedente o pedido, o juízo fixará a indenização a ser paga, a cada um dos ofendidos, em um dos seguintes parâmetros, vedada a acumulação: (Incluído pela Lei nº 13.467, de 2017) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nI - ofensa de natureza leve, até três vezes o último salário contratual do ofendido; (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nII - ofensa de natureza média, até cinco vezes o último salário contratual do ofendido; (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nIII - ofensa de natureza grave, até vinte vezes o último salário contratual do ofendido; (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nIV - ofensa de natureza gravíssima, até cinquenta vezes o último salário contratual do ofendido. (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\n§ 2º Se o ofendido for pessoa jurídica, a indenização será fixada com observância dos mesmos parâmetros estabelecidos no § 1º deste artigo, mas em relação ao salário contratual do ofensor. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 3º Na reincidência entre partes idênticas, o juízo poderá elevar ao dobro o valor da indenização. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2698,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2790,
+      "tokens_reais_corpo": 1079,
+      "tokens_reais_total": 1118,
+      "tokens_estimados_total": 697.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "48e30555be25e12149d5cf06039ea22fa535e4998080c8cae42aaaa519d43b80",
+          "rank": 1,
+          "score": 0.10236049443483353
+        },
+        {
+          "chunk_id": "87b70e6e3563d25769ecfcdaad910f3ab826f5aed14be105cf3783dc21c29754",
+          "rank": 31,
+          "score": 0.0013258858816698194
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "cb1ef7ff56ef03edf10e30c78c2971b2a41e513fa132bfeadb3371db495ed6d2",
+      "estrategia": "A_artigo",
+      "artigo_id": "99c88f56a8770ab440a7f9755b1c7f97b03720d6832ee0a8687aca46bc622026",
+      "artigo_ref": "Art. 7º",
+      "caminho_relativo": "constituicao/constituicao-1988.md",
+      "sha256_fonte": "1c9a24309a4e7dead57dc955e831219f4d438678744ea8a03e169e059840f96d",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm",
+      "date": 592012800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[constituicao/constituicao-1988.md | TÍTULO II — Dos Direitos e Garantias Fundamentais > CAPÍTULO II — DOS DIREITOS SOCIAIS > Art. 7º]",
+      "corpo_chunk": "###### Art. 7º\n\nSão direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:\n\nI - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos;\n\nII - seguro-desemprego, em caso de desemprego involuntário;\n\nIII - fundo de garantia do tempo de serviço;\n\nIV - salário mínimo , fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim;\n\nV - piso salarial proporcional à extensão e à complexidade do trabalho;\n\nVI - irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo;\n\nVII - garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável;\n\nVIII - décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria;\n\nIX – remuneração do trabalho noturno superior à do diurno;\n\nX - proteção do salário na forma da lei, constituindo crime sua retenção dolosa;\n\nXI – participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei;\n\nXII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional nº 20, de 1998)\n\nXIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Vide Decreto-Lei nº 5.452, de 1943)\n\nXIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva;\n\nXV - repouso semanal remunerado, preferencialmente aos domingos;\n\nXVI - remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal; (Vide Del 5.452, art. 59 § 1º)\n\nXVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal;\n\nXVIII - licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias;\n\nXIX - licença-paternidade, nos termos fixados em lei;\n\nXX - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei;\n\nXXI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei;\n\nXXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança;\n\nXXIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei;\n\nXXIV - aposentadoria;\n\nXXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; (Redação dada pela Emenda Constitucional nº 53, de 2006)\n\nXXVI - reconhecimento das convenções e acordos coletivos de trabalho;\n\nXXVII - proteção em face da automação, na forma da lei;\n\nXXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;\n\nXXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Redação dada pela Emenda Constitucional nº 28, de 2000)\n\na) (Revogada). (Redação dada pela Emenda Constitucional nº 28, de 2000)\n\nb) (Revogada). (Redação dada pela Emenda Constitucional nº 28, de 2000)\n\nXXX - proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil;\n\nXXXI - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência;\n\nXXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos;\n\nXXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Redação dada pela Emenda Constitucional nº 20, de 1998)\n\nXXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.\n\nParágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social. (Redação dada pela Emenda Constitucional nº 72, de 2013)\n\n",
+      "conteudo_chunk": "[constituicao/constituicao-1988.md | TÍTULO II — Dos Direitos e Garantias Fundamentais > CAPÍTULO II — DOS DIREITOS SOCIAIS > Art. 7º]\n###### Art. 7º\n\nSão direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:\n\nI - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos;\n\nII - seguro-desemprego, em caso de desemprego involuntário;\n\nIII - fundo de garantia do tempo de serviço;\n\nIV - salário mínimo , fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim;\n\nV - piso salarial proporcional à extensão e à complexidade do trabalho;\n\nVI - irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo;\n\nVII - garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável;\n\nVIII - décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria;\n\nIX – remuneração do trabalho noturno superior à do diurno;\n\nX - proteção do salário na forma da lei, constituindo crime sua retenção dolosa;\n\nXI – participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei;\n\nXII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional nº 20, de 1998)\n\nXIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Vide Decreto-Lei nº 5.452, de 1943)\n\nXIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva;\n\nXV - repouso semanal remunerado, preferencialmente aos domingos;\n\nXVI - remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal; (Vide Del 5.452, art. 59 § 1º)\n\nXVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal;\n\nXVIII - licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias;\n\nXIX - licença-paternidade, nos termos fixados em lei;\n\nXX - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei;\n\nXXI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei;\n\nXXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança;\n\nXXIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei;\n\nXXIV - aposentadoria;\n\nXXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; (Redação dada pela Emenda Constitucional nº 53, de 2006)\n\nXXVI - reconhecimento das convenções e acordos coletivos de trabalho;\n\nXXVII - proteção em face da automação, na forma da lei;\n\nXXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;\n\nXXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Redação dada pela Emenda Constitucional nº 28, de 2000)\n\na) (Revogada). (Redação dada pela Emenda Constitucional nº 28, de 2000)\n\nb) (Revogada). (Redação dada pela Emenda Constitucional nº 28, de 2000)\n\nXXX - proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil;\n\nXXXI - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência;\n\nXXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos;\n\nXXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Redação dada pela Emenda Constitucional nº 20, de 1998)\n\nXXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.\n\nParágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social. (Redação dada pela Emenda Constitucional nº 72, de 2013)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 5031,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 5166,
+      "tokens_reais_corpo": 1481,
+      "tokens_reais_total": 1532,
+      "tokens_estimados_total": 1291.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "ccae4dfa7db984df0f517221aed2690305e403ab696e1b7eb7a53f567d99a384",
+          "rank": 2,
+          "score": 0.03330662101507187
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "1de79074fb1b3d6981610059140d3a0268a0da775e76db4afadecd388ea7db85",
+      "estrategia": "A_artigo",
+      "artigo_id": "bccbfcc064bf835a548b042df6672d9f2eafa75750edf7f986bf86d4ded18cb1",
+      "artigo_ref": "Art. 482",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]",
+      "corpo_chunk": "##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]\n##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1480,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1632,
+      "tokens_reais_corpo": 445,
+      "tokens_reais_total": 507,
+      "tokens_estimados_total": 408.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+          "rank": 3,
+          "score": 0.027572961524128914
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II-A > Art. 223-G]\n##### Art. 223-G\n\nAo apreciar o pedido, o juízo considerará: (Incluído pela Lei nº 13.467, de 2017) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nI - a natureza do bem jurídico tutelado; (Incluído pela Lei nº 13.467, de 2017)\n\nII - a intensidade do sofrimento ou da humilhação; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - a possibilidade de superação física ou psicológica; (Incluído pela Lei nº 13.467, de 2017)\n\nIV - os reflexos pessoais e sociais da ação ou da omissão; (Incluído pela Lei nº 13.467, de 2017)\n\nV - a extensão e a duração dos efeitos da ofensa; (Incluído pela Lei nº 13.467, de 2017)\n\nVI - as condições em que ocorreu a ofensa ou o prejuízo moral; (Incluído pela Lei nº 13.467, de 2017)\n\nVII - o grau de dolo ou culpa; (Incluído pela Lei nº 13.467, de 2017)\n\nVIII - a ocorrência de retratação espontânea; (Incluído pela Lei nº 13.467, de 2017)\n\nIX - o esforço efetivo para minimizar a ofensa; (Incluído pela Lei nº 13.467, de 2017)\n\nX - o perdão, tácito ou expresso; (Incluído pela Lei nº 13.467, de 2017)\n\nXI - a situação social e econômica das partes envolvidas; (Incluído pela Lei nº 13.467, de 2017)\n\nXII - o grau de publicidade da ofensa. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1º Se julgar procedente o pedido, o juízo fixará a indenização a ser paga, a cada um dos ofendidos, em um dos seguintes parâmetros, vedada a acumulação: (Incluído pela Lei nº 13.467, de 2017) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nI - ofensa de natureza leve, até três vezes o último salário contratual do ofendido; (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nII - ofensa de natureza média, até cinco vezes o último salário contratual do ofendido; (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nIII - ofensa de natureza grave, até vinte vezes o último salário contratual do ofendido; (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\nIV - ofensa de natureza gravíssima, até cinquenta vezes o último salário contratual do ofendido. (Incluído pela Lei nº 13.467, de 2017) (Vide Processo 1004752-21.2020.5.02.0000) (Vide ADI 6050) (Vide ADI 6069) (Vide ADI 6082)\n\n§ 2º Se o ofendido for pessoa jurídica, a indenização será fixada com observância dos mesmos parâmetros estabelecidos no § 1º deste artigo, mas em relação ao salário contratual do ofensor. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 3º Na reincidência entre partes idênticas, o juízo poderá elevar ao dobro o valor da indenização. (Incluído pela Lei nº 13.467, de 2017)\n\n\n\n[Fonte 2]\n[constituicao/constituicao-1988.md | TÍTULO II — Dos Direitos e Garantias Fundamentais > CAPÍTULO II — DOS DIREITOS SOCIAIS > Art. 7º]\n###### Art. 7º\n\nSão direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:\n\nI - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos;\n\nII - seguro-desemprego, em caso de desemprego involuntário;\n\nIII - fundo de garantia do tempo de serviço;\n\nIV - salário mínimo , fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim;\n\nV - piso salarial proporcional à extensão e à complexidade do trabalho;\n\nVI - irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo;\n\nVII - garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável;\n\nVIII - décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria;\n\nIX – remuneração do trabalho noturno superior à do diurno;\n\nX - proteção do salário na forma da lei, constituindo crime sua retenção dolosa;\n\nXI – participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei;\n\nXII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional nº 20, de 1998)\n\nXIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Vide Decreto-Lei nº 5.452, de 1943)\n\nXIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva;\n\nXV - repouso semanal remunerado, preferencialmente aos domingos;\n\nXVI - remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal; (Vide Del 5.452, art. 59 § 1º)\n\nXVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal;\n\nXVIII - licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias;\n\nXIX - licença-paternidade, nos termos fixados em lei;\n\nXX - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei;\n\nXXI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei;\n\nXXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança;\n\nXXIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei;\n\nXXIV - aposentadoria;\n\nXXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; (Redação dada pela Emenda Constitucional nº 53, de 2006)\n\nXXVI - reconhecimento das convenções e acordos coletivos de trabalho;\n\nXXVII - proteção em face da automação, na forma da lei;\n\nXXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;\n\nXXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Redação dada pela Emenda Constitucional nº 28, de 2000)\n\na) (Revogada). (Redação dada pela Emenda Constitucional nº 28, de 2000)\n\nb) (Revogada). (Redação dada pela Emenda Constitucional nº 28, de 2000)\n\nXXX - proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil;\n\nXXXI - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência;\n\nXXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos;\n\nXXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Redação dada pela Emenda Constitucional nº 20, de 1998)\n\nXXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.\n\nParágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social. (Redação dada pela Emenda Constitucional nº 72, de 2013)\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]\n##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "48e30555be25e12149d5cf06039ea22fa535e4998080c8cae42aaaa519d43b80",
+      "score": 0.10236049443483353
+    },
+    {
+      "chunk_id": "ccae4dfa7db984df0f517221aed2690305e403ab696e1b7eb7a53f567d99a384",
+      "score": 0.03330662101507187
+    },
+    {
+      "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+      "score": 0.027572961524128914
+    },
+    {
+      "chunk_id": "5ce287920d461b23d0e540020cb87a3adba52c18f0ea244ceb56c2b2adb2ae39",
+      "score": 0.017821699380874634
+    },
+    {
+      "chunk_id": "05fd61e86d1f3d4e7167c8a4779e9298da72fc7a4f0b29dd15789724b025c989",
+      "score": 0.016490904614329338
+    },
+    {
+      "chunk_id": "f9e3fdb7cb7fd819066714badd2c5d841abe819a333062b8dfc9934994878ab0",
+      "score": 0.013124939985573292
+    },
+    {
+      "chunk_id": "6806ae7e2c05e2ce2f8372d27389edf7b9a81a9972a3c3340eafa0be2015dfb9",
+      "score": 0.011022035032510757
+    },
+    {
+      "chunk_id": "fde03aeab4544153786918498dd41926582cd1f1e0e8c9868afbcb49f4b47dc2",
+      "score": 0.006987177301198244
+    },
+    {
+      "chunk_id": "ef759b9506f06f583f03fa4be074467c2c101506ba6cd5f7be099ca79d45692f",
+      "score": 0.00695332745090127
+    },
+    {
+      "chunk_id": "644f62b604ab728c055265f0d547ceb076f04283695ad58836d32b360290de20",
+      "score": 0.006310096476227045
+    },
+    {
+      "chunk_id": "0133ac72da0b4e12c5ee4604666cb2a52e9122dcebf452ed73cb4217c51e2852",
+      "score": 0.005872279405593872
+    },
+    {
+      "chunk_id": "eb7f0a6ff6158110e397443803a35026fd72b06567863a1bbae2e4e8b966f975",
+      "score": 0.005516363773494959
+    },
+    {
+      "chunk_id": "c7a8820e7ce5df09863390058e27218b3cb34b99e7a391a1fb452094fab75b06",
+      "score": 0.004911556839942932
+    },
+    {
+      "chunk_id": "8f4e04b02a86cd5549b53f98da73034908d40a43745548be48cde00204a45e7a",
+      "score": 0.004797045141458511
+    },
+    {
+      "chunk_id": "b379d78335b3662c8eee89be16f0f74940095a9d4084739f779987b3c316fcbc",
+      "score": 0.0044097681529819965
+    },
+    {
+      "chunk_id": "6493704240e09bd7b311fd7f88c73f22bb5c859e1962b40f322170327fd6804c",
+      "score": 0.003995629958808422
+    },
+    {
+      "chunk_id": "f303d2dfb6f4b4b936e54b7a73dab821e2f122f36009ff51cb9bd75f227d58bd",
+      "score": 0.003613188164308667
+    },
+    {
+      "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+      "score": 0.0032419515773653984
+    },
+    {
+      "chunk_id": "42e79936f20d0a181eb1423cc4149cd5cdc74dc4f37894f732c94b8e3326d67f",
+      "score": 0.0029256369452923536
+    },
+    {
+      "chunk_id": "dca446a19309e3c9db90d46d3275cbb746c6a074b351a6c27d1e1d6767b21de9",
+      "score": 0.0028591565787792206
+    },
+    {
+      "chunk_id": "8460bbf33276a92f1359103c724fbd0351e2c2f3cb09776e3a43b6ecc7241c8d",
+      "score": 0.0025430070236325264
+    },
+    {
+      "chunk_id": "8f2c8a47ebe893c26c971353ef2cfc4348975e8e4e49f58ea1b26e4d8aaaca73",
+      "score": 0.0024387931916862726
+    },
+    {
+      "chunk_id": "5ff91ed9ea963db49ba4f36bd141772f2a3e3bb4d8eda370d65a1a4f115b96e7",
+      "score": 0.002338453195989132
+    },
+    {
+      "chunk_id": "40cbea6f934ab353dedbcff05cf8b9bd8277ff06e428ee79f586d2ba535a0f93",
+      "score": 0.0022257808595895767
+    },
+    {
+      "chunk_id": "591ad88f81187589c9f4b3f79b7967582b51a1f37f835d0f1b3021c7e937548b",
+      "score": 0.002154604997485876
+    },
+    {
+      "chunk_id": "1f7bf490644bddff43ce132d8a406a6a106cfe7b504bf0a95f3c210e38735c4c",
+      "score": 0.0018783995183184743
+    },
+    {
+      "chunk_id": "3adaaf86e8da7996847b64900479ac4d906a2695ba658a4b1a8b0ec55ebc93e3",
+      "score": 0.0018217621836811304
+    },
+    {
+      "chunk_id": "c82ebf9b2dbced3d89a35e3c7d84b45dd58e8e472a03b0aa51c295057a452c94",
+      "score": 0.0017561936983838677
+    },
+    {
+      "chunk_id": "cc67f5ef721ebb44227ab1315c638e558dfc77b5e0d3c48f3d2d6672eaab1728",
+      "score": 0.0014332017162814736
+    },
+    {
+      "chunk_id": "b39017c9fe26d20158bbde1a9e0c0a31e33345b23736586da2448a9db5a98150",
+      "score": 0.0014041587710380554
+    },
+    {
+      "chunk_id": "87b70e6e3563d25769ecfcdaad910f3ab826f5aed14be105cf3783dc21c29754",
+      "score": 0.0013258858816698194
+    },
+    {
+      "chunk_id": "b495bcc0de20c44e7f783eb05f7c9e8436fcb287cd92ef96f7f2202d1f8bb7fe",
+      "score": 0.0012737862998619676
+    },
+    {
+      "chunk_id": "9072f236c3fd3fc92e078de92eb45f2ba2e54901ae872d0f4480d5c78ab30cb0",
+      "score": 0.0012362294364720583
+    },
+    {
+      "chunk_id": "8f9be926cb104e29f69a4353dfdc984618854462b1d9ca8680a2739b9552a572",
+      "score": 0.001226685126312077
+    },
+    {
+      "chunk_id": "0811892190201c08e7e5949e585e5204603b984907757ef23fcf46947990420a",
+      "score": 0.0011301973136141896
+    },
+    {
+      "chunk_id": "8d2938089dc5710b5da3fad5e85c571c9e7053c956745935e77d9b90f9882c26",
+      "score": 0.0008868237491697073
+    },
+    {
+      "chunk_id": "6751797be89318ff2c1a30827799ba223ec6ada7ab2fdba8bc8aeb36fed442cb",
+      "score": 0.0008526259334757924
+    },
+    {
+      "chunk_id": "451c36b024e34516e8b5a2dc80baba51e7b9be0f8d5c2d0bfc8399203868ad01",
+      "score": 0.0008174505201168358
+    },
+    {
+      "chunk_id": "1c329e572fc9c196446419850a9aca3930ae3c3a9e3396287c8b77efd0496027",
+      "score": 0.0008165925974026322
+    },
+    {
+      "chunk_id": "8905547eb1eb40386131f9c1102234ba37cb4aa83efcd95304a6b0577ca680c1",
+      "score": 0.0007418805034831166
+    },
+    {
+      "chunk_id": "17dc70f197227279307607fc224052a7b9d1dcd6a0318b41e0340660c04f2a80",
+      "score": 0.0006900793523527682
+    },
+    {
+      "chunk_id": "c9ce7ca02dcd5c11c688ef136f3dcea42514d7569e07d8148cddf9248e719260",
+      "score": 0.0006525735952891409
+    },
+    {
+      "chunk_id": "d6e7814b4b7037bc6aea2b9d1be982c76c10716265a034574bf410d533b20c56",
+      "score": 0.0006278952932916582
+    },
+    {
+      "chunk_id": "4d35718736e098cb7f7e0441f150cbbb0ee14d9998df0c632247b1252239a6f6",
+      "score": 0.000619199825450778
+    },
+    {
+      "chunk_id": "a161096a243671ddcdbf9293979d6f5558593bed200cc5b05df0428b9f7c5ed8",
+      "score": 0.0006025574402883649
+    },
+    {
+      "chunk_id": "b107ef45076969e30470c4f78f2b3fc79fc8aa34ee25f2dcd1c4178f49851747",
+      "score": 0.00043672884930856526
+    },
+    {
+      "chunk_id": "46b350f7582f8e63627905d40cf91e1dfabe85698f8a44e87c96ac87f68a4853",
+      "score": 0.00040451233508065343
+    },
+    {
+      "chunk_id": "e218be82b73aa514135c435b7c92f3a6eff0f2e55e38d0cdea68d26b8ffbe909",
+      "score": 0.0003862461890093982
+    },
+    {
+      "chunk_id": "ba7e315624261276c26fa30139c6fb8c8a753801fe49ff2b0b8aa6478b4cc53b",
+      "score": 0.00037742324639111757
+    },
+    {
+      "chunk_id": "db5115b890503c2cb800a2448a6426c1ec74993db66895de8cd9b31a6faf74c5",
+      "score": 0.0001703211892163381
+    }
+  ],
+  "hyde_cache_sha256": "7edc85fa766fc308482d38c9aaf8dcc30a310ed1162185034ed5a6d4a789fd9a",
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 145397.45109999785,
+  "hash_configuracao": "9aad61ac5f0dae5eb7c982925e7ec899e11e2a094e70efdf6f0457e11bb10d90",
+  "embedding_corpus_recalculado": false
+}

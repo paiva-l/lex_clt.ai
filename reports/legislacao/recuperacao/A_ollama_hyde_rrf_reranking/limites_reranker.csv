@@ -1,0 +1,12 @@
+query_id,estrategia,pares,tokens_maximos,limite,pares_acima_limite
+q_dev_01,A_artigo,50,1476,8192,0
+q_dev_02,A_artigo,50,3299,8192,0
+q_dev_03,A_artigo,50,3040,8192,0
+q_dev_04,A_artigo,50,4750,8192,0
+q_dev_05,A_artigo,50,4749,8192,0
+q_dev_neg_01,A_artigo,50,3302,8192,0
+q_dev_neg_02,A_artigo,50,4426,8192,0
+q_dev_06,A_artigo,50,2788,8192,0
+q_dev_07,A_artigo,50,1473,8192,0
+q_dev_08,A_artigo,50,2794,8192,0
+q_dev_neg_03,A_artigo,50,4754,8192,0

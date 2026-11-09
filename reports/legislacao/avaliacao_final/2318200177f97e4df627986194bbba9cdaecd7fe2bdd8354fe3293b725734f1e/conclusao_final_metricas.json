@@ -1,0 +1,17 @@
+{
+  "configuracao_sha256": "2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e",
+  "respostas_originais_avaliadas": 9,
+  "aprovadas": 6,
+  "reprovadas": 3,
+  "proporcao_aprovada_pela_revisora": 0.6666666666666666,
+  "metricas_recuperacao": {
+    "hit": 1.0,
+    "recall": 1.0,
+    "mrr": 1.0,
+    "ndcg": 1.0,
+    "cobertura_evidencias": 1.0
+  },
+  "respostas_com_alerta_formal": 3,
+  "taxa_alucinacao": null,
+  "taxa_recusa_correta": null
+}

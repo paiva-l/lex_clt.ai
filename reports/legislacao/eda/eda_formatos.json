@@ -1,0 +1,27 @@
+[
+    {
+        "tipo_dispositivo":"Artigos com sufixos",
+        "padrao_regex_utilizado":"\\bArt\\.?\\s*\\d+[-–—][A-Za-z]+\\b",
+        "ocorrencias_totais":204
+    },
+    {
+        "tipo_dispositivo":"Parágrafo único",
+        "padrao_regex_utilizado":"Parágrafo\\s+único",
+        "ocorrencias_totais":1041
+    },
+    {
+        "tipo_dispositivo":"Parágrafos numerados",
+        "padrao_regex_utilizado":"§\\s*\\d+[º°]?",
+        "ocorrencias_totais":5706
+    },
+    {
+        "tipo_dispositivo":"Incisos (candidatos)",
+        "padrao_regex_utilizado":"^[ \\t]*(?:\\*\\*)?[IVXLCDM]+\\s*[-–—)]",
+        "ocorrencias_totais":4725
+    },
+    {
+        "tipo_dispositivo":"Alíneas (candidatas)",
+        "padrao_regex_utilizado":"^[ \\t]*(?:\\*\\*)?[a-z]\\)",
+        "ocorrencias_totais":1285
+    }
+]

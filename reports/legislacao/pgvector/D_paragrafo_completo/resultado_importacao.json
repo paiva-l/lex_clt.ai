@@ -1,0 +1,10 @@
+{
+  "status": "importado_e_verificado",
+  "dataset_id": "036e49f3a30a99ea706fce9be2f8301aabf5817c81e9f700535753b046657313",
+  "records_verified": 10971,
+  "dimensions": 1024,
+  "pgvector_version": "0.8.7",
+  "embeddings_recomputed": false,
+  "verification": "Todos os IDs, textos, metadados e vetores float32 conferidos após leitura do banco.",
+  "completed_at": "2026-11-06T17:54:50.696974+00:00"
+}

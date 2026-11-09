@@ -1,0 +1,322 @@
+[
+  {
+    "caso":"curto",
+    "artigo_id":"4db32d8a1e3180f71dc1f089b0a475c7ccda41ef9226421f56d9fbbea165a101",
+    "estrategia":"A_artigo",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"76da24f120730a7327258788acecccbe71d7d2499681b2d17f655bec9ff170f0",
+    "conteudo_chunk":"[leis\/2022\/lei-14442-2022.md | Art. 7º]\n## Art. 7º\n\n(VETADO).\n\n",
+    "tokens_reais_total":33
+  },
+  {
+    "caso":"curto",
+    "artigo_id":"4db32d8a1e3180f71dc1f089b0a475c7ccda41ef9226421f56d9fbbea165a101",
+    "estrategia":"B_subdispositivo",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"26acbe218f7263e3ac291cb9d97b36e55b2bb11258e80e2e789c613f2bb6c9e6",
+    "conteudo_chunk":"[leis\/2022\/lei-14442-2022.md | Art. 7º]\n## Art. 7º\n\n(VETADO).\n\n",
+    "tokens_reais_total":33
+  },
+  {
+    "caso":"curto",
+    "artigo_id":"4db32d8a1e3180f71dc1f089b0a475c7ccda41ef9226421f56d9fbbea165a101",
+    "estrategia":"C_tokens_300_overlap_50",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"90f1692bb30b504cb9668e74ba105a70d9d92ace8959ea0343be357311f058cf",
+    "conteudo_chunk":"[leis\/2022\/lei-14442-2022.md | Art. 7º]\n## Art. 7º\n\n(VETADO).\n\n",
+    "tokens_reais_total":33
+  },
+  {
+    "caso":"curto",
+    "artigo_id":"4db32d8a1e3180f71dc1f089b0a475c7ccda41ef9226421f56d9fbbea165a101",
+    "estrategia":"C_tokens_500_overlap_75",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"e84aee40d8de9a2e6eb45933056d736942396b525dda7f5c36e9cc04ca126c45",
+    "conteudo_chunk":"[leis\/2022\/lei-14442-2022.md | Art. 7º]\n## Art. 7º\n\n(VETADO).\n\n",
+    "tokens_reais_total":33
+  },
+  {
+    "caso":"curto",
+    "artigo_id":"4db32d8a1e3180f71dc1f089b0a475c7ccda41ef9226421f56d9fbbea165a101",
+    "estrategia":"D_paragrafo_completo",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"7d3c45122076f6f0404728ee0dc96357dedea33f9a8c7fe6c037e17b95e6792d",
+    "conteudo_chunk":"[leis\/2022\/lei-14442-2022.md | Art. 7º]\n## Art. 7º\n\n(VETADO).\n\n",
+    "tokens_reais_total":33
+  },
+  {
+    "caso":"mediano",
+    "artigo_id":"7a4962091aa25023425921a59fc32f99716caeaf1f53df90fad7db8e2050c88d",
+    "estrategia":"A_artigo",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"dbc055d6e369e6623be406f1d55de61ffdc636d74b9f8b443ab0c80455b2b7c0",
+    "conteudo_chunk":"[codigos\/codigo-civil-lei-10406-2002.md | PARTE ESPECIAL > LIVRO V — Do Direito das Sucessões > TÍTULO IV — Do Inventário e da Partilha > CAPÍTULO IV — Da Colação > Art. 2.010]\n**Art. 2.010.** Não virão à colação os gastos ordinários do ascendente com o descendente, enquanto menor, na sua educação, estudos, sustento, vestuário, tratamento nas enfermidades, enxoval, assim como as despesas de casamento, ou as feitas no interesse de sua defesa em processo-crime.\n\n",
+    "tokens_reais_total":148
+  },
+  {
+    "caso":"mediano",
+    "artigo_id":"7a4962091aa25023425921a59fc32f99716caeaf1f53df90fad7db8e2050c88d",
+    "estrategia":"B_subdispositivo",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"aacbc50efbeca65b862ebe25ba4f513c7ef91ff6286346f69d8e961580039480",
+    "conteudo_chunk":"[codigos\/codigo-civil-lei-10406-2002.md | PARTE ESPECIAL > LIVRO V — Do Direito das Sucessões > TÍTULO IV — Do Inventário e da Partilha > CAPÍTULO IV — Da Colação > Art. 2.010]\n**Art. 2.010.** Não virão à colação os gastos ordinários do ascendente com o descendente, enquanto menor, na sua educação, estudos, sustento, vestuário, tratamento nas enfermidades, enxoval, assim como as despesas de casamento, ou as feitas no interesse de sua defesa em processo-crime.\n\n",
+    "tokens_reais_total":148
+  },
+  {
+    "caso":"mediano",
+    "artigo_id":"7a4962091aa25023425921a59fc32f99716caeaf1f53df90fad7db8e2050c88d",
+    "estrategia":"C_tokens_300_overlap_50",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"3b95527485642ecafef1748c97e85c7ca2441a3d39c297ad2aad66eff3c5dcee",
+    "conteudo_chunk":"[codigos\/codigo-civil-lei-10406-2002.md | PARTE ESPECIAL > LIVRO V — Do Direito das Sucessões > TÍTULO IV — Do Inventário e da Partilha > CAPÍTULO IV — Da Colação > Art. 2.010]\n**Art. 2.010.** Não virão à colação os gastos ordinários do ascendente com o descendente, enquanto menor, na sua educação, estudos, sustento, vestuário, tratamento nas enfermidades, enxoval, assim como as despesas de casamento, ou as feitas no interesse de sua defesa em processo-crime.\n\n",
+    "tokens_reais_total":148
+  },
+  {
+    "caso":"mediano",
+    "artigo_id":"7a4962091aa25023425921a59fc32f99716caeaf1f53df90fad7db8e2050c88d",
+    "estrategia":"C_tokens_500_overlap_75",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"5c91208f00de4f65652ca82327ab47a145a6aa82d74d5ce383ff34248e5cabb4",
+    "conteudo_chunk":"[codigos\/codigo-civil-lei-10406-2002.md | PARTE ESPECIAL > LIVRO V — Do Direito das Sucessões > TÍTULO IV — Do Inventário e da Partilha > CAPÍTULO IV — Da Colação > Art. 2.010]\n**Art. 2.010.** Não virão à colação os gastos ordinários do ascendente com o descendente, enquanto menor, na sua educação, estudos, sustento, vestuário, tratamento nas enfermidades, enxoval, assim como as despesas de casamento, ou as feitas no interesse de sua defesa em processo-crime.\n\n",
+    "tokens_reais_total":148
+  },
+  {
+    "caso":"mediano",
+    "artigo_id":"7a4962091aa25023425921a59fc32f99716caeaf1f53df90fad7db8e2050c88d",
+    "estrategia":"D_paragrafo_completo",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"3ed235129c63b64179056f49c7f75458114f26dfda5f849d496392e78b43bc33",
+    "conteudo_chunk":"[codigos\/codigo-civil-lei-10406-2002.md | PARTE ESPECIAL > LIVRO V — Do Direito das Sucessões > TÍTULO IV — Do Inventário e da Partilha > CAPÍTULO IV — Da Colação > Art. 2.010]\n**Art. 2.010.** Não virão à colação os gastos ordinários do ascendente com o descendente, enquanto menor, na sua educação, estudos, sustento, vestuário, tratamento nas enfermidades, enxoval, assim como as despesas de casamento, ou as feitas no interesse de sua defesa em processo-crime.\n\n",
+    "tokens_reais_total":148
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"A_artigo",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"f227ce1909e9eef53968b9e7cddda5d7ced709dc98fdd3e0b4be0bdfb55e9dbe",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100]\n###### Art. 100.\n\nOs pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim. (Redação dada pela Emenda Constitucional nº 62, de 2009). (Vide Emenda Constitucional nº 62, de 2009) (Vide ADI 4425)\n\n§ 1º Os débitos de natureza alimentícia compreendem aqueles decorrentes da relação laboral ou previdenciária, independentemente da sua natureza tributária, inclusive os oriundos de repetição de indébito incidente sobre remuneração ou proventos de aposentadoria, bem como indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § 2º deste artigo. (Redação dada pela Emenda Constitucional nº 136, de 2025)\n\n§ 2º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão hereditária, tenham 60 (sessenta) anos de idade, ou sejam portadores de doença grave, ou pessoas com deficiência, assim definidos na forma da lei, serão pagos com preferência sobre todos os demais débitos, até o valor equivalente ao triplo fixado em lei para os fins do disposto no § 3º deste artigo, admitido o fracionamento para essa finalidade, sendo que o restante será pago na ordem cronológica de apresentação do precatório. (Redação dada pela Emenda Constitucional nº 94, de 2016)\n\n§ 3º O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas referidas devam fazer em virtude de sentença judicial transitada em julgado. (Redação dada pela Emenda Constitucional nº 62, de 2009).\n\n§ 4º Para os fins do disposto no § 3º, poderão ser fixados, por leis próprias, valores distintos às entidades de direito público, segundo as diferentes capacidades econômicas, sendo o mínimo igual ao valor do maior benefício do regime geral de previdência social. (Redação dada pela Emenda Constitucional nº 62, de 2009).\n\n§ 5º É obrigatória a inclusão no orçamento das entidades de direito público de verba necessária ao pagamento de seus débitos oriundos de sentenças transitadas em julgado constantes de precatórios judiciários apresentados até 1º de fevereiro, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente. (Redação dada pela Emenda Constitucional nº 136, de 2025)\n\n§ 6º As dotações orçamentárias e os créditos abertos serão consignados diretamente ao Poder Judiciário, cabendo ao Presidente do Tribunal que proferir a decisão exequenda determinar o pagamento integral e autorizar, a requerimento do credor e exclusivamente para os casos de preterimento de seu direito de precedência ou de não alocação orçamentária do valor necessário à satisfação do seu débito, o sequestro da quantia respectiva. (Redação dada pela Emenda Constitucional nº 62, de 2009).\n\n§ 7º O Presidente do Tribunal competente que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatórios incorrerá em crime de responsabilidade e responderá, também, perante o Conselho Nacional de Justiça. (Incluído pela Emenda Constitucional nº 62, de 2009).\n\n§ 8º É vedada a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra do valor da execução para fins de enquadramento de parcela do total ao que dispõe o § 3º deste artigo. (Incluído pela Emenda Constitucional nº 62, de 2009).\n\n§ 9º Sem que haja interrupção no pagamento do precatório e mediante comunicação da Fazenda Pública ao Tribunal, o valor correspondente aos eventuais débitos inscritos em dívida ativa contra o credor do requisitório e seus substituídos deverá ser depositado à conta do juízo responsável pela ação de cobrança, que decidirá pelo seu destino definitivo. (Redação dada pela Emenda Constitucional nº 113, de 2021) (Vide ADI 7047) (Vide ADI 7064)\n\n§ 10. Antes da expedição dos precatórios, o Tribunal solicitará à Fazenda Pública devedora, para resposta em até 30 (trinta) dias, sob pena de perda do direito de abatimento, informação sobre os débitos que preencham as condições estabelecidas no § 9º, para os fins nele previstos. (Incluído pela Emenda Constitucional nº 62, de 2009). (Vide ADI 4425)\n\n§ 11. É facultada ao credor, conforme estabelecido em lei do ente federativo devedor, , a oferta de créditos líquidos e certos que originalmente lhe são próprios ou adquiridos de terceiros reconhecidos pelo ente federativo ou por decisão judicial transitada em julgado para: (Redação dada pela Emenda Constitucional nº 113, de 2021) (Vide ADI 7047) (Vide ADI 7064)\n\nI - quitação de débitos parcelados ou débitos inscritos em dívida ativa do ente federativo devedor, inclusive em transação resolutiva de litígio, e, subsidiariamente, débitos com a administração autárquica e fundacional do mesmo ente; (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nII - compra de imóveis públicos de propriedade do mesmo ente disponibilizados para venda; (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nIII - pagamento de outorga de delegações de serviços públicos e demais espécies de concessão negocial promovidas pelo mesmo ente; (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nIV - aquisição, inclusive minoritária, de participação societária, disponibilizada para venda, do respectivo ente federativo; ou (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nV - compra de direitos, disponibilizados para cessão, do respectivo ente federativo, inclusive, no caso da União, da antecipação de valores a serem recebidos a título do excedente em óleo em contratos de partilha de petróleo. (Incluído pela Emenda Constitucional nº 113, de 2021)\n\n§ 12. A partir da promulgação desta Emenda Constitucional, a atualização de valores de requisitórios, após sua expedição, até o efetivo pagamento, independentemente de sua natureza, será feita pelo índice oficial de remuneração básica da caderneta de poupança, e, para fins de compensação da mora, incidirão juros simples no mesmo percentual de juros incidentes sobre a caderneta de poupança, ficando excluída a incidência de juros compensatórios. (Incluído pela Emenda Constitucional nº 62, de 2009). (Vide ADI 4425)\n\n§ 13. O credor poderá ceder, total ou parcialmente, seus créditos em precatórios a terceiros, independentemente da concordância do devedor, não se aplicando ao cessionário o disposto nos §§ 2º e 3º. (Incluído pela Emenda Constitucional nº 62, de 2009).\n\n§ 14. A cessão de precatórios, observado o disposto no § 9º deste artigo, somente produzirá efeitos após comunicação, por meio de petição protocolizada, ao Tribunal de origem e ao ente federativo devedor. (Redação dada pela Emenda Constitucional nº 113, de 2021)\n\n§ 15. Sem prejuízo do disposto neste artigo, lei complementar a esta Constituição Federal poderá estabelecer regime especial para pagamento de crédito de precatórios de Estados, Distrito Federal e Municípios, dispondo sobre vinculações à receita corrente líquida e forma e prazo de liquidação. (Incluído pela Emenda Constitucional nº 62, de 2009).\n\n§ 16. A seu critério exclusivo e na forma de lei, a União poderá assumir débitos, oriundos de precatórios, de Estados, Distrito Federal e Municípios, refinanciando-os diretamente. (Incluído pela Emenda Constitucional nº 62, de 2009)\n\n§ 17. A União, os Estados, o Distrito Federal e os Municípios aferirão mensalmente, em base anual, o comprometimento de suas respectivas receitas correntes líquidas com o pagamento de precatórios e obrigações de pequeno valor. (Incluído pela Emenda Constitucional nº 94, de 2016)\n\n§ 18. Entende-se como receita corrente líquida, para os fins de que trata o § 17, o somatório das receitas tributárias, patrimoniais, industriais, agropecuárias, de contribuições e de serviços, de transferências correntes e outras receitas correntes, incluindo as oriundas do § 1º do art. 20 da Constituição Federal, verificado no período compreendido pelo segundo mês imediatamente anterior ao de referência e os 11 (onze) meses precedentes, excluídas as duplicidades, e deduzidas: (Incluído pela Emenda Constitucional nº 94, de 2016)\n\nI - na União, as parcelas entregues aos Estados, ao Distrito Federal e aos Municípios por determinação constitucional; (Incluído pela Emenda Constitucional nº 94, de 2016)\n\nII - nos Estados, as parcelas entregues aos Municípios por determinação constitucional; (Incluído pela Emenda Constitucional nº 94, de 2016)\n\nIII - na União, nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio de seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no § 9º do art. 201 da Constituição Federal. (Incluído pela Emenda Constitucional nº 94, de 2016)\n\n§ 19. Caso o montante total de débitos decorrentes de condenações judiciais em precatórios e obrigações de pequeno valor, em período de 12 (doze) meses, ultrapasse a média do comprometimento percentual da receita corrente líquida nos 5 (cinco) anos imediatamente anteriores, a parcela que exceder esse percentual poderá ser financiada, excetuada dos limites de endividamento de que tratam os incisos VI e VII do art. 52 da Constituição Federal e de quaisquer outros limites de endividamento previstos, não se aplicando a esse financiamento a vedação de vinculação de receita prevista no inciso IV do art. 167 da Constituição Federal. (Incluído pela Emenda Constitucional nº 94, de 2016)\n\n§ 19-A. A União fica autorizada a instituir linha de crédito especial, por intermédio de instituições financeiras estatais federais, destinada exclusivamente à quitação dos precatórios referidos no § 19 deste artigo, nos termos de lei complementar. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 20. Caso haja precatório com valor superior a 15% (quinze por cento) do montante dos precatórios apresentados nos termos do § 5º deste artigo, 15% (quinze por cento) do valor deste precatório serão pagos até o final do exercício seguinte e o restante em parcelas iguais nos cinco exercícios subsequentes, acrescidas de juros de mora e correção monetária, ou mediante acordos diretos, perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado. (Incluído pela Emenda Constitucional nº 94, de 2016)\n\n§ 21. Ficam a União e os demais entes federativos, nos montantes que lhes são próprios, desde que aceito por ambas as partes, autorizados a utilizar valores objeto de sentenças transitadas em julgado devidos a pessoa jurídica de direito público para amortizar dívidas, vencidas ou vincendas: (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nI - nos contratos de refinanciamento cujos créditos sejam detidos pelo ente federativo que figure como devedor na sentença de que trata o caput deste artigo; (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nII - nos contratos em que houve prestação de garantia a outro ente federativo; (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nIII - nos parcelamentos de tributos ou de contribuições sociais; e (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nIV - nas obrigações decorrentes do descumprimento de prestação de contas ou de desvio de recursos. (Incluído pela Emenda Constitucional nº 113, de 2021)\n\n§ 22. A amortização de que trata o § 21 deste artigo: (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nI - nas obrigações vencidas, será imputada primeiramente às parcelas mais antigas; (Incluído pela Emenda Constitucional nº 113, de 2021)\n\nII - nas obrigações vincendas, reduzirá uniformemente o valor de cada parcela devida, mantida a duração original do respectivo contrato ou parcelamento. (Incluído pela Emenda Constitucional nº 113, de 2021)\n\n§ 23. Os pagamentos de precatórios pelos Estados, pelo Distrito Federal e pelos Municípios, relativos às suas administrações diretas e indiretas, estão limitados, observado o disposto nos §§ 24, 25, 26 e 28 deste artigo, a: (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nI - 1% (um por cento) da receita corrente líquida apurada no exercício financeiro anterior, para os entes federativos que não possuam estoque e para os entes federativos cujo estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, não superar 15% (quinze por cento) desse valor; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nII - 1,5% (um inteiro e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 15% (quinze por cento) e inferior ou igual a 25% (vinte e cinco por cento) desse valor; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nIII - 2% (dois por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 25% (vinte e cinco por cento) e inferior ou igual a 35% (trinta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nIV - 2,5% (dois inteiros e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 35% (trinta e cinco por cento) e inferior ou igual a 45% (quarenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nV - 3% (três por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 45% (quarenta e cinco por cento) e inferior ou igual a 55% (cinquenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nVI - 3,5% (três inteiros e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 55% (cinquenta e cinco por cento) e inferior ou igual a 65% (sessenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nVII - 4% (quatro por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 65% (sessenta e cinco por cento) e inferior ou igual a 75% (setenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nVIII - 4,5% (quatro inteiros e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 75% (setenta e cinco por cento) e inferior ou igual a 85% (oitenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nIX - 5% (cinco por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 85% (oitenta e cinco por cento) desse valor. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 24. Os limites percentuais fixados nos incisos I a IX do § 23 deste artigo deverão ser majorados, de forma fixa para o decênio seguinte, em 0,5 (cinco décimos) ponto percentual sobre a receita corrente líquida apurada no exercício financeiro imediatamente anterior, a partir de 1º de janeiro de 2036, e a cada período subsequente de 10 (dez) anos, caso seja verificada a existência de estoque de precatórios em mora. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 25. Toda medida efetiva de redução de estoque de precatórios promovida pelos Estados, pelo Distrito Federal e pelos Municípios deverá ser contabilizada para fins de apuração do cumprimento do respectivo plano anual de pagamento de precatórios. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 26. Os pagamentos de precatórios realizados nos termos dos §§ 11 e 21 deste artigo não são considerados para aplicação dos limites de que trata o § 23 deste artigo. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 27. Se os recursos destinados aos pagamentos de precatórios dos Estados, do Distrito Federal e dos Municípios, observados os limites do § 23 deste artigo, não forem tempestivamente liberados, no todo ou em parte: (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nI - os limites de que trata o § 23 deste artigo serão suspensos; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nII - o Presidente do Tribunal de Justiça local determinará o sequestro, até o limite do valor devido, das contas municipais, estaduais ou distrital do ente federativo inadimplente para fins de pagamento de precatórios; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nIII - o Governador do Estado ou do Distrito Federal ou o Prefeito do Município inadimplente responderá na forma da legislação de responsabilidade fiscal e de improbidade administrativa; (Incluído pela Emenda Constitucional nº 136, de 2025)\n\nIV - o Estado, o Distrito Federal ou o Município ficará impedido de receber transferências voluntárias, enquanto perdurar a omissão. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 28. Os Estados, o Distrito Federal e os Municípios, mediante dotação orçamentária específica, poderão efetuar pagamentos de precatórios que superem os limites previstos no § 23 deste artigo. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 29. É facultado ao credor de precatório dos Estados, do Distrito Federal e dos Municípios que não tenha sido pago em razão do disposto nos §§ 20 ou 23 deste artigo, sem prejuízo dos procedimentos previstos nos §§ 9º e 21 deste artigo, optar pelo recebimento, mediante acordos diretos perante Juízos Auxiliares de Conciliação de Pagamento de Condenações Judiciais contra a Fazenda Pública estadual, municipal ou do Distrito Federal, em parcela única, até o final do exercício seguinte, com renúncia de parcela do valor desse crédito. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 30. Os valores efetivamente aportados pelos entes federativos nas contas especiais do Poder Judiciário destinadas ao pagamento de precatórios deverão ser imediatamente excluídos do estoque da dívida para fins de apuração do saldo devedor, vedada a incidência de juros, de correção monetária ou de quaisquer acréscimos legais sobre esses valores após sua transferência. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n",
+    "tokens_reais_total":5941
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"B_subdispositivo",
+    "total_chunks_artigo":59,
+    "parte":0,
+    "chunk_id":"637902accf9b659ae4565b2877431e4c193247c5c0cfaa24ed3bef1facea65d0",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100]\n###### Art. 100.\n\nOs pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim. (Redação dada pela Emenda Constitucional nº 62, de 2009). (Vide Emenda Constitucional nº 62, de 2009) (Vide ADI 4425)\n\n",
+    "tokens_reais_total":218
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"B_subdispositivo",
+    "total_chunks_artigo":59,
+    "parte":1,
+    "chunk_id":"e6d225c95be2ba33d862110faf08dc09c72079ae847bc307850f1db97299b101",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100 > § 1º]\n§ 1º Os débitos de natureza alimentícia compreendem aqueles decorrentes da relação laboral ou previdenciária, independentemente da sua natureza tributária, inclusive os oriundos de repetição de indébito incidente sobre remuneração ou proventos de aposentadoria, bem como indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § 2º deste artigo. (Redação dada pela Emenda Constitucional nº 136, de 2025)\n\n",
+    "tokens_reais_total":230
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"B_subdispositivo",
+    "total_chunks_artigo":59,
+    "parte":58,
+    "chunk_id":"8a88acef9f84af3212badce261e948b1950ea5236fb98bb41504d044c0e15141",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100 > § 30]\n§ 30. Os valores efetivamente aportados pelos entes federativos nas contas especiais do Poder Judiciário destinadas ao pagamento de precatórios deverão ser imediatamente excluídos do estoque da dívida para fins de apuração do saldo devedor, vedada a incidência de juros, de correção monetária ou de quaisquer acréscimos legais sobre esses valores após sua transferência. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n",
+    "tokens_reais_total":191
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"C_tokens_300_overlap_50",
+    "total_chunks_artigo":24,
+    "parte":0,
+    "chunk_id":"6005fdeb11ac396aab1a22a0b39bf6f61fc49fa1a93764c6643a3d88a8227502",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100]\n###### Art. 100.\n\nOs pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim. (Redação dada pela Emenda Constitucional nº 62, de 2009). (Vide Emenda Constitucional nº 62, de 2009) (Vide ADI 4425)\n\n§ 1º Os débitos de natureza alimentícia compreendem aqueles decorrentes da relação laboral ou previdenciária, independentemente da sua natureza tributária, inclusive os oriundos de repetição de indébito incidente sobre remuneração ou proventos de aposentadoria, bem como indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § 2º deste artigo. (Redação dada pela Emenda Constituc",
+    "tokens_reais_total":366
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"C_tokens_300_overlap_50",
+    "total_chunks_artigo":24,
+    "parte":1,
+    "chunk_id":"77bb6baacf12cb32d659f33c5fe976e0d022b4089b598b1db7dcdc736c74c94c",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100]\nença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § 2º deste artigo. (Redação dada pela Emenda Constitucional nº 136, de 2025)\n\n§ 2º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão hereditária, tenham 60 (sessenta) anos de idade, ou sejam portadores de doença grave, ou pessoas com deficiência, assim definidos na forma da lei, serão pagos com preferência sobre todos os demais débitos, até o valor equivalente ao triplo fixado em lei para os fins do disposto no § 3º deste artigo, admitido o fracionamento para essa finalidade, sendo que o restante será pago na ordem cronológica de apresentação do precatório. (Redação dada pela Emenda Constitucional nº 94, de 2016)\n\n§ 3º O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas referidas devam fazer em virtude de sentença judicial transitada em julgado. (Redação dada pela Emenda Constit",
+    "tokens_reais_total":366
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"C_tokens_300_overlap_50",
+    "total_chunks_artigo":24,
+    "parte":23,
+    "chunk_id":"c9158154fb9ed18a793aaf267eec0b8b78b664ac50fa0654b4ef0f0ed49010ae",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100]\n 2025)\n\n§ 30. Os valores efetivamente aportados pelos entes federativos nas contas especiais do Poder Judiciário destinadas ao pagamento de precatórios deverão ser imediatamente excluídos do estoque da dívida para fins de apuração do saldo devedor, vedada a incidência de juros, de correção monetária ou de quaisquer acréscimos legais sobre esses valores após sua transferência. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n",
+    "tokens_reais_total":191
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"C_tokens_500_overlap_75",
+    "total_chunks_artigo":14,
+    "parte":0,
+    "chunk_id":"4e7d4ae524c83aec06408cdc50aa7ee690b89818cff3bf706276dd255cad0e26",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100]\n###### Art. 100.\n\nOs pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim. (Redação dada pela Emenda Constitucional nº 62, de 2009). (Vide Emenda Constitucional nº 62, de 2009) (Vide ADI 4425)\n\n§ 1º Os débitos de natureza alimentícia compreendem aqueles decorrentes da relação laboral ou previdenciária, independentemente da sua natureza tributária, inclusive os oriundos de repetição de indébito incidente sobre remuneração ou proventos de aposentadoria, bem como indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § 2º deste artigo. (Redação dada pela Emenda Constitucional nº 136, de 2025)\n\n§ 2º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão hereditária, tenham 60 (sessenta) anos de idade, ou sejam portadores de doença grave, ou pessoas com deficiência, assim definidos na forma da lei, serão pagos com preferência sobre todos os demais débitos, até o valor equivalente ao triplo fixado em lei para os fins do disposto no § 3º deste artigo, admitido o fracionamento para essa finalidade, sendo que o restante será pago na ordem cronológica de apresentação do precatório. (Redação dada pela Emenda Constitucional nº 94, de 2016)\n\n§ 3º O disposto no caput deste artigo relativamente à expedição de precatórios não se ap",
+    "tokens_reais_total":566
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"C_tokens_500_overlap_75",
+    "total_chunks_artigo":14,
+    "parte":1,
+    "chunk_id":"da9a97cbdecfe62894dfec881453b8583cf903fbb566af78a71d6d6702a22ea1",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100]\n para essa finalidade, sendo que o restante será pago na ordem cronológica de apresentação do precatório. (Redação dada pela Emenda Constitucional nº 94, de 2016)\n\n§ 3º O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas referidas devam fazer em virtude de sentença judicial transitada em julgado. (Redação dada pela Emenda Constitucional nº 62, de 2009).\n\n§ 4º Para os fins do disposto no § 3º, poderão ser fixados, por leis próprias, valores distintos às entidades de direito público, segundo as diferentes capacidades econômicas, sendo o mínimo igual ao valor do maior benefício do regime geral de previdência social. (Redação dada pela Emenda Constitucional nº 62, de 2009).\n\n§ 5º É obrigatória a inclusão no orçamento das entidades de direito público de verba necessária ao pagamento de seus débitos oriundos de sentenças transitadas em julgado constantes de precatórios judiciários apresentados até 1º de fevereiro, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente. (Redação dada pela Emenda Constitucional nº 136, de 2025)\n\n§ 6º As dotações orçamentárias e os créditos abertos serão consignados diretamente ao Poder Judiciário, cabendo ao Presidente do Tribunal que proferir a decisão exequenda determinar o pagamento integral e autorizar, a requerimento do credor e exclusivamente para os casos de preterimento de seu direito de precedência ou de não alocação orçamentária do valor necessário à satisfação do seu débito, o sequestro da quantia respectiva. (Redação dada pela Emenda Constitucional nº 62, de 2009).\n\n§ 7º O Presidente do Tribunal competente que, por ato comissivo ou omissivo, retardar ou",
+    "tokens_reais_total":566
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"C_tokens_500_overlap_75",
+    "total_chunks_artigo":14,
+    "parte":13,
+    "chunk_id":"d93e0b65c9dfa3203433df64541478d2d915e3554ad8df7929f81b73c4e4d58b",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100]\nária específica, poderão efetuar pagamentos de precatórios que superem os limites previstos no § 23 deste artigo. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 29. É facultado ao credor de precatório dos Estados, do Distrito Federal e dos Municípios que não tenha sido pago em razão do disposto nos §§ 20 ou 23 deste artigo, sem prejuízo dos procedimentos previstos nos §§ 9º e 21 deste artigo, optar pelo recebimento, mediante acordos diretos perante Juízos Auxiliares de Conciliação de Pagamento de Condenações Judiciais contra a Fazenda Pública estadual, municipal ou do Distrito Federal, em parcela única, até o final do exercício seguinte, com renúncia de parcela do valor desse crédito. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n§ 30. Os valores efetivamente aportados pelos entes federativos nas contas especiais do Poder Judiciário destinadas ao pagamento de precatórios deverão ser imediatamente excluídos do estoque da dívida para fins de apuração do saldo devedor, vedada a incidência de juros, de correção monetária ou de quaisquer acréscimos legais sobre esses valores após sua transferência. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n",
+    "tokens_reais_total":416
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"D_paragrafo_completo",
+    "total_chunks_artigo":32,
+    "parte":0,
+    "chunk_id":"d1b9a74d3105623e23ee4a63a55c3b9c4362c31faa0ea30f9e5b116163dd24c0",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100]\n###### Art. 100.\n\nOs pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim. (Redação dada pela Emenda Constitucional nº 62, de 2009). (Vide Emenda Constitucional nº 62, de 2009) (Vide ADI 4425)\n\n",
+    "tokens_reais_total":218
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"D_paragrafo_completo",
+    "total_chunks_artigo":32,
+    "parte":1,
+    "chunk_id":"857a76c5f02bf2a791d8149ef2f725bbca5003e2356fbc291ae529c2c8e87a05",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100 > § 1º]\n§ 1º Os débitos de natureza alimentícia compreendem aqueles decorrentes da relação laboral ou previdenciária, independentemente da sua natureza tributária, inclusive os oriundos de repetição de indébito incidente sobre remuneração ou proventos de aposentadoria, bem como indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § 2º deste artigo. (Redação dada pela Emenda Constitucional nº 136, de 2025)\n\n",
+    "tokens_reais_total":230
+  },
+  {
+    "caso":"longo",
+    "artigo_id":"58c5d25384515a2b47743661d9954862fb44e6f0005a87d11fcbf4d917741122",
+    "estrategia":"D_paragrafo_completo",
+    "total_chunks_artigo":32,
+    "parte":31,
+    "chunk_id":"422dd65d1175440f8ddde60c7d86d1b4512619077bf4f1b626593b5676cf6e8b",
+    "conteudo_chunk":"[constituicao\/constituicao-1988.md | TÍTULO IV — DA ORGANIZAÇÃO DOS PODERES > CAPÍTULO III — DO PODER JUDICIÁRIO > Seção I — DISPOSIÇÕES GERAIS > Art. 100 > § 30]\n§ 30. Os valores efetivamente aportados pelos entes federativos nas contas especiais do Poder Judiciário destinadas ao pagamento de precatórios deverão ser imediatamente excluídos do estoque da dívida para fins de apuração do saldo devedor, vedada a incidência de juros, de correção monetária ou de quaisquer acréscimos legais sobre esses valores após sua transferência. (Incluído pela Emenda Constitucional nº 136, de 2025)\n\n",
+    "tokens_reais_total":191
+  },
+  {
+    "caso":"com_alerta",
+    "artigo_id":"73ad9868906b6cdd7753c58e7ade323e6c942bb2222130e359e72b48feb90f5d",
+    "estrategia":"A_artigo",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"3def3d96999bd243df66ff1ae2613b9b50807b8f80cb942c1865cb95a300ea82",
+    "conteudo_chunk":"[leis\/1974\/lei-6019-1974.md | Art. 6º]\n## Art. 6º\n\nSão requisitos para funcionamento e registro da empresa de trabalho temporário no Ministério do Trabalho: (Redação dada pela Lei nº 13.429, de 2017)\n\na) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nb) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nc) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nd) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\ne) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nf) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nI - prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ), do Ministério da Fazenda; (Incluído pela Lei nº 13.429, de 2017)\n\nII - prova do competente registro na Junta Comercial da localidade em que tenha sede; (Incluído pela Lei nº 13.429, de 2017)\n\nIII - prova de possuir capital social de, no mínimo, R$ 100.000,00 (cem mil reais). (Incluído pela Lei nº 13.429, de 2017)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 13.429, de 2017)\n\n",
+    "tokens_reais_total":393
+  },
+  {
+    "caso":"com_alerta",
+    "artigo_id":"73ad9868906b6cdd7753c58e7ade323e6c942bb2222130e359e72b48feb90f5d",
+    "estrategia":"B_subdispositivo",
+    "total_chunks_artigo":11,
+    "parte":0,
+    "chunk_id":"cabdf37bdce234a516aa0e6ad7294528a7da436eb12fa15dc758b4ed3d5dc349",
+    "conteudo_chunk":"[leis\/1974\/lei-6019-1974.md | Art. 6º]\n## Art. 6º\n\nSão requisitos para funcionamento e registro da empresa de trabalho temporário no Ministério do Trabalho: (Redação dada pela Lei nº 13.429, de 2017)\n\n",
+    "tokens_reais_total":72
+  },
+  {
+    "caso":"com_alerta",
+    "artigo_id":"73ad9868906b6cdd7753c58e7ade323e6c942bb2222130e359e72b48feb90f5d",
+    "estrategia":"B_subdispositivo",
+    "total_chunks_artigo":11,
+    "parte":1,
+    "chunk_id":"008aac250751f57ec63266b9466f2fa6eff256bc690f78b8c3160ca928e3278f",
+    "conteudo_chunk":"[leis\/1974\/lei-6019-1974.md | Art. 6º > a]\na) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\n",
+    "tokens_reais_total":50
+  },
+  {
+    "caso":"com_alerta",
+    "artigo_id":"73ad9868906b6cdd7753c58e7ade323e6c942bb2222130e359e72b48feb90f5d",
+    "estrategia":"B_subdispositivo",
+    "total_chunks_artigo":11,
+    "parte":10,
+    "chunk_id":"4944bb5b4b0b68a99612c0c4312bc267a3b039a490484b71f9ba8fb1802e643b",
+    "conteudo_chunk":"[leis\/1974\/lei-6019-1974.md | Art. 6º > Parágrafo único]\nParágrafo único. (Revogado). (Redação dada pela Lei nº 13.429, de 2017)\n\n",
+    "tokens_reais_total":58
+  },
+  {
+    "caso":"com_alerta",
+    "artigo_id":"73ad9868906b6cdd7753c58e7ade323e6c942bb2222130e359e72b48feb90f5d",
+    "estrategia":"C_tokens_300_overlap_50",
+    "total_chunks_artigo":2,
+    "parte":0,
+    "chunk_id":"e71751acd9120288eb4c29fef51abc7ae01a54acc7b3bb84826ee4e112d63e07",
+    "conteudo_chunk":"[leis\/1974\/lei-6019-1974.md | Art. 6º]\n## Art. 6º\n\nSão requisitos para funcionamento e registro da empresa de trabalho temporário no Ministério do Trabalho: (Redação dada pela Lei nº 13.429, de 2017)\n\na) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nb) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nc) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nd) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\ne) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nf) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nI - prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ), do Ministério da Fazenda; (Incluído pela Lei nº 13.429, de 2017)\n\nII - prova do competente registro na Junta Comercial da localidade em que tenha sede; (Incluído pela Lei nº 13.429, de 2017)\n\nIII - prova de poss",
+    "tokens_reais_total":322
+  },
+  {
+    "caso":"com_alerta",
+    "artigo_id":"73ad9868906b6cdd7753c58e7ade323e6c942bb2222130e359e72b48feb90f5d",
+    "estrategia":"C_tokens_300_overlap_50",
+    "total_chunks_artigo":2,
+    "parte":1,
+    "chunk_id":"1787eef3feae7a2192ff364e9b4645e479228d6df7dd5e7478d3b2e50d2b2fa8",
+    "conteudo_chunk":"[leis\/1974\/lei-6019-1974.md | Art. 6º]\n de 2017)\n\nII - prova do competente registro na Junta Comercial da localidade em que tenha sede; (Incluído pela Lei nº 13.429, de 2017)\n\nIII - prova de possuir capital social de, no mínimo, R$ 100.000,00 (cem mil reais). (Incluído pela Lei nº 13.429, de 2017)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 13.429, de 2017)\n\n",
+    "tokens_reais_total":143
+  },
+  {
+    "caso":"com_alerta",
+    "artigo_id":"73ad9868906b6cdd7753c58e7ade323e6c942bb2222130e359e72b48feb90f5d",
+    "estrategia":"C_tokens_500_overlap_75",
+    "total_chunks_artigo":1,
+    "parte":0,
+    "chunk_id":"bcd53298ff5d462bf48b2d8fe1f4bc00d708f895ab190e9149fcb01d158f01b4",
+    "conteudo_chunk":"[leis\/1974\/lei-6019-1974.md | Art. 6º]\n## Art. 6º\n\nSão requisitos para funcionamento e registro da empresa de trabalho temporário no Ministério do Trabalho: (Redação dada pela Lei nº 13.429, de 2017)\n\na) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nb) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nc) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nd) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\ne) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nf) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nI - prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ), do Ministério da Fazenda; (Incluído pela Lei nº 13.429, de 2017)\n\nII - prova do competente registro na Junta Comercial da localidade em que tenha sede; (Incluído pela Lei nº 13.429, de 2017)\n\nIII - prova de possuir capital social de, no mínimo, R$ 100.000,00 (cem mil reais). (Incluído pela Lei nº 13.429, de 2017)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 13.429, de 2017)\n\n",
+    "tokens_reais_total":393
+  },
+  {
+    "caso":"com_alerta",
+    "artigo_id":"73ad9868906b6cdd7753c58e7ade323e6c942bb2222130e359e72b48feb90f5d",
+    "estrategia":"D_paragrafo_completo",
+    "total_chunks_artigo":2,
+    "parte":0,
+    "chunk_id":"20dfae801a142df9d8f483eab700f86812a0afce3e604ade11f00d7ef0cbe678",
+    "conteudo_chunk":"[leis\/1974\/lei-6019-1974.md | Art. 6º]\n## Art. 6º\n\nSão requisitos para funcionamento e registro da empresa de trabalho temporário no Ministério do Trabalho: (Redação dada pela Lei nº 13.429, de 2017)\n\na) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nb) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nc) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nd) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\ne) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nf) (revogada); (Redação dada pela Lei nº 13.429, de 2017)\n\nI - prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ), do Ministério da Fazenda; (Incluído pela Lei nº 13.429, de 2017)\n\nII - prova do competente registro na Junta Comercial da localidade em que tenha sede; (Incluído pela Lei nº 13.429, de 2017)\n\nIII - prova de possuir capital social de, no mínimo, R$ 100.000,00 (cem mil reais). (Incluído pela Lei nº 13.429, de 2017)\n\n",
+    "tokens_reais_total":363
+  },
+  {
+    "caso":"com_alerta",
+    "artigo_id":"73ad9868906b6cdd7753c58e7ade323e6c942bb2222130e359e72b48feb90f5d",
+    "estrategia":"D_paragrafo_completo",
+    "total_chunks_artigo":2,
+    "parte":1,
+    "chunk_id":"79e373c50c324f8204e90a8c1d200e6f111b4ca1f8b9b5a1fc725e5bab0823f5",
+    "conteudo_chunk":"[leis\/1974\/lei-6019-1974.md | Art. 6º > Parágrafo único]\nParágrafo único. (Revogado). (Redação dada pela Lei nº 13.429, de 2017)\n\n",
+    "tokens_reais_total":58
+  }
+]

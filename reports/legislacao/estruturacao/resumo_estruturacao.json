@@ -1,0 +1,16 @@
+{
+    "executado_em_utc": "2026-11-05T03:34:19.097855+00:00",
+    "parser_version": "1.0.0",
+    "normas": 25,
+    "registros": 18069,
+    "artigos": 5284,
+    "preservacao_textual_confirmada": true,
+    "alertas_hierarquia": 535,
+    "parquet_exportado": true,
+    "status": "Base candidata com preservação textual validada; revisão semântica da hierarquia pendente.",
+    "tokens": "Estimativa caracteres / 4; usar tokenizador do modelo no notebook 04.",
+    "artigos_completos_reconstruidos": 5284,
+    "artigos_com_alertas": 118,
+    "registros_fila_revisao": 592,
+    "revisao_humana": "Pendente; decisões propostas não são aplicadas automaticamente."
+}

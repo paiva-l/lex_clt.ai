@@ -1,0 +1,6 @@
+codigo,Estratégia,Chunks,Artigos cobertos,Principal resultado,Chunks de artigos com alertas
+A_artigo,A — Artigo completo,5284,5284,Preserva o artigo inteiro e gera menos chunks.,118
+B_subdispositivo,B — Subdispositivo,16978,5284,"Produz trechos menores, mas separa mais os dispositivos de seu contexto.",981
+C_tokens_300_overlap_50,C — 300 tokens,6849,5284,Controla o tamanho do corpo; 98.05% das fronteiras internas cortam intervalos de dispositivos.,246
+C_tokens_500_overlap_75,C — 500 tokens,5940,5284,Controla o tamanho do corpo; 98.17% das fronteiras internas cortam intervalos de dispositivos. A janela de 500 tokens fragmenta menos que a de 300.,172
+D_paragrafo_completo,D — Parágrafo completo,10971,5284,"Oferece granularidade intermediária, mantendo incisos e alíneas com o parágrafo.",365

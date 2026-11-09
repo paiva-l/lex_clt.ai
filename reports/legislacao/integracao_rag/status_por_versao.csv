@@ -1,0 +1,15 @@
+tipo,query_id,decisao_preservada_da_versao_revisada,status_da_ultima_execucao,mesmo_texto_e_fontes_de_versao_revisada
+correcao,q_dev_03,aprovada_por_revisor,pendente_revisao,False
+correcao,q_dev_neg_02,aprovada_por_revisor,aprovada_por_revisor,True
+variante,q_dev_03_v1,reprovada,pendente_revisao,False
+variante,q_dev_03_v2,reprovada,pendente_revisao,False
+variante,q_dev_03_v3,reprovada,pendente_revisao,False
+variante,q_dev_03_v4,aprovada_por_revisor,pendente_revisao,False
+variante,q_dev_03_v5,aprovada_por_revisor,pendente_revisao,False
+variante,q_dev_03_v6,aprovada_por_revisor,pendente_revisao,False
+variante,q_dev_03_v7,sem revisão anterior,pendente_revisao,False
+variante,q_dev_06_v1,aprovada_por_revisor,pendente_revisao,False
+variante,q_dev_06_v2,aprovada_por_revisor,pendente_revisao,False
+variante,q_dev_06_v3,aprovada_por_revisor,pendente_revisao,False
+variante,q_dev_06_v4,aprovada_por_revisor,pendente_revisao,False
+variante,q_dev_06_v5,aprovada_por_revisor,pendente_revisao,False

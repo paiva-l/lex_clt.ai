@@ -1,0 +1,395 @@
+{
+  "query_id": "q_test_03",
+  "pergunta": "Como é calculada a remuneração do trabalho noturno urbano em comparação ao diurno?",
+  "sources": [
+    {
+      "chunk_id": "54c988e98595eaad7a8daabdab6fc237a8bb4d5eb534020f2d03830c21532159",
+      "estrategia": "A_artigo",
+      "artigo_id": "58777d196abd9c442c42f8a430cc9c785570c61ffb0a42089700abd6d85cc728",
+      "artigo_ref": "Art. 73",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO IV — DO TRABALHO NOTURNO > Art. 73]",
+      "corpo_chunk": "##### Art. 73.\n\nSalvo nos casos de revezamento semanal ou quinzenal, o trabalho noturno terá remuneração superior a do diurno e, para esse efeito, sua remuneração terá um acréscimo de 20 % (vinte por cento), pelo menos, sobre a hora diurna. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 1º A hora do trabalho noturno será computada como de 52 minutos e 30 segundos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 2º Considera-se noturno, para os efeitos deste artigo, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 3º O acréscimo, a que se refere o presente artigo, em se tratando de empresas que não mantêm, pela natureza de suas atividades, trabalho noturno habitual, será feito, tendo em vista os quantitativos pagos por trabalhos diurnos de natureza semelhante. Em relação às empresas cujo trabalho noturno decorra da natureza de suas atividades, o aumento será calculado sobre o salário mínimo geral vigente na região, não sendo devido quando exceder desse limite, já acrescido da percentagem. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 5º Às prorrogações do trabalho noturno aplica-se o disposto neste capítulo. (Incluído pelo Decreto-lei nº 9.666, de 1946)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO IV — DO TRABALHO NOTURNO > Art. 73]\n##### Art. 73.\n\nSalvo nos casos de revezamento semanal ou quinzenal, o trabalho noturno terá remuneração superior a do diurno e, para esse efeito, sua remuneração terá um acréscimo de 20 % (vinte por cento), pelo menos, sobre a hora diurna. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 1º A hora do trabalho noturno será computada como de 52 minutos e 30 segundos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 2º Considera-se noturno, para os efeitos deste artigo, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 3º O acréscimo, a que se refere o presente artigo, em se tratando de empresas que não mantêm, pela natureza de suas atividades, trabalho noturno habitual, será feito, tendo em vista os quantitativos pagos por trabalhos diurnos de natureza semelhante. Em relação às empresas cujo trabalho noturno decorra da natureza de suas atividades, o aumento será calculado sobre o salário mínimo geral vigente na região, não sendo devido quando exceder desse limite, já acrescido da percentagem. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 5º Às prorrogações do trabalho noturno aplica-se o disposto neste capítulo. (Incluído pelo Decreto-lei nº 9.666, de 1946)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1494,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1695,
+      "tokens_reais_corpo": 481,
+      "tokens_reais_total": 566,
+      "tokens_estimados_total": 423.75,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "cc0e51de097f90f58fea2ca6f0474275a52c289adfb788e46b88b0e24844db8b",
+          "rank": 1,
+          "score": 0.886381208896637
+        },
+        {
+          "chunk_id": "49379d1081fbeda134a206d60323cb22d9d3581f119e9710bd9d55a97a6eb69d",
+          "rank": 3,
+          "score": 0.6830256581306458
+        },
+        {
+          "chunk_id": "beebe3fb476f8377c0b199e04d79955ab2b23b627ff26d32f21723408231328e",
+          "rank": 5,
+          "score": 0.3012959063053131
+        },
+        {
+          "chunk_id": "929e06b37bee9262cf3abf1da9cf0f4664128092031ad30571ebaf1111b54443",
+          "rank": 10,
+          "score": 0.16592960059642792
+        },
+        {
+          "chunk_id": "a86eac430801c1096887ceaeb99d606b7b23eade546e2488fe113292ca127abf",
+          "rank": 16,
+          "score": 0.06665660440921783
+        },
+        {
+          "chunk_id": "9dff71f05f0bf2f2d297ce2f99da15a23a9f534496c268dafa5f664648fb1a84",
+          "rank": 32,
+          "score": 0.009773436933755875
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "66b944dcdca5ec2cc3958c7ec9ee35a81f13be0193bc9521e5b4d8e36283c20f",
+      "estrategia": "A_artigo",
+      "artigo_id": "de390c7684ad37291f456747ecf5b74c2897af7f59f179af64a6849fd77af305",
+      "artigo_ref": "Art. 14",
+      "caminho_relativo": "leis-complementares/2015/lcp-150-2015.md",
+      "sha256_fonte": "a857c64a3fb78c7f6b02aad2506d792e2bb58592500c64c925bcc3fd34bee0b6",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp150.htm",
+      "date": 1435708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 14]",
+      "corpo_chunk": "### Art. 14.\n\nConsidera-se noturno, para os efeitos desta Lei, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte.\n\n§ 1º A hora de trabalho noturno terá duração de 52 (cinquenta e dois) minutos e 30 (trinta) segundos.\n\n§ 2º A remuneração do trabalho noturno deve ter acréscimo de, no mínimo, 20% (vinte por cento) sobre o valor da hora diurna.\n\n§ 3º Em caso de contratação, pelo empregador, de empregado exclusivamente para desempenhar trabalho noturno, o acréscimo será calculado sobre o salário anotado na Carteira de Trabalho e Previdência Social.\n\n§ 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos.\n\n",
+      "conteudo_chunk": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 14]\n### Art. 14.\n\nConsidera-se noturno, para os efeitos desta Lei, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte.\n\n§ 1º A hora de trabalho noturno terá duração de 52 (cinquenta e dois) minutos e 30 (trinta) segundos.\n\n§ 2º A remuneração do trabalho noturno deve ter acréscimo de, no mínimo, 20% (vinte por cento) sobre o valor da hora diurna.\n\n§ 3º Em caso de contratação, pelo empregador, de empregado exclusivamente para desempenhar trabalho noturno, o acréscimo será calculado sobre o salário anotado na Carteira de Trabalho e Previdência Social.\n\n§ 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 750,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 852,
+      "tokens_reais_corpo": 235,
+      "tokens_reais_total": 277,
+      "tokens_estimados_total": 213.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "ac955dbeab1b3c0c5657dfcbf7f66dcf60d9141dc1de22da669dd5ad819a6b08",
+          "rank": 2,
+          "score": 0.7062259316444397
+        },
+        {
+          "chunk_id": "78be0c1c5b7d502e023963ae5dbc1781cd3f3f824efe45c52b91291020871a9b",
+          "rank": 7,
+          "score": 0.24217256903648376
+        },
+        {
+          "chunk_id": "6e304e77412aeb31b957c0152a42eb9c85c180af70ec97dc9512f4ae820f4198",
+          "rank": 13,
+          "score": 0.09261614084243774
+        },
+        {
+          "chunk_id": "df1230a6a1f6fea805a620b76da9559d7e3b0b3006f4bc0d8d2b7e790af49063",
+          "rank": 17,
+          "score": 0.0486617349088192
+        },
+        {
+          "chunk_id": "d7d62caf5e37e64846d020bb15a7c2154c7fc2820eaf79106010800add0bfe2f",
+          "rank": 22,
+          "score": 0.024651499465107918
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "9947b869a0d932f549bbb7e152da0cc15cc2f86d804f7c0f4763f9e9eef7ffe1",
+      "estrategia": "A_artigo",
+      "artigo_id": "f5e557bfd6e0283edec5ef624456eb0b8c50a2cc519dcea39ec2a2dcc3f16989",
+      "artigo_ref": "Art. 7º",
+      "caminho_relativo": "leis/1973/lei-5889-1973.md",
+      "sha256_fonte": "a490a1fc3392bfe0643e58981205a244d43fac7cb2934e5803358b82cfd86ffe",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/L5889.htm",
+      "date": 108345600000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[leis/1973/lei-5889-1973.md | Art. 7º]",
+      "corpo_chunk": "## Art. 7º\n\nPara os efeitos desta Lei, considera-se trabalho noturno o executado entre as vinte e uma horas de um dia e as cinco horas do dia seguinte, na lavoura, e entre as vinte horas de um dia e as quatro horas do dia seguinte, na atividade pecuária.\n\nParágrafo único. Todo trabalho noturno será acrescido de 25% (vinte e cinco por cento) sobre a remuneração normal.\n\n",
+      "conteudo_chunk": "[leis/1973/lei-5889-1973.md | Art. 7º]\n## Art. 7º\n\nPara os efeitos desta Lei, considera-se trabalho noturno o executado entre as vinte e uma horas de um dia e as cinco horas do dia seguinte, na lavoura, e entre as vinte horas de um dia e as quatro horas do dia seguinte, na atividade pecuária.\n\nParágrafo único. Todo trabalho noturno será acrescido de 25% (vinte e cinco por cento) sobre a remuneração normal.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 372,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 411,
+      "tokens_reais_corpo": 109,
+      "tokens_reais_total": 131,
+      "tokens_estimados_total": 102.75,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "a4afc80ca46740aef0b72910c51c2fd84bad36a84247ea063f49e14ed4cf8570",
+          "rank": 4,
+          "score": 0.399469256401062
+        },
+        {
+          "chunk_id": "dbd62543d0d765176e3f6c8438b00c782d3787271d5ee7b6fbf253b42fd57ef4",
+          "rank": 12,
+          "score": 0.12266387790441513
+        }
+      ],
+      "best_child_rank": 4,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO IV — DO TRABALHO NOTURNO > Art. 73]\n##### Art. 73.\n\nSalvo nos casos de revezamento semanal ou quinzenal, o trabalho noturno terá remuneração superior a do diurno e, para esse efeito, sua remuneração terá um acréscimo de 20 % (vinte por cento), pelo menos, sobre a hora diurna. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 1º A hora do trabalho noturno será computada como de 52 minutos e 30 segundos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 2º Considera-se noturno, para os efeitos deste artigo, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 3º O acréscimo, a que se refere o presente artigo, em se tratando de empresas que não mantêm, pela natureza de suas atividades, trabalho noturno habitual, será feito, tendo em vista os quantitativos pagos por trabalhos diurnos de natureza semelhante. Em relação às empresas cujo trabalho noturno decorra da natureza de suas atividades, o aumento será calculado sobre o salário mínimo geral vigente na região, não sendo devido quando exceder desse limite, já acrescido da percentagem. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)\n\n§ 5º Às prorrogações do trabalho noturno aplica-se o disposto neste capítulo. (Incluído pelo Decreto-lei nº 9.666, de 1946)\n\n\n\n[Fonte 2]\n[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 14]\n### Art. 14.\n\nConsidera-se noturno, para os efeitos desta Lei, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte.\n\n§ 1º A hora de trabalho noturno terá duração de 52 (cinquenta e dois) minutos e 30 (trinta) segundos.\n\n§ 2º A remuneração do trabalho noturno deve ter acréscimo de, no mínimo, 20% (vinte por cento) sobre o valor da hora diurna.\n\n§ 3º Em caso de contratação, pelo empregador, de empregado exclusivamente para desempenhar trabalho noturno, o acréscimo será calculado sobre o salário anotado na Carteira de Trabalho e Previdência Social.\n\n§ 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos.\n\n\n\n[Fonte 3]\n[leis/1973/lei-5889-1973.md | Art. 7º]\n## Art. 7º\n\nPara os efeitos desta Lei, considera-se trabalho noturno o executado entre as vinte e uma horas de um dia e as cinco horas do dia seguinte, na lavoura, e entre as vinte horas de um dia e as quatro horas do dia seguinte, na atividade pecuária.\n\nParágrafo único. Todo trabalho noturno será acrescido de 25% (vinte e cinco por cento) sobre a remuneração normal.\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "cc0e51de097f90f58fea2ca6f0474275a52c289adfb788e46b88b0e24844db8b",
+      "score": 0.886381208896637
+    },
+    {
+      "chunk_id": "ac955dbeab1b3c0c5657dfcbf7f66dcf60d9141dc1de22da669dd5ad819a6b08",
+      "score": 0.7062259316444397
+    },
+    {
+      "chunk_id": "49379d1081fbeda134a206d60323cb22d9d3581f119e9710bd9d55a97a6eb69d",
+      "score": 0.6830256581306458
+    },
+    {
+      "chunk_id": "a4afc80ca46740aef0b72910c51c2fd84bad36a84247ea063f49e14ed4cf8570",
+      "score": 0.399469256401062
+    },
+    {
+      "chunk_id": "beebe3fb476f8377c0b199e04d79955ab2b23b627ff26d32f21723408231328e",
+      "score": 0.3012959063053131
+    },
+    {
+      "chunk_id": "8015ad4664b78696e457bf052c688bb53b3652f4432ce645171ace515bfc49d0",
+      "score": 0.29847487807273865
+    },
+    {
+      "chunk_id": "78be0c1c5b7d502e023963ae5dbc1781cd3f3f824efe45c52b91291020871a9b",
+      "score": 0.24217256903648376
+    },
+    {
+      "chunk_id": "74c855413b2694f5c0aff21d226fd73c91226cb24cfb3d8d19f01df588116b77",
+      "score": 0.17577524483203888
+    },
+    {
+      "chunk_id": "33483803ce8e01755d256c4d52911054f416d3012312825cfb58c23524887012",
+      "score": 0.17027050256729126
+    },
+    {
+      "chunk_id": "929e06b37bee9262cf3abf1da9cf0f4664128092031ad30571ebaf1111b54443",
+      "score": 0.16592960059642792
+    },
+    {
+      "chunk_id": "34201a6e89473e1b3f1c5c2bbc51d652a92f90de8bbe35819a7417622588cea5",
+      "score": 0.14473989605903625
+    },
+    {
+      "chunk_id": "dbd62543d0d765176e3f6c8438b00c782d3787271d5ee7b6fbf253b42fd57ef4",
+      "score": 0.12266387790441513
+    },
+    {
+      "chunk_id": "6e304e77412aeb31b957c0152a42eb9c85c180af70ec97dc9512f4ae820f4198",
+      "score": 0.09261614084243774
+    },
+    {
+      "chunk_id": "ef2c5ccde8b3286bb1a96999a0a03864fa389003b4945520dc9486ac616c52ba",
+      "score": 0.0866067185997963
+    },
+    {
+      "chunk_id": "bfe56a7eb7273a3e6f0348284ebd42d556f0d68c58cbd9524537ff3f90cbda69",
+      "score": 0.06695016473531723
+    },
+    {
+      "chunk_id": "a86eac430801c1096887ceaeb99d606b7b23eade546e2488fe113292ca127abf",
+      "score": 0.06665660440921783
+    },
+    {
+      "chunk_id": "df1230a6a1f6fea805a620b76da9559d7e3b0b3006f4bc0d8d2b7e790af49063",
+      "score": 0.0486617349088192
+    },
+    {
+      "chunk_id": "6532bee8f1ad5f00f6a52c8d98b9f02f0ea011b8e5536ec1e64bd30300446352",
+      "score": 0.04173621907830238
+    },
+    {
+      "chunk_id": "6ce054362da0a2f337d8765fe2e64637f8eb4959db9e4a9dd97bbd5b997d7dac",
+      "score": 0.02996993623673916
+    },
+    {
+      "chunk_id": "a9a4563a94aea526358f63a0d5937f55fe00f171c9b796f6ae0857111d91d6be",
+      "score": 0.024880466982722282
+    },
+    {
+      "chunk_id": "948dc357e12385809910633f9f9834e633e2718eda9e678593cbb0d92cbf01f7",
+      "score": 0.024753469973802567
+    },
+    {
+      "chunk_id": "d7d62caf5e37e64846d020bb15a7c2154c7fc2820eaf79106010800add0bfe2f",
+      "score": 0.024651499465107918
+    },
+    {
+      "chunk_id": "c9b35b99ad95eef55e0541fc057209d8671552f9549079694b760de54181376a",
+      "score": 0.022239364683628082
+    },
+    {
+      "chunk_id": "03909264fd3ab71160fedc631e515e9e717729938e89c51a982c9853b0e21bf9",
+      "score": 0.021458886563777924
+    },
+    {
+      "chunk_id": "ab6f7fe4c8fdca0a97aebd226378e6b722f7d71532d0a98698cec7352ebdee27",
+      "score": 0.015312004834413528
+    },
+    {
+      "chunk_id": "9f0fab55625f9e92a0040a86e4968ba9d9106850258c276c11cb5ea62d419e1e",
+      "score": 0.013431085273623466
+    },
+    {
+      "chunk_id": "7f1531520baa1577c39a4b4fac3b75aa1b1017887ec6d3d984622497957d06bc",
+      "score": 0.013144304044544697
+    },
+    {
+      "chunk_id": "e6f1caa90268c0638a35b0d294b4fe660556fe5f265c182f6f15e676cbbe0c70",
+      "score": 0.011399902403354645
+    },
+    {
+      "chunk_id": "3c5cbb4dfc4288521c9f21a99888c81d1ce9d2de6c8ae64e2f22a63f1cb2e894",
+      "score": 0.011061180382966995
+    },
+    {
+      "chunk_id": "134267a0e769810f26980fd105ac9eb75566ea75f09c9490fb61f278fcb8a062",
+      "score": 0.009850344620645046
+    },
+    {
+      "chunk_id": "54a4f79cb3c9593a6f2ce15f81fa7f22da4cf93f704abd88b14e85b1c1733df0",
+      "score": 0.009824482724070549
+    },
+    {
+      "chunk_id": "9dff71f05f0bf2f2d297ce2f99da15a23a9f534496c268dafa5f664648fb1a84",
+      "score": 0.009773436933755875
+    },
+    {
+      "chunk_id": "5be78eb825b7fb5c57d0f36858c3d371ca033dc680740dd2b4f38ddba0dccfd1",
+      "score": 0.009682915173470974
+    },
+    {
+      "chunk_id": "229d6a382ee2ea41f1d94c03450d521734c21a972ca642220fb40268ba899f61",
+      "score": 0.009099519811570644
+    },
+    {
+      "chunk_id": "50bbada12af39e21946c613d034684009098bf7139ed0d7b3e3127ed5f3539fb",
+      "score": 0.008525568060576916
+    },
+    {
+      "chunk_id": "0a7681d327c3d008f18cd029f9cb883315693ddb5fdc4c39cdbc3ec289bf73ff",
+      "score": 0.007155528757721186
+    },
+    {
+      "chunk_id": "a2d7cfcbd8568c7b4630ef17cd6510c76e68581a63bac3745efe6cf0b129cccb",
+      "score": 0.006575671024620533
+    },
+    {
+      "chunk_id": "e979aec80e98f2f51ae20ee0ab9bc1f42e27c1a437d9d7630f95a1e3ea8997f3",
+      "score": 0.0059915706515312195
+    },
+    {
+      "chunk_id": "c55c5be61174598574dfe0224cc6225bb9a4fabb817db8eddbdb7ecbc1f5a8db",
+      "score": 0.005913832224905491
+    },
+    {
+      "chunk_id": "dfcf8af8ed0c5932e843be43374636710f548034fb766fabb9ab39622a4aba5b",
+      "score": 0.005854421760886908
+    },
+    {
+      "chunk_id": "621b2463840caaac3a9a1ac027d09f44e4409574b04ec08204eb6cbf85e4c7c7",
+      "score": 0.005744009278714657
+    },
+    {
+      "chunk_id": "35de79388528c6d853f89541a1ea1bcdda61c47a2448bbc7829a52d9c459a50f",
+      "score": 0.005483225453644991
+    },
+    {
+      "chunk_id": "a70e2dd334c4105be12a457bfaeddc5bde7b98878aefa7b0d773e083d8499c39",
+      "score": 0.0032856755424290895
+    },
+    {
+      "chunk_id": "813affa2539b903bb3702716b254d732610cfb942e6bbac87fe7839ae64860fa",
+      "score": 0.0027017041575163603
+    },
+    {
+      "chunk_id": "1ae1fb3b1e6b42e3ce91c0c59ef59a3c8c57829cac9e0b31dadf434bc77be9b8",
+      "score": 0.002265156013891101
+    },
+    {
+      "chunk_id": "473bae346d831031520e9892c22dfa450ef541a1d8ffe7f52b3dd81f1c5557e5",
+      "score": 0.002219235524535179
+    },
+    {
+      "chunk_id": "de20663fc0e4801f8c7b5527911f5b8f62628ca78875551cd9e80b7f8b283638",
+      "score": 0.0021654239390045404
+    },
+    {
+      "chunk_id": "eae5ec8cac5cc90eb70ff9c36bb0b8f347c60f256f5d1b72d6a49f0033f67966",
+      "score": 0.0016384442569687963
+    },
+    {
+      "chunk_id": "4ae1d2207700350eff75b7b891c800b3a89713a27b4278a0307095c37401d4c2",
+      "score": 0.0015561834443360567
+    },
+    {
+      "chunk_id": "a907e2f00103d8396d7a9ade47b88a1980fa25785cd1bdfef02a1a451910e9d5",
+      "score": 0.00121983396820724
+    }
+  ],
+  "hyde_cache_sha256": "43cf6cadd03096f279b81e25345e0572f37f6293b47ca113f56ad5df75ac3e1d",
+  "hyde_text": "O tema trata da remuneração do trabalho noturno urbano em comparação ao diurno, com foco na legislação brasileira. A busca deve considerar normas que estabeleçam a base para o cálculo de remuneração por turno, especialmente em contextos urbanos. É importante verificar se as normas mencionam a aplicação de multiplicadores ou acréscimos para o trabalho noturno, em relação ao diurno. A consulta deve incluir dispositivos que tratam de jornadas de trabalho, horários definidos como noturnos, e a forma como a remuneração é ajustada. Deve-se considerar a possibilidade de referência a normas gerais de trabalho, como a CLT, e ações complementares que possam regulamentar a remuneração por turno. A busca deve ser feita com cautela, evitando a suposição de que todos os setores urbanos sejam tratados de forma uniforme. É relevante considerar que a legislação pode diferenciar situações por atividade, setor ou região. A consulta deve buscar textos que mencionem a relação entre jornada noturna e remuneração, sem assumir valores ou percentuais específicos. A precisão depende da análise de termos como \"noturno\", \"diurno\", \"acréscimo\", \"remuneração\", e \"jornada\".",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 82460.72039997671,
+  "hash_configuracao": "ebce92b37d5f2a8e48927cdda58b3d95c4a1d8f7c4053a84bd5e353273b5a321",
+  "embedding_corpus_recalculado": false
+}

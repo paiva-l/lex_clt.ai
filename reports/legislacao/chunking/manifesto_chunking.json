@@ -1,0 +1,40 @@
+{
+  "executado_em_utc": "2026-11-05T04:07:05.599578+00:00",
+  "artigos": 5284,
+  "chunks": 46022,
+  "estrategias": [
+    "A_artigo",
+    "B_subdispositivo",
+    "C_tokens_300_overlap_50",
+    "C_tokens_500_overlap_75",
+    "D_paragrafo_completo"
+  ],
+  "unidade_janelas": "tokens",
+  "tokenizador": "cl100k_base",
+  "tokenizador_pendente": false,
+  "experimento_version": "2.0.0",
+  "janela_configuracoes": [
+    [
+      300,
+      50
+    ],
+    [
+      500,
+      75
+    ]
+  ],
+  "limite_entrada_referencia": 8192,
+  "limite_observacao": "Limite configurável de referência; confirmar no modelo escolhido.",
+  "escopo": "Artigos reconstruídos; anexos e preâmbulos fora desta comparação.",
+  "cobertura_validada": true,
+  "artefatos_entrada": {
+    "legislacao_artigos_completos.json": "5e6d7dd4e275b72b64707a0fdf93cbdfe19b04baec3931847f77cf22b8eb7dcb",
+    "legislacao_estruturada_contexto.json": "0cac8597c2985f2aa60c5669206dbb1a238842eccf1952a54ef9d433b2b9344f"
+  },
+  "resumo_estruturacao_sha256": "461a8ce474bb2f45dcd55409272457d085b808c4889be1fee2daf0823661a2e3",
+  "tiktoken_version": "0.14.0",
+  "python_version": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+  "pandas_version": "3.0.5",
+  "codigo_sha256": "342c78c205fa2dd6f43881e304404d59c5016b944ab2de9ae65fbc738c16a2a4",
+  "parametros_contexto": "Caminho da fonte e caminho hierárquico completo; caput em bloco próprio em D."
+}

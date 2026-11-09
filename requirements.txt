@@ -1,0 +1,31 @@
+# Manipulação e análise dos dados
+pandas
+
+# Visualizações
+matplotlib
+
+# Extração de texto de HTML e XML
+beautifulsoup4
+
+# Extração de texto de PDFs
+pypdf
+
+# Execução de notebooks
+jupyterlab
+ipykernel
+# Estilo dos gráficos
+seaborn
+
+# Leitura dos metadados YAML
+PyYAML
+
+# Tokenização dos experimentos de chunking
+tiktoken
+
+# Recuperação vetorial
+sentence-transformers
+
+# Persistência dos embeddings existentes no PostgreSQL
+numpy
+psycopg[binary]
+pgvector

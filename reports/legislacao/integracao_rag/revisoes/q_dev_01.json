@@ -1,0 +1,16 @@
+{
+  "query_id": "q_dev_01",
+  "status_revisao": "aprovada_por_revisor",
+  "decisao_original": "aprovado por Laisa.",
+  "revisor": "Laisa",
+  "data_revisao": null,
+  "exportado_em_utc": "2026-11-09T05:52:05.492258+00:00",
+  "motivo": "",
+  "resposta_referencia_revisada": "",
+  "acao": "",
+  "resposta_original_sha256": "987d92c23c996404f4beb2824d46a2f14b17cf7cf87e96cf9ae232ddbfce6e66",
+  "review_markdown": "**Execução:** concluida · **Revisão jurídica:** aprovado por Laisa.\n\n",
+  "celula_markdown_original": "### 01. Pergunta — `q_dev_01`\n\nQual é a duração normal diária do trabalho para os empregados em geral, segundo a CLT?\n\n**Execução:** concluida · **Revisão jurídica:** aprovado por Laisa.\n\n**Resposta gerada**\n\nA duração normal diária do trabalho para os empregados em geral, segundo a CLT, é de **oito horas diárias**.\n\nEsse limite é estabelecido no **Artigo 58**, do Título II – Das Normas Gerais de Tutela do Trabalho, do Capítulo II – Da Duração do Trabalho, da Seção II – Da Jornada de Trabalho, da CLT (Decreto-Lei nº 5.452/1943), que diz:\n\n> \"A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite.\" [Fonte 1]\n\nEsse artigo se aplica a todos os empregados em atividades privadas, exceto nos casos específicos previstos em outras normas da CLT, como os bancários (Art. 224) ou os jornalistas profissionais (Art. 303), que têm jornadas distintas.\n\nPortanto, **para os empregados em geral**, sem exceção específica, a jornada normal diária é de **oito horas**.\n\n⚠️ **Limitação importante**:  \nEssa resposta se baseia apenas na norma geral do Art. 58 da CLT. Caso o empregado esteja em um setor específico (como bancos ou jornalismo), a jornada pode ser diferente, conforme previsto em outros artigos (como o Art. 224 ou Art. 303).  \nNo entanto, como a pergunta se refere a \"empregados em geral\", a resposta deve seguir a regra geral da CLT.\n\nSe o usuário quiser, posso ajudar a analisar casos específicos com base em setores ou funções, desde que forneça mais detalhes (ex: tipo de cargo, setor, atividade).  \n\nNão há evidência de jurisprudência relevante para essa pergunta no contexto fornecido. A resposta se sustenta apenas na legislação (Art. 58 da CLT).\n\n---\n\n**Fontes entregues ao modelo**\n\n- **[Fonte 1]** Art. 58 — `codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md`.\n- **[Fonte 2]** Art. 224 — `codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md`.\n- **[Fonte 3]** Art. 303 — `codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md`.\n\n**Alertas formais:** nenhum detectado.\n\n**Artigos omitidos pelo orçamento:** 0.\n\n**Tokens:** 2519 de entrada · 478 de saída.\n",
+  "celula_sha256": "f4166f018bc0b2b69a2507525af32f0c58cc3f3768848ac36f6071609954ee54",
+  "origem": "anotacao_manual_no_notebook"
+}

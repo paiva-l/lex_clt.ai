@@ -1,0 +1,9 @@
+[
+  {
+    "estrategia":"A_artigo",
+    "chunks":5284,
+    "chunks_acima_limite":0,
+    "tokens_maximos":4726,
+    "limite_modelo":8192
+  }
+]

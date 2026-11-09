@@ -1,0 +1,46 @@
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+!.env.pgvector.example
+
+# Cópia local do repositório de legislação
+/data/raw/legislacao/
+
+# Dados intermediários e gerados
+/data/interim/
+/data/processed/
+/data/chunks/
+
+# Índices e modelos gerados ou baixados
+/indexes/
+/models/
+
+# Registros locais de experimentos
+/mlruns/
+/mlartifacts/
+/mlflow.db
+/mlflow.db-*
+
+# Logs
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini

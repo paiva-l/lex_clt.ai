@@ -1,0 +1,168 @@
+query_id,resposta_sha256,configuracao_sha256,escopo_decisao,decisao,suporte_fontes,citacoes_corretas,conduta_adequada,recusa_adequada_se_aplicavel,motivo,resposta_corrigida_revisora,revisor
+q_test_01,869258e4b63f3c3181383200e57c45d04ede3281037813ca335f3c1b45a1dbd7,2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e,resposta_original_do_modelo,aprovada,,"O que está certo
+
+A “Resposta direta” cobre os dois pontos pedidos: a licença prévia das autoridades de higiene do trabalho para qualquer prorrogação em atividade insalubre, e a exceção do 12x36 no parágrafo único.
+A citação do caput e do parágrafo único confere com o texto legal.
+A menção a exames locais e à verificação dos métodos e processos de trabalho está correta.",AJUSTAR E ADEQUAR A RESPOSTA DO REVISOR AO CONTEXTO DA RESPOSTA.,,Fonte 1: Acrescentasse o marco da Lei 13.467/2017,"Ajustar:
+
+Os dois avisos finais são indevidos. A pergunta já diz “atividades insalubres”, então a observação de que ela “não menciona se é insalubre ou não” contradiz o enunciado. A “Limitação” sobre não saber se uma jornada específica é insalubre também não se aplica, porque ninguém perguntou isso. Os dois avisos só confundem.
+A oferta final está mal formulada. “Se o usuário quiser, posso ajudar...” fala do usuário em terceira pessoa, num texto dirigido a ele.
+A Fundamentação repete a resposta direta. Reproduz as mesmas citações sem acrescentar nada.
+A explicação da exceção é imprecisa. O texto diz que a empresa “possa estender a jornada” sem licença. O 12x36 é um regime de jornada e descanso, e a exceção dispensa a licença prévia para adotá-lo em ambiente insalubre. Não se trata de estender a jornada.
+Falta contexto. A resposta não diz que o parágrafo único veio com a Lei 13.467/2017 (reforma trabalhista), vigente desde 11/11/2017. Também não cita o art. 611-A, XIII, e a jurisprudência do TST, que interpreta a exceção restritivamente (só 12x36) e a aplica a partir da reforma. Para uma pergunta curta de prova isso pode ser opcional, mas para uma resposta útil vale pelo menos uma linha.",Laisa
+q_test_02,5b0b98874a6f5f54ff386e1c6d418e1590618f2164a0d1250bcff943cb2c0e5e,2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e,resposta_original_do_modelo,aprovada,"Acerta a lista de hipóteses e a existência das condições do § 1º, mas erra os exemplos de adiantamento e de contrato coletivo, cita errado o § 4º, trata as condições do dano como cumulativas e omite os §§ 2º e 3º","está certo::
+
+Os três casos do caput: adiantamentos, dispositivos de lei e contrato coletivo.
+O § 1º como sede do desconto por dano.
+A “Resposta direta” lista as condições do dano como alternativas (“acordado... ou dolo”), que é a leitura correta.
+Não infere percentual de vale-transporte nem aprova desconto em caso concreto.",AJUSTAR E ADEQUAR A RESPOSTA DO REVISOR AO CONTEXTO DA RESPOSTA.,"Para o caso do vale-transporte, a recusa vale só dentro do escopo “o art. 462 e as fontes entregues”. Se o objetivo fosse responder sobre esse percentual em geral, a resposta teria de vir de outra norma, que não está nas fontes desse teste.",,"Adiantamentos mal explicados. O texto diz “empréstimo de dinheiro pelo empregado” e “quando o empregado já pagou parte do salário”. Está invertido: adiantamento é o empregador antecipar valores ao empregado (adiantamento salarial, por exemplo), que depois são descontados.
+Contrato coletivo mal explicado. “Acordos entre empregadores e trabalhadores” é impreciso. A previsão decorre de norma coletiva (convenção ou acordo coletivo), firmada com o sindicato. Um ajuste individual não se enquadra aqui.
+Citação errada do § 4º. O texto legal diz que é vedado limitar a liberdade do empregado de dispor do seu salário, não de “dispensar”. A interpretação de que os descontos “não podem ser usados para coagir o trabalhador” também é uma extrapolação.
+Inconsistência sobre o dano. A Fundamentação apresenta “acordado previamente” e “dolo” como “duas condições” numeradas e “exclusivas”, o que sugere que devem ocorrer juntas. A lei diz o contrário: o desconto é lícito se a possibilidade tiver sido acordada ou se houver dolo. Sem dolo, só vale se houver acordo prévio. Havendo dolo, o desconto é lícito mesmo sem acordo.
+
+Omissões frente ao esperado
+
+Faltam as demais restrições do artigo, que os pontos esperados pedem “quando pertinentes”: o § 2º (vedação de coação ou induzimento para uso de armazém ou serviços mantidos pela empresa) e o § 3º (medidas da autoridade para preços razoáveis, sem intuito de lucro, quando os empregados não têm acesso a armazéns ou serviços alternativos).
+O caput diz que é vedado “qualquer desconto”. O texto poderia deixar claro que a regra é a vedação e que as hipóteses são exceções.
+
+Ruídos a cortar
+
+O link do Planalto não faz parte das fontes entregues, então a citação deveria ficar só em “Art. 462 (Fonte 1)”.
+A seção “Observação sobre limitações” é desnecessária. Falar em tipo de contrato, data de admissão e motivo do desligamento não tem relação com a pergunta.
+A oferta final pede dados como “se houve contrato de trabalho”, o que é óbvio e não ajuda.
+A Fundamentação repete a resposta direta.
+“O empregador é vedado efetuar” é erro de redação. O correto é “é vedado ao empregador efetuar”.",Laisa
+q_test_03,dfe1de3fc4ba8b3d318eb5fe300264c9630e08a958cd6eae09af507691f75a5d,2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e,resposta_original_do_modelo,reprovada,"s três números centrais estão certos, mas a resposta troca os parágrafos do art. 73, inverte o conteúdo do § 3º (25%, não 20%), confunde a LC 150 com a regra geral urbana e omite a ressalva de revezamento, os horários mistos e as prorrogações","Acréscimo mínimo de 20% sobre a hora diurna.
+Período noturno de 22h às 5h.
+Hora noturna de 52 min 30 s.
+A Lei 5.889/1973 é tratada como rural (25%) e afastada, o que é correto.",AJUSTAR E ADEQUAR A RESPOSTA DO REVISOR AO CONTEXTO DA RESPOSTA.,,,"Erros a corrigir
+
+Dispositivo errado para os 20%. O acréscimo está no caput do art. 73 da CLT, não no § 2º. O § 2º define o horário noturno (22h às 5h).
+Parágrafo errado para a hora de 52min30s. Ela está no § 1º do art. 73. A Fundamentação cita o § 2º, contradizendo o próprio início da resposta, que citava o § 1º.
+Descrição errada do § 3º, o erro mais grave. O § 3º diz que, para empresas que não mantenham, pela natureza de suas atividades, trabalho noturno habitual, o acréscimo é de 25% obrigatoriamente. A resposta diz que o cálculo usa “quantitativos pagos por trabalhos diurnos semelhantes” e que o mínimo de 20% se mantém, o que é invenção. A frase “desde que o trabalho noturno seja de natureza semelhante ao diurno” também não existe no texto.
+A hora reduzida “não altera o valor da remuneração” é incorreto. A hora ficta de 52min30s encurta a hora de trabalho noturno, o que na prática aumenta o ganho. Ela é um mecanismo distinto do adicional de 20%, e ambos se somam.
+A LC 150/2015 é tratada como regra do “trabalho urbano” em geral. Ela rege o empregado doméstico. A “Limitação” diz que não se aplica a domésticos “que não atuam em horários noturnos”, o que não faz sentido, porque quem trabalha à noite tem o adicional.
+
+Omissões frente aos pontos esperados
+
+Ressalva do caput do art. 73: “salvo nos casos de revezamento semanal ou quinzenal”. É a ressalva textual que o teste pede para registrar, sem validar sua aplicabilidade atual.
+Horários mistos (art. 73, § 4º): as horas noturnas recebem o tratamento do artigo, e na LC 150 as horas diurnas e noturnas são apuradas separadamente.
+Prorrogações (art. 73, § 5º): as prorrogações do trabalho noturno seguem as mesmas regras.
+Regra do empregado contratado só para o período noturno na LC 150, em que o acréscimo incide sobre o salário anotado na CTPS. Confirme esse ponto no § 3º do art. 14, porque estou citando de memória e a fonte não aparece aqui.
+
+Ruídos a cortar
+
+A resposta repete duas ou três vezes que o acréscimo incide sobre a hora diurna “e não sobre o salário mensal”. A distinção é confusa e não vem do texto legal.
+O bloco “Observação importante” e a “Limitação” são longos e misturam pontos que não têm relação com a pergunta.
+A oferta final de calcular o valor está aceitável, mas sem dados do caso ela não deveria insinuar um cálculo.",Laisa
+q_test_04,66c5118ad505e26161952b43c8321bf36503bad31777c9df5b8eaf5e5d728cb3,2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e,resposta_original_do_modelo,aprovada,"correta no conteúdo central. Eu enxugaria o texto, trocaria “por motivo de gravidez” por uma formulação neutra (estabilidade contra dispensa sem justa causa), corrigiria a relação entre o 391-A e o art. 25 da LC 150, e removeria as limitações genéricas.","A confirmação da gravidez no curso do contrato, inclusive durante o aviso prévio trabalhado ou indenizado, garante a estabilidade provisória do art. 10, II, “b”, do ADCT.
+O parágrafo único estende a regra ao empregado adotante com guarda provisória para fins de adoção, e a resposta o distingue do caput.
+A origem na Lei 12.812/2013 está correta.
+A LC 150/2015, art. 25, é usada para o doméstico: licença-maternidade de 120 dias e estabilidade.
+Não inventa a duração da estabilidade nem conclui direito individual, como os limites pedem.",AJUSTAR E ADEQUAR A RESPOSTA DO REVISOR AO CONTEXTO DA RESPOSTA.,,,"Imprecisões a ajustar
+
+“Impede que o empregador resolva o contrato por motivo de gravidez”. A estabilidade do ADCT protege contra a dispensa arbitrária ou sem justa causa, independentemente do motivo ou de o empregador saber da gravidez. Limitar à dispensa “por motivo de gravidez” estreita a regra.
+“Independentemente do período em que o aviso prévio estiver em vigor”. A redação do artigo é “ainda que durante o prazo do aviso prévio trabalhado ou indenizado”. Convém manter essa formulação, que é mais fiel e mais clara.
+“O Art. 391-A se aplica ao trabalho geral, incluindo o doméstico, conforme o Art. 25”. O doméstico tem regra própria no art. 25 da LC 150. O correto é dizer que o art. 25 prevê a mesma proteção para a doméstica, não que o 391-A se estende a ela por força do art. 25.
+Relação com o art. 391. Dizer que o 391-A “reforça e amplia” o art. 391 é interpretação. O 391 diz que a gravidez não é justo motivo para rescisão, e o 391-A trata do momento da confirmação, inclusive no aviso prévio. Vale descrever isso sem o juízo de valor. Além disso, a Fonte 3 (art. 391) não foi citada na lista de fontes.
+
+Ruídos a cortar
+
+A seção “Limitações” e a “Observação” final (sobre “dados pessoais”, “previsão de decisão judicial”, tipo de contrato, data de admissão) não têm relação com a pergunta.
+Os avisos sobre “justa causa” e “ausência de aviso prévio” são irrelevantes, e a oferta final de analisar caso específico é desnecessária.
+A Fundamentação repete a resposta direta.",Laisa
+q_test_05,c8458152fa54ac9a23cc7649bf13bb1c03f91780bd0366f6ee5970d047a42bf4,2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e,resposta_original_do_modelo,reprovada,,"Reconhece que as fontes entregues (Lei 8.212/1991 art. 21, CLT arts. 75-B e 444) são de direito brasileiro e não respondem sobre contrato de atleta nos EUA.
+Não aplica as regras brasileiras ao caso americano e não inventa valores nem decisões.",AJUSTAR E ADEQUAR A RESPOSTA MAIS ADEQUADA DO REVISOR AO CONTEXTO DA RESPOSTA,,"Parcialmente adequada. Chega à conclusão certa (as fontes não sustentam a resposta), mas pelo caminho errado, e inclui afirmações que o corpus não permite fazer.","Problemas a corrigir
+
+A frase de abertura está errada. “Essa não é uma pergunta ligada ao Direito do Trabalho” é falsa: é uma pergunta trabalhista, só que de outra jurisdição. A própria resposta se contradiz no final, ao oferecer ajuda com “Direito do Trabalho nos EUA”.
+Afirma regras americanas sem suporte no corpus. O limite pede para não inventar regras de jurisdição não coberta, e a resposta cita “Labor Code dos Estados Unidos”, NLRA e acordos da NFL e da NBA. Há três problemas:
+Não existe um “Labor Code” federal americano. Esse nome é de legislação estadual, como a da Califórnia.
+NFL e NBA não são futebol (soccer), de modo que a referência está fora do tema.
+Tudo isso vem de memória, não das fontes entregues.
+Não pede o que falta. Os pontos esperados incluem solicitar a fonte ou os dados ausentes. A resposta não pede a legislação ou o instrumento aplicável (por exemplo, o acordo coletivo da liga) e não pergunta o contexto: atleta brasileiro contratado por clube americano, clube brasileiro com atleta nos EUA, ou contrato regido por lei estrangeira?
+Não explica por que cada fonte não serve. As fontes tratam de contribuição previdenciária, teletrabalho e liberdade de estipulação contratual, e nenhuma trata de atleta profissional. Dizer isso mostra que a limitação é de cobertura do corpus, e não só de território.
+A oferta final está mal formulada. “Desde que a pergunta seja sobre esse tema” soa estranho, porque a pergunta já era sobre esse tema.
+
+Versão mais adequada, em resumo
+
+As fontes fornecidas (Lei 8.212/1991, art. 21; CLT, arts. 75-B e 444) tratam, respectivamente, de contribuição previdenciária, teletrabalho e liberdade de estipulação contratual. Nenhuma trata de contrato de atleta profissional, e todas são do direito brasileiro, então não dá para extrair delas as regras aplicáveis a um atleta de futebol nos EUA. Para responder, seria preciso a legislação ou o instrumento aplicável a esse caso e saber qual vínculo está em questão (por exemplo, atleta brasileiro com clube americano, ou o inverso).",Laisa
+q_test_06,43da6e92340d6cac4c4a45384e7e797f3b1e9caa392da3723a026726ac643a04,2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e,resposta_original_do_modelo,aprovada,,"A definição do caput: serviço efetivo é o período em que o empregado está à disposição, aguardando ou executando ordens.
+O § 1º (serviço militar e acidente do trabalho, para indenização e estabilidade) é distinguido das atividades particulares do § 2º, como os pontos esperados pedem.
+A lista do § 2º (incisos I a VIII) está correta, e o transcrito do início do § 2º confere com a lei.
+Não decide horas extras de caso concreto.",AJUSTAR E ADEQUAR A RESPOSTA MAIS ADEQUADA DO REVISOR AO CONTEXTO DA RESPOSTA,,"Parcialmente adequada. O esqueleto está certo (caput, § 1º e § 2º), mas há distorções do texto legal, afirmações sem base e a omissão da ressalva do caput.","Erros e imprecisões a corrigir
+
+“Apenas quando” na resposta direta. O caput não diz “apenas”. Ele define o que é serviço efetivo e ainda ressalva “salvo disposição especial expressamente consignada”. Essa ressalva é omitida, e os pontos esperados pedem que se observem as ressalvas do texto.
+O § 2º é descrito de forma imprecisa na resposta direta. Ele não trata do empregado “fora do trabalho”. Trata de quem, por escolha própria, busca proteção pessoal (insegurança nas vias públicas, más condições climáticas) ou entra ou permanece nas dependências da empresa para atividades particulares. A condição “quando não houver obrigatoriedade de realizar a troca na empresa” vale só para o inciso VIII (troca de roupa), mas na resposta direta ela parece valer para toda a lista.
+A consequência do § 2º foi dita de forma incompleta. O efeito é que o tempo excedente à jornada normal não é computado como período extraordinário, ainda que ultrapasse os 5 minutos do art. 58, § 1º. A resposta direta diz só que “não são computados como tempo à disposição”, e a menção ao limite de 5 minutos some.
+Invenção sobre o § 1º. O texto diz que isso afeta “férias, férias proporcionais, décimo terceiro e outros benefícios”. O dispositivo só diz indenização e estabilidade. O mesmo vale para a conclusão (“jornadas extras, férias e benefícios”).
+“Disposto a atender ordens” é paráfrase solta. O texto fala em aguardar ou executar ordens.
+Afirmação infundada sobre teletrabalho. Dizer que o art. 4º “não se aplica ao teletrabalho, pois trata de atividades presenciais” não tem base no artigo, que é regra geral. Quanto ao art. 75-B, cito de memória e recomendo conferir na fonte: o que ele traz é uma regra específica, a de que o tempo de uso de equipamentos e ferramentas digitais fora da jornada normal não é tempo à disposição, salvo previsão em acordo individual ou coletivo. Isso é diferente de “não aplicação do regime de tempo à disposição” ao teletrabalho em geral. Como a pergunta é só sobre o art. 4º, o melhor é cortar esse bloco.
+Autoavaliação indevida: “totalmente fundamentada nas evidências, sem suposições ou generalizações”. Dado o ponto 4 e o ponto 6, essa frase é falsa e deve sair.
+
+Ruído a cortar
+
+A “Limitação” e as duas “Observações” (tipo de contrato, data de admissão, motivo do desligamento) não têm relação com a pergunta.
+A conclusão repete a resposta direta e a Fundamentação.
+Fica estranho citar a Lei 14.442/2022 na lista de fonte do art. 4º.
+
+Versão resumida mais adequada
+
+Pelo caput do art. 4º, é serviço efetivo o período em que o empregado está à disposição do empregador, aguardando ou executando ordens, salvo disposição especial expressamente consignada. O § 1º manda computar, para fins de indenização e estabilidade, os períodos de afastamento por serviço militar e por acidente do trabalho. O § 2º dispõe que não é tempo à disposição, e portanto não é computado como período extraordinário o que exceder a jornada normal (ainda que passe de 5 minutos), quando o empregado, por escolha própria, busca proteção pessoal ou permanece nas dependências da empresa para atividades particulares, como práticas religiosas, descanso, lazer, estudo, alimentação, relacionamento social, higiene pessoal ou troca de roupa (esta, quando não houver obrigatoriedade de trocar na empresa).",Laisa
+q_test_07,39a8c7c0cf1c66bc8d3dfaa16a0a0b87b10df49f192e38c8488350f5d76c989f,2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e,resposta_original_do_modelo,aprovada,,"O que está certo
+
+A lista do § 2º do art. 457 (ajuda de custo, auxílio-alimentação, diárias, prêmios e abonos, ainda que habituais, não integram a remuneração).
+Os §§ 3º e 4º do art. 457 (conceito de gorjeta e de prêmio).
+As exclusões do § 2º do art. 458, os limites de 25% (habitação) e 20% (alimentação) do § 3º, a divisão do valor em habitação coletiva e a vedação de mais de uma família na mesma unidade (§ 4º).
+Não classifica pagamentos de caso concreto.",AJUSTAR E ADEQUAR A RESPOSTA MAIS ADEQUADA DO REVISOR AO CONTEXTO DA RESPOSTA,,"Parcialmente adequada. Os dispositivos certos estão ali e boa parte dos detalhes confere, mas a resposta mistura “salário” e “remuneração”, transforma uma proibição em condição e omite limites que o teste pede.","Erros e imprecisões a corrigir
+
+Confusão entre remuneração e salário, o ponto central do teste. O caput do art. 457 define remuneração como o salário pago diretamente pelo empregador, como contraprestação do serviço, mais as gorjetas recebidas. Quem integra o salário é o que o § 1º lista: importância fixa estipulada, gratificações legais e de função, e comissões. Gorjeta compõe a remuneração, não o salário. A resposta direta e a observação final agrupam gorjetas, comissões e gratificações como “parte do salário” ou “da remuneração” sem distinguir.
+O § 1º está incompleto. Faltam a “importância fixa estipulada” e as gratificações “de função”.
+Proibição tratada como condição. A resposta diz que as prestações in natura são salário “desde que não sejam bebidas alcoólicas ou drogas nocivas”. O caput diz que, em nenhum caso, é permitido o pagamento com bebidas alcoólicas ou drogas nocivas. Isso é uma vedação, não requisito para a parcela ser salário.
+O caput do art. 458 está incompleto. Falta dizer que as prestações in natura integram o salário quando fornecidas habitualmente “por força do contrato ou do costume”, além do pagamento em dinheiro.
+Limite omitido. O § 1º do art. 458 exige valores justos e razoáveis, sem exceder os percentuais das parcelas componentes do salário mínimo (arts. 81 e 82). É um dos limites que o teste espera ver explicados.
+Qualificadores do § 2º do art. 457 omitidos. O auxílio-alimentação tem a ressalva “vedado seu pagamento em dinheiro”, e as diárias são “para viagem”.
+Efeito do § 2º dito de forma parcial. O texto diz que essas parcelas não integram a remuneração, não se incorporam ao contrato e não são base de incidência de “qualquer encargo trabalhista e previdenciário”. A resposta fala em “encargos trabalhistas e previdenciários” no primeiro tópico e só em “contribuições previdenciárias” no segundo. O “pois” também inverte a relação: o texto declara a consequência, não dá uma razão.
+Efeito inventado. Dizer que gorjetas, gratificações e comissões entram “no cálculo de encargos trabalhistas e previdenciários” não consta do texto do art. 457. O que consta é “para todos os efeitos legais”.
+O § 5º do art. 458 está estreitado. Ele diz que a assistência médica ou odontológica não integra o salário “para qualquer efeito” nem o salário de contribuição. A resposta restringe aos efeitos previdenciários.
+A observação final generaliza. “Apenas certas prestações in natura são consideradas parte do salário” não está no texto. O caput abrange alimentação, habitação, vestuário e “outras prestações in natura”, e as exclusões vêm do § 2º.
+
+Sobre os parágrafos de gorjeta: o art. 457 tem outros parágrafos sobre gorjetas, que incluí de memória e preciso que você confira (§§ 12 a 17, da Lei 13.419/2017, sobre distribuição e retenção). Se a Fonte 2 trouxer esses parágrafos, vale uma linha, já que o teste pede distinguir gorjetas.
+
+Ruídos a cortar
+
+A “Limitação” (tipo de contrato, data de admissão, motivo do desligamento) não tem relação com a pergunta, e a oferta final de analisar caso concreto é desnecessária.
+A Fundamentação repete a resposta direta, e a observação final repete as duas.
+
+Versão resumida mais adequada
+
+O art. 457 define remuneração como o salário pago diretamente pelo empregador, como contraprestação do serviço, mais as gorjetas recebidas (caput). Integram o salário a importância fixa estipulada, as gratificações legais e de função e as comissões (§ 1º). Ainda que habituais, ajuda de custo, auxílio-alimentação (vedado em dinheiro), diárias para viagem, prêmios e abonos não integram a remuneração, não se incorporam ao contrato e não são base de encargo trabalhista ou previdenciário (§ 2º); os §§ 3º e 4º definem gorjeta e prêmio. O art. 458 inclui no salário, além do dinheiro, a alimentação, a habitação, o vestuário e outras prestações in natura fornecidas habitualmente por força do contrato ou do costume, sendo vedado em qualquer caso o pagamento com bebidas alcoólicas ou drogas nocivas. Os valores devem ser justos e razoáveis, sem exceder os percentuais do salário mínimo (§ 1º). Não são salário as utilidades do § 2º (equipamentos de trabalho, educação, transporte para o trabalho, assistência médica e odontológica, seguros, previdência privada e vale-cultura). Habitação e alimentação como salário-utilidade ficam limitadas a 25% e 20% do salário contratual (§ 3º), com as regras de habitação coletiva do § 4º.",Laisa
+q_test_08,e163fa0869401b4bd6075ec23ef1b3ca7c9846a1b1397b58ef2757439e847479,2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e,resposta_original_do_modelo,aprovada,,"O que está certo
+
+Os incisos I a XII, com seus prazos principais: 2 dias (falecimento), 3 dias (casamento), 5 dias (nascimento, adoção ou guarda compartilhada), 1 dia a cada 12 meses (doação de sangue), até 2 dias (alistamento eleitoral), serviço militar, vestibular, comparecimento a juízo, 1 dia por ano (filho de até 6 anos em consulta) e até 3 dias a cada 12 meses (exames preventivos de câncer).
+O § 1º: o prazo do inciso III conta a partir do nascimento do filho.
+O § 2º: 20 dias quando houver criança com deficiência permanente decorrente de síndrome congênita associada ao Zika.
+Não cria dispensas nem amplia prazos além do que lista.",AJUSTAR E ADEQUAR A RESPOSTA MAIS ADEQUADA DO REVISOR AO CONTEXTO DA RESPOSTA,,"Parcialmente adequada. A lista dos 12 incisos está, em geral, correta e bate com o que encontrei sobre o texto vigente. Mas há erros em um inciso, em referências cruzadas e em atribuições de leis, e falta destacar a hipótese especial do § 2º na resposta direta.","O art. 473 da CLT permite que o empregado deixe de comparecer ao serviço sem prejuízo do salário nas seguintes hipóteses:
+
+Falecimento de cônjuge, ascendente, descendente, irmão ou pessoa que viva sob sua dependência econômica: até 2 dias consecutivos [conferir se o texto exige que o dependente esteja declarado na CTPS].
+Casamento: até 3 dias consecutivos.
+Nascimento de filho, adoção ou guarda compartilhada: 5 dias consecutivos.
+Doação voluntária de sangue, devidamente comprovada: 1 dia a cada 12 meses de trabalho.
+Alistamento eleitoral: até 2 dias, consecutivos ou não.
+Serviço Militar: pelo período necessário ao cumprimento das exigências.
+Vestibular: nos dias em que estiver comprovadamente realizando provas de exame vestibular para ingresso em estabelecimento de ensino superior.
+Comparecimento a juízo: pelo tempo necessário.
+Representação sindical: pelo tempo necessário, quando, como representante de entidade sindical, participar de reunião oficial de organismo internacional do qual o Brasil seja membro.
+Gravidez da esposa ou companheira: para acompanhá-la em consultas médicas e exames complementares durante a gestação [conferir o limite numérico previsto no texto].
+Filho de até 6 anos: 1 dia por ano, para acompanhá-lo em consulta médica.
+Exames preventivos de câncer, devidamente comprovados: até 3 dias a cada 12 meses de trabalho.
+
+Parágrafos sobre nascimento:
+
+§ 1º: o prazo do inciso III conta a partir da data do nascimento do filho.
+§ 2º: o prazo do inciso III é ampliado para 20 dias quando o nascimento ou a adoção envolver criança com deficiência permanente decorrente de síndrome congênita associada ao vírus Zika.
+
+Ressalva: esta resposta descreve o texto do art. 473 conforme o snapshot do corpus. A legislação posterior já prevê nova alteração do artigo, inclusive do § 1º (Lei 15.371/2026, com vigência prevista para 01/01/2027), então o texto pode mudar depois dessa data.",Laisa
+q_test_neg_02,e2d39e28f58cdc0a4944969b5ba15bc0b1137fac21cf01c2e846c0aa860b85ab,2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e,resposta_original_do_modelo,reprovada,,"Não inventa fundamento, valor ou decisão.
+Reconhece que não consegue responder e oferece ajuda condicionada a mais informações.",AJUSTAR E ADEQUAR A RESPOSTA MAIS ADEQUADA DO REVISOR AO CONTEXTO DA RESPOSTA,,"Parcialmente adequada. A conclusão (não dá para identificar o fundamento) está certa, mas o motivo apresentado está errado, e a resposta não pede o que realmente falta.","Versão mais adequada
+
+Não consigo dizer qual foi o fundamento da sentença, porque não tenho acesso ao seu processo: não foram informados o número nem o teor da decisão, e as fontes que recebi são dispositivos gerais do Código de Processo Civil (por exemplo, o art. 203, que define sentença, decisão interlocutória e despacho), que não dizem nada sobre o seu caso. Se você colar aqui a sentença, ou ao menos o trecho da fundamentação, posso ajudar a identificar e explicar os argumentos usados pelo juiz. Também ajuda saber em que Justiça o processo tramita (trabalhista, cível etc.), para indicar quais normas costumam embasar esse tipo de decisão.",Laisa

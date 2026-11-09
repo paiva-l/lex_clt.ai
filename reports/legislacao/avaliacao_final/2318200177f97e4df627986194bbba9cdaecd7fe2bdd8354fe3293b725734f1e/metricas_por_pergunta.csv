@@ -1,0 +1,10 @@
+query_id,rotulo_resposta,status_execucao,fontes_entregues,caracteres_contexto,hit,recall,mrr,ndcg,cobertura_evidencias,tokens_entrada,tokens_saida,tempo_total_observado_ms,tempo_geracao_servidor_ms,cache_hit,recuperacao_cache_hit,alertas_formais
+q_test_01,respondível,concluida,3,5962,1.0,1.0,1.0,1.0,1.0,3838,686,193591.4369999955,17617.709,False,False,0
+q_test_02,respondível,concluida,3,8614,1.0,1.0,1.0,1.0,1.0,4794,843,250674.75889998605,23532.888,False,False,0
+q_test_03,respondível,concluida,3,2958,1.0,1.0,1.0,1.0,1.0,2705,1061,159707.23870000802,28830.993,False,False,0
+q_test_04,respondível,concluida,3,2103,1.0,1.0,1.0,1.0,1.0,2512,979,190379.5769000135,26538.188,False,False,0
+q_test_05,sem_resposta,concluida,3,9190,,,,,,5116,310,252532.70390001126,10983.943,False,False,1
+q_test_06,respondível,concluida,3,7298,1.0,1.0,1.0,1.0,1.0,4262,1253,241571.12989999587,41429.862,False,False,0
+q_test_07,respondível,concluida,2,4659,1.0,1.0,1.0,1.0,1.0,3218,1125,243539.96250001364,33155.180999,False,False,1
+q_test_08,respondível,concluida,3,6648,1.0,1.0,1.0,1.0,1.0,4049,1610,289414.73889999907,48286.771,False,False,0
+q_test_neg_02,sem_resposta,concluida,3,2041,,,,,,2576,322,233817.32790000387,9785.425,False,False,1

@@ -1,0 +1,8 @@
+# Preserve the exact bytes checked by the frozen evaluation hashes.
+data/chunks/legislacao/chunks_A_artigo.json -text
+data/chunks/legislacao/chunks_D_paragrafo_completo.json -text
+src/rag/workflow_07.py -text
+src/rag/presentation_07.py -text
+src/storage/pgvector_store.py -text
+src/storage/parent_documents.py -text
+data/evaluation/legislacao/teste_congelado.json -text

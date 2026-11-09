@@ -1,0 +1,21 @@
+query_id,resultado_referencia,candidatos
+q_dev_01,Localizado,1
+q_dev_02,Localizado,1
+q_dev_03,Localizado,1
+q_dev_04,Localizado,1
+q_dev_05,Localizado,1
+q_dev_neg_01,Negativo proposto; ausência de suporte ainda não validada,0
+q_dev_neg_02,Negativo proposto; ausência de suporte ainda não validada,0
+q_test_01,Localizado,1
+q_test_02,Localizado,1
+q_test_03,Localizado,1
+q_test_04,Localizado,1
+q_test_05,Negativo proposto; ausência de suporte ainda não validada,0
+q_dev_06,Localizado,1
+q_dev_07,Localizado,1
+q_dev_08,Localizado,1
+q_dev_neg_03,Negativo proposto; ausência de suporte ainda não validada,0
+q_test_06,Localizado,1
+q_test_07,Localizado,1
+q_test_08,Localizado,1
+q_test_neg_02,Negativo proposto; ausência de suporte ainda não validada,0

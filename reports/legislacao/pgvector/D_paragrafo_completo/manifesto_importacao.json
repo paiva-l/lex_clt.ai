@@ -1,0 +1,14 @@
+{
+  "model": "BAAI/bge-m3",
+  "strategy": "D_paragrafo_completo",
+  "dimensions": 1024,
+  "chunk_count": 10971,
+  "cache_key": "d47b344618e40544062fabe978c9f65e8c996b9915ef5d6393961f7580a71a21",
+  "chunks_sha256": "95e5bc502de3d78d4394bebd671578f348f14db58830dca8d0130216484133c1",
+  "vectors_sha256": "9574687fd704047b863085b5650a3d10644ea3b6c3dc44a30d8db8787a715bcb",
+  "ordered_mapping_sha256": "86947f9adc0e11067a5055c1022b779cf4007ee8d03583e90ec9400912f7ef7e",
+  "model_config_sha256": "cf56514950c02edad3710742f37e36976694688013ab5b4dd89aa374f3ac4b73",
+  "correspondence": "row i do cache corresponde ao chunk i do JSON cuja SHA-256 compõe a chave original",
+  "embeddings_recomputed": false,
+  "dataset_id": "036e49f3a30a99ea706fce9be2f8301aabf5817c81e9f700535753b046657313"
+}

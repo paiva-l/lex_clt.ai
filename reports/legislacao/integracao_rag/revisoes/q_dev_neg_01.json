@@ -1,0 +1,16 @@
+{
+  "query_id": "q_dev_neg_01",
+  "status_revisao": "aprovada_por_revisor",
+  "decisao_original": "Aprovada por Laisa.",
+  "revisor": "Laisa",
+  "data_revisao": null,
+  "exportado_em_utc": "2026-11-09T05:52:05.501559+00:00",
+  "motivo": "",
+  "resposta_referencia_revisada": "",
+  "acao": "",
+  "resposta_original_sha256": "6ac19fff0a0ac52fc799a3939d3ce23b897b3d75840e2c365d3a39b26c88e1ad",
+  "review_markdown": "**Execução:** concluida · **Revisão jurídica:** Aprovada por Laisa.\n\n",
+  "celula_markdown_original": "### 06. Pergunta — `q_dev_neg_01`\n\nQuais são as regras de tributação do imposto de renda para lucros e dividendos de empresas S.A. no Brasil?\n\n**Execução:** concluida · **Revisão jurídica:** Aprovada por Laisa.\n\n**Resposta gerada**\n\nEssa não é uma pergunta ligada ao Direito do Trabalho.\n\nA pergunta solicitada trata sobre **regras de tributação do imposto de renda para lucros e dividendos de empresas S.A. no Brasil**, o que pertence ao **Direito Tributário**, não ao Direito do Trabalho.\n\nPortanto, a resposta correta é:\n\n> **Essa não é uma pergunta ligada ao Direito do Trabalho.**\n\n---\n\nSe você quiser que eu analise a questão de **tributação de lucros e dividendos de empresas S.A.**, posso ajudar com base em fontes de Direito Tributário — como a Constituição Federal, a Lei nº 10.101/2000 (Lei das Participações nos Lucros) e outras normas tributárias — **mas isso está fora do escopo do Direito do Trabalho**.\n\nSe desejar, posso redirecionar a resposta para o Direito Tributário com base nas fontes disponíveis. Deseja continuar com essa análise?\n\n---\n\n**Fontes entregues ao modelo**\n\n- **[Fonte 1]** Art. 3º — `leis/2000/lei-10101-2000.md`.\n- **[Fonte 2]** Art. 149-B — `constituicao/constituicao-1988.md`.\n\n**Alertas formais:** `sem_citacao_explicita_revisar`.\n\n**Artigos omitidos pelo orçamento:** 1.\n\n**Tokens:** 2764 de entrada · 238 de saída.\n",
+  "celula_sha256": "8625bc8c107c97fa8215ea1e8dc7355d4cc40d527e1e3fa7e7f7024b805258db",
+  "origem": "anotacao_manual_no_notebook"
+}

@@ -1,0 +1,678 @@
+query_id,pergunta,status_execucao,artigos_omitidos_orcamento,resposta,tokens_entrada,tokens_saida,cache_hit,cache_key,tempo_chamada_ms,tempo_geracao_servidor_ms,done_reason,fontes_citadas,fontes_inexistentes,alertas_formais,citacoes_formato_alternativo,revisao_juridica,rotulo_resposta_esperado,tipo_pergunta
+q_dev_01,"Qual é a duração normal diária do trabalho para os empregados em geral, segundo a CLT?",concluida,[],"A duração normal diária do trabalho para os empregados em geral, segundo a CLT, é de **oito horas diárias**.
+
+Esse limite é estabelecido no **Artigo 58**, do Título II – Das Normas Gerais de Tutela do Trabalho, do Capítulo II – Da Duração do Trabalho, da Seção II – Da Jornada de Trabalho, da CLT (Decreto-Lei nº 5.452/1943), que diz:
+
+> ""A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite."" [Fonte 1]
+
+Esse artigo se aplica a todos os empregados em atividades privadas, exceto nos casos específicos previstos em outras normas da CLT, como os bancários (Art. 224) ou os jornalistas profissionais (Art. 303), que têm jornadas distintas.
+
+Portanto, **para os empregados em geral**, sem exceção específica, a jornada normal diária é de **oito horas**.
+
+⚠️ **Limitação importante**:  
+Essa resposta se baseia apenas na norma geral do Art. 58 da CLT. Caso o empregado esteja em um setor específico (como bancos ou jornalismo), a jornada pode ser diferente, conforme previsto em outros artigos (como o Art. 224 ou Art. 303).  
+No entanto, como a pergunta se refere a ""empregados em geral"", a resposta deve seguir a regra geral da CLT.
+
+Se o usuário quiser, posso ajudar a analisar casos específicos com base em setores ou funções, desde que forneça mais detalhes (ex: tipo de cargo, setor, atividade).  
+
+Não há evidência de jurisprudência relevante para essa pergunta no contexto fornecido. A resposta se sustenta apenas na legislação (Art. 58 da CLT).",2519,478,True,bf44e498ebd38482f3669a91b2027854207c3ad059e0e9ea655341b7c9b7dfbc,0.23939999664435163,6230.244,stop,"[""Fonte 1""]",[],[],[],pendente,respondível,Direta
+q_dev_02,Como o art. 130 da CLT relaciona a duração das férias às faltas ao serviço no período aquisitivo?,concluida,[],"O **Art. 130 da CLT** estabelece uma relação direta entre o número de **faltas ao serviço** no período aquisitivo e a **duração das férias anuais** do empregado.
+
+Vamos explicar isso de forma simples, com base **exclusivamente nas evidências fornecidas**:
+
+---
+
+### 🔹 Como o Art. 130 relaciona a duração das férias às faltas ao serviço?
+
+O artigo define que, após cada período de 12 meses de trabalho (período aquisitivo), o empregado tem direito a férias, **mas a duração dessas férias varia conforme o número de faltas ao serviço** durante esse período.
+
+Essa relação é descrita nos **incisos I a IV** do artigo:
+
+- **I – 30 dias corridos**, se **não houver mais de 5 faltas**.  
+  → O empregado tem direito a 30 dias de férias se faltou ao serviço **5 vezes ou menos**.
+
+- **II – 24 dias corridos**, se houver **de 6 a 14 faltas**.  
+  → A cada falta acima de 5, a duração das férias diminui: 24 dias para 6 a 14 faltas.
+
+- **III – 18 dias corridos**, se houver **de 15 a 23 faltas**.  
+  → A cada 6 faltas adicionais, a quantidade de dias de férias cai.
+
+- **IV – 12 dias corridos**, se houver **de 24 a 32 faltas**.  
+  → O limite máximo de faltas para receber 12 dias de férias é 32.
+
+> ⚠️ **Importante**: O artigo **proíbe descontar as faltas do período de férias** (§1º). Ou seja, mesmo que o empregado tenha faltado, **não se desconta esse tempo das férias**.
+
+> ✅ Além disso, o período de férias **é computado como tempo de serviço** (§2º), o que significa que ele conta para o cálculo de outros direitos, como aposentadoria ou avanço de carreira.
+
+---
+
+### 🔍 Fonte da afirmação:
+- **[Fonte 1]** – Art. 130 da CLT (com redação do Decreto-Lei nº 1.535/1977), que define a proporção das férias com base no número de faltas.
+
+---
+
+### ❗ Limitações importantes:
+
+1. **Não há informação sobre o período aquisitivo específico** (ex: quando começou o trabalho, qual foi o período de 12 meses).  
+   → Para aplicar o Art. 130, é necessário saber **quando o empregado começou a trabalhar** e **quais foram as faltas registradas nos 12 meses anteriores**.
+
+2. **O artigo não diz que as faltas devem ser registradas ou comprovadas**.  
+   → A ausência de faltas é considerada apenas se **não houver registros** ou se **a ausência for justificada** (como nos incisos do Art. 131).
+
+3. **O Art. 131** (que está na mesma seção) **exclui certas ausências de contar como faltas**, como:
+   - Licenciamento maternidade;
+   - Acidente do trabalho;
+   - Suspensão preventiva;
+   - Dias sem serviço (exceto em casos específicos).
+
+   → Isso significa que **algumas ausências não contam como faltas**, e, portanto, **não afetam a duração das férias**.
+
+---
+
+### ✅ Conclusão:
+
+O **Art. 130 da CLT** **relaciona a duração das férias ao número de faltas ao serviço** no período de 12 meses. Quanto mais faltas, menor o número de dias de férias (de 30 para 12 dias).  
+Mas **esse cálculo só se aplica se as faltas forem registradas e não forem justificadas** (como nos casos do Art. 131).
+
+---
+
+### 📌 Dica para o usuário:
+Se você quer saber **se o empregado tem direito a férias com 30 dias ou 12 dias**, é necessário saber:
+- O **período aquisitivo** (ex: de 1º de janeiro de 2023 a 31 de dezembro de 2023);
+- O **número total de faltas** nesse período;
+- Se **algumas ausências foram justificadas** (ex: maternidade, doença, acidente).
+
+Se essas informações não estiverem disponíveis, **não é possível determinar com certeza a duração das férias**.
+
+---
+
+Se você puder fornecer:
+- A **data de admissão** do empregado;
+- O **número de faltas** no período de 12 meses;
+- Se houve **ausências justificadas** (como maternidade, doença, etc.),
+
+... posso ajudar a calcular a duração das férias com base no Art. 130.
+
+Até lá, a resposta está **baseada apenas na norma**, como solicitado.",3434,1257,True,0358125e7bb27b3c91845d38b0462111f969722d3880add0665abd24b3372f40,0.19079999765381217,19017.236,stop,"[""Fonte 1""]",[],[],[],pendente,respondível,Direta
+q_dev_03,Quais são as hipóteses em que o empregado pode rescindir o contrato de trabalho por justa causa do empregador (rescisão indireta)?,concluida,[],"A pergunta faz referência à **rescisão indireta do contrato de trabalho por justa causa do empregador**, ou seja, quando o empregado **rescinde o contrato por motivos que o empregador cometeu**, e não por atos do próprio empregado.
+
+No entanto, **a legislação brasileira não prevê que o empregado possa rescindir o contrato de trabalho por justa causa do empregador** — o que seria uma **rescisão indireta** — como forma de direito do empregado. Na verdade, o que a legislação prevê é que **o empregador pode rescindir o contrato por justa causa**, e que **o empregado pode rescindir o contrato por motivos que o empregador cometeu**, mas **não por ""justa causa do empregador""**, como se fosse uma causa válida para rescisão do empregado.
+
+Vamos analisar com base nas fontes fornecidas:
+
+---
+
+### 🔍 Análise jurídica com base nas fontes:
+
+#### 1. **Art. 482 da CLT** – Define **quais atos do empregado constituem justa causa para rescisão do contrato pelo empregador**.
+
+- Este artigo **não permite que o empregado rescinda o contrato por justa causa do empregador**.
+- Ele lista **atos do empregado** (como improbidade, desídia, jogos de azar, etc.) que **justificam a rescisão do empregador**.
+- Portanto, **não há hipóteses em que o empregado pode rescindir o contrato por justa causa do empregador** — porque o conceito de ""justa causa"" é aplicado ao empregado, não ao empregador.
+
+➡️ **Fonte 1 – Art. 482**  
+→ **Não aplica-se** à rescisão do empregado por justa causa do empregador.
+
+---
+
+#### 2. **Art. 27 da Lei Complementar 150/2015** – Regula o contrato de trabalho doméstico.
+
+- Este artigo **define justas causas para o empregado doméstico** (ex: maus tratos, embriaguez, abandono, etc.), mas **não permite que o empregado rescinda o contrato por justa causa do empregador**.
+- Ele prevê que o empregado pode rescindir o contrato **quando o empregador comete atos lesivos**, como:
+  - Exigir serviços superiores às forças do empregado;
+  - Tratar com rigor excessivo;
+  - Ofender fisicamente;
+  - Praticar atos lesivos à honra ou à boa fama.
+
+➡️ **Fonte 2 – Art. 27**  
+→ **Permite que o empregado rescinda o contrato por atos do empregador**, mas **não por ""justa causa do empregador""** — e sim por **condutas do empregador que violam direitos do empregado**.
+
+---
+
+#### 3. **Art. 483 da CLT** – Define **quando o empregado pode rescindir o contrato**.
+
+- Este artigo **permite ao empregado rescindir o contrato** em situações em que o empregador comete atos lesivos, como:
+  - Exigir serviços superiores às forças do empregado;
+  - Tratar com rigor excessivo;
+  - Correr perigo manifesto de mal considerável;
+  - Não cumprir obrigações do contrato;
+  - Praticar atos lesivos à honra ou à boa fama;
+  - Ofender fisicamente.
+
+➡️ **Fonte 3 – Art. 483**  
+→ **É a única fonte que permite ao empregado rescindir o contrato por atos do empregador**.
+
+---
+
+### ✅ Resposta direta à pergunta:
+
+**O empregado não pode rescindir o contrato de trabalho por ""justa causa do empregador""**, pois **o conceito de ""justa causa"" é aplicado ao empregado**, não ao empregador.
+
+No entanto, **o empregado pode rescindir o contrato de trabalho por atos do empregador que violam direitos fundamentais**, como:
+
+- Exigir serviços superiores às forças do empregado (art. 483, a);
+- Tratar com rigor excessivo (art. 483, b);
+- Ofender fisicamente (art. 483, f);
+- Não cumprir obrigações do contrato (art. 483, d);
+- Praticar atos lesivos à honra ou à boa fama (art. 483, e).
+
+Essas situações **não são chamadas de ""justa causa do empregador""**, mas sim **condutas do empregador que violam o direito do empregado**, e que **justificam a rescisão do empregado**.
+
+---
+
+### 📌 Conclusão:
+
+> **Não há hipóteses em que o empregado pode rescindir o contrato de trabalho por ""justa causa do empregador""**, pois o conceito de justa causa se aplica ao empregado, não ao empregador.
+
+O que a CLT permite é que o **empregado rescinda o contrato por atos do empregador que violam direitos fundamentais**, como exigir serviços excessivos, tratar com rigor excessivo ou ofender fisicamente.
+
+➡️ **Fonte 3 – Art. 483** é a única que prevê essa possibilidade.
+
+---
+
+### ⚠️ Limitações importantes:
+
+- A **rescisão indireta** (por atos do empregador) **não é chamada de ""justa causa""** — é um direito do empregado para rescindir o contrato por violação de direitos.
+- A **prescrição** (prazo para ação) pode ser relevante: **a CLT não estabelece um prazo específico para a rescisão por atos do empregador**, mas **a ação pode ser prescrida** (ex: 2 anos, conforme o art. 483, § 3º, que permite suspensão ou rescisão até decisão do processo).
+- **Não há evidência de que a prescrição seja aplicável a todas as situações** — isso depende do contexto e da data de início do ato.
+
+---
+
+### ✅ Resposta final (simples e com fonte):
+
+> O empregado **não pode rescindir o contrato por justa causa do empregador**, pois o conceito de justa causa se aplica ao empregado.  
+>  
+> No entanto, o empregado **pode rescindir o contrato por atos do empregador que violam direitos**, como exigir serviços superiores às forças, tratar com rigor excessivo ou ofender fisicamente.  
+>  
+> Essas hipóteses estão previstas no **Art. 483 da CLT**.  
+>  
+> ⚠️ Importante: ""Justa causa"" não é um direito do empregado para rescindir o contrato — é um direito do empregador para rescindir o contrato por atos do empregado.
+
+[Fonte 3 – Art. 483]",3050,1682,True,90631bc946dab5b9887117e4690ed7e1d1c1ef602a4405756d9b23ea7b34d398,0.2586999980849214,25940.481,stop,"[""Fonte 3""]",[],"[""formato_citacao_diferente_do_solicitado""]","[""[Fonte 3 – Art. 483]""]",pendente,respondível,Complexa
+q_dev_04,Como deve ser formalizado o pagamento das verbas rescisórias e quais são os prazos legais?,concluida,[],"Para responder à sua pergunta sobre **como deve ser formalizado o pagamento das verbas rescisórias** e **quais são os prazos legais**, vamos analisar as evidências disponíveis e explicar com clareza, usando linguagem simples e vinculando cada afirmação à fonte correspondente.
+
+---
+
+### ✅ **1. Como deve ser formalizado o pagamento das verbas rescisórias?**
+
+O pagamento das verbas rescisórias deve ser feito de forma **específica e clara**, com os seguintes requisitos:
+
+- **O instrumento de rescisão ou recibo de quitação** deve especificar **a natureza de cada parcela** paga ao empregado e **discriminar o valor de cada uma**.  
+  → Isso significa que não basta apenas dizer ""pagamos o que deveria ser pago"", mas deve haver uma lista detalhada das verbas (como salário, férias, 13º, etc.) e seus valores.  
+  [Fonte 1, § 2º]
+
+- O pagamento pode ser feito **em dinheiro, depósito bancário ou cheque visado**, conforme **acordo entre as partes**.  
+  → O empregador e o empregado podem escolher o meio de pagamento, desde que esteja acordado.  
+  [Fonte 1, § 4º, I]
+
+- **Se o empregado for analfabeto**, o pagamento deve ser feito **em dinheiro ou depósito bancário**, pois não é permitido o uso de documentos escritos.  
+  [Fonte 1, § 4º, II]
+
+- **Qualquer compensação** (como desconto ou acréscimo) no pagamento das verbas **não pode exceder o equivalente a um mês de remuneração** do empregado.  
+  → Isso impede que o empregador faça descontos excessivos ou acréscimos abusivos.  
+  [Fonte 1, § 5º]
+
+> ⚠️ **Importante**: A **quitação é válida apenas para as parcelas especificadas** no instrumento. Se o empregado não vê o detalhamento, não pode exigir o pagamento de algo que não esteja escrito.  
+> [Fonte 1, § 2º]
+
+---
+
+### ✅ **2. Quais são os prazos legais para o pagamento e entrega dos documentos?**
+
+O empregador tem **obrigação de entregar documentos e efetuar o pagamento dentro de um prazo específico**:
+
+- A **entrega dos documentos** que comprovam a **comunicação da extinção do contrato** aos órgãos competentes (como a Carteira de Trabalho e Previdência Social) e o **pagamento das verbas** deve ocorrer **até dez dias contados a partir do término do contrato**.  
+  → Isso inclui o recibo de quitação e a anotação na Carteira de Trabalho e Previdência Social.  
+  [Fonte 1, § 6º]
+
+> ⚠️ **Se o empregador não cumprir esse prazo**, será **multado**:
+> - Em **160 unidades do valor do BTN (Bolsa de Trabalho)** por trabalhador;
+> - E também deverá pagar **uma multa equivalente ao salário do empregado**, corrigido pelo índice de variação do BTN, **salvo se o empregado causar a mora**.  
+> [Fonte 1, § 8º]
+
+---
+
+### ✅ **3. O que acontece se houver controvérsia sobre o montante das verbas?**
+
+Se houver **controvérsia sobre o valor das verbas rescisórias**, o empregador **deve pagar à data do comparecimento à Justiça do Trabalho** a **parte incontroversa** das verbas.  
+→ Se não pagar, será **acrescida uma multa de 50%** sobre o valor da parte em causa.  
+[Fonte 2, Art. 467]
+
+> ⚠️ Isso significa que, mesmo que haja desacordo sobre o valor total, o empregador **não pode deixar de pagar o que é claro e aceito** (ex: salário, férias, 13º), sob pena de multa.
+
+---
+
+### ✅ **4. Caso especial: empregado com banco de horas**
+
+Se o empregado estiver em **regime de banco de horas**, há uma regra específica:
+
+- Se a **demissão for por iniciativa do empregado** e o empregado **não puder compensar a jornada**, as horas acumuladas **serão descontadas das verbas rescisórias**.  
+- Se a **demissão for por iniciativa do empregador**, as horas **serão pagas junto com as verbas rescisórias**.  
+[Fonte 3, Art. 9º]
+
+> ⚠️ Essa regra **aplica-se apenas a empregados em regime de banco de horas**, e não é geral para todos os trabalhadores.
+
+---
+
+### 🔍 **Limitações e pontos importantes**
+
+- **As regras acima se aplicam a todos os casos de rescisão**, desde que o contrato tenha sido firmado com base na CLT (Lei do Trabalho).
+- **Não há menção ao tipo de rescisão** (por justa causa, por falta de acordo, por demissão sem justa causa, etc.) nas fontes, então **não é possível afirmar se há diferença de tratamento** entre os motivos.
+- **Falta informação sobre a data de admissão, o tipo de contrato, ou o motivo da rescisão**.  
+  → Isso tornaria necessário **esclarecer** se o empregado está em regime de banco de horas, se foi demitido por justa causa, se é analfabeto, etc.
+
+---
+
+### ❓ **Perguntas necessárias para uma resposta mais precisa**
+
+Para responder com segurança ao caso específico do seu empregado, **preciso saber**:
+
+1. **O tipo de rescisão** (ex: por justa causa, por demissão sem justa causa, por acordo, etc.)?
+2. **O empregado está em regime de banco de horas?**
+3. **O empregado é analfabeto?**
+4. **Qual é a data do término do contrato?**
+5. **O que foi acordado entre as partes sobre o pagamento (dinheiro, depósito, etc.)?**
+
+> Sem essas informações, **não é possível afirmar com certeza** como o pagamento deve ser feito ou se há alguma exceção.
+
+---
+
+### ✅ **Resumo final (com fontes)**
+
+| Ponto | Detalhe | Fonte |
+|------|--------|------|
+| Formatação do pagamento | O instrumento de rescisão deve especificar a natureza e valor de cada verba | [Fonte 1, § 2º] |
+| Meios de pagamento | Dinheiro, depósito bancário ou cheque visado (acordo das partes) | [Fonte 1, § 4º, I] |
+| Pagamento a analfabetos | Em dinheiro ou depósito bancário | [Fonte 1, § 4º, II] |
+| Limite de compensação | Não pode exceder um mês de remuneração | [Fonte 1, § 5º] |
+| Prazo para entrega | Até **dez dias após o término do contrato** | [Fonte 1, § 6º] |
+| Multa por atraso | 160 BTN por trabalhador + multa equivalente ao salário (se não for culpa do empregado) | [Fonte 1, § 8º] |
+| Controvérsia sobre verbas | Parte incontroversa deve ser paga à data do comparecimento à Justiça do Trabalho | [Fonte 2, Art. 467] |
+| Banco de horas | Horas não compensadas são descontadas ou pagas conforme o motivo da rescisão | [Fonte 3, Art. 9º] |
+
+---
+
+Se você puder fornecer os dados específicos do caso (como tipo de rescisão, regime de trabalho, etc.), posso dar uma análise ainda mais direcionada.  
+Até lá, esta é a **resposta jurídica com base nas fontes disponíveis**.",2956,1920,True,5710cc091f9c19edd7282af48fbc7f704b2c01b9f66818b870220de1d4a48bcf,0.2814999970723875,29844.338,stop,"[""Fonte 1"", ""Fonte 2"", ""Fonte 3""]",[],"[""formato_citacao_diferente_do_solicitado""]","[""[Fonte 1, § 2º]"", ""[Fonte 1, § 4º, I]"", ""[Fonte 1, § 4º, II]"", ""[Fonte 1, § 5º]"", ""[Fonte 1, § 2º]"", ""[Fonte 1, § 6º]"", ""[Fonte 1, § 8º]"", ""[Fonte 2, Art. 467]"", ""[Fonte 3, Art. 9º]"", ""[Fonte 1, § 2º]"", ""[Fonte 1, § 4º, I]"", ""[Fonte 1, § 4º, II]"", ""[Fonte 1, § 5º]"", ""[Fonte 1, § 6º]"", ""[Fonte 1, § 8º]"", ""[Fonte 2, Art. 467]"", ""[Fonte 3, Art. 9º]""]",pendente,respondível,Complexa
+q_dev_05,Qual é o prazo prescricional para o trabalhador reclamar créditos relativos às relações de trabalho?,concluida,[],"O prazo prescricional para o trabalhador reclamar créditos relativos às relações de trabalho é de **cinco anos**, contado até o limite de **dois anos após a extinção do contrato de trabalho**.
+
+Esse prazo está previsto no **Art. 11** da Consolidação das Leis do Trabalho (CLT), com a redação atualizada pela Lei nº 13.467, de 2017. [Fonte 1]
+
+O texto do artigo afirma:
+
+> ""A pretensão quanto a créditos resultantes das relações de trabalho prescreve em cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho."" [Fonte 1]
+
+Além disso, o **Art. 43** da Lei Complementar nº 150/2015** reafirma esse mesmo prazo:
+
+> ""O direito de ação quanto a créditos resultantes das relações de trabalho prescreve em 5 (cinco) anos até o limite de 2 (dois) anos após a extinção do contrato de trabalho."" [Fonte 2]
+
+Portanto, **os dois dispositivos (Art. 11 da CLT e Art. 43 da LCP 150/2015)** sustentam a mesma regra jurídica, com a mesma previsão de cinco anos de prescrição, até o limite de dois anos após o fim do contrato.
+
+---
+
+**Observações importantes:**
+
+- O prazo prescricional **não se aplica** às ações que tenham por objeto anotações para fins de prova junto à Previdência Social, conforme o § 1º do Art. 11. [Fonte 1]
+- Em casos de **prestações sucessivas** decorrentes de alteração ou descumprimento do pactuado, a prescrição é **total**, exceto quando o direito à parcela estiver assegurado por preceito de lei. [Fonte 1]
+- A **interrupção da prescrição** ocorre apenas pelo ajuizamento de reclamação trabalhista, mesmo que em juízo incompetente, e produz efeitos apenas em relação aos pedidos idênticos. [Fonte 1]
+
+---
+
+**Limitações:**
+
+- A resposta se baseia apenas no prazo geral previsto na legislação.  
+- **Não há informação sobre a data de admissão, extinção do contrato ou o tipo de crédito** (ex: férias, horas extras, salário, etc.) no contexto fornecido.  
+- Para uma análise mais específica (ex: se o direito prescreveu em um caso particular), seria necessário saber:
+  - Quando o contrato foi extinto (data de desligamento);
+  - O tipo de crédito reclamado (ex: salário, férias, horas extras);
+  - Se houve interrupção da prescrição (ex: reclamação feita em juízo).
+
+Se você puder fornecer essas informações, posso analisar se o direito ainda está prescrito ou não.
+
+> ⚠️ **Importante:** A prescrição não é um direito, mas uma limitação de tempo. Isso significa que, se o trabalhador não reclamar dentro do prazo, o direito de receber o crédito **perde a validade**. A prescrição **não é suspensa** por ausência de resposta do empregador, e **não pode ser contestada** por falta de ação do trabalhador.
+
+Se a pergunta for sobre um caso específico, por favor, forneça:
+- A data de desligamento;
+- O tipo de crédito;
+- A data em que foi feita a reclamação (se houver).
+
+Sem essas informações, a resposta permanece na base legal geral.",2191,876,True,df0375993dfc0d4fa5495b0142a4cf8b55a687ea32f79219035f61198d518aea,0.18049999926006421,12710.476,stop,"[""Fonte 1"", ""Fonte 2""]",[],[],[],pendente,respondível,Direta
+q_dev_neg_01,Quais são as regras de tributação do imposto de renda para lucros e dividendos de empresas S.A. no Brasil?,concluida,"[{""artigo_id"": ""42acd6bb4924d6d4a16de8920e36bfbb0a6f89ee9fa0c1698559600568e69a59"", ""reason"": ""orcamento_prompt_completo""}]","Essa não é uma pergunta ligada ao Direito do Trabalho.
+
+A pergunta solicitada trata sobre **regras de tributação do imposto de renda para lucros e dividendos de empresas S.A. no Brasil**, o que pertence ao **Direito Tributário**, não ao Direito do Trabalho.
+
+Portanto, a resposta correta é:
+
+> **Essa não é uma pergunta ligada ao Direito do Trabalho.**
+
+---
+
+Se você quiser que eu analise a questão de **tributação de lucros e dividendos de empresas S.A.**, posso ajudar com base em fontes de Direito Tributário — como a Constituição Federal, a Lei nº 10.101/2000 (Lei das Participações nos Lucros) e outras normas tributárias — **mas isso está fora do escopo do Direito do Trabalho**.
+
+Se desejar, posso redirecionar a resposta para o Direito Tributário com base nas fontes disponíveis. Deseja continuar com essa análise?",2764,238,True,ef5176e62dbf38ec9af36168e7aa21d0edd2d20c24ad06fe57e98cbcf1878cb3,0.1788000008673407,3588.037,stop,[],[],"[""sem_citacao_explicita_revisar""]",[],pendente,sem_resposta,Negativa (Fora do Escopo)
+q_dev_neg_02,"Segundo o art. 733 do CPC presente na base, quais condições e formalidades são descritas para o divórcio consensual por escritura pública?",concluida,[],"Segundo o **art. 733 do Código de Processo Civil (CPC)**, presente na base, as **condições e formalidades** para o **divórcio consensual por escritura pública** são as seguintes:
+
+1. **O divórcio consensual pode ser realizado por escritura pública**, desde que:
+   - Não haja nascituro (filho não nascido) ou filhos incapazes;
+   - Sejam observados os **requisitos legais** estabelecidos em lei.  
+   → [Fonte 1 – Art. 733]
+
+2. **A escritura pública não exige homologação judicial**, o que significa que ela é válida por si só e pode ser usada para:
+   - Qualquer ato de registro;
+   - Levantamento de importância depositada em instituições financeiras.  
+   → [Fonte 1 – § 1º do art. 733]
+
+3. **O tabelião (notário) só poderá lavrar a escritura se os interessados estiverem assistidos por:**
+   - Um advogado ou
+   - Um defensor público.  
+   → [Fonte 1 – § 2º do art. 733]
+
+---
+
+### Observações importantes:
+
+- O **art. 733 não exige a homologação judicial**, diferentemente do que ocorre em outros tipos de divórcio (como o judicial).  
+- A **escrita pública** é considerada **título hábil**, ou seja, tem força legal imediata, sem necessidade de posterior validação judicial.  
+- A **assistência jurídica** (advogado ou defensor público) é **obrigatória** para a lavratura da escritura, conforme o § 2º do art. 733.  
+- O **art. 731** (que trata da homologação) **não se aplica** ao divórcio consensual por escritura pública, pois esse tipo de divórcio **não precisa de homologação**.  
+- O **art. 732** estabelece que as regras do processo de homologação judicial se aplicam à extinção consensual de união estável, mas **não se aplica ao divórcio consensual por escritura pública**.
+
+---
+
+### Limitações e pontos críticos:
+
+- A **ausência de filhos incapazes** é uma condição prevista, mas **não há detalhamento sobre o que significa ""filhos incapazes""** no contexto do art. 733.  
+- O **requisito de ""requisitos legais""** não é esclarecido aqui, o que pode implicar a necessidade de análise de outros dispositivos do CPC ou da legislação específica sobre divórcio.  
+- A **assistência jurídica** é obrigatória, mas **não há informação sobre o tipo de assistência (ex: conteúdo do acordo, forma de assistência)**.  
+- **Não há menção ao conteúdo do acordo** (como partilha de bens, pensão alimentícia, guarda de filhos) no art. 733 — esses temas estão no **art. 731**, que **não se aplica** ao divórcio por escritura pública.
+
+---
+
+### Conclusão:
+
+O **divórcio consensual por escritura pública**, segundo o **art. 733 do CPC**, exige:
+
+✅ Ausência de nascituro ou filhos incapazes  
+✅ Observância dos requisitos legais (não detalhados aqui)  
+✅ Escrita pública sem necessidade de homologação judicial  
+✅ Assistência jurídica (advogado ou defensor público) para a lavratura da escritura  
+
+→ [Fonte 1 – Art. 733]
+
+---
+
+⚠️ **Importante**:  
+Essa resposta se baseia **exclusivamente** no **art. 733 do CPC**, que trata da **forma da escritura pública**.  
+**Não há informação sobre o conteúdo do acordo** (ex: partilha de bens, pensão alimentícia), pois esses temas estão no **art. 731**, que **não se aplica** ao divórcio por escritura pública.
+
+Se o usuário quiser saber sobre **quais disposições devem estar no acordo**, ou se o divórcio por escritura pública **pode ser usado em casos com filhos**, seria necessário **mais detalhamento** sobre os fatos do caso (ex: presença de filhos, tipo de união, etc.).
+
+Se desejar, posso ajudar a verificar se os **requisitos legais** mencionados no art. 733 estão alinhados com a **legislação específica sobre divórcio**, mas isso exige acesso a outros dispositivos do CPC ou à legislação complementar.
+
+Se houver necessidade, posso pedir ao usuário para fornecer:
+- Se há filhos ou nascituros;
+- Se o divórcio é consensual ou não;
+- Se há outros acordos (ex: pensão alimentícia, guarda de filhos).
+
+Essas informações ajudariam a verificar se o art. 733 se aplica ao caso específico.",2629,1176,True,d22774b4d9d04717feb146ce50dbdcaa2981af5fac562a32bed0ad52fc501feb,0.20840000070165843,18026.993,stop,"[""Fonte 1""]",[],"[""formato_citacao_diferente_do_solicitado""]","[""[Fonte 1 – Art. 733]"", ""[Fonte 1 – § 1º do art. 733]"", ""[Fonte 1 – § 2º do art. 733]"", ""[Fonte 1 – Art. 733]""]",pendente,respondível,Direta
+q_dev_06,Como o art. 59 da CLT descreve a prestação de horas extras?,concluida,[],"O **Art. 59 da CLT** descreve a prestação de horas extras de forma estruturada, com regras sobre o número máximo de horas, remuneração, compensação e direitos do trabalhador em caso de rescisão do contrato.
+
+Abaixo, explico cada parte do artigo com base nas evidências fornecidas, vinculando cada afirmação à fonte correspondente:
+
+---
+
+### 1. **Número máximo de horas extras por dia**
+O artigo permite que a jornada diária de trabalho seja **acrescida de até duas horas extras**, mediante acordo individual, convenção coletiva ou acordo coletivo de trabalho.  
+➡️ **Fonte: Art. 59, caput**  
+*Observação: Essa limitação se aplica ao número de horas extras por dia, não ao total de horas trabalhadas por semana.*
+
+---
+
+### 2. **Remuneração das horas extras**
+A remuneração da hora extra deve ser **pelo menos 50% superior à da hora normal**.  
+➡️ **Fonte: Art. 59, § 1º**
+
+---
+
+### 3. **Possibilidade de compensação de jornada (banco de horas)**
+O trabalhador pode ter seu excesso de horas em um dia **compensado em outro dia**, desde que:
+- A compensação não exceda o limite máximo de **dez horas diárias**;
+- O total de horas extras, ao longo de um ano, não ultrapasse a soma das jornadas semanais previstas;
+- A compensação ocorra no período máximo de **seis meses** (se pactuada por acordo individual escrito).  
+➡️ **Fonte: Art. 59, § 2º e § 5º**
+
+> Importante: O regime de compensação pode ser pactuado por **acordo individual**, **tácito** ou **escrito**, inclusive para compensação no mesmo mês.  
+➡️ **Fonte: Art. 59, § 6º**
+
+---
+
+### 4. **Situação de rescisão sem compensação integral**
+Se o contrato de trabalho for rescindido **sem que haja compensação integral da jornada extraordinária**, o trabalhador tem direito ao **pagamento das horas extras não compensadas**, calculadas com base no valor da remuneração na data da rescisão.  
+➡️ **Fonte: Art. 59, § 3º**
+
+---
+
+### 5. **O não atendimento das exigências legais sobre compensação**
+O artigo **59-B** (um dispositivo complementar) estabelece que:
+- O **não atendimento das exigências legais** para compensação de jornada (mesmo que estabelecida por acordo tácito) **não implica a repetição do pagamento** das horas extras, **se não ultrapassar a duração máxima semanal**.
+- O que é devido é **apenas o adicional** (ou seja, o acréscimo de 50%) sobre a hora normal.
+➡️ **Fonte: Art. 59-B**
+
+> Além disso, a **prestação de horas extras habituais** não descaracteriza o acordo de compensação ou o banco de horas.  
+➡️ **Fonte: Art. 59-B, Parágrafo Único**
+
+---
+
+### Resumo simples:
+- O trabalhador pode trabalhar **até 2 horas extras por dia**, com **acréscimo de 50%** na remuneração.
+- Essas horas podem ser **compensadas em outro dia**, dentro de limites (máximo de 10 horas diárias e soma anual de jornadas semanais).
+- A compensação pode ser feita em **até 6 meses** (se por acordo individual escrito).
+- Se o contrato terminar **sem compensação integral**, o trabalhador tem direito ao **pagamento das horas extras não compensadas**.
+- Se o acordo de compensação não for cumprido, **não há repetição do pagamento**, apenas o adicional.
+
+---
+
+### Limitações importantes:
+- As regras do Art. 59 **não se aplicam ao motorista profissional empregado**, que tem sua própria norma específica no **Art. 235-C**, que estabelece jornada de 8 horas com possibilidade de até 4 horas extras (e com regras distintas sobre espera e descanso).  
+➡️ **Fonte: Art. 235-C**  
+> Portanto, se o caso envolver um **motorista profissional**, as regras do Art. 59 **não se aplicam diretamente**.
+
+---
+
+### Conclusão:
+O **Art. 59 da CLT** descreve a prestação de horas extras com base em:
+- Limites de horas (máximo de 2 horas extras por dia);
+- Remuneração (50% acima da hora normal);
+- Possibilidade de compensação (com prazos e limites);
+- Direito ao pagamento das horas não compensadas em caso de rescisão;
+- Exclusão de repetição de pagamento por falta de compensação, desde que não ultrapasse a jornada semanal máxima.
+
+➡️ **Fontes principais: Art. 59 e Art. 59-B da CLT**
+
+---
+
+⚠️ **Observação importante**:  
+Se o caso envolver um **motorista profissional**, as regras do Art. 59 **não se aplicam**, pois há uma norma específica (Art. 235-C) que regula seu trabalho.  
+Se o usuário não especificar o tipo de empregado (ex: motorista profissional ou outro), **não é possível afirmar com certeza que o Art. 59 se aplica**.
+
+---
+
+✅ **Pergunta para esclarecer o caso**:  
+**Qual é o tipo de empregado (ex: motorista profissional, operário, funcionário comum)?**  
+Essa informação é essencial para saber se o Art. 59 se aplica ou se deve ser considerado o Art. 235-C.  
+
+Se o empregado for um **motorista profissional**, a resposta deve ser modificada com base no Art. 235-C.  
+
+Se não houver essa informação, a resposta acima se aplica ao empregado comum.",4409,1420,True,6bf2fd8e2dbef598ad540520f97a7c29034a884a8a27d2aecbf2d010a4f88669,0.24110000231303275,25359.342,stop,[],[],"[""sem_citacao_explicita_revisar""]",[],pendente,respondível,Direta
+q_dev_07,Quais intervalos durante a jornada são previstos no art. 71 da CLT?,concluida,[],"O artigo 71 da CLT prevê os seguintes intervalos durante a jornada de trabalho:
+
+1. **Intervalo obrigatório para repouso ou alimentação**  
+   Em qualquer trabalho contínuo cuja duração exceda **6 horas**, é obrigatório um intervalo de **no mínimo 1 hora** e **não poderá exceder 2 horas**.  
+   [Fonte 1 – Art. 71, caput]
+
+2. **Intervalo obrigatório para empregados com jornada entre 4 e 6 horas**  
+   Se a duração do trabalho **não exceder 6 horas**, mas **ultrapassar 4 horas**, será obrigatório um intervalo de **15 minutos**.  
+   [Fonte 1 – Art. 71, § 1º]
+
+3. **Não computação do intervalo na duração do trabalho**  
+   Os intervalos de descanso **não são contados** na duração do trabalho.  
+   [Fonte 1 – Art. 71, § 2º]
+
+4. **Possibilidade de redução do intervalo (em casos específicos)**  
+   O limite mínimo de 1 hora pode ser reduzido por ato do Ministro do Trabalho, **apenas se**:  
+   - O estabelecimento atender às exigências de organização dos refeitórios;  
+   - Os empregados não estiverem sob regime de trabalho prorrogado a horas suplementares.  
+   [Fonte 1 – Art. 71, § 3º]
+
+5. **Indenização por não concessão ou concessão parcial do intervalo**  
+   Se o intervalo for não concedido ou parcialmente concedido, o empregado deve receber **indenização** pelo período suprimido, com **acréscimo de 50% sobre a remuneração da hora normal**.  
+   [Fonte 1 – Art. 71, § 4º]
+
+6. **Possibilidade de fracionamento do intervalo (em serviços específicos)**  
+   O intervalo previsto no artigo 71 pode ser **fracionado**, desde que previsto em **convenção ou acordo coletivo**, e **apenas para motoristas, cobradores, fiscalização de campo e afins** nos serviços de transporte coletivo de passageiros, **com a remuneração mantida** e com intervalos menores ao final de cada viagem.  
+   [Fonte 1 – Art. 71, § 5º]
+
+---
+
+**Observação importante**:  
+O artigo 383 da CLT (relativo às empregadas) **confirma** a exigência de um intervalo de **no mínimo 1 hora** e **máximo de 2 horas**, mas **excepcionalmente** permite a redução conforme previsto no § 3º do art. 71, **só se atendidas as condições específicas**.  
+[Fonte 2 – Art. 383]
+
+---
+
+**Limitações e considerações**:
+- As regras do art. 71 **não se aplicam automaticamente a todos os tipos de trabalho**. A aplicação depende da **duração da jornada** (maior que 4h ou 6h) e do **tipo de atividade** (ex: transporte de passageiros).
+- O **fracionamento do intervalo** é permitido apenas para **motoristas e profissionais de transporte coletivo**, conforme o art. 235-E da CLT, que complementa o art. 71.  
+  [Fonte 3 – Art. 235-E]
+
+---
+
+**Conclusão**:
+O art. 71 da CLT prevê intervalos de **15 minutos** (para jornadas entre 4 e 6 horas) e **mínimo de 1 hora** (para jornadas acima de 6 horas), com limite máximo de **2 horas**. Esses intervalos **não são computados** na jornada. A redução do intervalo é permitida apenas em casos específicos e com condições prévias. A **indenização** é obrigatória se o intervalo for omitido ou parcialmente concedido.
+
+> ⚠️ **Observação**: Essas regras se aplicam a **trabalhos contínuos**. Se o trabalho for interrompido, ou se for de natureza diferente (ex: rotativo, com pausas), a aplicação pode variar.  
+> Para uma análise mais precisa, seria necessário saber:  
+> - A **duração da jornada de trabalho** do empregado;  
+> - O **tipo de atividade** (ex: transporte de passageiros, serviço de campo, etc.);  
+> - Se o empregado é **urbanos ou rurais**;  
+> - Se há **convenção ou acordo coletivo** que altere os intervalos.
+
+Se você puder fornecer essas informações, posso dar uma análise mais específica.",3451,1131,True,057d28fdebda2d39e622bfbf830e357e5f291d81527059069a8489cf36349f15,0.24980000307550654,18846.381,stop,"[""Fonte 1"", ""Fonte 2"", ""Fonte 3""]",[],"[""formato_citacao_diferente_do_solicitado""]","[""[Fonte 1 – Art. 71, caput]"", ""[Fonte 1 – Art. 71, § 1º]"", ""[Fonte 1 – Art. 71, § 2º]"", ""[Fonte 1 – Art. 71, § 3º]"", ""[Fonte 1 – Art. 71, § 4º]"", ""[Fonte 1 – Art. 71, § 5º]"", ""[Fonte 2 – Art. 383]"", ""[Fonte 3 – Art. 235-E]""]",pendente,respondível,Direta
+q_dev_08,Como os arts. 129 e 130 da CLT se complementam ao tratar do direito e da duração das férias?,concluida,[],"Os artigos 129 e 130 da CLT se complementam ao estabelecerem, respectivamente, o **direito fundamental** e a **duração proporcional** das férias anuais do empregado.
+
+Vamos explicar isso de forma simples, com base nas fontes fornecidas:
+
+---
+
+**Art. 129 da CLT**  
+> ""Todo empregado terá direito anualmente ao gozo de um período de férias, sem prejuízo da remuneração.""
+
+👉 Esse artigo garante que **todo empregado tem o direito de férias anuais**, independentemente de qualquer outro fator. Ele estabelece o **direito fundamental** ao descanso anual, e **não pode ser negado** por razões de trabalho, desempenho ou ausência.  
+[Fonte 1]
+
+Essa norma é a base do direito das férias — é um direito garantido pela lei, e não depende de condições específicas como desempenho ou frequência.
+
+---
+
+**Art. 130 da CLT**  
+> ""Após cada período de 12 (doze) meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção:  
+> I – 30 dias corridos, quando não houver faltado ao serviço mais de 5 vezes;  
+> II – 24 dias corridos, quando houver tido de 6 a 14 faltas;  
+> III – 18 dias corridos, quando houver tido de 15 a 23 faltas;  
+> IV – 12 dias corridos, quando houver tido de 24 a 32 faltas.""
+
+👉 Esse artigo **determina a duração das férias**, que **varia conforme o número de faltas** do empregado ao longo do ano.  
+[Fonte 2]
+
+Ou seja, embora o direito às férias seja universal (Art. 129), a **quantidade de dias** que o empregado pode gozar **depende da frequência** (número de faltas) registradas no período de 12 meses.
+
+---
+
+**Como os dois se complementam?**
+
+- O **Art. 129** garante que **todo empregado tem o direito** de férias — isso é um direito incondicional.
+- O **Art. 130** **especifica a duração** desse direito, **com base em um critério de desempenho (frequência)**.
+
+👉 Portanto, eles se complementam porque:
+- O direito à férias (Art. 129) é **universal**, mas
+- A **quantidade de dias** (Art. 130) é **regulada por uma regra de proporcionalidade**, que considera o desempenho do empregado.
+
+---
+
+⚠️ **Limitação importante:**
+- A aplicação do Art. 130 **não é automática** e depende de **dados concretos** sobre o número de faltas do empregado ao longo de 12 meses.
+- Se o usuário não informar **quando foi a admissão**, **quais foram as faltas**, ou **quanto tempo o empregado trabalhou**, não é possível determinar qual é a duração exata das férias.
+- Além disso, o Art. 130 **não permite descontar faltas do período de férias** (ver §1º), o que reforça que o direito é garantido, mesmo com ausências.
+
+---
+
+✅ **Conclusão:**
+Os artigos 129 e 130 se complementam porque:
+- O Art. 129 **assegura o direito universal** de férias anuais;
+- O Art. 130 **determina a duração** desse direito, **com base na frequência do empregado**, mas **sem descontar as faltas** do período de férias.
+
+Essa combinação garante que o empregado tem **direito garantido**, mas com **uma regra de proporcionalidade** que considera seu desempenho.
+
+[Fonte 1]  
+[Fonte 2]
+
+---
+
+📌 **Observação:**  
+Se o usuário quiser saber **qual é a duração exata das férias** para um caso específico, ele precisa fornecer:
+- A data de admissão;
+- O número de faltas registradas ao longo do ano;
+- O tipo de contrato (por exemplo, CLT, PJ, etc.).
+
+Sem essas informações, não é possível calcular a duração exata das férias com base no Art. 130.
+
+Se desejar, posso ajudar a calcular com base em dados fornecidos.",3063,1119,True,62e74d9cc5bfe1337186a0bf3e4d55cc986018ee734d07a028102a8e86bacb8f,0.21749999723397195,20762.134,stop,"[""Fonte 1"", ""Fonte 2""]",[],[],[],pendente,respondível,Multidispositivo
+q_dev_neg_03,Qual foi o valor exato do depósito de FGTS feito pelo meu empregador na minha conta em outubro de 2026?,concluida,"[{""artigo_id"": ""855911b8a3956664bc6070cdb095cb6f1d6e50c7bd04cf69886102dcbac426e5"", ""reason"": ""orcamento_prompt_completo""}]","Essa não é uma pergunta ligada ao Direito do Trabalho.
+
+A pergunta solicitada refere-se a um **valor exato do depósito de FGTS em uma data futura (outubro de 2026)**, que **não pode ser respondida com base nas evidências disponíveis**, porque:
+
+- A data de outubro de 2026 ainda **não ocorreu** e, portanto, **não há registros de depósitos de FGTS realizados nesse período**.
+- O valor do depósito de FGTS **depende de fatores específicos**, como:
+  - O valor da remuneração do trabalhador no mês anterior (ou no mês da rescisão, se for o caso);
+  - O tipo de contrato de trabalho;
+  - O motivo da rescisão (se houve despedida sem justa causa, culpa recíproca, etc.);
+  - A data de admissão e a data de rescisão do contrato;
+  - O valor do depósito mensal (que é 8% do salário, conforme a CLT, mas pode variar com base no cálculo do FGTS).
+
+Além disso, **não há nenhuma evidência no contexto fornecido** que mencione:
+- O valor do depósito mensal de FGTS;
+- A data de admissão ou rescisão do contrato;
+- O tipo de rescisão (despedida sem justa causa, por culpa recíproca, etc.);
+- O valor do salário ou da remuneração do trabalhador;
+- O mês de depósito específico (outubro de 2026).
+
+Portanto, **não é possível determinar o valor exato do depósito de FGTS em outubro de 2026**, pois:
+
+1. A data é futura e não há dados de depósito disponíveis;
+2. O valor do depósito depende de dados pessoais e específicos do contrato que não foram fornecidos.
+
+---
+
+Se você quiser saber **como é calculado o depósito de FGTS**, posso explicar com base na legislação.
+
+Mas, para saber **qual foi o valor exato do depósito em um mês específico**, seria necessário:
+
+- O valor do salário do trabalhador no mês anterior ao depósito;
+- A data de admissão e rescisão do contrato;
+- O tipo de rescisão (se houve despedida sem justa causa, por exemplo);
+- O valor do FGTS mensal (8% do salário), que é calculado com base no salário de referência.
+
+Se você puder fornecer essas informações, posso ajudar a calcular o valor do depósito de FGTS com base na CLT.
+
+Até lá, **não é possível determinar o valor exato do depósito de FGTS em outubro de 2026**, pois essa data ainda não ocorreu e não há dados suficientes para uma análise jurídica específica.
+
+> ⚠️ Observação: A Lei nº 8.036/1990 (CLT), Art. 18, trata do **depósito de FGTS em caso de rescisão do contrato**, mas **não prevê o valor exato do depósito mensal em uma data futura**, pois esse valor depende do salário e do mês de referência. [Fonte 1]
+
+Se você estiver buscando saber **se o depósito foi feito corretamente**, ou **se houve uma despedida sem justa causa com direito a 40% do FGTS**, posso ajudar com base na CLT — mas isso exige dados sobre o tipo de rescisão e o valor do FGTS acumulado.
+
+Por favor, me informe se deseja:
+- Calcular o valor do depósito mensal de FGTS com base em um salário;
+- Verificar se houve despedida sem justa causa e o direito ao 40% do FGTS;
+- Ou saber se o depósito foi feito conforme a CLT.
+
+Sem essas informações, não é possível responder com precisão.",3199,910,True,6a75fd3f1f439e9efba332660010bf198d5a835d19ec56aed1b8f4c4821e116b,0.20710000535473228,16141.42,stop,"[""Fonte 1""]",[],[],[],pendente,sem_resposta,Sem dados individuais

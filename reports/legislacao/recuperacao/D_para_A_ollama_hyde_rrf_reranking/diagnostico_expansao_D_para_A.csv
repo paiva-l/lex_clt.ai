@@ -1,0 +1,12 @@
+query_id,artigos_entregues,caracteres_contexto,tokens_referencia_bge,tokens_llm,limite_tokens_configurado,artigos_omitidos,cobertura_integral_pos_expansao
+q_dev_01,3,2678,763,,,35,1.0
+q_dev_02,3,4705,1393,,,31,1.0
+q_dev_03,3,5290,1342,,,40,1.0
+q_dev_04,3,4149,1126,,,39,1.0
+q_dev_05,3,2049,609,,,40,1.0
+q_dev_neg_01,3,18686,4476,,,33,
+q_dev_neg_02,3,2713,815,,,36,1.0
+q_dev_06,3,8320,2181,,,27,1.0
+q_dev_07,3,5105,1446,,,33,1.0
+q_dev_08,3,3661,1123,,,32,1.0
+q_dev_neg_03,3,22178,5517,,,30,

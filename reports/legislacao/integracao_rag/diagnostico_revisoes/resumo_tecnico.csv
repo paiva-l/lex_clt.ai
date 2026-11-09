@@ -1,0 +1,4 @@
+tipo,respostas,concluidas,tokens_entrada,tokens_saida,tempo_servidor_ms,alertas_formais
+original,11,11,3060.4545454545455,1109.7272727272727,17860.64381818182,6
+correcao_assistida,2,2,4342.0,488.5,7440.962,1
+variante_rag,12,12,3363.9166666666665,962.0,17292.974,4

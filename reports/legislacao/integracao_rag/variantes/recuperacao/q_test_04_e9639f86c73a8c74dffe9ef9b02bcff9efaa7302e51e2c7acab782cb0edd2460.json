@@ -1,0 +1,355 @@
+{
+  "query_id": "q_test_04",
+  "pergunta": "Como o art. 391-A da CLT trata a confirmação da gravidez durante o contrato e o aviso prévio?",
+  "sources": [
+    {
+      "chunk_id": "e041bd70675ef893c222316f9319310d833be4a22253da8d5bd6203e6b8c6ea7",
+      "estrategia": "A_artigo",
+      "artigo_id": "5259baccd1475f4610c061c52d22d4407052eb401e293e5debc76311eb7b8ba7",
+      "artigo_ref": "Art. 391-A",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER > SEÇÃO V — DA PROTEÇÃO À MATERNIDADE > Art. 391-A]",
+      "corpo_chunk": "##### Art. 391-A\n\nA confirmação do estado de gravidez advindo no curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea b do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias. (Incluído pela Lei nº 12.812, de 2013)\n\nParágrafo único. O disposto no caput deste artigo aplica-se ao empregado adotante ao qual tenha sido concedida guarda provisória para fins de adoção. (Incluído pela Lei nº 13.509, de 2017)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER > SEÇÃO V — DA PROTEÇÃO À MATERNIDADE > Art. 391-A]\n##### Art. 391-A\n\nA confirmação do estado de gravidez advindo no curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea b do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias. (Incluído pela Lei nº 12.812, de 2013)\n\nParágrafo único. O disposto no caput deste artigo aplica-se ao empregado adotante ao qual tenha sido concedida guarda provisória para fins de adoção. (Incluído pela Lei nº 13.509, de 2017)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 547,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 772,
+      "tokens_reais_corpo": 171,
+      "tokens_reais_total": 262,
+      "tokens_estimados_total": 193.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "d19390885f4c2ab1d6edbafb87d12821d386d1dfdb0549671f150199ff7e0580",
+          "rank": 1,
+          "score": 0.9988164901733398
+        },
+        {
+          "chunk_id": "518cacacb391d85a36386f8efdbacb6d5e0817d156e4fabd287ae4d6abf51c66",
+          "rank": 4,
+          "score": 0.5806894302368164
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "d5f14f6b6eddf74d894c13042ce314d10143923cd2b5705425b61abe93ca66c2",
+      "estrategia": "A_artigo",
+      "artigo_id": "eea15a3ccddffe81bf3e286b0ccff5ac16934315c7be54c445f21a99ed0cea12",
+      "artigo_ref": "Art. 25",
+      "caminho_relativo": "leis-complementares/2015/lcp-150-2015.md",
+      "sha256_fonte": "a857c64a3fb78c7f6b02aad2506d792e2bb58592500c64c925bcc3fd34bee0b6",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp150.htm",
+      "date": 1435708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 25]",
+      "corpo_chunk": "### Art. 25.\n\nA empregada doméstica gestante tem direito a licença-maternidade de 120 (cento e vinte) dias, sem prejuízo do emprego e do salário, nos termos da Seção V do Capítulo III do Título III da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.\n\nParágrafo único. A confirmação do estado de gravidez durante o curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea “b” do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias.\n\n",
+      "conteudo_chunk": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 25]\n### Art. 25.\n\nA empregada doméstica gestante tem direito a licença-maternidade de 120 (cento e vinte) dias, sem prejuízo do emprego e do salário, nos termos da Seção V do Capítulo III do Título III da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.\n\nParágrafo único. A confirmação do estado de gravidez durante o curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea “b” do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 620,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 722,
+      "tokens_reais_corpo": 197,
+      "tokens_reais_total": 239,
+      "tokens_estimados_total": 180.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "e46d363bb3559c2b9333f464d05b8802810a13dde10fdacd47bf332a6e3b4148",
+          "rank": 2,
+          "score": 0.9046584963798523
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "4c68788193739b10acd5add4ae99458fa5257615312c1be68b08c041f5705659",
+      "estrategia": "A_artigo",
+      "artigo_id": "8c54afc08ee03536a61e09f48c1e48f501c9e48a219fdfcaf5e11c0877b26d89",
+      "artigo_ref": "Art. 391",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER > SEÇÃO V — DA PROTEÇÃO À MATERNIDADE > Art. 391]",
+      "corpo_chunk": "##### Art. 391\n\nNão constitui justo motivo para a rescisão do contrato de trabalho da mulher o fato de haver contraído matrimônio ou de encontrar-se em estado de gravidez.\n\nParágrafo único - Não serão permitidos em regulamentos de qualquer natureza contratos coletivos ou individuais de trabalho, restrições ao direito da mulher ao seu emprego, por motivo de casamento ou de gravidez.\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER > SEÇÃO V — DA PROTEÇÃO À MATERNIDADE > Art. 391]\n##### Art. 391\n\nNão constitui justo motivo para a rescisão do contrato de trabalho da mulher o fato de haver contraído matrimônio ou de encontrar-se em estado de gravidez.\n\nParágrafo único - Não serão permitidos em regulamentos de qualquer natureza contratos coletivos ou individuais de trabalho, restrições ao direito da mulher ao seu emprego, por motivo de casamento ou de gravidez.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 386,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 609,
+      "tokens_reais_corpo": 98,
+      "tokens_reais_total": 188,
+      "tokens_estimados_total": 152.25,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "ba7e315624261276c26fa30139c6fb8c8a753801fe49ff2b0b8aa6478b4cc53b",
+          "rank": 3,
+          "score": 0.7267162799835205
+        },
+        {
+          "chunk_id": "9d2e9ae22a34db25ae1b916e8c140fd480773e9034d6eb770be83df865a0ff74",
+          "rank": 8,
+          "score": 0.35712555050849915
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER > SEÇÃO V — DA PROTEÇÃO À MATERNIDADE > Art. 391-A]\n##### Art. 391-A\n\nA confirmação do estado de gravidez advindo no curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea b do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias. (Incluído pela Lei nº 12.812, de 2013)\n\nParágrafo único. O disposto no caput deste artigo aplica-se ao empregado adotante ao qual tenha sido concedida guarda provisória para fins de adoção. (Incluído pela Lei nº 13.509, de 2017)\n\n\n\n[Fonte 2]\n[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 25]\n### Art. 25.\n\nA empregada doméstica gestante tem direito a licença-maternidade de 120 (cento e vinte) dias, sem prejuízo do emprego e do salário, nos termos da Seção V do Capítulo III do Título III da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.\n\nParágrafo único. A confirmação do estado de gravidez durante o curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea “b” do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias.\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER > SEÇÃO V — DA PROTEÇÃO À MATERNIDADE > Art. 391]\n##### Art. 391\n\nNão constitui justo motivo para a rescisão do contrato de trabalho da mulher o fato de haver contraído matrimônio ou de encontrar-se em estado de gravidez.\n\nParágrafo único - Não serão permitidos em regulamentos de qualquer natureza contratos coletivos ou individuais de trabalho, restrições ao direito da mulher ao seu emprego, por motivo de casamento ou de gravidez.\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "d19390885f4c2ab1d6edbafb87d12821d386d1dfdb0549671f150199ff7e0580",
+      "score": 0.9988164901733398
+    },
+    {
+      "chunk_id": "e46d363bb3559c2b9333f464d05b8802810a13dde10fdacd47bf332a6e3b4148",
+      "score": 0.9046584963798523
+    },
+    {
+      "chunk_id": "ba7e315624261276c26fa30139c6fb8c8a753801fe49ff2b0b8aa6478b4cc53b",
+      "score": 0.7267162799835205
+    },
+    {
+      "chunk_id": "518cacacb391d85a36386f8efdbacb6d5e0817d156e4fabd287ae4d6abf51c66",
+      "score": 0.5806894302368164
+    },
+    {
+      "chunk_id": "2a3ddf86d279dcb9a3bf7d43ffd108788f15eea286e74006bb8ec58e6ed6d882",
+      "score": 0.44439414143562317
+    },
+    {
+      "chunk_id": "05fd61e86d1f3d4e7167c8a4779e9298da72fc7a4f0b29dd15789724b025c989",
+      "score": 0.36618396639823914
+    },
+    {
+      "chunk_id": "35c5ecaad7a3fbdda160661271baa8d052186175c0b1759bc1f8a3eaa8541404",
+      "score": 0.3572796583175659
+    },
+    {
+      "chunk_id": "9d2e9ae22a34db25ae1b916e8c140fd480773e9034d6eb770be83df865a0ff74",
+      "score": 0.35712555050849915
+    },
+    {
+      "chunk_id": "c5a664ffd755c82c05a171fdd2dab0f6a9fd6def0c7301a827cc1141f2ec79a4",
+      "score": 0.323208749294281
+    },
+    {
+      "chunk_id": "bd676f48e27ba03b356600b49fcd4503e7441ba66aaa350d1ba9e0fa713f8d8d",
+      "score": 0.2273692935705185
+    },
+    {
+      "chunk_id": "e950e2cce5f1f46b5a166a71681f30cd4ea55fae9f9ea5d8776a5ee3df103e37",
+      "score": 0.18794867396354675
+    },
+    {
+      "chunk_id": "16fba0179f7e67431d39692cc90548e4a97d5f9618d2db51160818032912dad4",
+      "score": 0.11758370697498322
+    },
+    {
+      "chunk_id": "530e188000a80742b932a369988e016489a11f68183bd40649be48c8a98e25c8",
+      "score": 0.11254307627677917
+    },
+    {
+      "chunk_id": "cbb1850cec9a9383ff750335f4cdbe3c6c13ed49e889c23ae4d957ffc2e91d9a",
+      "score": 0.11062181740999222
+    },
+    {
+      "chunk_id": "0aa4c2105d92c9e85056560a7fdab8ae406424c2cd5ada851bf9f386fe930e42",
+      "score": 0.10229078680276871
+    },
+    {
+      "chunk_id": "5e446eb28da0c9d34b48cb21f454d4a7f103e03408f8e9028bb352271c071815",
+      "score": 0.10015325993299484
+    },
+    {
+      "chunk_id": "b379d78335b3662c8eee89be16f0f74940095a9d4084739f779987b3c316fcbc",
+      "score": 0.08261002600193024
+    },
+    {
+      "chunk_id": "01dfebad90e06694bc04d4e531d1e256a4f9b0d663f8ac44788b4a0fbe55a24f",
+      "score": 0.07450702041387558
+    },
+    {
+      "chunk_id": "237ce44c0bba9bd1da774afae48eb26f5899615f914e5f84f40aaa68df8ac65e",
+      "score": 0.05387699604034424
+    },
+    {
+      "chunk_id": "3dccc1e5f9938b63746a76400a7365b57d8ca0976a377da8941a4b0eec255223",
+      "score": 0.045958735048770905
+    },
+    {
+      "chunk_id": "cb5206df991dc41b2aec1c7371b64b0661e1752f304480fb2d9a44076d8c7a75",
+      "score": 0.04156498610973358
+    },
+    {
+      "chunk_id": "8d6635f90596fbda5a1bffc312b0e50f131660ca95f58bcaf7d67bab6d47a861",
+      "score": 0.033166129142045975
+    },
+    {
+      "chunk_id": "dc193763f5cba585a4405b8dab4b3e115e13a3263fe8004b992b7d14417ec701",
+      "score": 0.032420381903648376
+    },
+    {
+      "chunk_id": "f245d29ed1cb4c090c05991cd9c18afa7a16b3083f94b7a42c06f8572a12f9c7",
+      "score": 0.031625162810087204
+    },
+    {
+      "chunk_id": "0da54980fd628fc1c0131a77b1533b82a0cdc1a0bd3f689231a95e41eec7210c",
+      "score": 0.020512646064162254
+    },
+    {
+      "chunk_id": "8e9440fe910090dae27eb08bcb39f484b6bd142863073a5302af1abfc028357f",
+      "score": 0.017740827053785324
+    },
+    {
+      "chunk_id": "633d538d436d26f65b0ed36f4567fac5768b421fd92aa16a0448f7e3b669b127",
+      "score": 0.011770441196858883
+    },
+    {
+      "chunk_id": "d6a51ec462d7e1b23f98f3afdd9ac74fc42fa76e29ce084b2609ce3e14a84042",
+      "score": 0.009691692888736725
+    },
+    {
+      "chunk_id": "612dfb61ecb9f24bbb097a78b3eb3f386d5dfe75dbdd1ccf0f6ef22da43a365e",
+      "score": 0.007731516845524311
+    },
+    {
+      "chunk_id": "76c9b8c2f730cc90a3676e138d649c8eac226e5019f72471b449a0e9bf88984e",
+      "score": 0.006511659827083349
+    },
+    {
+      "chunk_id": "56797ddc34d3957434ce0b35de99d7509325cd2de98d7ab3e5342ccadf11f182",
+      "score": 0.006156011018902063
+    },
+    {
+      "chunk_id": "6c1a02eb8d4ebcf6e0da85878e93cfb760d40f2a40af8bcf5cd79079624ba7d9",
+      "score": 0.003988754935562611
+    },
+    {
+      "chunk_id": "da954c3ba24f1a421530c41a16d9fee25b5d523ca3d5c2074295e8c8cd3b356b",
+      "score": 0.0035170773044228554
+    },
+    {
+      "chunk_id": "7d8796c070dbabf050d133004b9573c5caa93ba32a0dd23436dfb4b47ea1d498",
+      "score": 0.0032237377017736435
+    },
+    {
+      "chunk_id": "66da09949d19de34e7b0d1e15998b458642ee326f93533f944991840d98f86f9",
+      "score": 0.003070550737902522
+    },
+    {
+      "chunk_id": "42a3af7974f961a595b9bea745acaa0b3001f89e041d5ecfe1c133472cd73cd3",
+      "score": 0.003001671750098467
+    },
+    {
+      "chunk_id": "d0c645845adf4d21b6919e9f16c0698e1e2c386389f7096e393fffa3ff537735",
+      "score": 0.0029523433186113834
+    },
+    {
+      "chunk_id": "d6e7814b4b7037bc6aea2b9d1be982c76c10716265a034574bf410d533b20c56",
+      "score": 0.00278134411200881
+    },
+    {
+      "chunk_id": "eb06ba0418fc97ffef49fcc7b85335f06a170082be992079429c34af52172f63",
+      "score": 0.0025945024099200964
+    },
+    {
+      "chunk_id": "e37ae71b62454fb36982e3aa24a8738881e52c7bae5dcdd48e705783dad9194e",
+      "score": 0.0025238178204745054
+    },
+    {
+      "chunk_id": "bcea80e27dbf47aa3b233818ec13dcdd65a2fab6b3ff8bebe865ad0745032b6e",
+      "score": 0.0021524971816688776
+    },
+    {
+      "chunk_id": "643b9882f1235298b213528177133b2df62f65c4367905114c31a8b6af2a5655",
+      "score": 0.001977305393666029
+    },
+    {
+      "chunk_id": "9d4451c858feee2ac6ccd93647f964f6ff7df20a0c1c5fc39c643cdc35aa7b98",
+      "score": 0.0017916159704327583
+    },
+    {
+      "chunk_id": "ba6bdc7b3ea99ff20e83cae041d21c638f921f035f92c71771da04c0b1f93ac3",
+      "score": 0.0017395091708749533
+    },
+    {
+      "chunk_id": "0274397b0db2732e43fd2c661cbe899591e6f457afd53502e168ece9be931327",
+      "score": 0.0014485077699646354
+    },
+    {
+      "chunk_id": "49c0ea51e7d2b86e62ce950c5c081600526750932316733bf16afe1a3c700ac4",
+      "score": 0.0014278758317232132
+    },
+    {
+      "chunk_id": "44d2bd27ce0fd9528d956f97a75ec3e019de9985ed60ef73f02c62ed5b7fc5ab",
+      "score": 0.0013495967723429203
+    },
+    {
+      "chunk_id": "ecc1bc4e3ccf1d0ea9ee3f7cac37122f0542e1b6f809cc0a9b0c6e391effacff",
+      "score": 0.0011639123549684882
+    },
+    {
+      "chunk_id": "b281b47a24b7ca29ba82ff6cdeb7c98097aee0c76b9cd6141358b7187b9577e8",
+      "score": 0.0010663733119145036
+    },
+    {
+      "chunk_id": "e218be82b73aa514135c435b7c92f3a6eff0f2e55e38d0cdea68d26b8ffbe909",
+      "score": 0.0007501856307499111
+    }
+  ],
+  "hyde_cache_sha256": "73646530bd77adf791c2bb780fd530eb5754e1163c7a490f1049ab8518bcd306",
+  "hyde_text": "O tema aborda a regulamentação sobre confirmação da gravidez e aviso prévio no âmbito do contrato de trabalho, conforme a CLT. O documento hipotético busca orientar a busca de textos relevantes, sem afirmar a existência ou conteúdo de artigos específicos. É importante considerar que a CLT não possui um artigo denominado \"391-A\", e que a estrutura jurídica brasileira não inclui tal referência oficial. Assim, a busca deve ser feita com cautela, considerando que o tema pode estar disperso em dispositivos que tratam de férias, aviso prévio ou proteção à saúde do trabalhador. A consulta deve incluir termos como \"gravidez\", \"aviso prévio\", \"contrato de trabalho\", \"direito à saúde\", e \"proteção ao trabalhador\". É recomendável filtrar por normas que tratam de condições de trabalho e direitos individuais. A busca deve ser feita em coleções oficiais, com foco em dispositivos que regulam a vigência do contrato e a responsabilidade do empregador. A precisão da resposta depende da correspondência com textos legais reais, e não deve ser interpretada como garantia de conteúdo específico.",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 116892.31729999301,
+  "hash_configuracao": "e9639f86c73a8c74dffe9ef9b02bcff9efaa7302e51e2c7acab782cb0edd2460",
+  "embedding_corpus_recalculado": false
+}

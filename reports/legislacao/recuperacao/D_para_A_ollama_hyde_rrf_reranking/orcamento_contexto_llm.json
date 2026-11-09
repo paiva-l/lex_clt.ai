@@ -1,0 +1,12 @@
+{
+  "modelo_ollama": "qwen3:4b-instruct",
+  "tokenizador": "Qwen/Qwen3-4B-Instruct-2507",
+  "num_ctx": 8192,
+  "num_predict": 2048,
+  "margem_tokens": 256,
+  "limite_entrada": 5888,
+  "prompt_07_sha256": "94d71fc751d0392e709de25a661804eb7971cf9d5bba20f70e2d715fa214ecf5",
+  "criterio": "Prompt completo com template Qwen; artigos integrais ou omissão registrada",
+  "geracao_executada": false,
+  "configuracao_inicial": true
+}

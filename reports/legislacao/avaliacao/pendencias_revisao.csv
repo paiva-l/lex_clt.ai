@@ -1,0 +1,21 @@
+query_id,pergunta,observacao_revisao,status_revisao
+q_dev_01,"Qual é a duração normal diária do trabalho para os empregados em geral, segundo a CLT?",Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_dev_02,Como o art. 130 da CLT relaciona a duração das férias às faltas ao serviço no período aquisitivo?,Pergunta reformulada para o dispositivo proposto; confirmar a evidência e as exceções.,Pendente
+q_dev_03,Quais são as hipóteses em que o empregado pode rescindir o contrato de trabalho por justa causa do empregador (rescisão indireta)?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_dev_04,Como deve ser formalizado o pagamento das verbas rescisórias e quais são os prazos legais?,Verificar todos os parágrafos necessários para formalização e prazo.,Pendente
+q_dev_05,Qual é o prazo prescricional para o trabalhador reclamar créditos relativos às relações de trabalho?,Verificar se outras normas do corpus também devem integrar as referências.,Pendente
+q_dev_neg_01,Quais são as regras de tributação do imposto de renda para lucros e dividendos de empresas S.A. no Brasil?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_dev_neg_02,Qual é o procedimento de divórcio consensual em cartório previsto no Código Civil?,Negativo não confirmado: o corpus contém Código Civil e CPC; revisar suporte e completude.,Pendente
+q_test_01,Que exigência o art. 60 da CLT estabelece para a prorrogação de jornada em atividades insalubres e que exceção registra?,Pergunta reformulada para o dispositivo proposto; confirmar a evidência e as exceções.,Pendente
+q_test_02,Quais descontos salariais são admitidos e quais condições para desconto por dano são descritas no art. 462 da CLT?,Pergunta reformulada para o dispositivo proposto; confirmar a evidência e as exceções.,Pendente
+q_test_03,Como é calculada a remuneração do trabalho noturno urbano em comparação ao diurno?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_test_04,Como o art. 391-A da CLT trata a confirmação da gravidez durante o contrato e o aviso prévio?,Pergunta reformulada para o dispositivo proposto; confirmar a evidência e as exceções.,Pendente
+q_test_05,Quais são as regras aplicáveis ao contrato de trabalho do atleta profissional de futebol nos EUA?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_dev_06,Como o art. 59 da CLT descreve a prestação de horas extras?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_dev_07,Quais intervalos durante a jornada são previstos no art. 71 da CLT?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_dev_08,Como os arts. 129 e 130 da CLT se complementam ao tratar do direito e da duração das férias?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_dev_neg_03,Qual foi o valor exato do depósito de FGTS feito pelo meu empregador na minha conta em outubro de 2026?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_test_06,Que definição e consequências do tempo à disposição são descritas no art. 4º da CLT?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_test_07,Como os arts. 457 e 458 da CLT descrevem parcelas relacionadas ao salário e à remuneração?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_test_08,Quais ausências sem prejuízo do salário são enumeradas no art. 473 da CLT?,Revisar a pergunta e as evidências antes de aprovar.,Pendente
+q_test_neg_02,"Qual foi o fundamento utilizado pelo juiz na sentença do meu processo, cujo número e documentos não forneci?",Revisar a pergunta e as evidências antes de aprovar.,Pendente

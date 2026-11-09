@@ -1,0 +1,9 @@
+[
+  {
+    "estrategia":"D_paragrafo_completo",
+    "chunks":10971,
+    "chunks_acima_limite":0,
+    "tokens_maximos":4392,
+    "limite_modelo":8192
+  }
+]

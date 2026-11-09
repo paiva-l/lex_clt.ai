@@ -1,0 +1,306 @@
+{
+  "query_id": "q_dev_03_v2",
+  "pergunta": "Meu patrão/chefe não está pagando meu FGTS. Posso pedir rescisão indireta?",
+  "sources": [
+    {
+      "chunk_id": "159d265ee6ac7b1d09927a004d792df99bb5ff7569490642071367f0b235719a",
+      "estrategia": "A_artigo",
+      "artigo_id": "7a1f09f9d7712d1d1de47d6ffba5ea8dad6b35257ad0a5a44ae8446ed8325acd",
+      "artigo_ref": "Art. 26",
+      "caminho_relativo": "leis/1990/lei-8036-1990.md",
+      "sha256_fonte": "f8e365025108a7906d7c3076df40c37cbfb52ab98806b92440ed11fa3fa289d0",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm",
+      "date": 642384000000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[leis/1990/lei-8036-1990.md | Art. 26]",
+      "corpo_chunk": "## Art. 26.\n\nÉ competente a Justiça do Trabalho para julgar os dissídios entre os trabalhadores e os empregadores decorrentes da aplicação desta lei, mesmo quando a Caixa Econômica Federal e o Ministério do Trabalho e da Previdência Social figurarem como litisconsortes.\n\nParágrafo único. Nas reclamatórias trabalhistas que objetivam o ressarcimento de parcelas relativas ao FGTS, ou que, direta ou indiretamente, impliquem essa obrigação de fazer, o juiz determinará que a empresa sucumbente proceda ao recolhimento imediato das importâncias devidas a tal título.\n\n",
+      "conteudo_chunk": "[leis/1990/lei-8036-1990.md | Art. 26]\n## Art. 26.\n\nÉ competente a Justiça do Trabalho para julgar os dissídios entre os trabalhadores e os empregadores decorrentes da aplicação desta lei, mesmo quando a Caixa Econômica Federal e o Ministério do Trabalho e da Previdência Social figurarem como litisconsortes.\n\nParágrafo único. Nas reclamatórias trabalhistas que objetivam o ressarcimento de parcelas relativas ao FGTS, ou que, direta ou indiretamente, impliquem essa obrigação de fazer, o juiz determinará que a empresa sucumbente proceda ao recolhimento imediato das importâncias devidas a tal título.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 566,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 605,
+      "tokens_reais_corpo": 160,
+      "tokens_reais_total": 181,
+      "tokens_estimados_total": 151.25,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "89691c197bded6f4f3588bf3f7ef0aa58b039264802de2caba24af2ab5685142",
+          "rank": 2,
+          "score": 0.2043299823999405
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "fd9c9ec86511899f75e0a20e6d487e5a1cbbe61e70da91c636a0d31f5260a233",
+      "estrategia": "A_artigo",
+      "artigo_id": "38c5a383b0d6d532e51f93b2997ab1568b5b1b1b0d500b455365dbad62ac3341",
+      "artigo_ref": "Art. 20-B",
+      "caminho_relativo": "leis/1990/lei-8036-1990.md",
+      "sha256_fonte": "f8e365025108a7906d7c3076df40c37cbfb52ab98806b92440ed11fa3fa289d0",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm",
+      "date": 642384000000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[leis/1990/lei-8036-1990.md | Art. 20-B]",
+      "corpo_chunk": "## Art. 20-B\n\nO titular de contas vinculadas do FGTS estará sujeito originalmente à sistemática de saque-rescisão e poderá optar por alterá-la, observado o disposto no art. 20-C desta Lei. (Incluído pela Lei nº 13.932, de 2019)\n\n",
+      "conteudo_chunk": "[leis/1990/lei-8036-1990.md | Art. 20-B]\n## Art. 20-B\n\nO titular de contas vinculadas do FGTS estará sujeito originalmente à sistemática de saque-rescisão e poderá optar por alterá-la, observado o disposto no art. 20-C desta Lei. (Incluído pela Lei nº 13.932, de 2019)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 229,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 270,
+      "tokens_reais_corpo": 78,
+      "tokens_reais_total": 100,
+      "tokens_estimados_total": 67.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "aeb8e64b9fd141b315c8e9b56f37c257228320fbe236aac3ed80a2b1fa7f16aa",
+          "rank": 3,
+          "score": 0.20370317995548248
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 2"
+    }
+  ],
+  "omitted": [
+    {
+      "artigo_id": "855911b8a3956664bc6070cdb095cb6f1d6e50c7bd04cf69886102dcbac426e5",
+      "reason": "orcamento_prompt_completo"
+    }
+  ],
+  "context_text": "[Fonte 1]\n[leis/1990/lei-8036-1990.md | Art. 26]\n## Art. 26.\n\nÉ competente a Justiça do Trabalho para julgar os dissídios entre os trabalhadores e os empregadores decorrentes da aplicação desta lei, mesmo quando a Caixa Econômica Federal e o Ministério do Trabalho e da Previdência Social figurarem como litisconsortes.\n\nParágrafo único. Nas reclamatórias trabalhistas que objetivam o ressarcimento de parcelas relativas ao FGTS, ou que, direta ou indiretamente, impliquem essa obrigação de fazer, o juiz determinará que a empresa sucumbente proceda ao recolhimento imediato das importâncias devidas a tal título.\n\n\n\n[Fonte 2]\n[leis/1990/lei-8036-1990.md | Art. 20-B]\n## Art. 20-B\n\nO titular de contas vinculadas do FGTS estará sujeito originalmente à sistemática de saque-rescisão e poderá optar por alterá-la, observado o disposto no art. 20-C desta Lei. (Incluído pela Lei nº 13.932, de 2019)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "ca7e0cd259a842bd4e4502abec5f86e7fa62ecbb32bd57adc61885f44d3cf2c7",
+      "score": 0.7426014542579651
+    },
+    {
+      "chunk_id": "89691c197bded6f4f3588bf3f7ef0aa58b039264802de2caba24af2ab5685142",
+      "score": 0.2043299823999405
+    },
+    {
+      "chunk_id": "aeb8e64b9fd141b315c8e9b56f37c257228320fbe236aac3ed80a2b1fa7f16aa",
+      "score": 0.20370317995548248
+    },
+    {
+      "chunk_id": "9768ef729c40eac427e8878aa0246f5deaa0e8e4c2872e6cee05a362e63ae324",
+      "score": 0.11683839559555054
+    },
+    {
+      "chunk_id": "19f22e4778bd393f3b3e96cac9acce96ab152603b383f0fabe5582ddc46c11b5",
+      "score": 0.08108875900506973
+    },
+    {
+      "chunk_id": "51486d4c8622f1f4c36183d96fe1d2b40b80d59158f06908c079ae01b45ad2c6",
+      "score": 0.04983386769890785
+    },
+    {
+      "chunk_id": "4a63d4ddcea2930ca61937cb0571045c7d66ad8f5230f6759656c730c34d6167",
+      "score": 0.026071548461914062
+    },
+    {
+      "chunk_id": "ebe5ebd9aa0a247b3152764385ae9dd988cc3161b4e664e884c0dc714eb6eda7",
+      "score": 0.015747912228107452
+    },
+    {
+      "chunk_id": "d80cbd82c620b62225dedcbf18eab0cdb7461993e70f7129dff8f4a13347c1e7",
+      "score": 0.014553403481841087
+    },
+    {
+      "chunk_id": "3ce1d1374d361ed51eb918020602c248d491d6ebbc1a2eb5e6377935075bc013",
+      "score": 0.014280598610639572
+    },
+    {
+      "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+      "score": 0.012985730543732643
+    },
+    {
+      "chunk_id": "d3ff24e6e67b3a65e8c1807dfc99e0d0b3527c5e6a584add32f05e9b0c313cfd",
+      "score": 0.012898938730359077
+    },
+    {
+      "chunk_id": "80ad5258c80c147dc8cf6a18a8ab5d9361a7497c2824605183374293fcbe6c21",
+      "score": 0.011625983752310276
+    },
+    {
+      "chunk_id": "9e20ac3e9d24d0b2671758e117be7a4c3503c762cf9351c2bbd1602c3fd2958a",
+      "score": 0.010622741654515266
+    },
+    {
+      "chunk_id": "1360cf413126bca874c49d337e17626047074e8cc352a6a1cbd1bd62f74b1827",
+      "score": 0.009632842615246773
+    },
+    {
+      "chunk_id": "8f9be926cb104e29f69a4353dfdc984618854462b1d9ca8680a2739b9552a572",
+      "score": 0.009388886392116547
+    },
+    {
+      "chunk_id": "7ecc619f95652ace79a2e6243685b2876b84117b3d3d116f7bd9045ce0e73303",
+      "score": 0.008875086903572083
+    },
+    {
+      "chunk_id": "710be47c85615ca9eadf3a52d6eec59fdc1d59fa57dee9a21d69e8529719f24d",
+      "score": 0.008415735326707363
+    },
+    {
+      "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+      "score": 0.008284351788461208
+    },
+    {
+      "chunk_id": "8d6635f90596fbda5a1bffc312b0e50f131660ca95f58bcaf7d67bab6d47a861",
+      "score": 0.007698152679949999
+    },
+    {
+      "chunk_id": "5ff91ed9ea963db49ba4f36bd141772f2a3e3bb4d8eda370d65a1a4f115b96e7",
+      "score": 0.007565646898001432
+    },
+    {
+      "chunk_id": "5db6499b49035227da47a175212f93a0bc64010032b43897b31a33f8cd6a20f7",
+      "score": 0.00711459806188941
+    },
+    {
+      "chunk_id": "d2512f0e2a32b289fbab107229f4afabc8ff26c209ab72568f50aefdc5f741eb",
+      "score": 0.006758189294487238
+    },
+    {
+      "chunk_id": "7be39457c0cf62038333ea56a37891a55da9930b0ebc5f80a525f003df80c183",
+      "score": 0.006112807430326939
+    },
+    {
+      "chunk_id": "1f61b3d86d56685159c3af6250faed7c2c37fd8033fd73dd9e57c4c153406b40",
+      "score": 0.006052250508219004
+    },
+    {
+      "chunk_id": "3d8c755a5f152c5586f2114898182b35a3be0357d6026bbcf66c37485bae27f8",
+      "score": 0.005382552742958069
+    },
+    {
+      "chunk_id": "6751797be89318ff2c1a30827799ba223ec6ada7ab2fdba8bc8aeb36fed442cb",
+      "score": 0.005020352080464363
+    },
+    {
+      "chunk_id": "8460bbf33276a92f1359103c724fbd0351e2c2f3cb09776e3a43b6ecc7241c8d",
+      "score": 0.004975527990609407
+    },
+    {
+      "chunk_id": "6493704240e09bd7b311fd7f88c73f22bb5c859e1962b40f322170327fd6804c",
+      "score": 0.003914674744009972
+    },
+    {
+      "chunk_id": "6806ae7e2c05e2ce2f8372d27389edf7b9a81a9972a3c3340eafa0be2015dfb9",
+      "score": 0.003728362498804927
+    },
+    {
+      "chunk_id": "ad85c6be24cecc7fbd9b83d15a961645c1e25421d6da5b3a438d103a71b1887f",
+      "score": 0.003700230736285448
+    },
+    {
+      "chunk_id": "0133ac72da0b4e12c5ee4604666cb2a52e9122dcebf452ed73cb4217c51e2852",
+      "score": 0.00365438056178391
+    },
+    {
+      "chunk_id": "a76e48669a87894481d724cec7479ea5d4051cb187acf5a594807605d9abbff5",
+      "score": 0.0035887891426682472
+    },
+    {
+      "chunk_id": "7916f5b6d88b5da6c0096d46d0c47675cf451059844c71db137bf387534894dc",
+      "score": 0.003545928979292512
+    },
+    {
+      "chunk_id": "c44e077a43fef016a7ddd7409f4f5496046fca5411b2056d508e273ea66fe4f1",
+      "score": 0.0032107746228575706
+    },
+    {
+      "chunk_id": "8905547eb1eb40386131f9c1102234ba37cb4aa83efcd95304a6b0577ca680c1",
+      "score": 0.0030605290085077286
+    },
+    {
+      "chunk_id": "060aaacedd8d774602f609dc9bd45553383d70be64578de66435d03c0523f458",
+      "score": 0.0028064462821930647
+    },
+    {
+      "chunk_id": "de9010dc51380035c5a3cdd19da8d465f2b36e613b971dc10319c7fcbab1aaa9",
+      "score": 0.002785681514069438
+    },
+    {
+      "chunk_id": "ad21c726bae3674e3cd346c8e67aa52b9ce2380aed020539177c87dd1bf06a0b",
+      "score": 0.002585449954494834
+    },
+    {
+      "chunk_id": "12313b4bac9f82bba5dc3734db6070d81e6810e7e1fb9c4965524eee628ff044",
+      "score": 0.0024814775679260492
+    },
+    {
+      "chunk_id": "953f0d6486abebac81cea5748ccdd18e189127e82903e1cc80868d07f22f1c20",
+      "score": 0.0021664020605385303
+    },
+    {
+      "chunk_id": "6f2537fbf606da4f8bd171b61e0098740ea6dafd10f19f0a0f14c6abbb18de7a",
+      "score": 0.0015324557898566127
+    },
+    {
+      "chunk_id": "35f1e9486e5c12dee5ac5ab37719a93f0f5c5881dc404ea8e59e09a9b1e9e112",
+      "score": 0.0010965896071866155
+    },
+    {
+      "chunk_id": "f86ad317cd58a8d0d74006562ce14c20b89bf634089e18543bc39875bec3b991",
+      "score": 0.0008776948670856655
+    },
+    {
+      "chunk_id": "3e20932e8084c87088081051bf3422b5edb3d4ade3f7a54da93e6b7fd838d2a0",
+      "score": 0.0006527981604449451
+    },
+    {
+      "chunk_id": "8d2938089dc5710b5da3fad5e85c571c9e7053c956745935e77d9b90f9882c26",
+      "score": 0.0005773057346232235
+    },
+    {
+      "chunk_id": "b384d1d6ab52afada6032c81de240010377f5100c20e82ecb2bd7b577170db12",
+      "score": 0.0005689513054676354
+    },
+    {
+      "chunk_id": "f5ca0d6e4097428ac2a56b58520a010a40dcd2ba1a190b093396837bf1ca702f",
+      "score": 0.0005412764148786664
+    },
+    {
+      "chunk_id": "60829f1c7dbedb4fb1299d64f0b04652f9cb0973c8063dff32adc9f7287fe5b3",
+      "score": 0.00044565534335561097
+    },
+    {
+      "chunk_id": "e8d127276f3ff4ac6f102825ddce6696258529ad55786fcc23bfafd67ab44ae4",
+      "score": 0.00022677294327877462
+    }
+  ],
+  "hyde_cache_sha256": "c50d487a2acff0ec04677bf1b252a95efcf74dad936b91bb7b1e31abcbfb8e92",
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 91928.78960000235,
+  "hash_configuracao": "c8426437312a759575f0d965b1f4669c7a6ae9d68f356cee0c40ba79b1d5bd88",
+  "embedding_corpus_recalculado": false
+}

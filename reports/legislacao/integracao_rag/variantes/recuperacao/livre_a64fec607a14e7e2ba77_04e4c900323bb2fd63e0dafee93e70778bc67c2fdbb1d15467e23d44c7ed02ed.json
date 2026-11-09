@@ -1,0 +1,355 @@
+{
+  "query_id": "livre_a64fec607a14e7e2ba77",
+  "pergunta": "Quanto tempo a empresa tem para pagar as verbas rescisórias depois que o contrato termina?",
+  "sources": [
+    {
+      "chunk_id": "427c699651599bb13d4c199426df9a89643fbc777390ecc2d5b2061e60be8f67",
+      "estrategia": "A_artigo",
+      "artigo_id": "1021b57c893735467478c340c8664e1c202bac475ae560018bac781d8f035414",
+      "artigo_ref": "Art. 467",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 467]",
+      "corpo_chunk": "##### Art. 467.\n\nEm caso de rescisão de contrato de trabalho, havendo controvérsia sobre o montante das verbas rescisórias, o empregador é obrigado a pagar ao trabalhador, à data do comparecimento à Justiça do Trabalho, a parte incontroversa dessas verbas, sob pena de pagá-las acrescidas de cinqüenta por cento. (Redação dada pela Lei nº 10.272, de 5.9.2001)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 467]\n##### Art. 467.\n\nEm caso de rescisão de contrato de trabalho, havendo controvérsia sobre o montante das verbas rescisórias, o empregador é obrigado a pagar ao trabalhador, à data do comparecimento à Justiça do Trabalho, a parte incontroversa dessas verbas, sob pena de pagá-las acrescidas de cinqüenta por cento. (Redação dada pela Lei nº 10.272, de 5.9.2001)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 361,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 517,
+      "tokens_reais_corpo": 118,
+      "tokens_reais_total": 180,
+      "tokens_estimados_total": 129.25,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "ebe5ebd9aa0a247b3152764385ae9dd988cc3161b4e664e884c0dc714eb6eda7",
+          "rank": 1,
+          "score": 0.7863878011703491
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "4a674bb75d7a7f60b3d6747bad515150c877924918f48c69cfa28a226e5d2075",
+      "estrategia": "A_artigo",
+      "artigo_id": "207cae4e2c9fc25ea275053796ccf21748974eedb0bcfd9b18bda54add69bb1b",
+      "artigo_ref": "Art. 477",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 477]",
+      "corpo_chunk": "##### Art. 477.\n\nNa extinção do contrato de trabalho, o empregador deverá proceder à anotação na Carteira de Trabalho e Previdência Social, comunicar a dispensa aos órgãos competentes e realizar o pagamento das verbas rescisórias no prazo e na forma estabelecidos neste artigo. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 2º - O instrumento de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ter especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas. (Redação dada pela Lei nº 5.584, de 26.6.1970)\n\n§ 3º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 4º O pagamento a que fizer jus o empregado será efetuado: (Redação dada pela Lei nº 13.467, de 2017)\n\nI - em dinheiro, depósito bancário ou cheque visado, conforme acordem as partes; ou (Incluído pela Lei nº 13.467, de 2017)\n\nII - em dinheiro ou depósito bancário quando o empregado for analfabeto. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 5º - Qualquer compensação no pagamento de que trata o parágrafo anterior não poderá exceder o equivalente a um mês de remuneração do empregado. (Redação dada pela Lei nº 5.584, de 26.6.1970)\n\n§ 6º A entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes bem como o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação deverão ser efetuados até dez dias contados a partir do término do contrato. (Redação dada pela Lei nº 13.467, de 2017)\n\na) (revogado); (Redação dada pela Lei nº 13.467, de 2017)\n\nb) (revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 7º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 8º - A inobservância do disposto no § 6º deste artigo sujeitará o infrator à multa de 160 BTN, por trabalhador, bem assim ao pagamento da multa a favor do empregado, em valor equivalente ao seu salário, devidamente corrigido pelo índice de variação do BTN, salvo quando, comprovadamente, o trabalhador der causa à mora. (Incluído pela Lei nº 7.855, de 24.10.1989)\n\n§ 9º (vetado). (Incluído pela Lei nº 7.855, de 24.10.1989)\n\n§ 10. A anotação da extinção do contrato na Carteira de Trabalho e Previdência Social é documento hábil para requerer o benefício do seguro-desemprego e a movimentação da conta vinculada no Fundo de Garantia do Tempo de Serviço, nas hipóteses legais, desde que a comunicação prevista no caput deste artigo tenha sido realizada. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 477]\n##### Art. 477.\n\nNa extinção do contrato de trabalho, o empregador deverá proceder à anotação na Carteira de Trabalho e Previdência Social, comunicar a dispensa aos órgãos competentes e realizar o pagamento das verbas rescisórias no prazo e na forma estabelecidos neste artigo. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 2º - O instrumento de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ter especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas. (Redação dada pela Lei nº 5.584, de 26.6.1970)\n\n§ 3º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 4º O pagamento a que fizer jus o empregado será efetuado: (Redação dada pela Lei nº 13.467, de 2017)\n\nI - em dinheiro, depósito bancário ou cheque visado, conforme acordem as partes; ou (Incluído pela Lei nº 13.467, de 2017)\n\nII - em dinheiro ou depósito bancário quando o empregado for analfabeto. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 5º - Qualquer compensação no pagamento de que trata o parágrafo anterior não poderá exceder o equivalente a um mês de remuneração do empregado. (Redação dada pela Lei nº 5.584, de 26.6.1970)\n\n§ 6º A entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes bem como o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação deverão ser efetuados até dez dias contados a partir do término do contrato. (Redação dada pela Lei nº 13.467, de 2017)\n\na) (revogado); (Redação dada pela Lei nº 13.467, de 2017)\n\nb) (revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 7º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 8º - A inobservância do disposto no § 6º deste artigo sujeitará o infrator à multa de 160 BTN, por trabalhador, bem assim ao pagamento da multa a favor do empregado, em valor equivalente ao seu salário, devidamente corrigido pelo índice de variação do BTN, salvo quando, comprovadamente, o trabalhador der causa à mora. (Incluído pela Lei nº 7.855, de 24.10.1989)\n\n§ 9º (vetado). (Incluído pela Lei nº 7.855, de 24.10.1989)\n\n§ 10. A anotação da extinção do contrato na Carteira de Trabalho e Previdência Social é documento hábil para requerer o benefício do seguro-desemprego e a movimentação da conta vinculada no Fundo de Garantia do Tempo de Serviço, nas hipóteses legais, desde que a comunicação prevista no caput deste artigo tenha sido realizada. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2611,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2763,
+      "tokens_reais_corpo": 872,
+      "tokens_reais_total": 934,
+      "tokens_estimados_total": 690.75,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "04031009d670d89869e70af1d92c647e065b6e55d8d06f197563fcd9c1cc1db2",
+          "rank": 2,
+          "score": 0.7693774104118347
+        },
+        {
+          "chunk_id": "4a63d4ddcea2930ca61937cb0571045c7d66ad8f5230f6759656c730c34d6167",
+          "rank": 3,
+          "score": 0.6234689950942993
+        },
+        {
+          "chunk_id": "e2c67a38f4181f49c06d9807154d9c0e08cacbb327fe35267a08c07be94f8f7a",
+          "rank": 21,
+          "score": 0.011395066976547241
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "280af2c45c86e23a7550525ea7abaafe552385abc0e4c1066f304fc6fa6dd0be",
+      "estrategia": "A_artigo",
+      "artigo_id": "264e9676bfdfd58374f1eec13e368c2ac2085a5cf7333e2d6ec94875bc122c91",
+      "artigo_ref": "Art. 487",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO VI — DO AVISO PRÉVIO > Art. 487]",
+      "corpo_chunk": "##### Art. 487\n\nNão havendo prazo estipulado, a parte que, sem justo motivo, quiser rescindir o contrato deverá avisar a outra da sua resolução com a antecedência mínima de:\n\nI - oito dias, se o pagamento for efetuado por semana ou tempo inferior; (Redação dada pela Lei nº 1.530, de 26.12.1951)\n\nII - trinta dias aos que perceberem por quinzena ou mês, ou que tenham mais de 12 (doze) meses de serviço na empresa. (Redação dada pela Lei nº 1.530, de 26.12.1951)\n\n§ 1º - A falta do aviso prévio por parte do empregador dá ao empregado o direito aos salários correspondentes ao prazo do aviso, garantida sempre a integração desse período no seu tempo de serviço.\n\n§ 2º - A falta de aviso prévio por parte do empregado dá ao empregador o direito de descontar os salários correspondentes ao prazo respectivo.\n\n§ 3º - Em se tratando de salário pago na base de tarefa, o cálculo, para os efeitos dos parágrafos anteriores, será feito de acordo com a média dos últimos 12 (doze) meses de serviço.\n\n§ 4º - É devido o aviso prévio na despedida indireta. (Parágrafo incluído pela Lei nº 7.108, de 5.7.1983)\n\n§ 5º O valor das horas extraordinárias habituais integra o aviso prévio indenizado. (Parágrafo incluído pela Lei nº 10.218, de 11.4.2001)\n\n§ 6º O reajustamento salarial coletivo, determinado no curso do aviso prévio, beneficia o empregado pré-avisado da despedida, mesmo que tenha recebido antecipadamente os salários correspondentes ao período do aviso, que integra seu tempo de serviço para todos os efeitos legais. (Parágrafo incluído pela Lei nº 10.218, de 11.4.2001)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO VI — DO AVISO PRÉVIO > Art. 487]\n##### Art. 487\n\nNão havendo prazo estipulado, a parte que, sem justo motivo, quiser rescindir o contrato deverá avisar a outra da sua resolução com a antecedência mínima de:\n\nI - oito dias, se o pagamento for efetuado por semana ou tempo inferior; (Redação dada pela Lei nº 1.530, de 26.12.1951)\n\nII - trinta dias aos que perceberem por quinzena ou mês, ou que tenham mais de 12 (doze) meses de serviço na empresa. (Redação dada pela Lei nº 1.530, de 26.12.1951)\n\n§ 1º - A falta do aviso prévio por parte do empregador dá ao empregado o direito aos salários correspondentes ao prazo do aviso, garantida sempre a integração desse período no seu tempo de serviço.\n\n§ 2º - A falta de aviso prévio por parte do empregado dá ao empregador o direito de descontar os salários correspondentes ao prazo respectivo.\n\n§ 3º - Em se tratando de salário pago na base de tarefa, o cálculo, para os efeitos dos parágrafos anteriores, será feito de acordo com a média dos últimos 12 (doze) meses de serviço.\n\n§ 4º - É devido o aviso prévio na despedida indireta. (Parágrafo incluído pela Lei nº 7.108, de 5.7.1983)\n\n§ 5º O valor das horas extraordinárias habituais integra o aviso prévio indenizado. (Parágrafo incluído pela Lei nº 10.218, de 11.4.2001)\n\n§ 6º O reajustamento salarial coletivo, determinado no curso do aviso prévio, beneficia o empregado pré-avisado da despedida, mesmo que tenha recebido antecipadamente os salários correspondentes ao período do aviso, que integra seu tempo de serviço para todos os efeitos legais. (Parágrafo incluído pela Lei nº 10.218, de 11.4.2001)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1572,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1729,
+      "tokens_reais_corpo": 509,
+      "tokens_reais_total": 573,
+      "tokens_estimados_total": 432.25,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "8f9be926cb104e29f69a4353dfdc984618854462b1d9ca8680a2739b9552a572",
+          "rank": 4,
+          "score": 0.2729840576648712
+        }
+      ],
+      "best_child_rank": 4,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 467]\n##### Art. 467.\n\nEm caso de rescisão de contrato de trabalho, havendo controvérsia sobre o montante das verbas rescisórias, o empregador é obrigado a pagar ao trabalhador, à data do comparecimento à Justiça do Trabalho, a parte incontroversa dessas verbas, sob pena de pagá-las acrescidas de cinqüenta por cento. (Redação dada pela Lei nº 10.272, de 5.9.2001)\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 477]\n##### Art. 477.\n\nNa extinção do contrato de trabalho, o empregador deverá proceder à anotação na Carteira de Trabalho e Previdência Social, comunicar a dispensa aos órgãos competentes e realizar o pagamento das verbas rescisórias no prazo e na forma estabelecidos neste artigo. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 2º - O instrumento de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ter especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas. (Redação dada pela Lei nº 5.584, de 26.6.1970)\n\n§ 3º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 4º O pagamento a que fizer jus o empregado será efetuado: (Redação dada pela Lei nº 13.467, de 2017)\n\nI - em dinheiro, depósito bancário ou cheque visado, conforme acordem as partes; ou (Incluído pela Lei nº 13.467, de 2017)\n\nII - em dinheiro ou depósito bancário quando o empregado for analfabeto. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 5º - Qualquer compensação no pagamento de que trata o parágrafo anterior não poderá exceder o equivalente a um mês de remuneração do empregado. (Redação dada pela Lei nº 5.584, de 26.6.1970)\n\n§ 6º A entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes bem como o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação deverão ser efetuados até dez dias contados a partir do término do contrato. (Redação dada pela Lei nº 13.467, de 2017)\n\na) (revogado); (Redação dada pela Lei nº 13.467, de 2017)\n\nb) (revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 7º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 8º - A inobservância do disposto no § 6º deste artigo sujeitará o infrator à multa de 160 BTN, por trabalhador, bem assim ao pagamento da multa a favor do empregado, em valor equivalente ao seu salário, devidamente corrigido pelo índice de variação do BTN, salvo quando, comprovadamente, o trabalhador der causa à mora. (Incluído pela Lei nº 7.855, de 24.10.1989)\n\n§ 9º (vetado). (Incluído pela Lei nº 7.855, de 24.10.1989)\n\n§ 10. A anotação da extinção do contrato na Carteira de Trabalho e Previdência Social é documento hábil para requerer o benefício do seguro-desemprego e a movimentação da conta vinculada no Fundo de Garantia do Tempo de Serviço, nas hipóteses legais, desde que a comunicação prevista no caput deste artigo tenha sido realizada. (Incluído pela Lei nº 13.467, de 2017)\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO VI — DO AVISO PRÉVIO > Art. 487]\n##### Art. 487\n\nNão havendo prazo estipulado, a parte que, sem justo motivo, quiser rescindir o contrato deverá avisar a outra da sua resolução com a antecedência mínima de:\n\nI - oito dias, se o pagamento for efetuado por semana ou tempo inferior; (Redação dada pela Lei nº 1.530, de 26.12.1951)\n\nII - trinta dias aos que perceberem por quinzena ou mês, ou que tenham mais de 12 (doze) meses de serviço na empresa. (Redação dada pela Lei nº 1.530, de 26.12.1951)\n\n§ 1º - A falta do aviso prévio por parte do empregador dá ao empregado o direito aos salários correspondentes ao prazo do aviso, garantida sempre a integração desse período no seu tempo de serviço.\n\n§ 2º - A falta de aviso prévio por parte do empregado dá ao empregador o direito de descontar os salários correspondentes ao prazo respectivo.\n\n§ 3º - Em se tratando de salário pago na base de tarefa, o cálculo, para os efeitos dos parágrafos anteriores, será feito de acordo com a média dos últimos 12 (doze) meses de serviço.\n\n§ 4º - É devido o aviso prévio na despedida indireta. (Parágrafo incluído pela Lei nº 7.108, de 5.7.1983)\n\n§ 5º O valor das horas extraordinárias habituais integra o aviso prévio indenizado. (Parágrafo incluído pela Lei nº 10.218, de 11.4.2001)\n\n§ 6º O reajustamento salarial coletivo, determinado no curso do aviso prévio, beneficia o empregado pré-avisado da despedida, mesmo que tenha recebido antecipadamente os salários correspondentes ao período do aviso, que integra seu tempo de serviço para todos os efeitos legais. (Parágrafo incluído pela Lei nº 10.218, de 11.4.2001)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "ebe5ebd9aa0a247b3152764385ae9dd988cc3161b4e664e884c0dc714eb6eda7",
+      "score": 0.7863878011703491
+    },
+    {
+      "chunk_id": "04031009d670d89869e70af1d92c647e065b6e55d8d06f197563fcd9c1cc1db2",
+      "score": 0.7693774104118347
+    },
+    {
+      "chunk_id": "4a63d4ddcea2930ca61937cb0571045c7d66ad8f5230f6759656c730c34d6167",
+      "score": 0.6234689950942993
+    },
+    {
+      "chunk_id": "8f9be926cb104e29f69a4353dfdc984618854462b1d9ca8680a2739b9552a572",
+      "score": 0.2729840576648712
+    },
+    {
+      "chunk_id": "a76e48669a87894481d724cec7479ea5d4051cb187acf5a594807605d9abbff5",
+      "score": 0.19321031868457794
+    },
+    {
+      "chunk_id": "6751797be89318ff2c1a30827799ba223ec6ada7ab2fdba8bc8aeb36fed442cb",
+      "score": 0.16756127774715424
+    },
+    {
+      "chunk_id": "541ddeb5b7d56eebbe2c9d80ad279ce418882ef9d367c1b7c5d597c5f227e3bb",
+      "score": 0.1536664068698883
+    },
+    {
+      "chunk_id": "572183adc032aae723399c51bbf4607a968b0fb31b333e3af405846601245f3b",
+      "score": 0.11507591605186462
+    },
+    {
+      "chunk_id": "51486d4c8622f1f4c36183d96fe1d2b40b80d59158f06908c079ae01b45ad2c6",
+      "score": 0.07781913876533508
+    },
+    {
+      "chunk_id": "8d6635f90596fbda5a1bffc312b0e50f131660ca95f58bcaf7d67bab6d47a861",
+      "score": 0.07698080688714981
+    },
+    {
+      "chunk_id": "8460bbf33276a92f1359103c724fbd0351e2c2f3cb09776e3a43b6ecc7241c8d",
+      "score": 0.07076471298933029
+    },
+    {
+      "chunk_id": "19f22e4778bd393f3b3e96cac9acce96ab152603b383f0fabe5582ddc46c11b5",
+      "score": 0.06846699863672256
+    },
+    {
+      "chunk_id": "1fc7e7f4e4d3a151c6c56a8fa5942d0176990d04214c7d2de9c8fde122293d1a",
+      "score": 0.024412134662270546
+    },
+    {
+      "chunk_id": "5ff91ed9ea963db49ba4f36bd141772f2a3e3bb4d8eda370d65a1a4f115b96e7",
+      "score": 0.02321101725101471
+    },
+    {
+      "chunk_id": "54f00714b210157d87524e7d93b756ac6d474cd6ed97a8bdc4f0cc50de84e649",
+      "score": 0.019194109365344048
+    },
+    {
+      "chunk_id": "7916f5b6d88b5da6c0096d46d0c47675cf451059844c71db137bf387534894dc",
+      "score": 0.01637738011777401
+    },
+    {
+      "chunk_id": "ad85c6be24cecc7fbd9b83d15a961645c1e25421d6da5b3a438d103a71b1887f",
+      "score": 0.016001418232917786
+    },
+    {
+      "chunk_id": "8905547eb1eb40386131f9c1102234ba37cb4aa83efcd95304a6b0577ca680c1",
+      "score": 0.014894534833729267
+    },
+    {
+      "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+      "score": 0.014510471373796463
+    },
+    {
+      "chunk_id": "a2c41cc7e74fc0fecb75fa9f642290f2a5b0b5e1829e838ff7cab181c0bfce50",
+      "score": 0.01180577464401722
+    },
+    {
+      "chunk_id": "e2c67a38f4181f49c06d9807154d9c0e08cacbb327fe35267a08c07be94f8f7a",
+      "score": 0.011395066976547241
+    },
+    {
+      "chunk_id": "e4e42fa5f9c3c5fc94b323cf0c1c6a44d7ed115660e7e19aaaaba82b3b3c545b",
+      "score": 0.010326510295271873
+    },
+    {
+      "chunk_id": "c446c1666e21868b9835538de284248cd1762727b10842bc248994f93dfcc826",
+      "score": 0.010024533607065678
+    },
+    {
+      "chunk_id": "c58edb969109946cf243331765b84f444e244136988a428f1b42ec5936180bfe",
+      "score": 0.010005755349993706
+    },
+    {
+      "chunk_id": "dff27c694f8c243466e9ca85c799b92c122b5cbd8411e9dbc5b18cdfb9bfe419",
+      "score": 0.009655842557549477
+    },
+    {
+      "chunk_id": "4065cb1ba385b7704093e73e057d7f8bbbafbf433f7b15e4dc42f65f39408586",
+      "score": 0.008845645003020763
+    },
+    {
+      "chunk_id": "8d2938089dc5710b5da3fad5e85c571c9e7053c956745935e77d9b90f9882c26",
+      "score": 0.00828594621270895
+    },
+    {
+      "chunk_id": "3a91d4c6af4a628a69c2adc1dc57ca34cd059b195031f9309994642db0acc8d8",
+      "score": 0.007989468052983284
+    },
+    {
+      "chunk_id": "e7d7ae18c9470fcef2c7c81fba3656a56dd23d4c189621bb012d9ba1125f5236",
+      "score": 0.007024639286100864
+    },
+    {
+      "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+      "score": 0.0056938487105071545
+    },
+    {
+      "chunk_id": "3e98d06079806cb751309928ce37d9e4697dadef7d69234d06bc0ceb2c99d844",
+      "score": 0.005599543917924166
+    },
+    {
+      "chunk_id": "402604ab261db51ccb9efa9585b0747e266e64ce4460068e1c029e638e9ce6a2",
+      "score": 0.0053558736108243465
+    },
+    {
+      "chunk_id": "cc67f5ef721ebb44227ab1315c638e558dfc77b5e0d3c48f3d2d6672eaab1728",
+      "score": 0.00463855778798461
+    },
+    {
+      "chunk_id": "db5115b890503c2cb800a2448a6426c1ec74993db66895de8cd9b31a6faf74c5",
+      "score": 0.00452328659594059
+    },
+    {
+      "chunk_id": "88825d4fb7dbe8a815960c3673c34dd044963bdd509c360f71b0187075ae7a48",
+      "score": 0.004236951470375061
+    },
+    {
+      "chunk_id": "de9010dc51380035c5a3cdd19da8d465f2b36e613b971dc10319c7fcbab1aaa9",
+      "score": 0.004020957741886377
+    },
+    {
+      "chunk_id": "b3aba6a0bd63470fece38aeda3bc9ff87caf217ee2059d3c79b7a8cbb357551f",
+      "score": 0.0036691504064947367
+    },
+    {
+      "chunk_id": "fe11c5e8fe909ec06a712ea9d98e4ca46cc77ca85cbac2ae9241475e719ba5c7",
+      "score": 0.0033756946213543415
+    },
+    {
+      "chunk_id": "46d5a9e89ac1a01fc350a4875fb2afe39ff1039a6a14f26e6f051473d836617b",
+      "score": 0.003332450520247221
+    },
+    {
+      "chunk_id": "f64429dac568946ee3428ac8932b2a684f25d072218bc3bb6ac924b895657c3d",
+      "score": 0.0032504405826330185
+    },
+    {
+      "chunk_id": "f4e62665b68c8f9843a5e6bda579aec4612b92c3ec26d6aeddf90db70482095f",
+      "score": 0.0030338261276483536
+    },
+    {
+      "chunk_id": "418bd0ab5cadf1a46e2d301a26bdd6f8d5ca05bd573e32cef2e3e1bd6af0d947",
+      "score": 0.002787589794024825
+    },
+    {
+      "chunk_id": "d2e810db55562f0616fd24171d67db26f1aecf297c6b467259fec4506a23ff56",
+      "score": 0.002222558716312051
+    },
+    {
+      "chunk_id": "361c3aab17f7c0d1d4587bd819ed67208d0ec2c4cfb51a77bebfbc82ea9361b1",
+      "score": 0.0010955652687698603
+    },
+    {
+      "chunk_id": "c1d6d9ba4ab518cc45bd622e9d5b55892185ac5318a64cd07e6cad19dd0d6c39",
+      "score": 0.0009276368655264378
+    },
+    {
+      "chunk_id": "bb3cfacd2d3f4b6ac6bedea4d9584f984daa8c7a7bb979fd4cf98a26170360b9",
+      "score": 0.000622458872385323
+    },
+    {
+      "chunk_id": "d84ccb7b682116be37d2743a53760a74d98b14a949feb17f0ba4ef182d0870e6",
+      "score": 0.0005898364470340312
+    },
+    {
+      "chunk_id": "50bbada12af39e21946c613d034684009098bf7139ed0d7b3e3127ed5f3539fb",
+      "score": 0.0002722709032241255
+    },
+    {
+      "chunk_id": "59d73bdeb94703e6262cc0acc9b868eca3649a60b47faba1941aa9a1bdf9fc4a",
+      "score": 0.000244973722146824
+    },
+    {
+      "chunk_id": "33eb8201f69eb37ebbbbb5389e6db04b7ffdce0003c065bdb0f611c4c504ecf6",
+      "score": 0.00020673821563832462
+    }
+  ],
+  "hyde_cache_sha256": "c904c6c5c7e37ff74ce983dfb2d18e22173208f35a7530966b6aa046a35db226",
+  "hyde_text": "O tema trata do prazo para o pagamento das verbas rescisórias após o término do contrato de trabalho. A busca deve considerar normas que regulamentem o cumprimento de obrigações financeiras por parte da empresa ao final do vínculo empregatício. É importante buscar legislação que mencione prazos para o pagamento de salários, férias, 13º salário, auxílio-doença e outros benefícios rescisórios. As condições a serem consideradas incluem o tipo de contrato, a natureza do término (voluntário ou por justa causa), e a existência de acordos ou convenções que possam alterar o prazo. A consulta deve ser feita em textos que tratam de direitos do trabalhador e obrigações do empregador, especialmente em leis trabalhistas e normas regulamentadoras. É recomendável filtrar por dispositivos que mencionam \"pagamento\", \"rescisão\", \"verbas\", \"obrigações\", e \"prazo\". A busca deve ser feita com cautela, evitando interpretações que possam levar a conclusões sobre prazos específicos, já que a legislação pode variar conforme o contexto e a aplicação prática. O documento deve servir apenas como guia para localizar textos relevantes, sem fornecer respostas definitivas.",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 32501.43730000127,
+  "hash_configuracao": "04e4c900323bb2fd63e0dafee93e70778bc67c2fdbb1d15467e23d44c7ed02ed",
+  "embedding_corpus_recalculado": false
+}

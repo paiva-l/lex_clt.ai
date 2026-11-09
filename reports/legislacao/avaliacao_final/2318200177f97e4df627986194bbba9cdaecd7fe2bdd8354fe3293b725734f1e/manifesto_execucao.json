@@ -1,0 +1,11 @@
+{
+  "configuracao_sha256": "2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e",
+  "gerado_em_utc": "2026-11-09T09:46:12.249397+00:00",
+  "respostas_registradas": 9,
+  "teste_sha256": "7d094eddf4d34e7e3ce0cc39045b425630170b501b20a8a29ed236500b5e8b74",
+  "gabarito_fornecido_ao_modelo": false,
+  "correcao_com_feedback_no_teste": false,
+  "embeddings_corpus_recalculados": false,
+  "avaliador_sha256": "28cff5b72bba8951b45911335402f82d0231eb2bf0aac39e265fb77c287e3c20",
+  "notebook_08_sha256": "dae85f386ab35eb74665e8c0a9a1844cf05306b609c1ecd701d9ccca9f786840"
+}

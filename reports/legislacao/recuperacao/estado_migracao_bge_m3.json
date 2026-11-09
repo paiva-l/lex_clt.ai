@@ -1,0 +1,9 @@
+{
+  "modelo": "BAAI/bge-m3",
+  "modelo_local_validado": true,
+  "chunks_verificados": 46022,
+  "chunks_acima_limite": 0,
+  "tokens_maximos": 4726,
+  "embeddings_corpus_recalculados": false,
+  "observacao": "Relatórios anteriores de recuperação ainda são do MiniLM; reexecutar notebook 06 para novos resultados BGE-M3."
+}

@@ -1,0 +1,15 @@
+{
+    "status_dataset": "APROVADO COM RESSALVAS",
+    "bloqueios_arquivos": 0,
+    "arquivos_ausentes": 0,
+    "arquivos_com_alertas": 22,
+    "alertas_fonte": [],
+    "executado_em_utc": "2026-11-05T02:39:38.860614+00:00",
+    "repositorio": {
+        "commit": "e2a0e14bfc5cddf9a88b2aa05c66536cdb547aa1",
+        "commit_declarado": "e2a0e14bfc5cddf9a88b2aa05c66536cdb547aa1",
+        "commit_confere": true,
+        "alteracoes_locais": "",
+        "erros_git": []
+    }
+}

@@ -1,0 +1,181 @@
+{
+  "query_id": "q_dev_03",
+  "pergunta": "Quais são as hipóteses em que o empregado pode rescindir o contrato de trabalho por justa causa do empregador (rescisão indireta)?",
+  "tipo_execucao": "correcao_assistida_por_revisao",
+  "tentativa": 1,
+  "sources": [
+    {
+      "chunk_id": "1de79074fb1b3d6981610059140d3a0268a0da775e76db4afadecd388ea7db85",
+      "estrategia": "A_artigo",
+      "artigo_id": "bccbfcc064bf835a548b042df6672d9f2eafa75750edf7f986bf86d4ded18cb1",
+      "artigo_ref": "Art. 482",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]",
+      "corpo_chunk": "##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]\n##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1480,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1632,
+      "tokens_reais_corpo": 445,
+      "tokens_reais_total": 507,
+      "tokens_estimados_total": 408.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+          "rank": 1,
+          "score": 0.9791697263717651
+        },
+        {
+          "chunk_id": "a0ff312925f1da98e5d78a88a16f38a7223837e1a1d9d1af1681af6fba5ccdd6",
+          "rank": 16,
+          "score": 0.3825315535068512
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "bd1ef8dedad3ce908b2804e164ff81c772bebbaad663e61d3b4f5628298a2aae",
+      "estrategia": "A_artigo",
+      "artigo_id": "63b03d5a62beb009a7834f0e436629bfbb2f9ac3301969af6a7f94aa17303403",
+      "artigo_ref": "Art. 27",
+      "caminho_relativo": "leis-complementares/2015/lcp-150-2015.md",
+      "sha256_fonte": "a857c64a3fb78c7f6b02aad2506d792e2bb58592500c64c925bcc3fd34bee0b6",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp150.htm",
+      "date": 1435708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 27]",
+      "corpo_chunk": "### Art. 27.\n\nConsidera-se justa causa para os efeitos desta Lei:\n\nI - submissão a maus tratos de idoso, de enfermo, de pessoa com deficiência ou de criança sob cuidado direto ou indireto do empregado;\n\nII - prática de ato de improbidade;\n\nIII - incontinência de conduta ou mau procedimento;\n\nIV - condenação criminal do empregado transitada em julgado, caso não tenha havido suspensão da execução da pena;\n\nV - desídia no desempenho das respectivas funções;\n\nVI - embriaguez habitual ou em serviço;\n\nVII - (VETADO);\n\nVIII - ato de indisciplina ou de insubordinação;\n\nIX - abandono de emprego, assim considerada a ausência injustificada ao serviço por, pelo menos, 30 (trinta) dias corridos;\n\nX - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas em serviço contra qualquer pessoa, salvo em caso de legítima defesa, própria ou de outrem;\n\nXI - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas contra o empregador doméstico ou sua família, salvo em caso de legítima defesa, própria ou de outrem;\n\nXII - prática constante de jogos de azar.\n\nParágrafo único. O contrato de trabalho poderá ser rescindido por culpa do empregador quando:\n\nI - o empregador exigir serviços superiores às forças do empregado doméstico, defesos por lei, contrários aos bons costumes ou alheios ao contrato;\n\nII - o empregado doméstico for tratado pelo empregador ou por sua família com rigor excessivo ou de forma degradante;\n\nIII - o empregado doméstico correr perigo manifesto de mal considerável;\n\nIV - o empregador não cumprir as obrigações do contrato;\n\nV - o empregador ou sua família praticar, contra o empregado doméstico ou pessoas de sua família, ato lesivo à honra e à boa fama;\n\nVI - o empregador ou sua família ofender o empregado doméstico ou sua família fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\nVII - o empregador praticar qualquer das formas de violência doméstica ou familiar contra mulheres de que trata o art. 5º da Lei nº 11.340, de 7 de agosto de 2006.\n\n",
+      "conteudo_chunk": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 27]\n### Art. 27.\n\nConsidera-se justa causa para os efeitos desta Lei:\n\nI - submissão a maus tratos de idoso, de enfermo, de pessoa com deficiência ou de criança sob cuidado direto ou indireto do empregado;\n\nII - prática de ato de improbidade;\n\nIII - incontinência de conduta ou mau procedimento;\n\nIV - condenação criminal do empregado transitada em julgado, caso não tenha havido suspensão da execução da pena;\n\nV - desídia no desempenho das respectivas funções;\n\nVI - embriaguez habitual ou em serviço;\n\nVII - (VETADO);\n\nVIII - ato de indisciplina ou de insubordinação;\n\nIX - abandono de emprego, assim considerada a ausência injustificada ao serviço por, pelo menos, 30 (trinta) dias corridos;\n\nX - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas em serviço contra qualquer pessoa, salvo em caso de legítima defesa, própria ou de outrem;\n\nXI - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas contra o empregador doméstico ou sua família, salvo em caso de legítima defesa, própria ou de outrem;\n\nXII - prática constante de jogos de azar.\n\nParágrafo único. O contrato de trabalho poderá ser rescindido por culpa do empregador quando:\n\nI - o empregador exigir serviços superiores às forças do empregado doméstico, defesos por lei, contrários aos bons costumes ou alheios ao contrato;\n\nII - o empregado doméstico for tratado pelo empregador ou por sua família com rigor excessivo ou de forma degradante;\n\nIII - o empregado doméstico correr perigo manifesto de mal considerável;\n\nIV - o empregador não cumprir as obrigações do contrato;\n\nV - o empregador ou sua família praticar, contra o empregado doméstico ou pessoas de sua família, ato lesivo à honra e à boa fama;\n\nVI - o empregador ou sua família ofender o empregado doméstico ou sua família fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\nVII - o empregador praticar qualquer das formas de violência doméstica ou familiar contra mulheres de que trata o art. 5º da Lei nº 11.340, de 7 de agosto de 2006.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2006,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2108,
+      "tokens_reais_corpo": 585,
+      "tokens_reais_total": 627,
+      "tokens_estimados_total": 527.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "6493704240e09bd7b311fd7f88c73f22bb5c859e1962b40f322170327fd6804c",
+          "rank": 2,
+          "score": 0.9778157472610474
+        },
+        {
+          "chunk_id": "c7a8820e7ce5df09863390058e27218b3cb34b99e7a391a1fb452094fab75b06",
+          "rank": 15,
+          "score": 0.44421130418777466
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "c832c94fba83535655185fb0d695e30bf2085034e96b7c39de4f088c90a4e47a",
+      "estrategia": "A_artigo",
+      "artigo_id": "4acd494b9f4dfdc8808ffd0f46e946144e5cb3a8949f76288cb568657916f96d",
+      "artigo_ref": "Art. 483",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 483]",
+      "corpo_chunk": "##### Art. 483\n\nO empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:\n\na) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;\n\nb) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;\n\nc) correr perigo manifesto de mal considerável;\n\nd) não cumprir o empregador as obrigações do contrato;\n\ne) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;\n\nf) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\ng) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.\n\n§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.\n\n§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.\n\n§ 3º - Nas hipóteses das letras \"d\" e \"g\", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 483]\n##### Art. 483\n\nO empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:\n\na) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;\n\nb) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;\n\nc) correr perigo manifesto de mal considerável;\n\nd) não cumprir o empregador as obrigações do contrato;\n\ne) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;\n\nf) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\ng) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.\n\n§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.\n\n§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.\n\n§ 3º - Nas hipóteses das letras \"d\" e \"g\", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1364,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1516,
+      "tokens_reais_corpo": 395,
+      "tokens_reais_total": 457,
+      "tokens_estimados_total": 379.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+          "rank": 3,
+          "score": 0.9425170421600342
+        },
+        {
+          "chunk_id": "51486d4c8622f1f4c36183d96fe1d2b40b80d59158f06908c079ae01b45ad2c6",
+          "rank": 5,
+          "score": 0.9009510278701782
+        },
+        {
+          "chunk_id": "d3f7ab52bdc4c55dfe95f88f282bc841f6be99df5e187d9a85fc3e1659e15910",
+          "rank": 6,
+          "score": 0.8689799904823303
+        },
+        {
+          "chunk_id": "2d2654f7d16f80a4e0568098f35203d19c860e5f2b0a4df361b25c51dbf51dfb",
+          "rank": 8,
+          "score": 0.8089650869369507
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "resposta_anterior_incluida": true,
+  "revisao_origem_sha256": "32bd9100656eea5be67eed2d6e7d82f5128926076a0e767b9ad09c765ea2f8a8",
+  "resposta_original_sha256": "ace2f47a102fb3f0fbbd88e2e53dcdc761e8e2bda8400731975c426e45247875",
+  "status_revisao": "pendente_revisao",
+  "tentativa_reutilizada": false,
+  "referencia_fornecida": true,
+  "resposta": "| Hipótese | Explicação em linguagem simples | Dispositivo |\n|---|---|---|\n| Exigência indevida de serviços | Exigir serviços superiores às forças do empregado, defesos por lei, contrários aos bons costumes, ou alheios ao contrato. | Art. 483, alínea a, da CLT. [Fonte 3] |\n| Rigor excessivo | O empregador ou seus superiores hierárquicos tratarem o empregado com rigor excessivo. | Art. 483, alínea b, da CLT. [Fonte 3] |\n| Perigo manifesto de dano considerável | O empregado correr perigo manifesto de sofrer um mal considerável. | Art. 483, alínea c, da CLT. [Fonte 3] |\n| Descumprimento das obrigações do contrato | O empregador deixar de cumprir as obrigações do contrato de trabalho. | Art. 483, alínea d, da CLT. [Fonte .3] |\n| Ofensa à honra ou à boa fama | O empregador ou seus prepostos praticarem ato lesivo à honra ou à boa fama do empregado ou de pessoas de sua família. | Art. 483, alínea e, da CLT. [Fonte 3] |\n| Ofensa física | O empregador ou seus prepostos ofenderem fisicamente o empregado, salvo em caso de legítima defesa, própria ou de outrem. | Art. 483, alínea f, da CLT. [Fonte 3] |\n| Redução do trabalho por peça ou tarefa | O empregador reduzir o trabalho, quando remunerado por peça ou tarefa, de forma a afetar sensivelmente o valor dos salários. | Art. 483, alínea g, da CLT. [Fonte 3] |\n\nNas hipóteses das alíneas **d** e **g**, o § 3º do Art. 483 permite ao empregado pleitear a rescisão do contrato e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. Essa previsão não se aplica automaticamente às demais alíneas. [Fonte 3]",
+  "tokens_entrada": 5790,
+  "tokens_saida": 548,
+  "cache_hit": false,
+  "cache_key": "f7b4087f23ba85b9f0c6a19340ad0f8ee8356196151be0f1eb5c508c035014c0",
+  "tempo_chamada_ms": 122488.85729999165,
+  "tempo_geracao_servidor_ms": 9147.885,
+  "done_reason": "stop",
+  "fontes_citadas": [
+    "Fonte 3"
+  ],
+  "fontes_inexistentes": [],
+  "alertas_formais": [],
+  "citacoes_formato_alternativo": [],
+  "revisao_juridica": "pendente",
+  "status_execucao": "concluida"
+}

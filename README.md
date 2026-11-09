@@ -214,3 +214,13 @@ Não inclua dados pessoais, documentos processuais reais ou credenciais nas issu
 A licença do código será definida pelos responsáveis pelo projeto.
 
 As fontes de dados e os modelos utilizados possuem condições próprias de uso, que deverão ser documentadas.
+
+
+## RAG legislativo: execução e documentação
+
+- [Instalação e reprodução](docs/execucao_reproducao.md)
+- [Banco PostgreSQL e pgvector](docs/pgvector.md)
+- [Demonstração com uma consulta real](docs/06_demonstracao_rag_trabalhista.md)
+- [Arquitetura e base de conhecimento](docs/semana2_base_conhecimento_e_rag.md)
+
+Os notebooks 06, 07 e 08 utilizam os módulos de `src/rag/` e `src/storage/`. A configuração congelada e os resultados selecionados ficam em `reports/legislacao/`. Consulte as instruções de reprodução antes de executar a avaliação.

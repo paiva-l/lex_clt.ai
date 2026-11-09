@@ -1,0 +1,11 @@
+split,tipo_pergunta,status_revisao,quantidade
+dev,Complexa,Aprovado,2
+dev,Direta,Aprovado,6
+dev,Multidispositivo,Aprovado,1
+dev,Negativa (Fora do Escopo),Aprovado,1
+dev,Sem dados individuais,Aprovado,1
+test,Complexa,Aprovado,2
+test,Direta,Aprovado,4
+test,Multidispositivo,Aprovado,1
+test,Negativa (Fora do Escopo),Aprovado,1
+test,Sem documento do caso,Aprovado,1

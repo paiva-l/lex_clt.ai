@@ -1,0 +1,368 @@
+{
+  "query_id": "q_dev_06_v4",
+  "pergunta": "A empresa tem que me pagar hora extra?",
+  "sources": [
+    {
+      "chunk_id": "904bbb0be62ca89b48151678a00b4bbceabe59cb3a27ed2e9920c9ee5e180f2a",
+      "estrategia": "A_artigo",
+      "artigo_id": "e5de9c8c294cf5ff3a407b526913928fdc875b2a4ac0345ca7a2bfe4c16015f2",
+      "artigo_ref": "Art. 227",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO > SEÇÃO II > Art. 227]",
+      "corpo_chunk": "##### Art. 227\n\nNas empresas que explorem o serviço de telefonia, telegrafia submarina ou subfluvial, de radiotelegrafia ou de radiotelefonia, fica estabelecida para os respectivos operadores a duração máxima de seis horas contínuas de trabalho por dia ou 36 (trinta e seis) horas semanais.\n\n§ 1º - Quando, em caso de indeclinável necessidade, forem os operadores obrigados a permanecer em serviço além do período normal fixado neste artigo, a empresa pagar-lhes-á extraordinariamente o tempo excedente com acréscimo de 50% (cinqüenta por cento) sobre o seu salário-hora normal.\n\n§ 2º - O trabalho aos domingos, feriados e dias santos de guarda será considerado extraordinário e obedecerá, quanto à sua execução e remuneração, ao que dispuserem empregadores e empregados em acordo, ou os respectivos sindicatos em contrato coletivo de trabalho.\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO > SEÇÃO II > Art. 227]\n##### Art. 227\n\nNas empresas que explorem o serviço de telefonia, telegrafia submarina ou subfluvial, de radiotelegrafia ou de radiotelefonia, fica estabelecida para os respectivos operadores a duração máxima de seis horas contínuas de trabalho por dia ou 36 (trinta e seis) horas semanais.\n\n§ 1º - Quando, em caso de indeclinável necessidade, forem os operadores obrigados a permanecer em serviço além do período normal fixado neste artigo, a empresa pagar-lhes-á extraordinariamente o tempo excedente com acréscimo de 50% (cinqüenta por cento) sobre o seu salário-hora normal.\n\n§ 2º - O trabalho aos domingos, feriados e dias santos de guarda será considerado extraordinário e obedecerá, quanto à sua execução e remuneração, ao que dispuserem empregadores e empregados em acordo, ou os respectivos sindicatos em contrato coletivo de trabalho.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 846,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1070,
+      "tokens_reais_corpo": 236,
+      "tokens_reais_total": 335,
+      "tokens_estimados_total": 267.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "d70d02de5e356224fc622a9fbf53b960a5f9301596e3a3dee6e8a9691b594ac0",
+          "rank": 1,
+          "score": 0.7620402574539185
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "eb2203b312421f38080cf0fb3e5e06113603ea1e5c4ad30af5fa02ee0363a4e0",
+      "estrategia": "A_artigo",
+      "artigo_id": "408505eadce41c2140c3d0daa495ad15b0649762bf7c0bea5f6490e5f73566f8",
+      "artigo_ref": "Art. 59",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 59]",
+      "corpo_chunk": "##### Art. 59.\n\nA duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 1º A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2º e 5º deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 4º (Revogado pela Lei nº 13.467, de 2017)\n\n§ 5º O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 6º É lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 59]\n##### Art. 59.\n\nA duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 1º A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2º e 5º deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 4º (Revogado pela Lei nº 13.467, de 2017)\n\n§ 5º O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 6º É lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1636,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1840,
+      "tokens_reais_corpo": 515,
+      "tokens_reais_total": 601,
+      "tokens_estimados_total": 460.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "948dc357e12385809910633f9f9834e633e2718eda9e678593cbb0d92cbf01f7",
+          "rank": 2,
+          "score": 0.5072748064994812
+        },
+        {
+          "chunk_id": "ad85c6be24cecc7fbd9b83d15a961645c1e25421d6da5b3a438d103a71b1887f",
+          "rank": 3,
+          "score": 0.4279686212539673
+        },
+        {
+          "chunk_id": "a2d7cfcbd8568c7b4630ef17cd6510c76e68581a63bac3745efe6cf0b129cccb",
+          "rank": 13,
+          "score": 0.1166658103466034
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "008853c9bdc960104362e210938e4fff83d36767fec9e85244b070bee2815758",
+      "estrategia": "A_artigo",
+      "artigo_id": "2744913ddd27dfd9f1443a8013a9a7e44443928a252eed6a1f9b3480c667d597",
+      "artigo_ref": "Art. 2º",
+      "caminho_relativo": "leis-complementares/2015/lcp-150-2015.md",
+      "sha256_fonte": "a857c64a3fb78c7f6b02aad2506d792e2bb58592500c64c925bcc3fd34bee0b6",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp150.htm",
+      "date": 1435708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 2º]",
+      "corpo_chunk": "### Art. 2º\n\nA duração normal do trabalho doméstico não excederá 8 (oito) horas diárias e 44 (quarenta e quatro) semanais, observado o disposto nesta Lei.\n\n§ 1º A remuneração da hora extraordinária será, no mínimo, 50% (cinquenta por cento) superior ao valor da hora normal.\n\n§ 2º O salário-hora normal, em caso de empregado mensalista, será obtido dividindo-se o salário mensal por 220 (duzentas e vinte) horas, salvo se o contrato estipular jornada mensal inferior que resulte em divisor diverso.\n\n§ 3º O salário-dia normal, em caso de empregado mensalista, será obtido dividindo-se o salário mensal por 30 (trinta) e servirá de base para pagamento do repouso remunerado e dos feriados trabalhados.\n\n§ 4º Poderá ser dispensado o acréscimo de salário e instituído regime de compensação de horas, mediante acordo escrito entre empregador e empregado, se o excesso de horas de um dia for compensado em outro dia.\n\n§ 5º No regime de compensação previsto no § 4º:\n\nI - será devido o pagamento, como horas extraordinárias, na forma do § 1º, das primeiras 40 (quarenta) horas mensais excedentes ao horário normal de trabalho;\n\nII - das 40 (quarenta) horas referidas no inciso I, poderão ser deduzidas, sem o correspondente pagamento, as horas não trabalhadas, em função de redução do horário normal de trabalho ou de dia útil não trabalhado, durante o mês;\n\nIII - o saldo de horas que excederem as 40 (quarenta) primeiras horas mensais de que trata o inciso I, com a dedução prevista no inciso II, quando for o caso, será compensado no período máximo de 1 (um) ano.\n\n§ 6º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma do § 5º, o empregado fará jus ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data de rescisão.\n\n§ 7º Os intervalos previstos nesta Lei, o tempo de repouso, as horas não trabalhadas, os feriados e os domingos livres em que o empregado que mora no local de trabalho nele permaneça não serão computados como horário de trabalho.\n\n§ 8º O trabalho não compensado prestado em domingos e feriados deve ser pago em dobro, sem prejuízo da remuneração relativa ao repouso semanal.\n\n",
+      "conteudo_chunk": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 2º]\n### Art. 2º\n\nA duração normal do trabalho doméstico não excederá 8 (oito) horas diárias e 44 (quarenta e quatro) semanais, observado o disposto nesta Lei.\n\n§ 1º A remuneração da hora extraordinária será, no mínimo, 50% (cinquenta por cento) superior ao valor da hora normal.\n\n§ 2º O salário-hora normal, em caso de empregado mensalista, será obtido dividindo-se o salário mensal por 220 (duzentas e vinte) horas, salvo se o contrato estipular jornada mensal inferior que resulte em divisor diverso.\n\n§ 3º O salário-dia normal, em caso de empregado mensalista, será obtido dividindo-se o salário mensal por 30 (trinta) e servirá de base para pagamento do repouso remunerado e dos feriados trabalhados.\n\n§ 4º Poderá ser dispensado o acréscimo de salário e instituído regime de compensação de horas, mediante acordo escrito entre empregador e empregado, se o excesso de horas de um dia for compensado em outro dia.\n\n§ 5º No regime de compensação previsto no § 4º:\n\nI - será devido o pagamento, como horas extraordinárias, na forma do § 1º, das primeiras 40 (quarenta) horas mensais excedentes ao horário normal de trabalho;\n\nII - das 40 (quarenta) horas referidas no inciso I, poderão ser deduzidas, sem o correspondente pagamento, as horas não trabalhadas, em função de redução do horário normal de trabalho ou de dia útil não trabalhado, durante o mês;\n\nIII - o saldo de horas que excederem as 40 (quarenta) primeiras horas mensais de que trata o inciso I, com a dedução prevista no inciso II, quando for o caso, será compensado no período máximo de 1 (um) ano.\n\n§ 6º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma do § 5º, o empregado fará jus ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data de rescisão.\n\n§ 7º Os intervalos previstos nesta Lei, o tempo de repouso, as horas não trabalhadas, os feriados e os domingos livres em que o empregado que mora no local de trabalho nele permaneça não serão computados como horário de trabalho.\n\n§ 8º O trabalho não compensado prestado em domingos e feriados deve ser pago em dobro, sem prejuízo da remuneração relativa ao repouso semanal.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2210,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2312,
+      "tokens_reais_corpo": 648,
+      "tokens_reais_total": 691,
+      "tokens_estimados_total": 578.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "7916f5b6d88b5da6c0096d46d0c47675cf451059844c71db137bf387534894dc",
+          "rank": 4,
+          "score": 0.4157410264015198
+        },
+        {
+          "chunk_id": "a70e2dd334c4105be12a457bfaeddc5bde7b98878aefa7b0d773e083d8499c39",
+          "rank": 7,
+          "score": 0.30836203694343567
+        },
+        {
+          "chunk_id": "229d6a382ee2ea41f1d94c03450d521734c21a972ca642220fb40268ba899f61",
+          "rank": 11,
+          "score": 0.1794670969247818
+        },
+        {
+          "chunk_id": "a907e2f00103d8396d7a9ade47b88a1980fa25785cd1bdfef02a1a451910e9d5",
+          "rank": 20,
+          "score": 0.03836332634091377
+        }
+      ],
+      "best_child_rank": 4,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO > SEÇÃO II > Art. 227]\n##### Art. 227\n\nNas empresas que explorem o serviço de telefonia, telegrafia submarina ou subfluvial, de radiotelegrafia ou de radiotelefonia, fica estabelecida para os respectivos operadores a duração máxima de seis horas contínuas de trabalho por dia ou 36 (trinta e seis) horas semanais.\n\n§ 1º - Quando, em caso de indeclinável necessidade, forem os operadores obrigados a permanecer em serviço além do período normal fixado neste artigo, a empresa pagar-lhes-á extraordinariamente o tempo excedente com acréscimo de 50% (cinqüenta por cento) sobre o seu salário-hora normal.\n\n§ 2º - O trabalho aos domingos, feriados e dias santos de guarda será considerado extraordinário e obedecerá, quanto à sua execução e remuneração, ao que dispuserem empregadores e empregados em acordo, ou os respectivos sindicatos em contrato coletivo de trabalho.\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 59]\n##### Art. 59.\n\nA duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 1º A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2º e 5º deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 4º (Revogado pela Lei nº 13.467, de 2017)\n\n§ 5º O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 6º É lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n\n\n[Fonte 3]\n[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 2º]\n### Art. 2º\n\nA duração normal do trabalho doméstico não excederá 8 (oito) horas diárias e 44 (quarenta e quatro) semanais, observado o disposto nesta Lei.\n\n§ 1º A remuneração da hora extraordinária será, no mínimo, 50% (cinquenta por cento) superior ao valor da hora normal.\n\n§ 2º O salário-hora normal, em caso de empregado mensalista, será obtido dividindo-se o salário mensal por 220 (duzentas e vinte) horas, salvo se o contrato estipular jornada mensal inferior que resulte em divisor diverso.\n\n§ 3º O salário-dia normal, em caso de empregado mensalista, será obtido dividindo-se o salário mensal por 30 (trinta) e servirá de base para pagamento do repouso remunerado e dos feriados trabalhados.\n\n§ 4º Poderá ser dispensado o acréscimo de salário e instituído regime de compensação de horas, mediante acordo escrito entre empregador e empregado, se o excesso de horas de um dia for compensado em outro dia.\n\n§ 5º No regime de compensação previsto no § 4º:\n\nI - será devido o pagamento, como horas extraordinárias, na forma do § 1º, das primeiras 40 (quarenta) horas mensais excedentes ao horário normal de trabalho;\n\nII - das 40 (quarenta) horas referidas no inciso I, poderão ser deduzidas, sem o correspondente pagamento, as horas não trabalhadas, em função de redução do horário normal de trabalho ou de dia útil não trabalhado, durante o mês;\n\nIII - o saldo de horas que excederem as 40 (quarenta) primeiras horas mensais de que trata o inciso I, com a dedução prevista no inciso II, quando for o caso, será compensado no período máximo de 1 (um) ano.\n\n§ 6º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma do § 5º, o empregado fará jus ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data de rescisão.\n\n§ 7º Os intervalos previstos nesta Lei, o tempo de repouso, as horas não trabalhadas, os feriados e os domingos livres em que o empregado que mora no local de trabalho nele permaneça não serão computados como horário de trabalho.\n\n§ 8º O trabalho não compensado prestado em domingos e feriados deve ser pago em dobro, sem prejuízo da remuneração relativa ao repouso semanal.\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "d70d02de5e356224fc622a9fbf53b960a5f9301596e3a3dee6e8a9691b594ac0",
+      "score": 0.7620402574539185
+    },
+    {
+      "chunk_id": "948dc357e12385809910633f9f9834e633e2718eda9e678593cbb0d92cbf01f7",
+      "score": 0.5072748064994812
+    },
+    {
+      "chunk_id": "ad85c6be24cecc7fbd9b83d15a961645c1e25421d6da5b3a438d103a71b1887f",
+      "score": 0.4279686212539673
+    },
+    {
+      "chunk_id": "7916f5b6d88b5da6c0096d46d0c47675cf451059844c71db137bf387534894dc",
+      "score": 0.4157410264015198
+    },
+    {
+      "chunk_id": "473bae346d831031520e9892c22dfa450ef541a1d8ffe7f52b3dd81f1c5557e5",
+      "score": 0.32888263463974
+    },
+    {
+      "chunk_id": "7f1531520baa1577c39a4b4fac3b75aa1b1017887ec6d3d984622497957d06bc",
+      "score": 0.324626624584198
+    },
+    {
+      "chunk_id": "a70e2dd334c4105be12a457bfaeddc5bde7b98878aefa7b0d773e083d8499c39",
+      "score": 0.30836203694343567
+    },
+    {
+      "chunk_id": "ab6f7fe4c8fdca0a97aebd226378e6b722f7d71532d0a98698cec7352ebdee27",
+      "score": 0.2562463581562042
+    },
+    {
+      "chunk_id": "de20663fc0e4801f8c7b5527911f5b8f62628ca78875551cd9e80b7f8b283638",
+      "score": 0.22262874245643616
+    },
+    {
+      "chunk_id": "771ae268afb73e5d3ea6e699c1ea4ad6b3e94808ebd60fdcba5307bf47d316ce",
+      "score": 0.20442494750022888
+    },
+    {
+      "chunk_id": "229d6a382ee2ea41f1d94c03450d521734c21a972ca642220fb40268ba899f61",
+      "score": 0.1794670969247818
+    },
+    {
+      "chunk_id": "0a7681d327c3d008f18cd029f9cb883315693ddb5fdc4c39cdbc3ec289bf73ff",
+      "score": 0.1247892677783966
+    },
+    {
+      "chunk_id": "a2d7cfcbd8568c7b4630ef17cd6510c76e68581a63bac3745efe6cf0b129cccb",
+      "score": 0.1166658103466034
+    },
+    {
+      "chunk_id": "eae5ec8cac5cc90eb70ff9c36bb0b8f347c60f256f5d1b72d6a49f0033f67966",
+      "score": 0.1131768599152565
+    },
+    {
+      "chunk_id": "d2f0681c04ed680ac4e8f14440ba2091a033afca65d24bf2e4bfd9fae5dc2cb4",
+      "score": 0.10977140814065933
+    },
+    {
+      "chunk_id": "fdbb8cf66b5f1e9170faa84e47e86008b9aae135f811de96f59bcaf48d3b0924",
+      "score": 0.1049831211566925
+    },
+    {
+      "chunk_id": "d73671d97df2f68e4df47ecb69855656473d752590c1322f3d0afc4bc4d678b5",
+      "score": 0.054389555007219315
+    },
+    {
+      "chunk_id": "91d195b8483b2b0748e94f8f912f8eaa1f828a5dff22edf9bf81804de7a5688d",
+      "score": 0.047250982373952866
+    },
+    {
+      "chunk_id": "35de79388528c6d853f89541a1ea1bcdda61c47a2448bbc7829a52d9c459a50f",
+      "score": 0.039530668407678604
+    },
+    {
+      "chunk_id": "a907e2f00103d8396d7a9ade47b88a1980fa25785cd1bdfef02a1a451910e9d5",
+      "score": 0.03836332634091377
+    },
+    {
+      "chunk_id": "134267a0e769810f26980fd105ac9eb75566ea75f09c9490fb61f278fcb8a062",
+      "score": 0.03824678808450699
+    },
+    {
+      "chunk_id": "572183adc032aae723399c51bbf4607a968b0fb31b333e3af405846601245f3b",
+      "score": 0.03283511847257614
+    },
+    {
+      "chunk_id": "49379d1081fbeda134a206d60323cb22d9d3581f119e9710bd9d55a97a6eb69d",
+      "score": 0.03230506181716919
+    },
+    {
+      "chunk_id": "5be78eb825b7fb5c57d0f36858c3d371ca033dc680740dd2b4f38ddba0dccfd1",
+      "score": 0.030109206214547157
+    },
+    {
+      "chunk_id": "637573fd46d639d472bc71e74c83a0067ebe3ee0f0535131c90c38f24d3bd953",
+      "score": 0.022638555616140366
+    },
+    {
+      "chunk_id": "b7bdede0deb4159402375e2cecf5db75595ccfd008d4cdea241271d47a299036",
+      "score": 0.022428013384342194
+    },
+    {
+      "chunk_id": "9a0ce3b175a7a18ba4dbbf36426d71014c51ee953c81c14a4f71d3b434310512",
+      "score": 0.021368812769651413
+    },
+    {
+      "chunk_id": "1ae1fb3b1e6b42e3ce91c0c59ef59a3c8c57829cac9e0b31dadf434bc77be9b8",
+      "score": 0.020764710381627083
+    },
+    {
+      "chunk_id": "4093adfe64d8986964528b35ba8d5b2520c438f42284986633db7e2aca912d8f",
+      "score": 0.018066177144646645
+    },
+    {
+      "chunk_id": "6751797be89318ff2c1a30827799ba223ec6ada7ab2fdba8bc8aeb36fed442cb",
+      "score": 0.01691126637160778
+    },
+    {
+      "chunk_id": "1839de9c7208a600a6f8724054eccb2a2a3408e48941ac594a19d50d88e4a14f",
+      "score": 0.015894288197159767
+    },
+    {
+      "chunk_id": "34201a6e89473e1b3f1c5c2bbc51d652a92f90de8bbe35819a7417622588cea5",
+      "score": 0.013026232831180096
+    },
+    {
+      "chunk_id": "3f0f2c34a9dec4cdc222ae548eafc8727b994d2bd4ac23d853c912365b1ed6e7",
+      "score": 0.010990896262228489
+    },
+    {
+      "chunk_id": "cc0e51de097f90f58fea2ca6f0474275a52c289adfb788e46b88b0e24844db8b",
+      "score": 0.009820304811000824
+    },
+    {
+      "chunk_id": "929504b72da347016de0800a60b2cd14b85531ce85be7cf007818ace0ced47fd",
+      "score": 0.009431356564164162
+    },
+    {
+      "chunk_id": "6e2b3fead805a089e6863f3a000f3cc7f589281c76b21a42d9693d247795b5f6",
+      "score": 0.009273365139961243
+    },
+    {
+      "chunk_id": "27e3b13d0ffbb059fee66fb7f80f8816c10308f36c394b9d17e4b83aec8b52ee",
+      "score": 0.008946583606302738
+    },
+    {
+      "chunk_id": "33483803ce8e01755d256c4d52911054f416d3012312825cfb58c23524887012",
+      "score": 0.006876678206026554
+    },
+    {
+      "chunk_id": "2c6b6db6740e2c6add73bf9363aed24fe16acde3a65d3fcd5951273771366867",
+      "score": 0.0066238525323569775
+    },
+    {
+      "chunk_id": "64621fe8ffbadae937e4ec652336c7037089023a9dfdc32f2ae41c871eaa509b",
+      "score": 0.006195637863129377
+    },
+    {
+      "chunk_id": "605c130c80446bb5d9f3223c78268f55ca06c5553f651989c91e8d7cd28059cd",
+      "score": 0.00562261650338769
+    },
+    {
+      "chunk_id": "d97d5e58764dadc3930f8171013a52cd79aee5d7601dfb16d34ac10f103c1fad",
+      "score": 0.005214606877416372
+    },
+    {
+      "chunk_id": "0a1db4460945f57b61f7b7af870533000105d063ac51530a276ec941d5286db4",
+      "score": 0.004805643577128649
+    },
+    {
+      "chunk_id": "1dad6da9fb952e23c0a12f7682960e3f96224df99bb77522bbd3ce08eee0e6fc",
+      "score": 0.004741230979561806
+    },
+    {
+      "chunk_id": "0a720a1da4915f21299b425047890c54425a93716a0ce07f440e1aa9044fcbaf",
+      "score": 0.003236643271520734
+    },
+    {
+      "chunk_id": "895448588f4f996cd6ab493d68042f3db865cd2653a083e1e2e97da39e4799d2",
+      "score": 0.002980769146233797
+    },
+    {
+      "chunk_id": "611ea82eb515abea43858631fa5d5b6b357dd0767cd86b15e14559b616598f74",
+      "score": 0.002588800387457013
+    },
+    {
+      "chunk_id": "8e9440fe910090dae27eb08bcb39f484b6bd142863073a5302af1abfc028357f",
+      "score": 0.0018541666213423014
+    },
+    {
+      "chunk_id": "8683597d661eb45d0000ff852e944307e1c09d5065c7d43d01a3ff76c2cf0f24",
+      "score": 0.001812639064155519
+    },
+    {
+      "chunk_id": "e218be82b73aa514135c435b7c92f3a6eff0f2e55e38d0cdea68d26b8ffbe909",
+      "score": 0.0013422154588624835
+    }
+  ],
+  "hyde_cache_sha256": "bba2b20db5480cd23e7d68a843b41012e3db07e4a9176b6ee2f4033717dbd9bc",
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 2579.6803000266664,
+  "hash_configuracao": "ba47e5543f3889218fb6fb21250c328a8fd4e5132a5bc984f0c18d2c04cf5f80",
+  "embedding_corpus_recalculado": false
+}

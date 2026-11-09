@@ -1,0 +1,16 @@
+{
+    "executado_em_utc": "2026-11-05T03:11:28.748690+00:00",
+    "normas": 25,
+    "blocos_artigos": 5284,
+    "normas_sem_artigos": 0,
+    "percentual_abaixo_500_tokens_estimados": 95.21196063588191,
+    "estimativa_tokens": "caracteres / 4; sem tokenizador de modelo",
+    "correspondencia_auditoria_confirmada": true,
+    "regras_propostas_etapa_03": [
+        "Preservar origem, hash e posições dos dispositivos.",
+        "Revisar títulos e anexos nos limites dos blocos antes de estruturar.",
+        "Preservar notas, remissões, destinos de links e histórico de alterações.",
+        "Remover apenas ruídos confirmados e registrar cada transformação.",
+        "Validar parágrafos, incisos e alíneas com os exemplos coletados."
+    ]
+}

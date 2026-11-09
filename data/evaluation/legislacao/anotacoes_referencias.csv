@@ -1,0 +1,529 @@
+query_id,norma,dispositivo,posicao_inicio,posicao_fim,sha256_fonte,texto_candidato,trecho_evidencia_selecionado,justificativa_relevancia,status_revisao,tem_alerta_parser,obrigatoria,referencia_id
+q_dev_01,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 58,27168,28014,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 58
+
+A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite.
+
+§ 1º Não serão descontadas nem computadas como jornada extraordinária as variações de horário no registro de ponto não excedentes de cinco minutos, observado o limite máximo de dez minutos diários. (Parágrafo incluído pela Lei nº 10.243, de 19.6.2001)
+
+§ 2º O tempo despendido pelo empregado desde a sua residência até a efetiva ocupação do posto de trabalho e para o seu retorno, caminhando ou por qualquer meio de transporte, inclusive o fornecido pelo empregador, não será computado na jornada de trabalho, por não ser tempo à disposição do empregador. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 3º (Revogado pela Lei nº 13.467, de 2017)
+
+","A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite.
+
+§ 1º Não serão descontadas nem computadas como jornada extraordinária as variações de horário no registro de ponto não excedentes de cinco minutos, observado o limite máximo de dez minutos diários. (Parágrafo incluído pela Lei nº 10.243, de 19.6.2001)
+
+§ 2º O tempo despendido pelo empregado desde a sua residência até a efetiva ocupação do posto de trabalho e para o seu retorno, caminhando ou por qualquer meio de transporte, inclusive o fornecido pelo empregador, não será computado na jornada de trabalho, por não ser tempo à disposição do empregador. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 3º (Revogado pela Lei nº 13.467, de 2017)","O corpo do Art. 58 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_dev_01; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,18726518bf0ae2327883805ff318563c09f6616e34cd00e94e66be2e5df1c08e
+q_dev_02,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 130,56534,57609,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 130
+
+Após cada período de 12 (doze) meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção: (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+I - 30 (trinta) dias corridos, quando não houver faltado ao serviço mais de 5 (cinco) vezes; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+II - 24 (vinte e quatro) dias corridos, quando houver tido de 6 (seis) a 14 (quatorze) faltas; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+III - 18 (dezoito) dias corridos, quando houver tido de 15 (quinze) a 23 (vinte e três) faltas; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+IV - 12 (doze) dias corridos, quando houver tido de 24 (vinte e quatro) a 32 (trinta e duas) faltas. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+§ 1º - É vedado descontar, do período de férias, as faltas do empregado ao serviço. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+§ 2º - O período das férias será computado, para todos os efeitos, como tempo de serviço. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+","Após cada período de 12 (doze) meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção: (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+I - 30 (trinta) dias corridos, quando não houver faltado ao serviço mais de 5 (cinco) vezes; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+II - 24 (vinte e quatro) dias corridos, quando houver tido de 6 (seis) a 14 (quatorze) faltas; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+III - 18 (dezoito) dias corridos, quando houver tido de 15 (quinze) a 23 (vinte e três) faltas; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+IV - 12 (doze) dias corridos, quando houver tido de 24 (vinte e quatro) a 32 (trinta e duas) faltas. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+§ 1º - É vedado descontar, do período de férias, as faltas do empregado ao serviço. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+§ 2º - O período das férias será computado, para todos os efeitos, como tempo de serviço. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)","O corpo do Art. 130 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_dev_02; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,48cbaefe3744a8d6c251344204b30e90c6bdbe5675d1aad46f8f21b5a366e2da
+q_dev_03,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 483,270420,271784,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 483
+
+O empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:
+
+a) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;
+
+b) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;
+
+c) correr perigo manifesto de mal considerável;
+
+d) não cumprir o empregador as obrigações do contrato;
+
+e) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;
+
+f) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;
+
+g) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.
+
+§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.
+
+§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.
+
+§ 3º - Nas hipóteses das letras ""d"" e ""g"", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)
+
+","O empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:
+
+a) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;
+
+b) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;
+
+c) correr perigo manifesto de mal considerável;
+
+d) não cumprir o empregador as obrigações do contrato;
+
+e) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;
+
+f) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;
+
+g) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.
+
+§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.
+
+§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.
+
+§ 3º - Nas hipóteses das letras ""d"" e ""g"", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)","O corpo do Art. 483 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_dev_03; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,True,sim,765776a7b6761a6c9b01042bf49ef9f407082012dd842ea59b35aa73292a5380
+q_dev_04,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 477,263160,265771,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 477.
+
+Na extinção do contrato de trabalho, o empregador deverá proceder à anotação na Carteira de Trabalho e Previdência Social, comunicar a dispensa aos órgãos competentes e realizar o pagamento das verbas rescisórias no prazo e na forma estabelecidos neste artigo. (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 1º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 2º - O instrumento de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ter especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas. (Redação dada pela Lei nº 5.584, de 26.6.1970)
+
+§ 3º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 4º O pagamento a que fizer jus o empregado será efetuado: (Redação dada pela Lei nº 13.467, de 2017)
+
+I - em dinheiro, depósito bancário ou cheque visado, conforme acordem as partes; ou (Incluído pela Lei nº 13.467, de 2017)
+
+II - em dinheiro ou depósito bancário quando o empregado for analfabeto. (Incluído pela Lei nº 13.467, de 2017)
+
+§ 5º - Qualquer compensação no pagamento de que trata o parágrafo anterior não poderá exceder o equivalente a um mês de remuneração do empregado. (Redação dada pela Lei nº 5.584, de 26.6.1970)
+
+§ 6º A entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes bem como o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação deverão ser efetuados até dez dias contados a partir do término do contrato. (Redação dada pela Lei nº 13.467, de 2017)
+
+a) (revogado); (Redação dada pela Lei nº 13.467, de 2017)
+
+b) (revogado). (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 7º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 8º - A inobservância do disposto no § 6º deste artigo sujeitará o infrator à multa de 160 BTN, por trabalhador, bem assim ao pagamento da multa a favor do empregado, em valor equivalente ao seu salário, devidamente corrigido pelo índice de variação do BTN, salvo quando, comprovadamente, o trabalhador der causa à mora. (Incluído pela Lei nº 7.855, de 24.10.1989)
+
+§ 9º (vetado). (Incluído pela Lei nº 7.855, de 24.10.1989)
+
+§ 10. A anotação da extinção do contrato na Carteira de Trabalho e Previdência Social é documento hábil para requerer o benefício do seguro-desemprego e a movimentação da conta vinculada no Fundo de Garantia do Tempo de Serviço, nas hipóteses legais, desde que a comunicação prevista no caput deste artigo tenha sido realizada. (Incluído pela Lei nº 13.467, de 2017)
+
+","Na extinção do contrato de trabalho, o empregador deverá proceder à anotação na Carteira de Trabalho e Previdência Social, comunicar a dispensa aos órgãos competentes e realizar o pagamento das verbas rescisórias no prazo e na forma estabelecidos neste artigo. (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 1º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 2º - O instrumento de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ter especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas. (Redação dada pela Lei nº 5.584, de 26.6.1970)
+
+§ 3º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 4º O pagamento a que fizer jus o empregado será efetuado: (Redação dada pela Lei nº 13.467, de 2017)
+
+I - em dinheiro, depósito bancário ou cheque visado, conforme acordem as partes; ou (Incluído pela Lei nº 13.467, de 2017)
+
+II - em dinheiro ou depósito bancário quando o empregado for analfabeto. (Incluído pela Lei nº 13.467, de 2017)
+
+§ 5º - Qualquer compensação no pagamento de que trata o parágrafo anterior não poderá exceder o equivalente a um mês de remuneração do empregado. (Redação dada pela Lei nº 5.584, de 26.6.1970)
+
+§ 6º A entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes bem como o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação deverão ser efetuados até dez dias contados a partir do término do contrato. (Redação dada pela Lei nº 13.467, de 2017)
+
+a) (revogado); (Redação dada pela Lei nº 13.467, de 2017)
+
+b) (revogado). (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 7º (Revogado). (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 8º - A inobservância do disposto no § 6º deste artigo sujeitará o infrator à multa de 160 BTN, por trabalhador, bem assim ao pagamento da multa a favor do empregado, em valor equivalente ao seu salário, devidamente corrigido pelo índice de variação do BTN, salvo quando, comprovadamente, o trabalhador der causa à mora. (Incluído pela Lei nº 7.855, de 24.10.1989)
+
+§ 9º (vetado). (Incluído pela Lei nº 7.855, de 24.10.1989)
+
+§ 10. A anotação da extinção do contrato na Carteira de Trabalho e Previdência Social é documento hábil para requerer o benefício do seguro-desemprego e a movimentação da conta vinculada no Fundo de Garantia do Tempo de Serviço, nas hipóteses legais, desde que a comunicação prevista no caput deste artigo tenha sido realizada. (Incluído pela Lei nº 13.467, de 2017)","O corpo do Art. 477 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_dev_04; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,True,sim,af4dc5b7468ca7d2a8d205dbf611316c323ee4b102732ca7021e6bdbdef91388
+q_dev_05,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 11,9351,10512,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 11.
+
+A pretensão quanto a créditos resultantes das relações de trabalho prescreve em cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+I - (revogado); (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+II - (revogado). (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 1º O disposto neste artigo não se aplica às ações que tenham por objeto anotações para fins de prova junto à Previdência Social. (Incluído pela Lei nº 9.658, de 5.6.1998)
+
+§ 2º Tratando-se de pretensão que envolva pedido de prestações sucessivas decorrente de alteração ou descumprimento do pactuado, a prescrição é total, exceto quando o direito à parcela esteja também assegurado por preceito de lei. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 3º A interrupção da prescrição somente ocorrerá pelo ajuizamento de reclamação trabalhista, mesmo que em juízo incompetente, ainda que venha a ser extinta sem resolução do mérito, produzindo efeitos apenas em relação aos pedidos idênticos. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+","A pretensão quanto a créditos resultantes das relações de trabalho prescreve em cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+I - (revogado); (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+II - (revogado). (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 1º O disposto neste artigo não se aplica às ações que tenham por objeto anotações para fins de prova junto à Previdência Social. (Incluído pela Lei nº 9.658, de 5.6.1998)
+
+§ 2º Tratando-se de pretensão que envolva pedido de prestações sucessivas decorrente de alteração ou descumprimento do pactuado, a prescrição é total, exceto quando o direito à parcela esteja também assegurado por preceito de lei. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 3º A interrupção da prescrição somente ocorrerá pelo ajuizamento de reclamação trabalhista, mesmo que em juízo incompetente, ainda que venha a ser extinta sem resolução do mérito, produzindo efeitos apenas em relação aos pedidos idênticos. (Incluído pela Lei nº 13.467, de 2017) (Vigência)","O corpo do Art. 11 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_dev_05; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,dc1e7a3ca5518fe7fcdd93ed1582e0936c51497ca67868b8f30d6942311e8861
+q_test_01,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 60,33084,33932,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 60
+
+Nas atividades insalubres, assim consideradas as constantes dos quadros mencionados no capítulo ""Da Segurança e da Medicina do Trabalho"", ou que neles venham a ser incluídas por ato do Ministro do Trabalho, Industria e Comercio, quaisquer prorrogações só poderão ser acordadas mediante licença prévia das autoridades competentes em matéria de higiene do trabalho, as quais, para esse efeito, procederão aos necessários exames locais e à verificação dos métodos e processos de trabalho, quer diretamente, quer por intermédio de autoridades sanitárias federais, estaduais e municipais, com quem entrarão em entendimento para tal fim.
+
+Parágrafo único. Excetuam-se da exigência de licença prévia as jornadas de doze horas de trabalho por trinta e seis horas ininterruptas de descanso. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+","Nas atividades insalubres, assim consideradas as constantes dos quadros mencionados no capítulo ""Da Segurança e da Medicina do Trabalho"", ou que neles venham a ser incluídas por ato do Ministro do Trabalho, Industria e Comercio, quaisquer prorrogações só poderão ser acordadas mediante licença prévia das autoridades competentes em matéria de higiene do trabalho, as quais, para esse efeito, procederão aos necessários exames locais e à verificação dos métodos e processos de trabalho, quer diretamente, quer por intermédio de autoridades sanitárias federais, estaduais e municipais, com quem entrarão em entendimento para tal fim.
+
+Parágrafo único. Excetuam-se da exigência de licença prévia as jornadas de doze horas de trabalho por trinta e seis horas ininterruptas de descanso. (Incluído pela Lei nº 13.467, de 2017) (Vigência)","O corpo do Art. 60 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_test_01; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,f5d4d7ea7f995ad46b050910d64c0e1dac936a663351dc5758e64e8c059ca6c8
+q_test_02,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 462,248323,249633,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 462
+
+Ao empregador é vedado efetuar qualquer desconto nos salários do empregado, salvo quando este resultar de adiantamentos, de dispositivos de lei ou de contrato coletivo.
+
+§ 1º - Em caso de dano causado pelo empregado, o desconto será lícito, desde de que esta possibilidade tenha sido acordada ou na ocorrência de dolo do empregado. (Parágrafo único renumerado pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 2º - É vedado à emprêsa que mantiver armazém para venda de mercadorias aos empregados ou serviços estimados a proporcionar-lhes prestações "" in natura "" exercer qualquer coação ou induzimento no sentido de que os empregados se utilizem do armazém ou dos serviços. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 3º - Sempre que não fôr possível o acesso dos empregados a armazéns ou serviços não mantidos pela Emprêsa, é lícito à autoridade competente determinar a adoção de medidas adequadas, visando a que as mercadorias sejam vendidas e os serviços prestados a preços razoáveis, sem intuito de lucro e sempre em benefício das empregados. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 4º - Observado o disposto neste Capítulo, é vedado às emprêsas limitar, por qualquer forma, a liberdade dos empregados de dispôr do seu salário. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+","Ao empregador é vedado efetuar qualquer desconto nos salários do empregado, salvo quando este resultar de adiantamentos, de dispositivos de lei ou de contrato coletivo.
+
+§ 1º - Em caso de dano causado pelo empregado, o desconto será lícito, desde de que esta possibilidade tenha sido acordada ou na ocorrência de dolo do empregado. (Parágrafo único renumerado pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 2º - É vedado à emprêsa que mantiver armazém para venda de mercadorias aos empregados ou serviços estimados a proporcionar-lhes prestações "" in natura "" exercer qualquer coação ou induzimento no sentido de que os empregados se utilizem do armazém ou dos serviços. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 3º - Sempre que não fôr possível o acesso dos empregados a armazéns ou serviços não mantidos pela Emprêsa, é lícito à autoridade competente determinar a adoção de medidas adequadas, visando a que as mercadorias sejam vendidas e os serviços prestados a preços razoáveis, sem intuito de lucro e sempre em benefício das empregados. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 4º - Observado o disposto neste Capítulo, é vedado às emprêsas limitar, por qualquer forma, a liberdade dos empregados de dispôr do seu salário. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)","O corpo do Art. 462 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_test_02; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,ce5a4410271f5a3105e27eeabbfd527dada1a34075ec25af5307494cc3f5c55e
+q_test_03,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 73,41315,42809,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 73.
+
+Salvo nos casos de revezamento semanal ou quinzenal, o trabalho noturno terá remuneração superior a do diurno e, para esse efeito, sua remuneração terá um acréscimo de 20 % (vinte por cento), pelo menos, sobre a hora diurna. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 1º A hora do trabalho noturno será computada como de 52 minutos e 30 segundos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 2º Considera-se noturno, para os efeitos deste artigo, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 3º O acréscimo, a que se refere o presente artigo, em se tratando de empresas que não mantêm, pela natureza de suas atividades, trabalho noturno habitual, será feito, tendo em vista os quantitativos pagos por trabalhos diurnos de natureza semelhante. Em relação às empresas cujo trabalho noturno decorra da natureza de suas atividades, o aumento será calculado sobre o salário mínimo geral vigente na região, não sendo devido quando exceder desse limite, já acrescido da percentagem. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 5º Às prorrogações do trabalho noturno aplica-se o disposto neste capítulo. (Incluído pelo Decreto-lei nº 9.666, de 1946)
+
+","Salvo nos casos de revezamento semanal ou quinzenal, o trabalho noturno terá remuneração superior a do diurno e, para esse efeito, sua remuneração terá um acréscimo de 20 % (vinte por cento), pelo menos, sobre a hora diurna. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 1º A hora do trabalho noturno será computada como de 52 minutos e 30 segundos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 2º Considera-se noturno, para os efeitos deste artigo, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 3º O acréscimo, a que se refere o presente artigo, em se tratando de empresas que não mantêm, pela natureza de suas atividades, trabalho noturno habitual, será feito, tendo em vista os quantitativos pagos por trabalhos diurnos de natureza semelhante. Em relação às empresas cujo trabalho noturno decorra da natureza de suas atividades, o aumento será calculado sobre o salário mínimo geral vigente na região, não sendo devido quando exceder desse limite, já acrescido da percentagem. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+
+§ 5º Às prorrogações do trabalho noturno aplica-se o disposto neste capítulo. (Incluído pelo Decreto-lei nº 9.666, de 1946)","O corpo do Art. 73 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_test_03; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,e29a8cd4dbe5d7db069cb191acef79fdcd8f700abd926db48f109653d30c555e
+q_test_04,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 391-A,200111,200658,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 391-A
+
+A confirmação do estado de gravidez advindo no curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea b do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias. (Incluído pela Lei nº 12.812, de 2013)
+
+Parágrafo único. O disposto no caput deste artigo aplica-se ao empregado adotante ao qual tenha sido concedida guarda provisória para fins de adoção. (Incluído pela Lei nº 13.509, de 2017)
+
+","A confirmação do estado de gravidez advindo no curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea b do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias. (Incluído pela Lei nº 12.812, de 2013)
+
+Parágrafo único. O disposto no caput deste artigo aplica-se ao empregado adotante ao qual tenha sido concedida guarda provisória para fins de adoção. (Incluído pela Lei nº 13.509, de 2017)","O corpo do Art. 391-A em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_test_04; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,e58459356949ac95fefecdac2f003a34a544e3d7c5d2fbe2f53d4f5278d269c1
+q_dev_06,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 59,30102,31738,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 59.
+
+A duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 1º A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)
+
+§ 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2º e 5º deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 4º (Revogado pela Lei nº 13.467, de 2017)
+
+§ 5º O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 6º É lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+","A duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 1º A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)
+
+§ 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2º e 5º deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 4º (Revogado pela Lei nº 13.467, de 2017)
+
+§ 5º O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 6º É lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês. (Incluído pela Lei nº 13.467, de 2017) (Vigência)","O corpo do Art. 59 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_dev_06; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,945ff399acca027bc8a921b479c4bb98218d2f784a558213427f6e11da97cdf7
+q_dev_07,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 71,38988,41027,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 71
+
+Em qualquer trabalho contínuo, cuja duração exceda de 6 (seis) horas, é obrigatória a concessão de um intervalo para repouso ou alimentação, o qual será, no mínimo, de 1 (uma) hora e, salvo acordo escrito ou contrato coletivo em contrário, não poderá exceder de 2 (duas) horas.
+
+§ 1º - Não excedendo de 6 (seis) horas o trabalho, será, entretanto, obrigatório um intervalo de 15 (quinze) minutos quando a duração ultrapassar 4 (quatro) horas.
+
+§ 2º - Os intervalos de descanso não serão computados na duração do trabalho.
+
+§ 3º O limite mínimo de uma hora para repouso ou refeição poderá ser reduzido por ato do Ministro do Trabalho, Indústria e Comércio, quando ouvido o Serviço de Alimentação de Previdência Social, se verificar que o estabelecimento atende integralmente às exigências concernentes à organização dos refeitórios, e quando os respectivos empregados não estiverem sob regime de trabalho prorrogado a horas suplementares.
+
+§ 4º A não concessão ou a concessão parcial do intervalo intrajornada mínimo, para repouso e alimentação, a empregados urbanos e rurais, implica o pagamento, de natureza indenizatória, apenas do período suprimido, com acréscimo de 50% (cinquenta por cento) sobre o valor da remuneração da hora normal de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 5º O intervalo expresso no caput poderá ser reduzido e/ou fracionado, e aquele estabelecido no § 1º poderá ser fracionado, quando compreendidos entre o término da primeira hora trabalhada e o início da última hora trabalhada, desde que previsto em convenção ou acordo coletivo de trabalho, ante a natureza do serviço e em virtude das condições especiais de trabalho a que são submetidos estritamente os motoristas, cobradores, fiscalização de campo e afins nos serviços de operação de veículos rodoviários, empregados no setor de transporte coletivo de passageiros, mantida a remuneração e concedidos intervalos para descanso menores ao final de cada viagem. (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
+
+","Em qualquer trabalho contínuo, cuja duração exceda de 6 (seis) horas, é obrigatória a concessão de um intervalo para repouso ou alimentação, o qual será, no mínimo, de 1 (uma) hora e, salvo acordo escrito ou contrato coletivo em contrário, não poderá exceder de 2 (duas) horas.
+
+§ 1º - Não excedendo de 6 (seis) horas o trabalho, será, entretanto, obrigatório um intervalo de 15 (quinze) minutos quando a duração ultrapassar 4 (quatro) horas.
+
+§ 2º - Os intervalos de descanso não serão computados na duração do trabalho.
+
+§ 3º O limite mínimo de uma hora para repouso ou refeição poderá ser reduzido por ato do Ministro do Trabalho, Indústria e Comércio, quando ouvido o Serviço de Alimentação de Previdência Social, se verificar que o estabelecimento atende integralmente às exigências concernentes à organização dos refeitórios, e quando os respectivos empregados não estiverem sob regime de trabalho prorrogado a horas suplementares.
+
+§ 4º A não concessão ou a concessão parcial do intervalo intrajornada mínimo, para repouso e alimentação, a empregados urbanos e rurais, implica o pagamento, de natureza indenizatória, apenas do período suprimido, com acréscimo de 50% (cinquenta por cento) sobre o valor da remuneração da hora normal de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 5º O intervalo expresso no caput poderá ser reduzido e/ou fracionado, e aquele estabelecido no § 1º poderá ser fracionado, quando compreendidos entre o término da primeira hora trabalhada e o início da última hora trabalhada, desde que previsto em convenção ou acordo coletivo de trabalho, ante a natureza do serviço e em virtude das condições especiais de trabalho a que são submetidos estritamente os motoristas, cobradores, fiscalização de campo e afins nos serviços de operação de veículos rodoviários, empregados no setor de transporte coletivo de passageiros, mantida a remuneração e concedidos intervalos para descanso menores ao final de cada viagem. (Redação dada pela Lei nº 13.103, de 2015) (Vigência)","O corpo do Art. 71 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_dev_07; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,cabd2d069af5cbfe38c161eb47634cf0556495b4ed89ca0bab208775e5a7d484
+q_dev_08,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 129,56361,56534,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 129
+
+Todo empregado terá direito anualmente ao gozo de um período de férias, sem prejuízo da remuneração. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+","Todo empregado terá direito anualmente ao gozo de um período de férias, sem prejuízo da remuneração. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)","O corpo do Art. 129 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_dev_08; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,7905667f040f5e19161d88d43d171151754fac89c861dd5083e44e0fd82ffe61
+q_test_06,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 4º,3280,4949,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 4º
+
+Considera-se como de serviço efetivo o período em que o empregado esteja à disposição do empregador, aguardando ou executando ordens, salvo disposição especial expressamente consignada.
+
+§ 1º Computar-se-ão, na contagem de tempo de serviço, para efeito de indenização e estabilidade, os períodos em que o empregado estiver afastado do trabalho prestando serviço militar e por motivo de acidente do trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 2º Por não se considerar tempo à disposição do empregador, não será computado como período extraordinário o que exceder a jornada normal, ainda que ultrapasse o limite de cinco minutos previsto no § 1º do art. 58 desta Consolidação, quando o empregado, por escolha própria, buscar proteção pessoal, em caso de insegurança nas vias públicas ou más condições climáticas, bem como adentrar ou permanecer nas dependências da empresa para exercer atividades particulares, entre outras: (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+I - práticas religiosas; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+II - descanso; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+III - lazer; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+IV - estudo; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+V - alimentação; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+VI - atividades de relacionamento social; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+VII - higiene pessoal; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+VIII - troca de roupa ou uniforme, quando não houver obrigatoriedade de realizar a troca na empresa. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+","Considera-se como de serviço efetivo o período em que o empregado esteja à disposição do empregador, aguardando ou executando ordens, salvo disposição especial expressamente consignada.
+
+§ 1º Computar-se-ão, na contagem de tempo de serviço, para efeito de indenização e estabilidade, os períodos em que o empregado estiver afastado do trabalho prestando serviço militar e por motivo de acidente do trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
+
+§ 2º Por não se considerar tempo à disposição do empregador, não será computado como período extraordinário o que exceder a jornada normal, ainda que ultrapasse o limite de cinco minutos previsto no § 1º do art. 58 desta Consolidação, quando o empregado, por escolha própria, buscar proteção pessoal, em caso de insegurança nas vias públicas ou más condições climáticas, bem como adentrar ou permanecer nas dependências da empresa para exercer atividades particulares, entre outras: (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+I - práticas religiosas; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+II - descanso; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+III - lazer; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+IV - estudo; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+V - alimentação; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+VI - atividades de relacionamento social; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+VII - higiene pessoal; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
+
+VIII - troca de roupa ou uniforme, quando não houver obrigatoriedade de realizar a troca na empresa. (Incluído pela Lei nº 13.467, de 2017) (Vigência)","O corpo do Art. 4º em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_test_06; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,b217844213278a819f5841fb44232644f135c8ea53b6b9fb2b98732b4ce98919
+q_test_07,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 457,240924,242286,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 457
+
+Compreendem-se na remuneração do empregado, para todos os efeitos legais, além do salário devido e pago diretamente pelo empregador, como contraprestação do serviço, as gorjetas que receber. (Redação dada pela Lei nº 1.999, de 1.10.1953)
+
+§ 1º Integram o salário a importância fixa estipulada, as gratificações legais e as comissões pagas pelo empregador. (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 2º As importâncias, ainda que habituais, pagas a título de ajuda de custo, auxílio-alimentação, vedado seu pagamento em dinheiro, diárias para viagem, prêmios e abonos não integram a remuneração do empregado, não se incorporam ao contrato de trabalho e não constituem base de incidência de qualquer encargo trabalhista e previdenciário. (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 3º Considera-se gorjeta não só a importância espontaneamente dada pelo cliente ao empregado, como também o valor cobrado pela empresa, como serviço ou adicional, a qualquer título, e destinado à distribuição aos empregados. (Redação dada pela Lei nº 13.419, de 2017)
+
+§ 4º Consideram-se prêmios as liberalidades concedidas pelo empregador em forma de bens, serviços ou valor em dinheiro a empregado ou a grupo de empregados, em razão de desempenho superior ao ordinariamente esperado no exercício de suas atividades. (Redação dada pela Lei nº 13.467, de 2017)
+
+","Compreendem-se na remuneração do empregado, para todos os efeitos legais, além do salário devido e pago diretamente pelo empregador, como contraprestação do serviço, as gorjetas que receber. (Redação dada pela Lei nº 1.999, de 1.10.1953)
+
+§ 1º Integram o salário a importância fixa estipulada, as gratificações legais e as comissões pagas pelo empregador. (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 2º As importâncias, ainda que habituais, pagas a título de ajuda de custo, auxílio-alimentação, vedado seu pagamento em dinheiro, diárias para viagem, prêmios e abonos não integram a remuneração do empregado, não se incorporam ao contrato de trabalho e não constituem base de incidência de qualquer encargo trabalhista e previdenciário. (Redação dada pela Lei nº 13.467, de 2017)
+
+§ 3º Considera-se gorjeta não só a importância espontaneamente dada pelo cliente ao empregado, como também o valor cobrado pela empresa, como serviço ou adicional, a qualquer título, e destinado à distribuição aos empregados. (Redação dada pela Lei nº 13.419, de 2017)
+
+§ 4º Consideram-se prêmios as liberalidades concedidas pelo empregador em forma de bens, serviços ou valor em dinheiro a empregado ou a grupo de empregados, em razão de desempenho superior ao ordinariamente esperado no exercício de suas atividades. (Redação dada pela Lei nº 13.467, de 2017)","O corpo do Art. 457 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_test_07; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,30ddb7def86e59f39b4c6c5804c2296fd762a2fff84717a07c05ea46938117fb
+q_test_08,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 473,256205,259256,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 473
+
+O empregado poderá deixar de comparecer ao serviço sem prejuízo do salário: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+
+I - até 2 (dois) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que, declarada em sua carteira de trabalho e previdência social, viva sob sua dependência econômica; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+II - até 3 (três) dias consecutivos, em virtude de casamento; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+III - por 5 (cinco) dias consecutivos, em caso de nascimento de filho, de adoção ou de guarda compartilhada; (Redação dada pela Lei nº 14.457, de 2022)
+
+IV - por um dia, em cada 12 (doze) meses de trabalho, em caso de doação voluntária de sangue devidamente comprovada; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+V - até 2 (dois) dias consecutivos ou não, para o fim de se alistar eleitor, nos têrmos da lei respectiva. (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+VI - no período de tempo em que tiver de cumprir as exigências do Serviço Militar referidas na letra ""c"" do art. 65 da Lei nº 4.375, de 17 de agosto de 1964 (Lei do Serviço Militar). (Incluído pelo Decreto-lei nº 757, de 12.8.1969)
+
+VII - nos dias em que estiver comprovadamente realizando provas de exame vestibular para ingresso em estabelecimento de ensino superior. (Inciso incluído pela Lei nº 9.471, de 14.7.1997)
+
+VIII - pelo tempo que se fizer necessário, quando tiver que comparecer a juízo. (Incluído pela Lei nº 9.853, de 27.10.1999)
+
+IX - pelo tempo que se fizer necessário, quando, na qualidade de representante de entidade sindical, estiver participando de reunião oficial de organismo internacional do qual o Brasil seja membro. (Incluído pela Lei nº 11.304, de 2006)
+
+X - pelo tempo necessário para acompanhar sua esposa ou companheira em até 6 (seis) consultas médicas, ou em exames complementares, durante o período de gravidez; (Redação dada pela Lei nº 14.457, de 2022)
+
+XI - por 1 (um) dia por ano para acompanhar filho de até 6 (seis) anos em consulta médica. (Incluído dada pela Lei nº 13.257, de 2016)
+
+XII - até 3 (três) dias, em cada 12 (doze) meses de trabalho, em caso de realização de exames preventivos de câncer devidamente comprovada. (Incluído pela Lei nº 13.767, de 2018)
+
+§ 1º O prazo a que se refere o inciso III do caput deste artigo será contado a partir da data de nascimento do filho. (Redação dada pela Lei nº 15.156, de 2025)
+
+§ 2º Na hipótese de nascimento ou de adoção de criança com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika, o prazo a que se refere o inciso III do caput deste artigo será ampliado para 20 (vinte) dias. (Incluído pela Lei nº 15.156, de 2025)
+
+§ 3º O empregador informará o empregado sobre a possibilidade de deixar de comparecer ao serviço para a realização de exames preventivos do papilomavírus humano (HPV) e de câncer, nos termos do inciso XII do caput deste artigo. (Incluído pela Lei nº 15.377, de 2026)
+
+","O empregado poderá deixar de comparecer ao serviço sem prejuízo do salário: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+
+I - até 2 (dois) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que, declarada em sua carteira de trabalho e previdência social, viva sob sua dependência econômica; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+II - até 3 (três) dias consecutivos, em virtude de casamento; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+III - por 5 (cinco) dias consecutivos, em caso de nascimento de filho, de adoção ou de guarda compartilhada; (Redação dada pela Lei nº 14.457, de 2022)
+
+IV - por um dia, em cada 12 (doze) meses de trabalho, em caso de doação voluntária de sangue devidamente comprovada; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+V - até 2 (dois) dias consecutivos ou não, para o fim de se alistar eleitor, nos têrmos da lei respectiva. (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+VI - no período de tempo em que tiver de cumprir as exigências do Serviço Militar referidas na letra ""c"" do art. 65 da Lei nº 4.375, de 17 de agosto de 1964 (Lei do Serviço Militar). (Incluído pelo Decreto-lei nº 757, de 12.8.1969)
+
+VII - nos dias em que estiver comprovadamente realizando provas de exame vestibular para ingresso em estabelecimento de ensino superior. (Inciso incluído pela Lei nº 9.471, de 14.7.1997)
+
+VIII - pelo tempo que se fizer necessário, quando tiver que comparecer a juízo. (Incluído pela Lei nº 9.853, de 27.10.1999)
+
+IX - pelo tempo que se fizer necessário, quando, na qualidade de representante de entidade sindical, estiver participando de reunião oficial de organismo internacional do qual o Brasil seja membro. (Incluído pela Lei nº 11.304, de 2006)
+
+X - pelo tempo necessário para acompanhar sua esposa ou companheira em até 6 (seis) consultas médicas, ou em exames complementares, durante o período de gravidez; (Redação dada pela Lei nº 14.457, de 2022)
+
+XI - por 1 (um) dia por ano para acompanhar filho de até 6 (seis) anos em consulta médica. (Incluído dada pela Lei nº 13.257, de 2016)
+
+XII - até 3 (três) dias, em cada 12 (doze) meses de trabalho, em caso de realização de exames preventivos de câncer devidamente comprovada. (Incluído pela Lei nº 13.767, de 2018)
+
+§ 1º O prazo a que se refere o inciso III do caput deste artigo será contado a partir da data de nascimento do filho. (Redação dada pela Lei nº 15.156, de 2025)
+
+§ 2º Na hipótese de nascimento ou de adoção de criança com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika, o prazo a que se refere o inciso III do caput deste artigo será ampliado para 20 (vinte) dias. (Incluído pela Lei nº 15.156, de 2025)
+
+§ 3º O empregador informará o empregado sobre a possibilidade de deixar de comparecer ao serviço para a realização de exames preventivos do papilomavírus humano (HPV) e de câncer, nos termos do inciso XII do caput deste artigo. (Incluído pela Lei nº 15.377, de 2026)","O corpo do Art. 473 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_test_08; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,0d8e1728c9dafecc42d78ac436cdd5fac57c0abe2dc4b3652dbb802c129aaf99
+q_dev_08,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 130,56534,57609,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 130
+
+Após cada período de 12 (doze) meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção: (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+I - 30 (trinta) dias corridos, quando não houver faltado ao serviço mais de 5 (cinco) vezes; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+II - 24 (vinte e quatro) dias corridos, quando houver tido de 6 (seis) a 14 (quatorze) faltas; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+III - 18 (dezoito) dias corridos, quando houver tido de 15 (quinze) a 23 (vinte e três) faltas; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+IV - 12 (doze) dias corridos, quando houver tido de 24 (vinte e quatro) a 32 (trinta e duas) faltas. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+§ 1º - É vedado descontar, do período de férias, as faltas do empregado ao serviço. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+§ 2º - O período das férias será computado, para todos os efeitos, como tempo de serviço. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+","Após cada período de 12 (doze) meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção: (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+I - 30 (trinta) dias corridos, quando não houver faltado ao serviço mais de 5 (cinco) vezes; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+II - 24 (vinte e quatro) dias corridos, quando houver tido de 6 (seis) a 14 (quatorze) faltas; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+III - 18 (dezoito) dias corridos, quando houver tido de 15 (quinze) a 23 (vinte e três) faltas; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+IV - 12 (doze) dias corridos, quando houver tido de 24 (vinte e quatro) a 32 (trinta e duas) faltas. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+§ 1º - É vedado descontar, do período de férias, as faltas do empregado ao serviço. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
+
+§ 2º - O período das férias será computado, para todos os efeitos, como tempo de serviço. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)","O corpo do Art. 130 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_dev_08; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,770b7092c423c5c90c722415eb3defbe4ec2d4ae08f1aee8728da2805f2bd656
+q_test_07,codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md,Art. 458,242286,245271,59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494,"##### Art. 458
+
+Além do pagamento em dinheiro, compreende-se no salário, para todos os efeitos legais, a alimentação, habitação, vestuário ou outras prestações ""in natura"" que a empresa, por fôrça do contrato ou do costume, fornecer habitualmente ao empregado. Em caso algum será permitido o pagamento com bebidas alcoólicas ou drogas nocivas. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 1º Os valôres atribuídos às prestações ""in natura"" deverão ser justos e razoáveis, não podendo exceder, em cada caso, os dos percentuais das parcelas componentes do salário-mínimo (arts. 81 e 82).Incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 2º Para os efeitos previstos neste artigo, não serão consideradas como salário as seguintes utilidades concedidas pelo empregador: (Redação dada pela Lei nº 10.243, de 19.6.2001)
+
+I – vestuários, equipamentos e outros acessórios fornecidos aos empregados e utilizados no local de trabalho, para a prestação do serviço; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+II – educação, em estabelecimento de ensino próprio ou de terceiros, compreendendo os valores relativos a matrícula, mensalidade, anuidade, livros e material didático; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+III – transporte destinado ao deslocamento para o trabalho e retorno, em percurso servido ou não por transporte público; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+IV – assistência médica, hospitalar e odontológica, prestada diretamente ou mediante seguro-saúde; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+V – seguros de vida e de acidentes pessoais; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+VI – previdência privada; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+VII – (VETADO) (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+VIII - o valor correspondente ao vale-cultura. (Incluído pela Lei nº 12.761, de 2012)
+
+§ 3º - A habitação e a alimentação fornecidas como salário-utilidade deverão atender aos fins a que se destinam e não poderão exceder, respectivamente, a 25% (vinte e cinco por cento) e 20% (vinte por cento) do salário-contratual. (Incluído pela Lei nº 8.860, de 24.3.1994)
+
+§ 4º - Tratando-se de habitação coletiva, o valor do salário-utilidade a ela correspondente será obtido mediante a divisão do justo valor da habitação pelo número de co-habitantes, vedada, em qualquer hipótese, a utilização da mesma unidade residencial por mais de uma família. (Incluído pela Lei nº 8.860, de 24.3.1994)
+
+§ 5º O valor relativo à assistência prestada por serviço médico ou odontológico, próprio ou não, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, próteses, órteses, despesas médico-hospitalares e outras similares, mesmo quando concedido em diferentes modalidades de planos e coberturas, não integram o salário do empregado para qualquer efeito nem o salário de contribuição, para efeitos do previsto na alínea q do § 9º do art. 28 da Lei nº 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 13.467, de 2017)
+
+","Além do pagamento em dinheiro, compreende-se no salário, para todos os efeitos legais, a alimentação, habitação, vestuário ou outras prestações ""in natura"" que a empresa, por fôrça do contrato ou do costume, fornecer habitualmente ao empregado. Em caso algum será permitido o pagamento com bebidas alcoólicas ou drogas nocivas. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 1º Os valôres atribuídos às prestações ""in natura"" deverão ser justos e razoáveis, não podendo exceder, em cada caso, os dos percentuais das parcelas componentes do salário-mínimo (arts. 81 e 82).Incluído pelo Decreto-lei nº 229, de 28.2.1967)
+
+§ 2º Para os efeitos previstos neste artigo, não serão consideradas como salário as seguintes utilidades concedidas pelo empregador: (Redação dada pela Lei nº 10.243, de 19.6.2001)
+
+I – vestuários, equipamentos e outros acessórios fornecidos aos empregados e utilizados no local de trabalho, para a prestação do serviço; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+II – educação, em estabelecimento de ensino próprio ou de terceiros, compreendendo os valores relativos a matrícula, mensalidade, anuidade, livros e material didático; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+III – transporte destinado ao deslocamento para o trabalho e retorno, em percurso servido ou não por transporte público; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+IV – assistência médica, hospitalar e odontológica, prestada diretamente ou mediante seguro-saúde; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+V – seguros de vida e de acidentes pessoais; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+VI – previdência privada; (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+VII – (VETADO) (Incluído pela Lei nº 10.243, de 19.6.2001)
+
+VIII - o valor correspondente ao vale-cultura. (Incluído pela Lei nº 12.761, de 2012)
+
+§ 3º - A habitação e a alimentação fornecidas como salário-utilidade deverão atender aos fins a que se destinam e não poderão exceder, respectivamente, a 25% (vinte e cinco por cento) e 20% (vinte por cento) do salário-contratual. (Incluído pela Lei nº 8.860, de 24.3.1994)
+
+§ 4º - Tratando-se de habitação coletiva, o valor do salário-utilidade a ela correspondente será obtido mediante a divisão do justo valor da habitação pelo número de co-habitantes, vedada, em qualquer hipótese, a utilização da mesma unidade residencial por mais de uma família. (Incluído pela Lei nº 8.860, de 24.3.1994)
+
+§ 5º O valor relativo à assistência prestada por serviço médico ou odontológico, próprio ou não, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, próteses, órteses, despesas médico-hospitalares e outras similares, mesmo quando concedido em diferentes modalidades de planos e coberturas, não integram o salário do empregado para qualquer efeito nem o salário de contribuição, para efeitos do previsto na alínea q do § 9º do art. 28 da Lei nº 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 13.467, de 2017)","O corpo do Art. 458 em codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md sustenta os pontos anotados para q_test_07; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,166539d9623663048828ba33152736365a7bd3a16c6fdefe72405f3e10a30f47
+q_dev_neg_02,codigos/codigo-de-processo-civil-lei-13105-2015.md,Art. 733,366687,367344,39006ac91e7e93548cbdcbf167d69746f6b4d0ca45d5d81ffe19a27a193d910c,"**Art. 733. O** divórcio consensual, a separação consensual e a extinção consensual de união estável, não havendo nascituro ou filhos incapazes e observados os requisitos legais, poderão ser realizados por escritura pública, da qual constarão as disposições de que trata o art. 731.
+
+§ 1º A escritura não depende de homologação judicial e constitui título hábil para qualquer ato de registro, bem como para levantamento de importância depositada em instituições financeiras.
+
+§ 2º O tabelião somente lavrará a escritura se os interessados estiverem assistidos por advogado ou por defensor público, cuja qualificação e assinatura constarão do ato notarial.
+
+","**Art. 733. O** divórcio consensual, a separação consensual e a extinção consensual de união estável, não havendo nascituro ou filhos incapazes e observados os requisitos legais, poderão ser realizados por escritura pública, da qual constarão as disposições de que trata o art. 731.
+
+§ 1º A escritura não depende de homologação judicial e constitui título hábil para qualquer ato de registro, bem como para levantamento de importância depositada em instituições financeiras.
+
+§ 2º O tabelião somente lavrará a escritura se os interessados estiverem assistidos por advogado ou por defensor público, cuja qualificação e assinatura constarão do ato notarial.","O corpo do Art. 733 em codigos/codigo-de-processo-civil-lei-13105-2015.md sustenta os pontos anotados para q_dev_neg_02; preserva condições, exceções e notas. Evidência selecionada integralmente porque a pergunta abrange o dispositivo.",Aprovado,False,sim,b55f0963d9d79e417c4570debcc604a80d8632de200ebf4654e3b609199beb00

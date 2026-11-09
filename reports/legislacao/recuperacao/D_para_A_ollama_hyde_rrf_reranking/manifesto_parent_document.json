@@ -1,0 +1,18 @@
+{
+  "pipeline_version": "D-para-A-pgvector-hyde-rrf-rerank-v4",
+  "search_backend": "pgvector",
+  "retrieval_strategy": "D_paragrafo_completo",
+  "context_strategy": "A_artigo",
+  "parent_top_k": 3,
+  "budget_tokens": null,
+  "budget_status": "pendente de definição com tokenizador do LLM",
+  "parents_sha256": "e00879fc28a97925f5ca675e93d5b182c6853c5d8c05207d3378221c8499f02b",
+  "children_sha256": "95e5bc502de3d78d4394bebd671578f348f14db58830dca8d0130216484133c1",
+  "remaining_validation": [
+    "Perguntas sobre exceções e remissões",
+    "Evidências mínimas anotadas",
+    "Qualidade das respostas geradas"
+  ],
+  "hyde_is_evidence": false,
+  "queries": 11
+}

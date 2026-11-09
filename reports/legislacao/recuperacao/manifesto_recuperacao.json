@@ -1,0 +1,45 @@
+{
+  "executado_em_utc": "2026-11-05T05:17:19.033569+00:00",
+  "split": "dev",
+  "motores_executados": [
+    "bm25",
+    "vector",
+    "hybrid"
+  ],
+  "estrategias": [
+    "A_artigo",
+    "B_subdispositivo",
+    "C_tokens_300_overlap_50",
+    "C_tokens_500_overlap_75",
+    "D_paragrafo_completo"
+  ],
+  "top_k": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "profundidade_candidatos": 50,
+  "rrf_k": 60,
+  "bm25": {
+    "k1": 1.5,
+    "b": 0.75,
+    "idf": "log(1+(N-df+0.5)/(df+0.5))"
+  },
+  "embeddings": {
+    "habilitado": true,
+    "modelo": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "max_seq_length": 128
+  },
+  "hashes_chunks": {
+    "A_artigo": "e00879fc28a97925f5ca675e93d5b182c6853c5d8c05207d3378221c8499f02b",
+    "B_subdispositivo": "6f5189dd897e31e60cdf3e29f26063c4e115f026c75798727b9fe7b78a404caf",
+    "C_tokens_300_overlap_50": "7a9f7864c7c870954255e62df6fa3cb68451c8e4b3d0d519ed71cec89d8d43ef",
+    "C_tokens_500_overlap_75": "6a5c3be21048ac5cbb6e6c0949cc27223a1edaa6b89d3123f41357e359e32810",
+    "D_paragrafo_completo": "95e5bc502de3d78d4394bebd671578f348f14db58830dca8d0130216484133c1"
+  },
+  "hash_dev": "de8ecead349c17d22805b9a23a4e0e12c8a7bed64a7d79b72a31281f697fa85c",
+  "hash_referencias": "1c4c77fbe2cb8615e80f0f523ac010e5d570b05645bd49d676d78c9b65062864",
+  "negativos": "Registrados sem métrica de abstinência; exige calibração posterior.",
+  "limitacao": "Piloto pequeno; referências revisadas por IA; artigos citados nas perguntas podem favorecer BM25."
+}

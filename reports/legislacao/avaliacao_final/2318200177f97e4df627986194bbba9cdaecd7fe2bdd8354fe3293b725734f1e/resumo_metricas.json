@@ -1,0 +1,23 @@
+{
+  "hit": 1.0,
+  "recall": 1.0,
+  "mrr": 1.0,
+  "ndcg": 1.0,
+  "cobertura_evidencias": 1.0,
+  "total": 9,
+  "concluidas": 9,
+  "perguntas_respondiveis": 7,
+  "casos_sem_resposta": 2,
+  "falhas": 0,
+  "nao_executadas": 0,
+  "contexto_k": 3,
+  "agregacao": "Macro por pergunta respondível; casos sem referência não entram nas métricas de recuperação.",
+  "qualidade_juridica": "Revisão humana registrada para todas as saídas originais; observações e correções preservadas. Não representa certificação independente.",
+  "acuracia_juridica": null,
+  "taxa_alucinacao": null,
+  "teste_completo": true,
+  "revisoes_humanas_registradas": 9,
+  "aprovadas_pela_revisora": 6,
+  "reprovadas_pela_revisora": 3,
+  "proporcao_aprovada_pela_revisora": 0.6666666666666666
+}

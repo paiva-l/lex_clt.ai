@@ -1,0 +1,16 @@
+[
+  {
+    "estrategia":"A_artigo",
+    "chunks":5284,
+    "tokens_maximos":4726,
+    "chunks_acima_limite":0,
+    "limite":8192
+  },
+  {
+    "estrategia":"D_paragrafo_completo",
+    "chunks":10971,
+    "tokens_maximos":4392,
+    "chunks_acima_limite":0,
+    "limite":8192
+  }
+]

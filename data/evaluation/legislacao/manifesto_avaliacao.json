@@ -1,0 +1,16 @@
+{
+    "executado_em_utc": "2026-11-05T04:46:25.874480+00:00",
+    "status": "Base piloto revisada no corpus local; teste congelado.",
+    "total_perguntas": 20,
+    "dev": 11,
+    "test": 9,
+    "elegiveis_metricas": 20,
+    "base_artigos_sha256": "5e6d7dd4e275b72b64707a0fdf93cbdfe19b04baec3931847f77cf22b8eb7dcb",
+    "negativos": "Ausência de suporte no corpus selecionado; não inexistência de resposta jurídica.",
+    "grupos": "Revisar semelhança semântica; verificações automáticas cobrem texto normalizado e grupos declarados.",
+    "teste_congelado": true,
+    "sha256_conteudo_teste": "7d094eddf4d34e7e3ce0cc39045b425630170b501b20a8a29ed236500b5e8b74",
+    "tipo_revisao": "Revisão assistida por IA; não certifica vigência jurídica nem revisão profissional.",
+    "respondiveis": 16,
+    "sem_resposta": 4
+}

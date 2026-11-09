@@ -1,0 +1,11 @@
+estrategia,tem_alerta_parser,tokens_corpo_max,tokens_total_max,tokens_total_p50,limite_referencia,chunks_acima_limite
+A_artigo,False,5875,5941,164.0,8192,0
+A_artigo,True,3378,3437,376.0,8192,0
+B_subdispositivo,False,5503,5553,127.0,8192,0
+B_subdispositivo,True,581,652,129.0,8192,0
+C_tokens_300_overlap_50,False,300,461,184.0,8192,0
+C_tokens_300_overlap_50,True,300,456,347.0,8192,0
+C_tokens_500_overlap_75,False,500,661,174.0,8192,0
+C_tokens_500_overlap_75,True,500,654,411.5,8192,0
+D_paragrafo_completo,False,5503,5553,143.0,8192,0
+D_paragrafo_completo,True,2167,2231,177.0,8192,0

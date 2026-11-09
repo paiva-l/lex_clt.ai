@@ -1,0 +1,368 @@
+{
+  "query_id": "q_dev_03_v4",
+  "pergunta": "Fui agredida fisicamente no meu trabalho, tem como eu rescindir meu contrato de trabalho?",
+  "sources": [
+    {
+      "chunk_id": "bd1ef8dedad3ce908b2804e164ff81c772bebbaad663e61d3b4f5628298a2aae",
+      "estrategia": "A_artigo",
+      "artigo_id": "63b03d5a62beb009a7834f0e436629bfbb2f9ac3301969af6a7f94aa17303403",
+      "artigo_ref": "Art. 27",
+      "caminho_relativo": "leis-complementares/2015/lcp-150-2015.md",
+      "sha256_fonte": "a857c64a3fb78c7f6b02aad2506d792e2bb58592500c64c925bcc3fd34bee0b6",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp150.htm",
+      "date": 1435708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 27]",
+      "corpo_chunk": "### Art. 27.\n\nConsidera-se justa causa para os efeitos desta Lei:\n\nI - submissão a maus tratos de idoso, de enfermo, de pessoa com deficiência ou de criança sob cuidado direto ou indireto do empregado;\n\nII - prática de ato de improbidade;\n\nIII - incontinência de conduta ou mau procedimento;\n\nIV - condenação criminal do empregado transitada em julgado, caso não tenha havido suspensão da execução da pena;\n\nV - desídia no desempenho das respectivas funções;\n\nVI - embriaguez habitual ou em serviço;\n\nVII - (VETADO);\n\nVIII - ato de indisciplina ou de insubordinação;\n\nIX - abandono de emprego, assim considerada a ausência injustificada ao serviço por, pelo menos, 30 (trinta) dias corridos;\n\nX - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas em serviço contra qualquer pessoa, salvo em caso de legítima defesa, própria ou de outrem;\n\nXI - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas contra o empregador doméstico ou sua família, salvo em caso de legítima defesa, própria ou de outrem;\n\nXII - prática constante de jogos de azar.\n\nParágrafo único. O contrato de trabalho poderá ser rescindido por culpa do empregador quando:\n\nI - o empregador exigir serviços superiores às forças do empregado doméstico, defesos por lei, contrários aos bons costumes ou alheios ao contrato;\n\nII - o empregado doméstico for tratado pelo empregador ou por sua família com rigor excessivo ou de forma degradante;\n\nIII - o empregado doméstico correr perigo manifesto de mal considerável;\n\nIV - o empregador não cumprir as obrigações do contrato;\n\nV - o empregador ou sua família praticar, contra o empregado doméstico ou pessoas de sua família, ato lesivo à honra e à boa fama;\n\nVI - o empregador ou sua família ofender o empregado doméstico ou sua família fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\nVII - o empregador praticar qualquer das formas de violência doméstica ou familiar contra mulheres de que trata o art. 5º da Lei nº 11.340, de 7 de agosto de 2006.\n\n",
+      "conteudo_chunk": "[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 27]\n### Art. 27.\n\nConsidera-se justa causa para os efeitos desta Lei:\n\nI - submissão a maus tratos de idoso, de enfermo, de pessoa com deficiência ou de criança sob cuidado direto ou indireto do empregado;\n\nII - prática de ato de improbidade;\n\nIII - incontinência de conduta ou mau procedimento;\n\nIV - condenação criminal do empregado transitada em julgado, caso não tenha havido suspensão da execução da pena;\n\nV - desídia no desempenho das respectivas funções;\n\nVI - embriaguez habitual ou em serviço;\n\nVII - (VETADO);\n\nVIII - ato de indisciplina ou de insubordinação;\n\nIX - abandono de emprego, assim considerada a ausência injustificada ao serviço por, pelo menos, 30 (trinta) dias corridos;\n\nX - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas em serviço contra qualquer pessoa, salvo em caso de legítima defesa, própria ou de outrem;\n\nXI - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas contra o empregador doméstico ou sua família, salvo em caso de legítima defesa, própria ou de outrem;\n\nXII - prática constante de jogos de azar.\n\nParágrafo único. O contrato de trabalho poderá ser rescindido por culpa do empregador quando:\n\nI - o empregador exigir serviços superiores às forças do empregado doméstico, defesos por lei, contrários aos bons costumes ou alheios ao contrato;\n\nII - o empregado doméstico for tratado pelo empregador ou por sua família com rigor excessivo ou de forma degradante;\n\nIII - o empregado doméstico correr perigo manifesto de mal considerável;\n\nIV - o empregador não cumprir as obrigações do contrato;\n\nV - o empregador ou sua família praticar, contra o empregado doméstico ou pessoas de sua família, ato lesivo à honra e à boa fama;\n\nVI - o empregador ou sua família ofender o empregado doméstico ou sua família fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\nVII - o empregador praticar qualquer das formas de violência doméstica ou familiar contra mulheres de que trata o art. 5º da Lei nº 11.340, de 7 de agosto de 2006.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2006,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2108,
+      "tokens_reais_corpo": 585,
+      "tokens_reais_total": 627,
+      "tokens_estimados_total": 527.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "6493704240e09bd7b311fd7f88c73f22bb5c859e1962b40f322170327fd6804c",
+          "rank": 1,
+          "score": 0.7928029894828796
+        },
+        {
+          "chunk_id": "c7a8820e7ce5df09863390058e27218b3cb34b99e7a391a1fb452094fab75b06",
+          "rank": 37,
+          "score": 0.007911497727036476
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "c832c94fba83535655185fb0d695e30bf2085034e96b7c39de4f088c90a4e47a",
+      "estrategia": "A_artigo",
+      "artigo_id": "4acd494b9f4dfdc8808ffd0f46e946144e5cb3a8949f76288cb568657916f96d",
+      "artigo_ref": "Art. 483",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 483]",
+      "corpo_chunk": "##### Art. 483\n\nO empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:\n\na) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;\n\nb) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;\n\nc) correr perigo manifesto de mal considerável;\n\nd) não cumprir o empregador as obrigações do contrato;\n\ne) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;\n\nf) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\ng) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.\n\n§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.\n\n§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.\n\n§ 3º - Nas hipóteses das letras \"d\" e \"g\", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 483]\n##### Art. 483\n\nO empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:\n\na) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;\n\nb) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;\n\nc) correr perigo manifesto de mal considerável;\n\nd) não cumprir o empregador as obrigações do contrato;\n\ne) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;\n\nf) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\ng) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.\n\n§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.\n\n§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.\n\n§ 3º - Nas hipóteses das letras \"d\" e \"g\", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1364,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1516,
+      "tokens_reais_corpo": 395,
+      "tokens_reais_total": 457,
+      "tokens_estimados_total": 379.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+          "rank": 2,
+          "score": 0.6838235259056091
+        },
+        {
+          "chunk_id": "51486d4c8622f1f4c36183d96fe1d2b40b80d59158f06908c079ae01b45ad2c6",
+          "rank": 3,
+          "score": 0.45622435212135315
+        },
+        {
+          "chunk_id": "d3f7ab52bdc4c55dfe95f88f282bc841f6be99df5e187d9a85fc3e1659e15910",
+          "rank": 4,
+          "score": 0.3090350329875946
+        },
+        {
+          "chunk_id": "2d2654f7d16f80a4e0568098f35203d19c860e5f2b0a4df361b25c51dbf51dfb",
+          "rank": 8,
+          "score": 0.1539374440908432
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "1de79074fb1b3d6981610059140d3a0268a0da775e76db4afadecd388ea7db85",
+      "estrategia": "A_artigo",
+      "artigo_id": "bccbfcc064bf835a548b042df6672d9f2eafa75750edf7f986bf86d4ded18cb1",
+      "artigo_ref": "Art. 482",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]",
+      "corpo_chunk": "##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]\n##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1480,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1632,
+      "tokens_reais_corpo": 445,
+      "tokens_reais_total": 507,
+      "tokens_estimados_total": 408.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+          "rank": 5,
+          "score": 0.30902114510536194
+        },
+        {
+          "chunk_id": "a0ff312925f1da98e5d78a88a16f38a7223837e1a1d9d1af1681af6fba5ccdd6",
+          "rank": 35,
+          "score": 0.009924763813614845
+        }
+      ],
+      "best_child_rank": 5,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[leis-complementares/2015/lcp-150-2015.md | CAPÍTULO I — DO CONTRATO DE TRABALHO DOMÉSTICO > Art. 27]\n### Art. 27.\n\nConsidera-se justa causa para os efeitos desta Lei:\n\nI - submissão a maus tratos de idoso, de enfermo, de pessoa com deficiência ou de criança sob cuidado direto ou indireto do empregado;\n\nII - prática de ato de improbidade;\n\nIII - incontinência de conduta ou mau procedimento;\n\nIV - condenação criminal do empregado transitada em julgado, caso não tenha havido suspensão da execução da pena;\n\nV - desídia no desempenho das respectivas funções;\n\nVI - embriaguez habitual ou em serviço;\n\nVII - (VETADO);\n\nVIII - ato de indisciplina ou de insubordinação;\n\nIX - abandono de emprego, assim considerada a ausência injustificada ao serviço por, pelo menos, 30 (trinta) dias corridos;\n\nX - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas em serviço contra qualquer pessoa, salvo em caso de legítima defesa, própria ou de outrem;\n\nXI - ato lesivo à honra ou à boa fama ou ofensas físicas praticadas contra o empregador doméstico ou sua família, salvo em caso de legítima defesa, própria ou de outrem;\n\nXII - prática constante de jogos de azar.\n\nParágrafo único. O contrato de trabalho poderá ser rescindido por culpa do empregador quando:\n\nI - o empregador exigir serviços superiores às forças do empregado doméstico, defesos por lei, contrários aos bons costumes ou alheios ao contrato;\n\nII - o empregado doméstico for tratado pelo empregador ou por sua família com rigor excessivo ou de forma degradante;\n\nIII - o empregado doméstico correr perigo manifesto de mal considerável;\n\nIV - o empregador não cumprir as obrigações do contrato;\n\nV - o empregador ou sua família praticar, contra o empregado doméstico ou pessoas de sua família, ato lesivo à honra e à boa fama;\n\nVI - o empregador ou sua família ofender o empregado doméstico ou sua família fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\nVII - o empregador praticar qualquer das formas de violência doméstica ou familiar contra mulheres de que trata o art. 5º da Lei nº 11.340, de 7 de agosto de 2006.\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 483]\n##### Art. 483\n\nO empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:\n\na) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;\n\nb) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;\n\nc) correr perigo manifesto de mal considerável;\n\nd) não cumprir o empregador as obrigações do contrato;\n\ne) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;\n\nf) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\ng) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.\n\n§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.\n\n§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.\n\n§ 3º - Nas hipóteses das letras \"d\" e \"g\", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]\n##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "6493704240e09bd7b311fd7f88c73f22bb5c859e1962b40f322170327fd6804c",
+      "score": 0.7928029894828796
+    },
+    {
+      "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+      "score": 0.6838235259056091
+    },
+    {
+      "chunk_id": "51486d4c8622f1f4c36183d96fe1d2b40b80d59158f06908c079ae01b45ad2c6",
+      "score": 0.45622435212135315
+    },
+    {
+      "chunk_id": "d3f7ab52bdc4c55dfe95f88f282bc841f6be99df5e187d9a85fc3e1659e15910",
+      "score": 0.3090350329875946
+    },
+    {
+      "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+      "score": 0.30902114510536194
+    },
+    {
+      "chunk_id": "5ff91ed9ea963db49ba4f36bd141772f2a3e3bb4d8eda370d65a1a4f115b96e7",
+      "score": 0.2288973480463028
+    },
+    {
+      "chunk_id": "1f7bf490644bddff43ce132d8a406a6a106cfe7b504bf0a95f3c210e38735c4c",
+      "score": 0.18458938598632812
+    },
+    {
+      "chunk_id": "2d2654f7d16f80a4e0568098f35203d19c860e5f2b0a4df361b25c51dbf51dfb",
+      "score": 0.1539374440908432
+    },
+    {
+      "chunk_id": "7abece8e465f8118028c58fa64c3e532636f1406911ce170e58df672fcc642e0",
+      "score": 0.13797378540039062
+    },
+    {
+      "chunk_id": "4a63d4ddcea2930ca61937cb0571045c7d66ad8f5230f6759656c730c34d6167",
+      "score": 0.13185440003871918
+    },
+    {
+      "chunk_id": "8f9be926cb104e29f69a4353dfdc984618854462b1d9ca8680a2739b9552a572",
+      "score": 0.1281285434961319
+    },
+    {
+      "chunk_id": "cc67f5ef721ebb44227ab1315c638e558dfc77b5e0d3c48f3d2d6672eaab1728",
+      "score": 0.09985096007585526
+    },
+    {
+      "chunk_id": "ba7e315624261276c26fa30139c6fb8c8a753801fe49ff2b0b8aa6478b4cc53b",
+      "score": 0.09171077609062195
+    },
+    {
+      "chunk_id": "f303d2dfb6f4b4b936e54b7a73dab821e2f122f36009ff51cb9bd75f227d58bd",
+      "score": 0.07360491901636124
+    },
+    {
+      "chunk_id": "ebe5ebd9aa0a247b3152764385ae9dd988cc3161b4e664e884c0dc714eb6eda7",
+      "score": 0.06272680312395096
+    },
+    {
+      "chunk_id": "04a361495d54b8651c9572cee8d384afdaa877e9e6cf791f321d7bd63645b443",
+      "score": 0.06246473267674446
+    },
+    {
+      "chunk_id": "8d6635f90596fbda5a1bffc312b0e50f131660ca95f58bcaf7d67bab6d47a861",
+      "score": 0.058636873960494995
+    },
+    {
+      "chunk_id": "8460bbf33276a92f1359103c724fbd0351e2c2f3cb09776e3a43b6ecc7241c8d",
+      "score": 0.056764476001262665
+    },
+    {
+      "chunk_id": "f75819c623cd5b14952c772496e3185f68ec232aff585a99f1908099e6a4f96b",
+      "score": 0.05555315315723419
+    },
+    {
+      "chunk_id": "a76e48669a87894481d724cec7479ea5d4051cb187acf5a594807605d9abbff5",
+      "score": 0.05029945448040962
+    },
+    {
+      "chunk_id": "b98be79e294e560e6c19f414e6570ef3dda9d24733bc06723c0acb9031046b42",
+      "score": 0.04951709136366844
+    },
+    {
+      "chunk_id": "48e30555be25e12149d5cf06039ea22fa535e4998080c8cae42aaaa519d43b80",
+      "score": 0.04532592371106148
+    },
+    {
+      "chunk_id": "e4e42fa5f9c3c5fc94b323cf0c1c6a44d7ed115660e7e19aaaaba82b3b3c545b",
+      "score": 0.03585393354296684
+    },
+    {
+      "chunk_id": "7ecc619f95652ace79a2e6243685b2876b84117b3d3d116f7bd9045ce0e73303",
+      "score": 0.03329846262931824
+    },
+    {
+      "chunk_id": "8905547eb1eb40386131f9c1102234ba37cb4aa83efcd95304a6b0577ca680c1",
+      "score": 0.029720528051257133
+    },
+    {
+      "chunk_id": "05fd61e86d1f3d4e7167c8a4779e9298da72fc7a4f0b29dd15789724b025c989",
+      "score": 0.026152072474360466
+    },
+    {
+      "chunk_id": "a7b47eb31ae56307ec367dec7dc8ba531098dc728ffd93b9d722a50d6247d71c",
+      "score": 0.023189891129732132
+    },
+    {
+      "chunk_id": "0133ac72da0b4e12c5ee4604666cb2a52e9122dcebf452ed73cb4217c51e2852",
+      "score": 0.019966574385762215
+    },
+    {
+      "chunk_id": "6751797be89318ff2c1a30827799ba223ec6ada7ab2fdba8bc8aeb36fed442cb",
+      "score": 0.01832902804017067
+    },
+    {
+      "chunk_id": "d2512f0e2a32b289fbab107229f4afabc8ff26c209ab72568f50aefdc5f741eb",
+      "score": 0.017418835312128067
+    },
+    {
+      "chunk_id": "c1a065632afa777aa784200fa80a1e2890347825052fa8d83feed3023dbd4115",
+      "score": 0.016272254288196564
+    },
+    {
+      "chunk_id": "f9e3fdb7cb7fd819066714badd2c5d841abe819a333062b8dfc9934994878ab0",
+      "score": 0.013746457174420357
+    },
+    {
+      "chunk_id": "35c5ecaad7a3fbdda160661271baa8d052186175c0b1759bc1f8a3eaa8541404",
+      "score": 0.013448984362185001
+    },
+    {
+      "chunk_id": "3adaaf86e8da7996847b64900479ac4d906a2695ba658a4b1a8b0ec55ebc93e3",
+      "score": 0.010723743587732315
+    },
+    {
+      "chunk_id": "a0ff312925f1da98e5d78a88a16f38a7223837e1a1d9d1af1681af6fba5ccdd6",
+      "score": 0.009924763813614845
+    },
+    {
+      "chunk_id": "549506b48b296096921e88f7abb479d0fb549047c0eed6522977affed1bef9fa",
+      "score": 0.008346818387508392
+    },
+    {
+      "chunk_id": "c7a8820e7ce5df09863390058e27218b3cb34b99e7a391a1fb452094fab75b06",
+      "score": 0.007911497727036476
+    },
+    {
+      "chunk_id": "418bd0ab5cadf1a46e2d301a26bdd6f8d5ca05bd573e32cef2e3e1bd6af0d947",
+      "score": 0.007630213163793087
+    },
+    {
+      "chunk_id": "db5115b890503c2cb800a2448a6426c1ec74993db66895de8cd9b31a6faf74c5",
+      "score": 0.007055182009935379
+    },
+    {
+      "chunk_id": "b91ce57259beec812a3207e76589cc66d928ffd03ae0996e58f9cbd2588f10ce",
+      "score": 0.006920740939676762
+    },
+    {
+      "chunk_id": "3e20932e8084c87088081051bf3422b5edb3d4ade3f7a54da93e6b7fd838d2a0",
+      "score": 0.00540176872164011
+    },
+    {
+      "chunk_id": "de194dd0a4e4cf993a0aaa9c0607a1dac158bf51050bc9b734c716d4b8b36f0a",
+      "score": 0.004821441136300564
+    },
+    {
+      "chunk_id": "5ce287920d461b23d0e540020cb87a3adba52c18f0ea244ceb56c2b2adb2ae39",
+      "score": 0.004787543322890997
+    },
+    {
+      "chunk_id": "b379d78335b3662c8eee89be16f0f74940095a9d4084739f779987b3c316fcbc",
+      "score": 0.004507079254835844
+    },
+    {
+      "chunk_id": "2513f445df58d5d1bfbca16d76e67729a2b2daa466cd64b86d9563294713cb23",
+      "score": 0.003524926956743002
+    },
+    {
+      "chunk_id": "49cba00e56ff865d9453a97f075cce39219fa6922a57c6b30b4e1b1170143884",
+      "score": 0.002623062115162611
+    },
+    {
+      "chunk_id": "40020695002edaf1b36ef818cf8b065bef9c753d6ac9b7d34377dab895e5a8f4",
+      "score": 0.002345816930755973
+    },
+    {
+      "chunk_id": "c01406ee8cd708e4d7c8b1073ca9a19db7b79ebeffa5195748384c511d1aae0d",
+      "score": 0.0019534549210220575
+    },
+    {
+      "chunk_id": "2213cbcb09684ce75a423b66b0ebac2c8343a7755a50b7382781a6a38e85e251",
+      "score": 0.0015134649584069848
+    },
+    {
+      "chunk_id": "17dc70f197227279307607fc224052a7b9d1dcd6a0318b41e0340660c04f2a80",
+      "score": 0.000948648841585964
+    }
+  ],
+  "hyde_cache_sha256": "b60d2c5550850184d9121f45721ff871f3487018571ee3265edc1f25798b2592",
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 134422.4273999862,
+  "hash_configuracao": "bda9d58f8741dc332529368b0a8f763277e4b98a3b4fbe7eb728cb9d3f8a1192",
+  "embedding_corpus_recalculado": false
+}

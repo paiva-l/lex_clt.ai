@@ -1,0 +1,1075 @@
+tipo,query_id,status_execucao,status_revisao,revisor,escopo_status,celula_tem_edicoes_na_resposta,resposta_modelo_original,texto_resposta_na_celula,texto_acrescentado_antes_da_resposta,texto_acrescentado_depois_da_resposta,resposta_modelo_sha256,celula_sha256
+correcao,q_dev_03,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"Resposta direta:  
+As hipóteses em que o empregado pode rescindir o contrato de trabalho por justa causa do empregador (rescisão indireta) são as seguintes, conforme previsto no Art. 483 da CLT:  
+
+- Exigência de serviços superiores às suas forças, defesos por lei, contrários aos bons costumes ou alheios ao contrato;  
+- Tratamento com rigor excessivo pelo empregador ou por seus superiores hierárquicos;  
+- Correr perigo manifesto de sofrer um dano considerável;  
+- Descumprimento das obrigações do contrato de trabalho pelo empregador;  
+- Prática de ato lesivo à honra ou à boa fama pelo empregador ou seus prepostos contra o empregado ou pessoas de sua família;  
+- Ofensa física pelo empregador ou seus prepostos ao empregado, salvo em caso de legítima defesa própria ou de outrem;  
+- Redução do trabalho, quando remunerado por peça ou tarefa, de forma a afetar sensivelmente o valor dos salários.  
+
+Essas hipóteses estão previstas no Art. 483 da CLT [Fonte 3].  
+
+Fundamentação:  
+O Art. 483 da CLT, no contexto do Título IV — Do Contrato Individual do Trabalho, Capítulo V — Da Rescisão, prevê que o empregado pode considerar rescindido o contrato e pleitear a devida indenização em situações de condutas do empregador que violam direitos fundamentais. As alíneas do artigo indicam as condições específicas em que a rescisão indireta é possível.  
+
+A alínea a trata da exigência indevida de serviços, conforme o texto: ""exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato"" [Fonte 3].  
+A alínea b refere-se ao tratamento com rigor excessivo: ""tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo"" [Fonte 3].  
+A alínea c diz respeito ao perigo manifesto de dano considerável: ""correr perigo manifesto de mal considerável"" [Fonte 3].  
+A alínea d menciona o descumprimento das obrigações do contrato: ""não cumprir o empregador as obrigações do contrato"" [Fonte 3].  
+A alínea e trata da ofensa à honra ou à boa fama: ""praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama"" [Fonte 3].  
+A alínea f refere-se à ofensa física: ""o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem"" [Fonte 3].  
+A alínea g diz respeito à redução do trabalho por peça ou tarefa: ""reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários"" [Fonte 3].  
+
+O § 3º do Art. 483 estabelece que, nas hipóteses das alíneas d e g, o empregado poderá pleitear a rescisão e as indenizações, permanecendo ou não no serviço até a decisão final do processo [Fonte 3]. Essa previsão se aplica apenas a essas alíneas e não pode ser estendida automaticamente às demais.  
+
+É importante destacar que o Art. 482 da CLT trata das hipóteses em que o empregador pode rescindir o contrato por justa causa (rescisão direta), não do empregado rescindindo por condutas do empregador. Portanto, não se aplica à pergunta sobre rescisão indireta do empregado [Fonte 1].  
+
+A resposta está baseada exclusivamente nas evidências fornecidas e não inclui afirmações não sustentadas pelas fontes.","Resposta direta:  
+As hipóteses em que o empregado pode rescindir o contrato de trabalho por justa causa do empregador (rescisão indireta) são as seguintes, conforme previsto no Art. 483 da CLT:  
+
+- Exigência de serviços superiores às suas forças, defesos por lei, contrários aos bons costumes ou alheios ao contrato;  
+- Tratamento com rigor excessivo pelo empregador ou por seus superiores hierárquicos;  
+- Correr perigo manifesto de sofrer um dano considerável;  
+- Descumprimento das obrigações do contrato de trabalho pelo empregador;  
+- Prática de ato lesivo à honra ou à boa fama pelo empregador ou seus prepostos contra o empregado ou pessoas de sua família;  
+- Ofensa física pelo empregador ou seus prepostos ao empregado, salvo em caso de legítima defesa própria ou de outrem;  
+- Redução do trabalho, quando remunerado por peça ou tarefa, de forma a afetar sensivelmente o valor dos salários.  
+
+Essas hipóteses estão previstas no Art. 483 da CLT [Fonte 3].  
+
+Fundamentação:  
+O Art. 483 da CLT, no contexto do Título IV — Do Contrato Individual do Trabalho, Capítulo V — Da Rescisão, prevê que o empregado pode considerar rescindido o contrato e pleitear a devida indenização em situações de condutas do empregador que violam direitos fundamentais. As alíneas do artigo indicam as condições específicas em que a rescisão indireta é possível.  
+
+A alínea a trata da exigência indevida de serviços, conforme o texto: ""exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato"" [Fonte 3].  
+A alínea b refere-se ao tratamento com rigor excessivo: ""tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo"" [Fonte 3].  
+A alínea c diz respeito ao perigo manifesto de dano considerável: ""correr perigo manifesto de mal considerável"" [Fonte 3].  
+A alínea d menciona o descumprimento das obrigações do contrato: ""não cumprir o empregador as obrigações do contrato"" [Fonte 3].  
+A alínea e trata da ofensa à honra ou à boa fama: ""praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama"" [Fonte 3].  
+A alínea f refere-se à ofensa física: ""o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem"" [Fonte 3].  
+A alínea g diz respeito à redução do trabalho por peça ou tarefa: ""reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários"" [Fonte 3].  
+
+O § 3º do Art. 483 estabelece que, nas hipóteses das alíneas d e g, o empregado poderá pleitear a rescisão e as indenizações, permanecendo ou não no serviço até a decisão final do processo [Fonte 3]. Essa previsão se aplica apenas a essas alíneas e não pode ser estendida automaticamente às demais.  
+
+É importante destacar que o Art. 482 da CLT trata das hipóteses em que o empregador pode rescindir o contrato por justa causa (rescisão direta), não do empregado rescindindo por condutas do empregador. Portanto, não se aplica à pergunta sobre rescisão indireta do empregado [Fonte 1].  
+
+A resposta está baseada exclusivamente nas evidências fornecidas e não inclui afirmações não sustentadas pelas fontes.",,,2ada2b054bc9339407a6f896761f883d4df1b88bb96ee0f21a24696da34831ee,ba9a53245cd39adb27c92438f917211310b006330ebc0628052777709b424aa8
+correcao,q_dev_neg_02,concluida,aprovada_por_revisor,Laisa,resposta_modelo_sem_edicoes,False,Essa não é uma pergunta ligada ao Direito do Trabalho.,Essa não é uma pergunta ligada ao Direito do Trabalho.,,,c322cab36a35e3adf410d0c2903b751c2ce0fb3e3f6eae183bbd6378f6275e81,961d6d35f33593b2cd43f2502468ebdb4039c45b0b84ac48bfdcefd7dce34e08
+variante,q_dev_03_v1,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"**Resposta direta:**  
+As situações que permitem a rescisão indireta do contrato de trabalho são aquelas em que o empregado pode rescindir o contrato por causa de condutas ou condições do empregador que violam direitos fundamentais, como o tratamento desumano, a exigência de serviços superiores às forças do empregado, o perigo manifesto de mal considerável ou a falta de cumprimento das obrigações contratualmente estabelecidas. Essas situações estão previstas no **Art. 483 da CLT**, com base no que foi estabelecido para o empregado doméstico e para o empregado em geral.
+
+Essas situações incluem:
+
+- Exigência de serviços superiores às forças do empregado, defesos por lei, contrários aos bons costumes ou alheios ao contrato;  
+- Tratamento com rigor excessivo pelo empregador ou por seus superiores hierárquicos;  
+- Correr perigo manifesto de mal considerável;  
+- Falta de cumprimento das obrigações do contrato pelo empregador;  
+- Prática de atos lesivos à honra e à boa fama ou ofensas físicas por parte do empregador ou de seus prepostos;  
+- Redução do trabalho de forma a afetar sensivelmente a importância dos salários.
+
+Essas condições são **relevante para a rescisão indireta**, ou seja, quando o empregado não é desligado diretamente pelo empregador, mas sim por atos que violam direitos trabalhistas.
+
+---
+
+**Fundamentação:**
+
+O conceito de **rescisão indireta** refere-se à possibilidade do empregado rescindir o contrato de trabalho por causa de condutas do empregador que violam direitos fundamentais, como o tratamento desumano, a exigência de serviços excessivos ou a falta de cumprimento de obrigações contratualmente estabelecidas.
+
+Essa possibilidade é regulamentada no **Art. 483 da CLT**, que estabelece que o empregado pode considerar rescindido o contrato e pleitear indenização em situações como:
+
+- **Exigência de serviços superiores às forças do empregado**, defesos por lei, contrários aos bons costumes ou alheios ao contrato [Fonte 3, Art. 483, alínea a];  
+- **Tratamento com rigor excessivo** pelo empregador ou por superiores hierárquicos [Fonte 3, Art. 483, alínea b];  
+- **Correr perigo manifesto de mal considerável** [Fonte 3, Art. 483, alínea c];  
+- **Falta de cumprimento das obrigações do contrato** pelo empregador [Fonte 3, Art. 483, alínea d];  
+- **Atos lesivos à honra e à boa fama** ou ofensas físicas praticados pelo empregador ou por seus prepostos [Fonte 3, Art. 483, alíneas e e f];  
+- **Redução do trabalho** de forma a afetar sensivelmente a importância dos salários [Fonte 3, Art. 483, alínea g].
+
+Essas hipóteses são **aplicáveis tanto para empregados em geral quanto para empregados domésticos**, embora com algumas diferenças de detalhamento.
+
+No caso do **trabalho doméstico**, a **Lei Complementar nº 150/2015** (Art. 27) estabelece situações semelhantes, como:
+
+- Tratamento com rigor excessivo ou de forma degradante;  
+- Exigência de serviços superiores às forças do empregado doméstico;  
+- Perigo manifesto de mal considerável;  
+- Falta de cumprimento das obrigações do contrato;  
+- Atos lesivos à honra e à boa fama ou ofensas físicas por parte do empregador ou da família;  
+- Violência doméstica ou familiar contra mulheres (Art. 27, alínea vii).
+
+Essas normas **reforçam a possibilidade de rescisão indireta**, especialmente em contextos de trabalho doméstico, onde o empregado está mais vulnerável.
+
+---
+
+**Observações importantes:**
+
+- A **rescisão indireta** não é permitida apenas por condutas do empregado, mas sim por **condutas do empregador** que violam direitos fundamentais.  
+- O empregado **não precisa ser desligado diretamente** pelo empregador para exercer esse direito; ele pode rescindir o contrato com base em situações que comprometem sua dignidade e segurança.  
+- O **Art. 483 da CLT** permite que o empregado **suspenda a prestação de serviços ou rescinda o contrato** quando estiver obrigado a desempenhar obrigações legais incompatíveis com a continuação do serviço (§ 1º).  
+- A **rescisão indireta** é **diferente da rescisão por justa causa**, que ocorre quando o empregador desliga o empregado por condutas do empregado (como improbidade, desídia, jogos de azar, etc.), conforme o **Art. 482 da CLT**.
+
+---
+
+**Limitações:**
+
+- A aplicação dessas regras depende de **prova concreta** de que o empregador violou uma das condições descritas (ex: comprovante de tratamento desumano, documento de exigência de serviço excessivo, etc.).  
+- A **prescrição** de direitos trabalhistas pode ser relevante: o direito de rescisão indireta **não tem prazo de prescrição**, mas a **ação judicial** para pleitear a rescisão deve ser iniciada dentro do prazo legal (geralmente 2 anos, conforme o art. 483, § 3º, que permite suspensão e permanência até decisão).  
+- Não há dados sobre a **data de admissão**, **tipo de contrato** ou **natureza do trabalho** no contexto, o que torna difícil afirmar com certeza se a situação se aplica ao caso específico do usuário.
+
+---
+
+**Perguntas necessárias para uma análise mais precisa:**
+
+1. O empregado está em um contrato de trabalho doméstico ou em outro tipo de emprego (ex: industrial, comercial, etc.)?  
+2. Há comprovação de que o empregador exigiu serviços superiores às forças do empregado ou o tratou com rigor excessivo?  
+3. O empregado correu perigo manifesto de mal considerável?  
+4. O empregador não cumprir as obrigações do contrato?  
+5. Houve atos lesivos à honra ou ofensas físicas por parte do empregador ou de seus prepostos?
+
+Se você puder fornecer essas informações, posso orientar melhor se a rescisão indireta é aplicável ao caso específico.
+
+> ⚠️ **Importante:** As informações acima estão baseadas apenas nas fontes recuperadas. Não há jurisprudência ou decisão específica mencionada nas evidências para confirmar a aplicação prática dessas regras em um caso concreto. A análise é feita com base apenas na CLT e na LC 150/2015.","**Resposta direta:**  
+As situações que permitem a rescisão indireta do contrato de trabalho são aquelas em que o empregado pode rescindir o contrato por causa de condutas ou condições do empregador que violam direitos fundamentais, como o tratamento desumano, a exigência de serviços superiores às forças do empregado, o perigo manifesto de mal considerável ou a falta de cumprimento das obrigações contratualmente estabelecidas. Essas situações estão previstas no **Art. 483 da CLT**, com base no que foi estabelecido para o empregado doméstico e para o empregado em geral.
+
+Essas situações incluem:
+
+- Exigência de serviços superiores às forças do empregado, defesos por lei, contrários aos bons costumes ou alheios ao contrato;  
+- Tratamento com rigor excessivo pelo empregador ou por seus superiores hierárquicos;  
+- Correr perigo manifesto de mal considerável;  
+- Falta de cumprimento das obrigações do contrato pelo empregador;  
+- Prática de atos lesivos à honra e à boa fama ou ofensas físicas por parte do empregador ou de seus prepostos;  
+- Redução do trabalho de forma a afetar sensivelmente a importância dos salários.
+
+Essas condições são **relevante para a rescisão indireta**, ou seja, quando o empregado não é desligado diretamente pelo empregador, mas sim por atos que violam direitos trabalhistas.
+
+---
+
+**Fundamentação:**
+
+O conceito de **rescisão indireta** refere-se à possibilidade do empregado rescindir o contrato de trabalho por causa de condutas do empregador que violam direitos fundamentais, como o tratamento desumano, a exigência de serviços excessivos ou a falta de cumprimento de obrigações contratualmente estabelecidas.
+
+Essa possibilidade é regulamentada no **Art. 483 da CLT**, que estabelece que o empregado pode considerar rescindido o contrato e pleitear indenização em situações como:
+
+- **Exigência de serviços superiores às forças do empregado**, defesos por lei, contrários aos bons costumes ou alheios ao contrato [Fonte 3, Art. 483, alínea a];  
+- **Tratamento com rigor excessivo** pelo empregador ou por superiores hierárquicos [Fonte 3, Art. 483, alínea b];  
+- **Correr perigo manifesto de mal considerável** [Fonte 3, Art. 483, alínea c];  
+- **Falta de cumprimento das obrigações do contrato** pelo empregador [Fonte 3, Art. 483, alínea d];  
+- **Atos lesivos à honra e à boa fama** ou ofensas físicas praticados pelo empregador ou por seus prepostos [Fonte 3, Art. 483, alíneas e e f];  
+- **Redução do trabalho** de forma a afetar sensivelmente a importância dos salários [Fonte 3, Art. 483, alínea g].
+
+Essas hipóteses são **aplicáveis tanto para empregados em geral quanto para empregados domésticos**, embora com algumas diferenças de detalhamento.
+
+No caso do **trabalho doméstico**, a **Lei Complementar nº 150/2015** (Art. 27) estabelece situações semelhantes, como:
+
+- Tratamento com rigor excessivo ou de forma degradante;  
+- Exigência de serviços superiores às forças do empregado doméstico;  
+- Perigo manifesto de mal considerável;  
+- Falta de cumprimento das obrigações do contrato;  
+- Atos lesivos à honra e à boa fama ou ofensas físicas por parte do empregador ou da família;  
+- Violência doméstica ou familiar contra mulheres (Art. 27, alínea vii).
+
+Essas normas **reforçam a possibilidade de rescisão indireta**, especialmente em contextos de trabalho doméstico, onde o empregado está mais vulnerável.
+
+---
+
+**Observações importantes:**
+
+- A **rescisão indireta** não é permitida apenas por condutas do empregado, mas sim por **condutas do empregador** que violam direitos fundamentais.  
+- O empregado **não precisa ser desligado diretamente** pelo empregador para exercer esse direito; ele pode rescindir o contrato com base em situações que comprometem sua dignidade e segurança.  
+- O **Art. 483 da CLT** permite que o empregado **suspenda a prestação de serviços ou rescinda o contrato** quando estiver obrigado a desempenhar obrigações legais incompatíveis com a continuação do serviço (§ 1º).  
+- A **rescisão indireta** é **diferente da rescisão por justa causa**, que ocorre quando o empregador desliga o empregado por condutas do empregado (como improbidade, desídia, jogos de azar, etc.), conforme o **Art. 482 da CLT**.
+
+---
+
+**Limitações:**
+
+- A aplicação dessas regras depende de **prova concreta** de que o empregador violou uma das condições descritas (ex: comprovante de tratamento desumano, documento de exigência de serviço excessivo, etc.).  
+- A **prescrição** de direitos trabalhistas pode ser relevante: o direito de rescisão indireta **não tem prazo de prescrição**, mas a **ação judicial** para pleitear a rescisão deve ser iniciada dentro do prazo legal (geralmente 2 anos, conforme o art. 483, § 3º, que permite suspensão e permanência até decisão).  
+- Não há dados sobre a **data de admissão**, **tipo de contrato** ou **natureza do trabalho** no contexto, o que torna difícil afirmar com certeza se a situação se aplica ao caso específico do usuário.
+
+---
+
+**Perguntas necessárias para uma análise mais precisa:**
+
+1. O empregado está em um contrato de trabalho doméstico ou em outro tipo de emprego (ex: industrial, comercial, etc.)?  
+2. Há comprovação de que o empregador exigiu serviços superiores às forças do empregado ou o tratou com rigor excessivo?  
+3. O empregado correu perigo manifesto de mal considerável?  
+4. O empregador não cumprir as obrigações do contrato?  
+5. Houve atos lesivos à honra ou ofensas físicas por parte do empregador ou de seus prepostos?
+
+Se você puder fornecer essas informações, posso orientar melhor se a rescisão indireta é aplicável ao caso específico.
+
+> ⚠️ **Importante:** As informações acima estão baseadas apenas nas fontes recuperadas. Não há jurisprudência ou decisão específica mencionada nas evidências para confirmar a aplicação prática dessas regras em um caso concreto. A análise é feita com base apenas na CLT e na LC 150/2015.",,,8d193de4d96caf105325f8d95ce400cd50e2b91217d231d73b6cfec4d5e5e35f,89ff58448ae4564222ae60b0e6eed28400cb87fe91a601ec6ed4f3c2304e1cb8
+variante,q_dev_03_v2,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"Não, você não pode pedir rescisão indireta apenas por seu patrão não estar pagando o FGTS.
+
+**Fundamentação:**  
+A Lei nº 8.036/1990, que institui o Regime Geral de Previdência Social, estabelece que a Justiça do Trabalho é competente para julgar dissídios trabalhistas, incluindo os relacionados ao FGTS, conforme o **Art. 26** [Fonte 1]. No entanto, esse artigo trata da competência judicial e do dever de recolhimento do FGTS, não permite a rescisão indireta como meio de cobrar o pagamento do FGTS.
+
+O **Art. 20-B** [Fonte 2] trata da possibilidade de o titular de contas vinculadas do FGTS optar por alterar a sistemática de saque-rescisão, mas isso se aplica ao trabalhador que já tem conta vinculada, não ao caso de não pagamento do FGTS por parte do empregador.
+
+**Resposta direta:**  
+Não, o não pagamento do FGTS não dá direito à rescisão indireta. A rescisão indireta é um direito que pode ser exercido apenas por motivos específicos previstos em lei, como a falta de pagamento de salário, e não por ausência de contribuição ao FGTS.
+
+**Limitações importantes:**  
+- A Lei não prevê a rescisão indireta por não pagamento do FGTS.  
+- O não pagamento do FGTS é um ato de descumprimento de obrigação contratual e pode gerar ações trabalhistas para cobrança do FGTS, conforme o **Art. 26**, parágrafo único [Fonte 1], que obriga a empresa a proceder ao recolhimento imediato das parcelas devidas.  
+- A prescrição para a cobrança do FGTS é de 5 anos, conforme a legislação, mas isso não se aplica à rescisão indireta.
+
+**Conclusão:**  
+Você pode exigir o pagamento do FGTS por meio de ação trabalhista, mas não pode pedir rescisão indireta por esse motivo. A rescisão indireta exige a existência de uma causa específica prevista em lei, como a falta de pagamento de salário, e não a ausência de contribuição ao FGTS.
+
+Se você deseja, posso ajudar a explicar como fazer uma ação trabalhista para cobrar o FGTS. Deseja isso?","Não, você não pode pedir rescisão indireta apenas por seu patrão não estar pagando o FGTS.
+
+**Fundamentação:**  
+A Lei nº 8.036/1990, que institui o Regime Geral de Previdência Social, estabelece que a Justiça do Trabalho é competente para julgar dissídios trabalhistas, incluindo os relacionados ao FGTS, conforme o **Art. 26** [Fonte 1]. No entanto, esse artigo trata da competência judicial e do dever de recolhimento do FGTS, não permite a rescisão indireta como meio de cobrar o pagamento do FGTS.
+
+O **Art. 20-B** [Fonte 2] trata da possibilidade de o titular de contas vinculadas do FGTS optar por alterar a sistemática de saque-rescisão, mas isso se aplica ao trabalhador que já tem conta vinculada, não ao caso de não pagamento do FGTS por parte do empregador.
+
+**Resposta direta:**  
+Não, o não pagamento do FGTS não dá direito à rescisão indireta. A rescisão indireta é um direito que pode ser exercido apenas por motivos específicos previstos em lei, como a falta de pagamento de salário, e não por ausência de contribuição ao FGTS.
+
+**Limitações importantes:**  
+- A Lei não prevê a rescisão indireta por não pagamento do FGTS.  
+- O não pagamento do FGTS é um ato de descumprimento de obrigação contratual e pode gerar ações trabalhistas para cobrança do FGTS, conforme o **Art. 26**, parágrafo único [Fonte 1], que obriga a empresa a proceder ao recolhimento imediato das parcelas devidas.  
+- A prescrição para a cobrança do FGTS é de 5 anos, conforme a legislação, mas isso não se aplica à rescisão indireta.
+
+**Conclusão:**  
+Você pode exigir o pagamento do FGTS por meio de ação trabalhista, mas não pode pedir rescisão indireta por esse motivo. A rescisão indireta exige a existência de uma causa específica prevista em lei, como a falta de pagamento de salário, e não a ausência de contribuição ao FGTS.
+
+Se você deseja, posso ajudar a explicar como fazer uma ação trabalhista para cobrar o FGTS. Deseja isso?",,,71dd4a12632eaf9268b5308890d08c26e131ea8fe3f0e5a9e209d43f40cb2a57,ec9d476d8b33de02847b8f95e724b72593a490b4360b8350c48f307f9788d185
+variante,q_dev_03_v3,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"Não, você não pode demitir a empresa que você trabalha.
+
+**Fundamentação:**  
+O contrato de trabalho é um acordo entre empregado e empregador, onde o empregado realiza serviços e o empregador paga salário. Nesse modelo, é o empregador quem tem a responsabilidade de decidir a rescisão do contrato (ou seja, a demissão do empregado), não o empregado.  
+
+A Lei do Trabalho (CLT) não permite que o empregado demita a empresa. O empregado não tem o direito de rescindir o contrato de trabalho por iniciativa própria, pois isso violaria o princípio da relação de trabalho, onde o empregador é o responsável pela gestão e pela finalização do contrato.
+
+Se a pergunta fosse sobre o empregado ser demitido, haveria uma análise sobre justa causa, força maior, estabilidade, entre outros, conforme as fontes. Mas, como a pergunta é sobre o empregado demitir a empresa, isso não é possível sob o direito trabalhista brasileiro.
+
+**Fonte:**  
+[Fonte 1] e [Fonte 2] tratam da rescisão do contrato de trabalho, mas não prevê que o empregado possa demitir a empresa. O artigo 482 da CLT define quais atos constituem justa causa para a demissão do empregado, e o artigo 502 trata da indenização em caso de força maior, não de direito de demissão do empregado.  
+
+Portanto, **não há dispositivo jurídico que permita ao empregado demitir a empresa**.  
+
+Se você estiver buscando sair do emprego, o procedimento correto é que o empregador realize a rescisão do contrato, com ou sem justa causa, conforme as normas da CLT.  
+
+Se houver uma situação específica (como empresa fechada, força maior, ou outro fato), posso ajudar a analisar com base nas fontes. Mas, em geral, **não é possível demitir a empresa que você trabalha**.","Não, você não pode demitir a empresa que você trabalha.
+
+**Fundamentação:**  
+O contrato de trabalho é um acordo entre empregado e empregador, onde o empregado realiza serviços e o empregador paga salário. Nesse modelo, é o empregador quem tem a responsabilidade de decidir a rescisão do contrato (ou seja, a demissão do empregado), não o empregado.  
+
+A Lei do Trabalho (CLT) não permite que o empregado demita a empresa. O empregado não tem o direito de rescindir o contrato de trabalho por iniciativa própria, pois isso violaria o princípio da relação de trabalho, onde o empregador é o responsável pela gestão e pela finalização do contrato.
+
+Se a pergunta fosse sobre o empregado ser demitido, haveria uma análise sobre justa causa, força maior, estabilidade, entre outros, conforme as fontes. Mas, como a pergunta é sobre o empregado demitir a empresa, isso não é possível sob o direito trabalhista brasileiro.
+
+**Fonte:**  
+[Fonte 1] e [Fonte 2] tratam da rescisão do contrato de trabalho, mas não prevê que o empregado possa demitir a empresa. O artigo 482 da CLT define quais atos constituem justa causa para a demissão do empregado, e o artigo 502 trata da indenização em caso de força maior, não de direito de demissão do empregado.  
+
+Portanto, **não há dispositivo jurídico que permita ao empregado demitir a empresa**.  
+
+Se você estiver buscando sair do emprego, o procedimento correto é que o empregador realize a rescisão do contrato, com ou sem justa causa, conforme as normas da CLT.  
+
+Se houver uma situação específica (como empresa fechada, força maior, ou outro fato), posso ajudar a analisar com base nas fontes. Mas, em geral, **não é possível demitir a empresa que você trabalha**.",,,feb83f4a9c5a1b9266d2afa26213f2b7841ae9b9425724f8abf8629bad9f2790,603308f99a83255740907f0f2bd78061f94b06cb256a3136c92b6fd17b6426ab
+variante,q_dev_03_v4,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"**Resposta direta:**  
+Sim, você pode rescindir seu contrato de trabalho se foi agredida fisicamente no serviço, desde que a agressão tenha ocorrido em serviço e não tenha sido em caso de legítima defesa. Isso está previsto na legislação trabalhista.
+
+**Fundamentação:**  
+
+O artigo 482, inciso **j** da Lei do Trabalho (CLT), estabelece que **""ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem""** constitui justa causa para rescisão do contrato de trabalho pelo empregador.  
+
+Essa norma é aplicável ao seu caso, pois você foi agredida fisicamente no trabalho, o que se encaixa na definição de ""ofensas físicas praticadas no serviço"". A exceção é o caso de **legítima defesa**, que exige comprovação de que a agressão foi respondida de forma proporcional e necessária.  
+
+Além disso, o **artigo 483**, inciso **f**, da CLT, prevê que o empregado pode rescindir o contrato se **""o empregador ou seus prepostos ofenderem-no fisicamente""**, salvo em caso de legítima defesa.  
+
+Portanto, se a agressão foi cometida por um superior, por um colega ou por qualquer pessoa ligada ao ambiente de trabalho, e não foi justificada por defesa legítima, você tem direito a rescindir o contrato com base nesses dispositivos.  
+
+**Importante:**  
+- A agressão precisa ter ocorrido **no ambiente de trabalho** (em serviço) para que seja considerada como ato lesivo no contexto do trabalho.  
+- A **legítima defesa** é uma exceção que exige comprovação de que a agressão foi respondida de forma proporcional e necessária.  
+- A **rescisão por justa causa** pode ser feita pelo empregado, mas o empregador também pode rescindir por esse motivo.  
+
+**Fontes:**  
+- [Fonte 2] Art. 483, inciso **f**  
+- [Fonte 3] Art. 482, inciso **j**  
+
+> ⚠️ **Limitação:**  
+> A análise depende de comprovação da agressão (como testemunhas, registros, fotos, etc.). A ausência de evidências pode dificultar a validade da alegação.  
+> Além disso, a prescrição para ações trabalhistas é de **2 anos**, a partir da data do fato (agressão), conforme o art. 206 da CLT.  
+> Portanto, é importante que você atue dentro desse prazo para garantir a eficácia do direito.  
+
+Se você puder fornecer mais detalhes (como quem agrediu, onde, quando e se houve comprovação), posso ajudar a refinar a análise. Mas com base nas evidências disponíveis, **sim, você pode rescindir o contrato por agressão física no trabalho**.","**Resposta direta:**  
+Sim, você pode rescindir seu contrato de trabalho se foi agredida fisicamente no serviço, desde que a agressão tenha ocorrido em serviço e não tenha sido em caso de legítima defesa. Isso está previsto na legislação trabalhista.
+
+**Fundamentação:**  
+
+O artigo 482, inciso **j** da Lei do Trabalho (CLT), estabelece que **""ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem""** constitui justa causa para rescisão do contrato de trabalho pelo empregador.  
+
+Essa norma é aplicável ao seu caso, pois você foi agredida fisicamente no trabalho, o que se encaixa na definição de ""ofensas físicas praticadas no serviço"". A exceção é o caso de **legítima defesa**, que exige comprovação de que a agressão foi respondida de forma proporcional e necessária.  
+
+Além disso, o **artigo 483**, inciso **f**, da CLT, prevê que o empregado pode rescindir o contrato se **""o empregador ou seus prepostos ofenderem-no fisicamente""**, salvo em caso de legítima defesa.  
+
+Portanto, se a agressão foi cometida por um superior, por um colega ou por qualquer pessoa ligada ao ambiente de trabalho, e não foi justificada por defesa legítima, você tem direito a rescindir o contrato com base nesses dispositivos.  
+
+**Importante:**  
+- A agressão precisa ter ocorrido **no ambiente de trabalho** (em serviço) para que seja considerada como ato lesivo no contexto do trabalho.  
+- A **legítima defesa** é uma exceção que exige comprovação de que a agressão foi respondida de forma proporcional e necessária.  
+- A **rescisão por justa causa** pode ser feita pelo empregado, mas o empregador também pode rescindir por esse motivo.  
+
+**Fontes:**  
+- [Fonte 2] Art. 483, inciso **f**  
+- [Fonte 3] Art. 482, inciso **j**  
+
+> ⚠️ **Limitação:**  
+> A análise depende de comprovação da agressão (como testemunhas, registros, fotos, etc.). A ausência de evidências pode dificultar a validade da alegação.  
+> Além disso, a prescrição para ações trabalhistas é de **2 anos**, a partir da data do fato (agressão), conforme o art. 206 da CLT.  
+> Portanto, é importante que você atue dentro desse prazo para garantir a eficácia do direito.  
+
+Se você puder fornecer mais detalhes (como quem agrediu, onde, quando e se houve comprovação), posso ajudar a refinar a análise. Mas com base nas evidências disponíveis, **sim, você pode rescindir o contrato por agressão física no trabalho**.",,,5a005da50dd6ac8baffb66499a1d8fad1e9b3d827fc098158f780cc590ed25db,dc8dc4adb4404c0161fa2029ea614208f5f8f419fdaf9029662091d4a4961753
+variante,q_dev_03_v5,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"**Resposta direta:**  
+Sim, você pode sair da empresa sem perder seus direitos, **mas** isso depende de vários fatores, como o **motivo do desligamento**, **se houve ofensa moral grave**, **se houve justa causa** e **se a ofensa foi cometida por atos do empregador ou do empregado**.  
+
+No entanto, **a ofensa moral** que você menciona, **se for de natureza grave e prolongada**, pode gerar **direito a indenização**, e **não impede que você saia da empresa**, desde que o desligamento seja feito de forma **legítima** (por exemplo, por justa causa ou por acordo).  
+
+Mas, **se o desligamento for por motivo de ofensa moral**, e **não houver justa causa**, pode haver **riscos de que a empresa não respeite seus direitos**, como a **indenização por ofensa moral** ou **a preservação de direitos trabalhistas**.  
+
+Portanto, **você não perde seus direitos apenas por sair da empresa**, **mas** é importante saber **se o desligamento foi por justa causa** ou por **motivo de ofensa moral**.  
+
+---
+
+**Fundamentação:**  
+
+1. **Sobre a ofensa moral e os direitos de indenização:**  
+O artigo 223-G da CLT (Lei nº 13.467, de 2017), que foi incluído pela Lei nº 13.467, de 2017, estabelece os **parâmetros para a indenização por ofensa moral**. Ele diz que, ao julgar um pedido de indenização por ofensa moral, o juízo deve considerar:  
+- a natureza do bem jurídico tutelado;  
+- a intensidade do sofrimento ou da humilhação;  
+- a possibilidade de superação física ou psicológica;  
+- os reflexos pessoais e sociais da ação ou omissão;  
+- a extensão e duração dos efeitos da ofensa;  
+- as condições em que ocorreu a ofensa;  
+- o grau de dolo ou culpa;  
+- a ocorrência de retratação espontânea;  
+- o esforço efetivo para minimizar a ofensa;  
+- o perdão, tácito ou expresso;  
+- a situação social e econômica das partes;  
+- o grau de publicidade da ofensa.  
+
+Esses critérios são aplicados para **determinar se houve ofensa moral** e **quanto deve ser paga a indenização**, com base na **natureza leve, média, grave ou gravíssima** da ofensa.  
+
+👉 [Fonte 1]  
+
+2. **Sobre a possibilidade de sair da empresa sem perder direitos:**  
+A CLT não impede que um trabalhador saia da empresa, **mesmo com ofensas morais**, desde que o desligamento seja feito **de forma legal**.  
+
+O artigo 482 da CLT define **quais atos constituem justa causa** para rescisão do contrato, como:  
+- ato de improbidade;  
+- incontinência de conduta;  
+- negociação sem permissão;  
+- condenação criminal;  
+- desídia;  
+- embriaguez;  
+- violação de segredo;  
+- ato lesivo da honra ou da boa fama;  
+- abandono de emprego;  
+- ato lesivo à honra do empregador ou superiores.  
+
+👉 [Fonte 3]  
+
+Se a ofensa moral **for cometida por você**, e **não por um ato do empregador**, e **não for considerada justa causa**, então **você pode sair da empresa sem perder direitos**, desde que o desligamento seja feito por **motivo legítimo** (como aposentadoria, demissão por justa causa, ou acordo).  
+
+Mas se a ofensa foi **cometida por um ato do empregador** (como humilhações, discriminação, ou atos lesivos), e **você não foi punido por justa causa**, então **você pode ter direito a indenização**, e **não perde seus direitos trabalhistas** ao sair.  
+
+3. **Sobre a preservação dos direitos trabalhistas:**  
+O artigo 7º da Constituição de 1988 garante que os trabalhadores têm direitos sociais, como **proteção contra despedida arbitrária**, **direito à indenização**, **direito à ação por créditos trabalhistas**, e **proteção contra discriminação**.  
+
+Além disso, o artigo 29 do mesmo artigo garante que **os créditos trabalhistas têm prazo prescricional de cinco anos**, **até o limite de dois anos após a extinção do contrato**.  
+
+👉 [Fonte 2]  
+
+Isso significa que, **mesmo que você saia da empresa**, **se houver ofensa moral grave**, **você pode buscar indenização**, e **não perde seus direitos trabalhistas**.  
+
+---
+
+**Limitações importantes:**  
+- A **natureza da ofensa** (se foi do empregador ou do empregado) é **crucial** para saber se há direito a indenização.  
+- O **motivo do desligamento** (por justa causa, por acordo, por demissão sem justa causa) **afeta se você perde direitos**.  
+- A **duração e intensidade da ofensa** devem ser **comprovadas** para que haja direito a indenização.  
+- **Não há garantia de que a empresa não rejeite a indenização**, mesmo que legalmente você tenha direito.  
+
+👉 **Se você não souber se a ofensa foi do empregador ou do empregado, ou se o desligamento foi por justa causa, é necessário esclarecer isso para uma análise mais precisa.**  
+
+---
+
+**Perguntas necessárias para uma resposta mais precisa:**  
+1. **O que foi o ato ou comportamento que você considera ofensivo?** (Ex: foi do empregador, do colega, do chefe?)  
+2. **O desligamento foi por justa causa?** (Ex: foi por falta de desempenho, por ato lesivo, por acordo?)  
+3. **Você já apresentou uma reclamação formal ou uma ação por ofensa moral?**  
+4. **Você tem comprovante de que a ofensa foi prolongada (por meses ou anos)?**  
+
+👉 Sem essas informações, **não é possível afirmar com certeza se você perdeu direitos ou se pode buscar indenização**.  
+
+---
+
+**Conclusão final:**  
+✅ **Você pode sair da empresa sem perder seus direitos trabalhistas**, **mesmo com ofensas morais**, **se o desligamento for feito de forma legal**.  
+✅ **Se a ofensa foi cometida por ato do empregador**, você tem **direito a indenização** por ofensa moral, conforme o artigo 223-G da CLT.  
+❌ **Se o desligamento foi por justa causa (como ato lesivo da honra)**, e **não houve ofensa grave**, pode haver risco de que os direitos sejam prejudicados.  
+
+👉 **A melhor forma é que você busque ajuda de um advogado especializado em Direito do Trabalho para analisar o caso com base nos fatos específicos.**  
+
+[Fonte 1] – Art. 223-G da CLT  
+[Fonte 2] – Art. 7º da Constituição de 1988  
+[Fonte 3] – Art. 482 da CLT","**Resposta direta:**  
+Sim, você pode sair da empresa sem perder seus direitos, **mas** isso depende de vários fatores, como o **motivo do desligamento**, **se houve ofensa moral grave**, **se houve justa causa** e **se a ofensa foi cometida por atos do empregador ou do empregado**.  
+
+No entanto, **a ofensa moral** que você menciona, **se for de natureza grave e prolongada**, pode gerar **direito a indenização**, e **não impede que você saia da empresa**, desde que o desligamento seja feito de forma **legítima** (por exemplo, por justa causa ou por acordo).  
+
+Mas, **se o desligamento for por motivo de ofensa moral**, e **não houver justa causa**, pode haver **riscos de que a empresa não respeite seus direitos**, como a **indenização por ofensa moral** ou **a preservação de direitos trabalhistas**.  
+
+Portanto, **você não perde seus direitos apenas por sair da empresa**, **mas** é importante saber **se o desligamento foi por justa causa** ou por **motivo de ofensa moral**.  
+
+---
+
+**Fundamentação:**  
+
+1. **Sobre a ofensa moral e os direitos de indenização:**  
+O artigo 223-G da CLT (Lei nº 13.467, de 2017), que foi incluído pela Lei nº 13.467, de 2017, estabelece os **parâmetros para a indenização por ofensa moral**. Ele diz que, ao julgar um pedido de indenização por ofensa moral, o juízo deve considerar:  
+- a natureza do bem jurídico tutelado;  
+- a intensidade do sofrimento ou da humilhação;  
+- a possibilidade de superação física ou psicológica;  
+- os reflexos pessoais e sociais da ação ou omissão;  
+- a extensão e duração dos efeitos da ofensa;  
+- as condições em que ocorreu a ofensa;  
+- o grau de dolo ou culpa;  
+- a ocorrência de retratação espontânea;  
+- o esforço efetivo para minimizar a ofensa;  
+- o perdão, tácito ou expresso;  
+- a situação social e econômica das partes;  
+- o grau de publicidade da ofensa.  
+
+Esses critérios são aplicados para **determinar se houve ofensa moral** e **quanto deve ser paga a indenização**, com base na **natureza leve, média, grave ou gravíssima** da ofensa.  
+
+👉 [Fonte 1]  
+
+2. **Sobre a possibilidade de sair da empresa sem perder direitos:**  
+A CLT não impede que um trabalhador saia da empresa, **mesmo com ofensas morais**, desde que o desligamento seja feito **de forma legal**.  
+
+O artigo 482 da CLT define **quais atos constituem justa causa** para rescisão do contrato, como:  
+- ato de improbidade;  
+- incontinência de conduta;  
+- negociação sem permissão;  
+- condenação criminal;  
+- desídia;  
+- embriaguez;  
+- violação de segredo;  
+- ato lesivo da honra ou da boa fama;  
+- abandono de emprego;  
+- ato lesivo à honra do empregador ou superiores.  
+
+👉 [Fonte 3]  
+
+Se a ofensa moral **for cometida por você**, e **não por um ato do empregador**, e **não for considerada justa causa**, então **você pode sair da empresa sem perder direitos**, desde que o desligamento seja feito por **motivo legítimo** (como aposentadoria, demissão por justa causa, ou acordo).  
+
+Mas se a ofensa foi **cometida por um ato do empregador** (como humilhações, discriminação, ou atos lesivos), e **você não foi punido por justa causa**, então **você pode ter direito a indenização**, e **não perde seus direitos trabalhistas** ao sair.  
+
+3. **Sobre a preservação dos direitos trabalhistas:**  
+O artigo 7º da Constituição de 1988 garante que os trabalhadores têm direitos sociais, como **proteção contra despedida arbitrária**, **direito à indenização**, **direito à ação por créditos trabalhistas**, e **proteção contra discriminação**.  
+
+Além disso, o artigo 29 do mesmo artigo garante que **os créditos trabalhistas têm prazo prescricional de cinco anos**, **até o limite de dois anos após a extinção do contrato**.  
+
+👉 [Fonte 2]  
+
+Isso significa que, **mesmo que você saia da empresa**, **se houver ofensa moral grave**, **você pode buscar indenização**, e **não perde seus direitos trabalhistas**.  
+
+---
+
+**Limitações importantes:**  
+- A **natureza da ofensa** (se foi do empregador ou do empregado) é **crucial** para saber se há direito a indenização.  
+- O **motivo do desligamento** (por justa causa, por acordo, por demissão sem justa causa) **afeta se você perde direitos**.  
+- A **duração e intensidade da ofensa** devem ser **comprovadas** para que haja direito a indenização.  
+- **Não há garantia de que a empresa não rejeite a indenização**, mesmo que legalmente você tenha direito.  
+
+👉 **Se você não souber se a ofensa foi do empregador ou do empregado, ou se o desligamento foi por justa causa, é necessário esclarecer isso para uma análise mais precisa.**  
+
+---
+
+**Perguntas necessárias para uma resposta mais precisa:**  
+1. **O que foi o ato ou comportamento que você considera ofensivo?** (Ex: foi do empregador, do colega, do chefe?)  
+2. **O desligamento foi por justa causa?** (Ex: foi por falta de desempenho, por ato lesivo, por acordo?)  
+3. **Você já apresentou uma reclamação formal ou uma ação por ofensa moral?**  
+4. **Você tem comprovante de que a ofensa foi prolongada (por meses ou anos)?**  
+
+👉 Sem essas informações, **não é possível afirmar com certeza se você perdeu direitos ou se pode buscar indenização**.  
+
+---
+
+**Conclusão final:**  
+✅ **Você pode sair da empresa sem perder seus direitos trabalhistas**, **mesmo com ofensas morais**, **se o desligamento for feito de forma legal**.  
+✅ **Se a ofensa foi cometida por ato do empregador**, você tem **direito a indenização** por ofensa moral, conforme o artigo 223-G da CLT.  
+❌ **Se o desligamento foi por justa causa (como ato lesivo da honra)**, e **não houve ofensa grave**, pode haver risco de que os direitos sejam prejudicados.  
+
+👉 **A melhor forma é que você busque ajuda de um advogado especializado em Direito do Trabalho para analisar o caso com base nos fatos específicos.**  
+
+[Fonte 1] – Art. 223-G da CLT  
+[Fonte 2] – Art. 7º da Constituição de 1988  
+[Fonte 3] – Art. 482 da CLT",,,c4df2a7eeced36a0626613f509af0136b7c6670afe02119d3b582e81c975cf2d,b65574d91f0dc47b9951c1b2b0974135491d22fac5d91bb05b53964f915f3020
+variante,q_dev_03_v6,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"Sim, existe a possibilidade de o empregador (patrão, chefe ou empresa) dar ""justa causa"" para rescindir o contrato de trabalho, **mas isso está limitado por normas jurídicas e condições específicas**.
+
+Essa possibilidade é prevista na **Lei do Trabalho (CLT)**, e o dispositivo que define quais atos constituem justa causa é o **Art. 482 da CLT**.
+
+---
+
+### ✅ Resposta direta:
+Sim, o empregador pode dar justa causa para rescindir o contrato de trabalho, **se o comportamento do empregado for comprovado como um dos atos listados no Art. 482 da CLT**.
+
+---
+
+### 📚 Fundamentação:
+
+O **Art. 482 da CLT** (Lei nº 5.452/1943, consolidada) estabelece que os seguintes atos constituem justa causa para rescisão do contrato de trabalho pelo empregador:
+
+- Atos de improbidade  
+- Incontinência de conduta ou mau procedimento  
+- Negociação sem permissão, que prejudica o serviço  
+- Condenação criminal transitada em julgado (sem suspensão da pena)  
+- Desídia no desempenho das funções  
+- Embriaguez habitual ou em serviço  
+- Violção de segredo da empresa  
+- Atos de indisciplina ou insubordinação  
+- Abandono de emprego  
+- Atos lesivos à honra ou à boa fama no serviço  
+- Prática constante de jogos de azar  
+- Perda da habilitação profissional por conduta dolosa  
+
+> [Fonte 1 – Art. 482 da CLT]
+
+**Importante:**  
+Esses atos devem ser **comprovados** e **direcionados ao desempenho do trabalho**, não apenas a comportamentos pessoais ou internos. A justa causa não é aberta para qualquer motivo, e o empregador deve comprovar que o ato do empregado **afetou o serviço ou a empresa**.
+
+---
+
+### ⚠️ Observação sobre o contrato de trabalho doméstico:
+
+Há uma **diferença específica** no caso de **trabalho doméstico**, onde o **Art. 27 da Lei Complementar nº 150/2015** estabelece justas causas semelhantes, mas com foco no **tratamento do empregado doméstico**.
+
+Nesse caso, a justa causa pode incluir:
+- Maus tratos a idosos, enfermos, pessoas com deficiência ou crianças  
+- Abandono de emprego (por ausência injustificada de 30 dias)  
+- Atos lesivos à honra ou à boa fama  
+
+> [Fonte 2 – Art. 27 da LC 150/2015]
+
+Mas **esse tipo de contrato é diferente** do trabalho comum em empresas. A pergunta não especifica o tipo de trabalho, então a resposta se baseia no **trabalho comum**, conforme a CLT.
+
+---
+
+### ❌ O que NÃO é justa causa:
+
+- **A ausência injustificada de 30 dias** pode ser considerada justa causa **apenas no caso de trabalho doméstico** (Art. 27, inciso IX da LC 150/2015), **não no trabalho comum**.
+- **A simples falta de desempenho** sem comprovação de desídia ou má conduta **não é justa causa**.
+- **A vontade do empregador** de demitir por ""motivos pessoais"" **não é justa causa**.
+
+---
+
+### ⚖️ Limitações importantes:
+
+1. **A justa causa exige comprovação** – o empregador deve apresentar **evidências** (como relatórios, registros, testemunhas) para provar que o ato do empregado se encaixa nos itens do Art. 482.
+2. **A ausência de justa causa impede a rescisão** – se o empregador demitir sem justa causa, o empregado pode ter direito a **indenização** (Art. 480 da CLT).
+3. **A prescrição** – se a demissão for por justa causa, o prazo de prescrição para ações trabalhistas é de **2 anos**, a partir da data da rescisão.  
+   (Mas isso não é mencionado nas fontes, então não posso afirmar com base nas evidências disponíveis.)
+
+---
+
+### 📝 Conclusão:
+
+✅ Sim, o empregador pode dar justa causa para rescindir o contrato de trabalho, **se o comportamento do empregado for comprovado como um dos atos descritos no Art. 482 da CLT**.
+
+❌ Não, se o comportamento for apenas uma falta de desempenho, ausência sem justificativa (em trabalho comum), ou se não houver comprovação de ato lesivo ao serviço.
+
+> [Fonte 1 – Art. 482 da CLT]
+
+---
+
+### 📝 Observação final:
+
+Se você puder me informar:
+- O tipo de trabalho (ex: empregado doméstico, funcionário de empresa, etc.)
+- O motivo da demissão
+- Se houve comprovação de ato (ex: relatório, denúncia, registro)
+
+Posso dar uma análise mais específica. Até então, a resposta se baseia no **trabalho comum**, conforme a CLT.","Sim, existe a possibilidade de o empregador (patrão, chefe ou empresa) dar ""justa causa"" para rescindir o contrato de trabalho, **mas isso está limitado por normas jurídicas e condições específicas**.
+
+Essa possibilidade é prevista na **Lei do Trabalho (CLT)**, e o dispositivo que define quais atos constituem justa causa é o **Art. 482 da CLT**.
+
+---
+
+### ✅ Resposta direta:
+Sim, o empregador pode dar justa causa para rescindir o contrato de trabalho, **se o comportamento do empregado for comprovado como um dos atos listados no Art. 482 da CLT**.
+
+---
+
+### 📚 Fundamentação:
+
+O **Art. 482 da CLT** (Lei nº 5.452/1943, consolidada) estabelece que os seguintes atos constituem justa causa para rescisão do contrato de trabalho pelo empregador:
+
+- Atos de improbidade  
+- Incontinência de conduta ou mau procedimento  
+- Negociação sem permissão, que prejudica o serviço  
+- Condenação criminal transitada em julgado (sem suspensão da pena)  
+- Desídia no desempenho das funções  
+- Embriaguez habitual ou em serviço  
+- Violção de segredo da empresa  
+- Atos de indisciplina ou insubordinação  
+- Abandono de emprego  
+- Atos lesivos à honra ou à boa fama no serviço  
+- Prática constante de jogos de azar  
+- Perda da habilitação profissional por conduta dolosa  
+
+> [Fonte 1 – Art. 482 da CLT]
+
+**Importante:**  
+Esses atos devem ser **comprovados** e **direcionados ao desempenho do trabalho**, não apenas a comportamentos pessoais ou internos. A justa causa não é aberta para qualquer motivo, e o empregador deve comprovar que o ato do empregado **afetou o serviço ou a empresa**.
+
+---
+
+### ⚠️ Observação sobre o contrato de trabalho doméstico:
+
+Há uma **diferença específica** no caso de **trabalho doméstico**, onde o **Art. 27 da Lei Complementar nº 150/2015** estabelece justas causas semelhantes, mas com foco no **tratamento do empregado doméstico**.
+
+Nesse caso, a justa causa pode incluir:
+- Maus tratos a idosos, enfermos, pessoas com deficiência ou crianças  
+- Abandono de emprego (por ausência injustificada de 30 dias)  
+- Atos lesivos à honra ou à boa fama  
+
+> [Fonte 2 – Art. 27 da LC 150/2015]
+
+Mas **esse tipo de contrato é diferente** do trabalho comum em empresas. A pergunta não especifica o tipo de trabalho, então a resposta se baseia no **trabalho comum**, conforme a CLT.
+
+---
+
+### ❌ O que NÃO é justa causa:
+
+- **A ausência injustificada de 30 dias** pode ser considerada justa causa **apenas no caso de trabalho doméstico** (Art. 27, inciso IX da LC 150/2015), **não no trabalho comum**.
+- **A simples falta de desempenho** sem comprovação de desídia ou má conduta **não é justa causa**.
+- **A vontade do empregador** de demitir por ""motivos pessoais"" **não é justa causa**.
+
+---
+
+### ⚖️ Limitações importantes:
+
+1. **A justa causa exige comprovação** – o empregador deve apresentar **evidências** (como relatórios, registros, testemunhas) para provar que o ato do empregado se encaixa nos itens do Art. 482.
+2. **A ausência de justa causa impede a rescisão** – se o empregador demitir sem justa causa, o empregado pode ter direito a **indenização** (Art. 480 da CLT).
+3. **A prescrição** – se a demissão for por justa causa, o prazo de prescrição para ações trabalhistas é de **2 anos**, a partir da data da rescisão.  
+   (Mas isso não é mencionado nas fontes, então não posso afirmar com base nas evidências disponíveis.)
+
+---
+
+### 📝 Conclusão:
+
+✅ Sim, o empregador pode dar justa causa para rescindir o contrato de trabalho, **se o comportamento do empregado for comprovado como um dos atos descritos no Art. 482 da CLT**.
+
+❌ Não, se o comportamento for apenas uma falta de desempenho, ausência sem justificativa (em trabalho comum), ou se não houver comprovação de ato lesivo ao serviço.
+
+> [Fonte 1 – Art. 482 da CLT]
+
+---
+
+### 📝 Observação final:
+
+Se você puder me informar:
+- O tipo de trabalho (ex: empregado doméstico, funcionário de empresa, etc.)
+- O motivo da demissão
+- Se houve comprovação de ato (ex: relatório, denúncia, registro)
+
+Posso dar uma análise mais específica. Até então, a resposta se baseia no **trabalho comum**, conforme a CLT.",,,cc2b1f70a9fa217eade661bf6ccc8677cfa1062a8cef1926b5762be8c0a1fa26,7bcdf3a16b30d7d69e7fc80ab54e9ea7b67320f40c18988af4139785267a5932
+variante,q_dev_03_v7,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"**Resposta direta:**  
+Sim, você pode pedir a rescisão do contrato de trabalho em situações específicas previstas na legislação trabalhista, como quando o empregador exige serviços superiores às suas forças, trata com rigor excessivo, coloca em perigo seu bem-estar, não cumprir obrigações contratualmente estabelecidas, praticar atos lesivos à sua honra ou à sua família, ou reduzir seu trabalho de forma a afetar sensivelmente seus salários. Essas situações estão previstas no **Art. 483 da CLT**.
+
+---
+
+**Fundamentação:**  
+
+O direito de rescisão do contrato de trabalho por parte do empregado está previsto no **Art. 483 da CLT**, que estabelece situações em que o empregado pode considerar rescindido o contrato e pleitear indenização. As hipóteses são:
+
+- **a)** Quando forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes ou alheios ao contrato;  
+- **b)** Quando for tratado pelo empregador ou por seus superiores com rigor excessivo;  
+- **c)** Quando correr perigo manifesto de mal considerável;  
+- **d)** Quando o empregador não cumprir as obrigações do contrato;  
+- **e)** Quando o empregador ou seus prepostos praticarem ato lesivo à honra e boa fama;  
+- **f)** Quando o empregador ou seus prepostos o ofenderem fisicamente, salvo em caso de legítima defesa;  
+- **g)** Quando o empregador reduzir o trabalho (por peça ou tarefa) de forma a afetar sensivelmente a importância dos salários.  
+
+Além disso, o **§ 3º do Art. 483** permite que o empregado pleiteie a rescisão e o pagamento de indenização, mesmo permanecendo no serviço até a decisão do processo.  
+
+Essas normas são válidas e em vigor ([Fonte 1]).
+
+---
+
+**Observação importante:**  
+O Art. 483 trata da **rescisão por justa causa do empregado**, ou seja, situações em que o empregado pode **interromper o contrato por motivos de proteção de seus direitos**.  
+
+É importante diferenciar isso da **rescisão por justa causa do empregador**, que ocorre em situações como atos de improbidade, desídia, embriaguez, violação de segredo, entre outros, previstos no **Art. 482 da CLT**.  
+
+No entanto, a sua pergunta se refere à **situação em que você pode pedir rescisão**, o que se encaixa no Art. 483, pois trata do direito do empregado de rescindir o contrato por motivos de proteção de seus direitos.
+
+---
+
+**Limitações e esclarecimentos:**  
+- A resposta se baseia apenas nas hipóteses do **Art. 483 da CLT**, que são **situações de rescisão por parte do empregado**.  
+- Não há dados sobre o tipo de contrato, data de admissão, tempo de serviço ou motivo específico do desligamento no seu caso.  
+- Para que a rescisão seja válida, é necessário que as condições descritas no Art. 483 sejam **verificadas e comprovadas**.  
+- A **prescrição** de direitos trabalhistas é de **2 anos**, a partir da data em que o fato ocorreu (art. 483, § 3º, da CLT), mas isso não é relevante aqui porque não há data de ocorrência informada.  
+
+Se você quiser que eu avalie se uma situação específica (ex: redução de trabalho, ato lesivo) se encaixa no Art. 483, **por favor, forneça mais detalhes** sobre o que aconteceu no seu caso.  
+
+> ⚠️ **Importante:** Não é possível afirmar com certeza se uma situação específica é ou não coberta pelo Art. 483 sem conhecer os fatos concretos. A análise jurídica exige detalhes como o tipo de ato, o contexto do trabalho e a relação com o contrato.  
+
+Se desejar, posso ajudar a verificar se uma situação específica se encaixa nas hipóteses do Art. 483. Basta me informar.","**Resposta direta:**  
+Sim, você pode pedir a rescisão do contrato de trabalho em situações específicas previstas na legislação trabalhista, como quando o empregador exige serviços superiores às suas forças, trata com rigor excessivo, coloca em perigo seu bem-estar, não cumprir obrigações contratualmente estabelecidas, praticar atos lesivos à sua honra ou à sua família, ou reduzir seu trabalho de forma a afetar sensivelmente seus salários. Essas situações estão previstas no **Art. 483 da CLT**.
+
+---
+
+**Fundamentação:**  
+
+O direito de rescisão do contrato de trabalho por parte do empregado está previsto no **Art. 483 da CLT**, que estabelece situações em que o empregado pode considerar rescindido o contrato e pleitear indenização. As hipóteses são:
+
+- **a)** Quando forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes ou alheios ao contrato;  
+- **b)** Quando for tratado pelo empregador ou por seus superiores com rigor excessivo;  
+- **c)** Quando correr perigo manifesto de mal considerável;  
+- **d)** Quando o empregador não cumprir as obrigações do contrato;  
+- **e)** Quando o empregador ou seus prepostos praticarem ato lesivo à honra e boa fama;  
+- **f)** Quando o empregador ou seus prepostos o ofenderem fisicamente, salvo em caso de legítima defesa;  
+- **g)** Quando o empregador reduzir o trabalho (por peça ou tarefa) de forma a afetar sensivelmente a importância dos salários.  
+
+Além disso, o **§ 3º do Art. 483** permite que o empregado pleiteie a rescisão e o pagamento de indenização, mesmo permanecendo no serviço até a decisão do processo.  
+
+Essas normas são válidas e em vigor ([Fonte 1]).
+
+---
+
+**Observação importante:**  
+O Art. 483 trata da **rescisão por justa causa do empregado**, ou seja, situações em que o empregado pode **interromper o contrato por motivos de proteção de seus direitos**.  
+
+É importante diferenciar isso da **rescisão por justa causa do empregador**, que ocorre em situações como atos de improbidade, desídia, embriaguez, violação de segredo, entre outros, previstos no **Art. 482 da CLT**.  
+
+No entanto, a sua pergunta se refere à **situação em que você pode pedir rescisão**, o que se encaixa no Art. 483, pois trata do direito do empregado de rescindir o contrato por motivos de proteção de seus direitos.
+
+---
+
+**Limitações e esclarecimentos:**  
+- A resposta se baseia apenas nas hipóteses do **Art. 483 da CLT**, que são **situações de rescisão por parte do empregado**.  
+- Não há dados sobre o tipo de contrato, data de admissão, tempo de serviço ou motivo específico do desligamento no seu caso.  
+- Para que a rescisão seja válida, é necessário que as condições descritas no Art. 483 sejam **verificadas e comprovadas**.  
+- A **prescrição** de direitos trabalhistas é de **2 anos**, a partir da data em que o fato ocorreu (art. 483, § 3º, da CLT), mas isso não é relevante aqui porque não há data de ocorrência informada.  
+
+Se você quiser que eu avalie se uma situação específica (ex: redução de trabalho, ato lesivo) se encaixa no Art. 483, **por favor, forneça mais detalhes** sobre o que aconteceu no seu caso.  
+
+> ⚠️ **Importante:** Não é possível afirmar com certeza se uma situação específica é ou não coberta pelo Art. 483 sem conhecer os fatos concretos. A análise jurídica exige detalhes como o tipo de ato, o contexto do trabalho e a relação com o contrato.  
+
+Se desejar, posso ajudar a verificar se uma situação específica se encaixa nas hipóteses do Art. 483. Basta me informar.",,,1fa4550887e41652bdeab5acbc931db2e106d9a8e8a834c1053f251069c8f1a3,b8a92b4fdf5e3fdf4e47668970f93968b79fc3549ab6172556416992d27b5c0b
+variante,q_dev_06_v1,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"**Resposta direta:**  
+Não, você não está obrigado a fazer hora extra apenas por causa do seu contrato ou da empresa. A obrigatoriedade de fazer hora extra depende de condições específicas, como acordo individual, convenção coletiva ou necessidade de trabalho em horário extraordinário. Se o trabalho for feito por acordos formais ou em situações excepcionais, pode haver hora extra, mas isso não é automático.
+
+**Fundamentação:**  
+O direito à hora extra é regulado pelo **Art. 59** da CLT (Consolidação das Leis do Trabalho), que estabelece que a duração diária do trabalho pode ser aumentada de **até duas horas extras**, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. [Fonte 2].  
+
+O texto do artigo afirma que a remuneração da hora extra será, pelo menos, **50% superior** à da hora normal. [Fonte 2].  
+
+Além disso, o **Art. 58-A** trata do regime de tempo parcial, onde a jornada máxima é de 30 horas semanais (sem horas suplementares) ou 26 horas semanais com até 6 horas suplementares. [Fonte 3]. Nesse caso, as horas suplementares são pagas com acréscimo de 50% sobre o salário-hora normal. [Fonte 3].  
+
+Importante: **não há obrigatoriedade de fazer hora extra** por simples fato de trabalhar. A hora extra só ocorre quando houver **acordo formal** (individual, coletivo ou por convenção) ou quando o trabalho for realizado em **horário extraordinário** (como nos domingos, feriados ou em situações de necessidade indeclinável, como no caso de operadores de telefonia, conforme o Art. 227). [Fonte 1].
+
+Portanto, **você só está obrigado a fazer hora extra se houver um acordo formal ou se a empresa estiver obrigada por lei específica** (como em operações de telefonia submarina, por exemplo). Caso contrário, não há obrigatoriedade.
+
+Se você quiser saber se há hora extra no seu caso específico, preciso saber:
+- O tipo de cargo ou função que você exerce;
+- Se há um acordo individual ou convenção coletiva com a empresa;
+- Se o trabalho é feito em horário extraordinário (domingos, feriados, etc.);
+- Se o contrato é de tempo integral ou parcial.
+
+Essas informações são essenciais para decidir se a hora extra é obrigatória ou não. Sem elas, não é possível concluir com precisão.","**Resposta direta:**  
+Não, você não está obrigado a fazer hora extra apenas por causa do seu contrato ou da empresa. A obrigatoriedade de fazer hora extra depende de condições específicas, como acordo individual, convenção coletiva ou necessidade de trabalho em horário extraordinário. Se o trabalho for feito por acordos formais ou em situações excepcionais, pode haver hora extra, mas isso não é automático.
+
+**Fundamentação:**  
+O direito à hora extra é regulado pelo **Art. 59** da CLT (Consolidação das Leis do Trabalho), que estabelece que a duração diária do trabalho pode ser aumentada de **até duas horas extras**, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. [Fonte 2].  
+
+O texto do artigo afirma que a remuneração da hora extra será, pelo menos, **50% superior** à da hora normal. [Fonte 2].  
+
+Além disso, o **Art. 58-A** trata do regime de tempo parcial, onde a jornada máxima é de 30 horas semanais (sem horas suplementares) ou 26 horas semanais com até 6 horas suplementares. [Fonte 3]. Nesse caso, as horas suplementares são pagas com acréscimo de 50% sobre o salário-hora normal. [Fonte 3].  
+
+Importante: **não há obrigatoriedade de fazer hora extra** por simples fato de trabalhar. A hora extra só ocorre quando houver **acordo formal** (individual, coletivo ou por convenção) ou quando o trabalho for realizado em **horário extraordinário** (como nos domingos, feriados ou em situações de necessidade indeclinável, como no caso de operadores de telefonia, conforme o Art. 227). [Fonte 1].
+
+Portanto, **você só está obrigado a fazer hora extra se houver um acordo formal ou se a empresa estiver obrigada por lei específica** (como em operações de telefonia submarina, por exemplo). Caso contrário, não há obrigatoriedade.
+
+Se você quiser saber se há hora extra no seu caso específico, preciso saber:
+- O tipo de cargo ou função que você exerce;
+- Se há um acordo individual ou convenção coletiva com a empresa;
+- Se o trabalho é feito em horário extraordinário (domingos, feriados, etc.);
+- Se o contrato é de tempo integral ou parcial.
+
+Essas informações são essenciais para decidir se a hora extra é obrigatória ou não. Sem elas, não é possível concluir com precisão.",,,2d68db5f77f0d67f31b0c97382fd5660a3c53bc874254984b6522002b524baf9,202df75cc097b09e820cf437f46d87205ce7891296f3cdb1661e5f1305186077
+variante,q_dev_06_v2,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"Resposta direta:  
+Você pode fazer até **duas horas extras por dia**, desde que haja acordo individual, convenção coletiva ou acordo coletivo de trabalho. Se o acréscimo de horas for compensado em outro dia, o total de horas extras no ano não pode exceder a soma das jornadas semanais previstas, e não pode ultrapassar **dez horas diárias**.  
+
+Essa regra se aplica ao regime de trabalho integral.  
+
+Se você estiver em **regime de tempo parcial**, a quantidade de horas extras depende do tipo de jornada:  
+- Se a jornada for de até **26 horas semanais**, pode haver até **6 horas suplementares semanais**.  
+- Se a jornada for de até **25 horas semanais**, pode haver até **1 hora extra diária**, com limite máximo de **6 horas semanais**.  
+
+O pagamento das horas extras é de **50% superior ao salário normal**.  
+
+Fundamentação:  
+
+1. **Limite de horas extras por dia (até 2 horas)**  
+   O Art. 59, § 1º da CLT, estabelece que ""a duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho"".  
+   [Fonte 1]  
+
+2. **Pagamento das horas extras**  
+   O mesmo artigo, § 1º, prevê que ""a remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal"".  
+   [Fonte 1]  
+
+3. **Compensação de horas extras**  
+   O Art. 59, § 2º, permite que o excesso de horas em um dia seja compensado em outro, desde que não exceda o limite máximo de **dez horas diárias** e não ultrapasse a soma das jornadas semanais previstas em um ano.  
+   [Fonte 1]  
+
+4. **Regime de tempo parcial – limite de horas suplementares**  
+   O Art. 58-A, § 2º, estabelece que, em regime de tempo parcial, o empregado pode ter até **uma hora extra diária**, com limite máximo de **seis horas semanais**.  
+   [Fonte 2]  
+
+5. **Diferença entre CLT e Lei Complementar 150/2015**  
+   A Lei Complementar 150/2015 (regime de trabalho doméstico) estabelece um limite mais restrito: até **1 hora extra diária**, com limite de **6 horas semanais**, e aplica-se apenas ao trabalho doméstico.  
+   [Fonte 3]  
+
+⚠️ **Limitações importantes:**  
+- As regras acima se aplicam apenas se houver **acordo escrito**, **convenção coletiva** ou **acordo individual**.  
+- O regime de tempo parcial (até 25 ou 26 horas semanais) é diferente do trabalho integral e tem regras específicas.  
+- A pergunta não menciona o tipo de contrato (integral ou parcial), o setor de trabalho, a natureza do emprego (doméstico ou não) ou a data de início do contrato.  
+- Sem essas informações, não é possível afirmar com certeza se o empregado está sob regime de tempo parcial ou integral.  
+
+✅ **Conclusão:**  
+Se você está em **regime de trabalho integral**, pode ter até **duas horas extras por dia**, com pagamento de 50% a mais, e com compensação em outro dia, desde que não exceda 10 horas diárias no ano.  
+Se você está em **regime de tempo parcial**, o limite é de **1 hora extra diária**, com até 6 horas semanais, conforme a Lei Complementar 150/2015 (apenas para trabalho doméstico).  
+
+👉 **Pergunta necessária para esclarecer o caso:**  
+Você está em regime de trabalho integral ou de tempo parcial? E o trabalho é doméstico ou não?  
+
+*(Observação: Não há jurisprudência relevante nas evidências fornecidas para apoiar ou contradizer essas regras. As afirmações estão baseadas apenas na CLT e na LC 150/2015, com seus dispositivos citados.)*","Resposta direta:  
+Você pode fazer até **duas horas extras por dia**, desde que haja acordo individual, convenção coletiva ou acordo coletivo de trabalho. Se o acréscimo de horas for compensado em outro dia, o total de horas extras no ano não pode exceder a soma das jornadas semanais previstas, e não pode ultrapassar **dez horas diárias**.  
+
+Essa regra se aplica ao regime de trabalho integral.  
+
+Se você estiver em **regime de tempo parcial**, a quantidade de horas extras depende do tipo de jornada:  
+- Se a jornada for de até **26 horas semanais**, pode haver até **6 horas suplementares semanais**.  
+- Se a jornada for de até **25 horas semanais**, pode haver até **1 hora extra diária**, com limite máximo de **6 horas semanais**.  
+
+O pagamento das horas extras é de **50% superior ao salário normal**.  
+
+Fundamentação:  
+
+1. **Limite de horas extras por dia (até 2 horas)**  
+   O Art. 59, § 1º da CLT, estabelece que ""a duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho"".  
+   [Fonte 1]  
+
+2. **Pagamento das horas extras**  
+   O mesmo artigo, § 1º, prevê que ""a remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal"".  
+   [Fonte 1]  
+
+3. **Compensação de horas extras**  
+   O Art. 59, § 2º, permite que o excesso de horas em um dia seja compensado em outro, desde que não exceda o limite máximo de **dez horas diárias** e não ultrapasse a soma das jornadas semanais previstas em um ano.  
+   [Fonte 1]  
+
+4. **Regime de tempo parcial – limite de horas suplementares**  
+   O Art. 58-A, § 2º, estabelece que, em regime de tempo parcial, o empregado pode ter até **uma hora extra diária**, com limite máximo de **seis horas semanais**.  
+   [Fonte 2]  
+
+5. **Diferença entre CLT e Lei Complementar 150/2015**  
+   A Lei Complementar 150/2015 (regime de trabalho doméstico) estabelece um limite mais restrito: até **1 hora extra diária**, com limite de **6 horas semanais**, e aplica-se apenas ao trabalho doméstico.  
+   [Fonte 3]  
+
+⚠️ **Limitações importantes:**  
+- As regras acima se aplicam apenas se houver **acordo escrito**, **convenção coletiva** ou **acordo individual**.  
+- O regime de tempo parcial (até 25 ou 26 horas semanais) é diferente do trabalho integral e tem regras específicas.  
+- A pergunta não menciona o tipo de contrato (integral ou parcial), o setor de trabalho, a natureza do emprego (doméstico ou não) ou a data de início do contrato.  
+- Sem essas informações, não é possível afirmar com certeza se o empregado está sob regime de tempo parcial ou integral.  
+
+✅ **Conclusão:**  
+Se você está em **regime de trabalho integral**, pode ter até **duas horas extras por dia**, com pagamento de 50% a mais, e com compensação em outro dia, desde que não exceda 10 horas diárias no ano.  
+Se você está em **regime de tempo parcial**, o limite é de **1 hora extra diária**, com até 6 horas semanais, conforme a Lei Complementar 150/2015 (apenas para trabalho doméstico).  
+
+👉 **Pergunta necessária para esclarecer o caso:**  
+Você está em regime de trabalho integral ou de tempo parcial? E o trabalho é doméstico ou não?  
+
+*(Observação: Não há jurisprudência relevante nas evidências fornecidas para apoiar ou contradizer essas regras. As afirmações estão baseadas apenas na CLT e na LC 150/2015, com seus dispositivos citados.)*",,,c611b22a4e42db3e24b50181c2a0815684bad4dff6b6c15a70b1324056662e43,96322a8fca025d85a84a34f375b6869e021d686eb8e7dd701a1ef14757643292
+variante,q_dev_06_v3,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"Sim, você tem direito a receber a hora extra que faz, desde que as condições legais sejam cumpridas.
+
+**Resposta direta:**  
+Sim, você tem direito a receber a hora extra, desde que o trabalho exceda a jornada normal e haja um acordo, convenção coletiva ou regime legal que permita a compensação ou o pagamento.
+
+**Fundamentação:**  
+O direito à hora extra é previsto no **Art. 59** da Consolidação das Leis do Trabalho (CLT), que estabelece que a duração diária do trabalho pode ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho [Fonte 1].  
+
+Além disso, o **§ 1º do Art. 59** determina que a remuneração da hora extra será, pelo menos, 50% superior à da hora normal, o que garante um pagamento proporcional ao tempo trabalhado além da jornada normal [Fonte 1].
+
+O **§ 3º do Art. 59** afirma que, em caso de rescisão do contrato sem compensação integral da jornada extraordinária, o trabalhador tem direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão [Fonte 1]. Isso significa que, mesmo que o contrato termine, você pode receber o valor das horas extras não compensadas.
+
+O **Art. 58-A**, que trata do regime de tempo parcial, também prevê que as horas suplementares à jornada semanal normal serão pagas com acréscimo de 50% sobre o salário-hora normal [Fonte 3], o que reforça o direito ao pagamento de horas extras, mesmo em jornadas mais curtas.
+
+**Importante:**  
+O direito à hora extra só se aplica se o trabalho exceder a jornada normal e houver um acordo ou regime legal que permita a compensação ou o pagamento. Se o trabalho for feito dentro da jornada normal, ou se não houver acordo, não há direito à hora extra.
+
+**Observação sobre a compensação:**  
+O **§ 2º do Art. 59** permite que o excesso de horas em um dia seja compensado por uma diminuição em outro dia, desde que não exceda o limite máximo de dez horas diárias e não ultrapasse a soma das jornadas semanais previstas em um ano [Fonte 1]. Isso significa que, em certos casos, o trabalho extra pode ser compensado, mas não é obrigatório o pagamento — apenas a compensação, desde que o acordo seja feito.
+
+**Conclusão:**  
+Com base nas normas citadas, **você tem direito a receber a hora extra**, desde que o trabalho exceda a jornada normal e haja um regime legal (acordo individual, convenção coletiva ou regime de tempo parcial) que permita o pagamento ou a compensação.  
+
+Se você não tiver um acordo ou não estiver em regime de tempo parcial, e o trabalho for feito dentro da jornada normal, então não há direito à hora extra.  
+
+Se quiser, posso ajudar a verificar se o seu caso se encaixa nesses parâmetros — basta me informar:  
+- Se você trabalha com jornada normal ou em tempo parcial  
+- Se houve um acordo ou convenção coletiva  
+- Se o trabalho excedeu a jornada normal  
+- Se houve compensação de horas  
+
+Essas informações são essenciais para confirmar se o direito à hora extra se aplica ao seu caso.","Sim, você tem direito a receber a hora extra que faz, desde que as condições legais sejam cumpridas.
+
+**Resposta direta:**  
+Sim, você tem direito a receber a hora extra, desde que o trabalho exceda a jornada normal e haja um acordo, convenção coletiva ou regime legal que permita a compensação ou o pagamento.
+
+**Fundamentação:**  
+O direito à hora extra é previsto no **Art. 59** da Consolidação das Leis do Trabalho (CLT), que estabelece que a duração diária do trabalho pode ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho [Fonte 1].  
+
+Além disso, o **§ 1º do Art. 59** determina que a remuneração da hora extra será, pelo menos, 50% superior à da hora normal, o que garante um pagamento proporcional ao tempo trabalhado além da jornada normal [Fonte 1].
+
+O **§ 3º do Art. 59** afirma que, em caso de rescisão do contrato sem compensação integral da jornada extraordinária, o trabalhador tem direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão [Fonte 1]. Isso significa que, mesmo que o contrato termine, você pode receber o valor das horas extras não compensadas.
+
+O **Art. 58-A**, que trata do regime de tempo parcial, também prevê que as horas suplementares à jornada semanal normal serão pagas com acréscimo de 50% sobre o salário-hora normal [Fonte 3], o que reforça o direito ao pagamento de horas extras, mesmo em jornadas mais curtas.
+
+**Importante:**  
+O direito à hora extra só se aplica se o trabalho exceder a jornada normal e houver um acordo ou regime legal que permita a compensação ou o pagamento. Se o trabalho for feito dentro da jornada normal, ou se não houver acordo, não há direito à hora extra.
+
+**Observação sobre a compensação:**  
+O **§ 2º do Art. 59** permite que o excesso de horas em um dia seja compensado por uma diminuição em outro dia, desde que não exceda o limite máximo de dez horas diárias e não ultrapasse a soma das jornadas semanais previstas em um ano [Fonte 1]. Isso significa que, em certos casos, o trabalho extra pode ser compensado, mas não é obrigatório o pagamento — apenas a compensação, desde que o acordo seja feito.
+
+**Conclusão:**  
+Com base nas normas citadas, **você tem direito a receber a hora extra**, desde que o trabalho exceda a jornada normal e haja um regime legal (acordo individual, convenção coletiva ou regime de tempo parcial) que permita o pagamento ou a compensação.  
+
+Se você não tiver um acordo ou não estiver em regime de tempo parcial, e o trabalho for feito dentro da jornada normal, então não há direito à hora extra.  
+
+Se quiser, posso ajudar a verificar se o seu caso se encaixa nesses parâmetros — basta me informar:  
+- Se você trabalha com jornada normal ou em tempo parcial  
+- Se houve um acordo ou convenção coletiva  
+- Se o trabalho excedeu a jornada normal  
+- Se houve compensação de horas  
+
+Essas informações são essenciais para confirmar se o direito à hora extra se aplica ao seu caso.",,,17d5ba33af6f6254979b4dbef3de950d776d6f36e120a2180fa22a44508db501,e009545e704d0caf64ce4a4dc1a445e34ecaad6bc109e169a5c1657675e59b62
+variante,q_dev_06_v4,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"**Resposta direta:**  
+Não é possível afirmar com certeza se a empresa tem que pagar hora extra, pois **faltam informações essenciais** sobre o tipo de trabalho que você realiza, a jornada de trabalho que você tem, se houve excesso de horas em um dia, e se houve compensação em outro dia.  
+
+Para responder com precisão, precisamos saber:  
+- Qual é o seu cargo ou tipo de atividade (por exemplo, operador de telefonia, trabalhador doméstico, etc.)?  
+- Qual é a jornada de trabalho diária e semanal que você tem?  
+- Houve excesso de horas em um dia?  
+- Houve compensação de horas em outro dia?  
+- O trabalho foi feito em domingo, feriado ou dia de repouso?  
+
+**Fundamentação:**  
+
+A responsabilidade de pagar hora extra depende do tipo de trabalho e das condições específicas do contrato.  
+
+- **Para trabalhadores em empresas que explorem telefonia, radiotelegrafia, etc.**, o artigo 227 da CLT estabelece que a jornada máxima é de **6 horas diárias ou 36 horas semanais**, e que **quando os operadores permanecerem além do período normal, devem receber 50% a mais sobre o salário-hora normal** [Fonte 1].  
+
+- **Para todos os trabalhadores**, o artigo 59 da CLT permite que a jornada seja aumentada em até **duas horas extras por dia**, mediante acordo individual, convenção coletiva ou acordo coletivo, e que a remuneração da hora extra seja **no mínimo 50% superior à hora normal** [Fonte 2].  
+
+- **Para empregados domésticos**, o artigo 2º da Lei Complementar 150/2015 estabelece que a jornada máxima é de **8 horas diárias e 44 horas semanais**, e que a hora extra deve ser paga com **50% de acréscimo**, com possibilidade de compensação de horas, desde que pactuada por acordo escrito [Fonte 3].  
+
+No entanto, **não há nenhuma evidência que indique que você está em uma dessas categorias ou que tenha trabalhado além da jornada normal**.  
+
+Além disso, **a possibilidade de compensação de horas** (como trabalhar menos em outro dia para compensar mais em outro) **não exclui o direito à remuneração das horas extras não compensadas**, conforme o artigo 59, § 3º e o artigo 3º da LC 150/2015, § 6º [Fonte 2 e Fonte 3].  
+
+**Limitação importante:**  
+A **prescrição** (período máximo para exigir um direito) pode ser relevante, mas **não há dados sobre o tempo transcorrido** ou a data da rescisão/ocorrência do trabalho extra. Sem isso, não é possível dizer se o direito já prescreveu.  
+
+Portanto, **sem saber o tipo de trabalho, a jornada, se houve excesso de horas e se houve compensação**, **não é possível afirmar com segurança se a empresa deve pagar hora extra**.  
+
+Se você puder fornecer essas informações, posso analisar com base nas fontes jurídicas.","**Resposta direta:**  
+Não é possível afirmar com certeza se a empresa tem que pagar hora extra, pois **faltam informações essenciais** sobre o tipo de trabalho que você realiza, a jornada de trabalho que você tem, se houve excesso de horas em um dia, e se houve compensação em outro dia.  
+
+Para responder com precisão, precisamos saber:  
+- Qual é o seu cargo ou tipo de atividade (por exemplo, operador de telefonia, trabalhador doméstico, etc.)?  
+- Qual é a jornada de trabalho diária e semanal que você tem?  
+- Houve excesso de horas em um dia?  
+- Houve compensação de horas em outro dia?  
+- O trabalho foi feito em domingo, feriado ou dia de repouso?  
+
+**Fundamentação:**  
+
+A responsabilidade de pagar hora extra depende do tipo de trabalho e das condições específicas do contrato.  
+
+- **Para trabalhadores em empresas que explorem telefonia, radiotelegrafia, etc.**, o artigo 227 da CLT estabelece que a jornada máxima é de **6 horas diárias ou 36 horas semanais**, e que **quando os operadores permanecerem além do período normal, devem receber 50% a mais sobre o salário-hora normal** [Fonte 1].  
+
+- **Para todos os trabalhadores**, o artigo 59 da CLT permite que a jornada seja aumentada em até **duas horas extras por dia**, mediante acordo individual, convenção coletiva ou acordo coletivo, e que a remuneração da hora extra seja **no mínimo 50% superior à hora normal** [Fonte 2].  
+
+- **Para empregados domésticos**, o artigo 2º da Lei Complementar 150/2015 estabelece que a jornada máxima é de **8 horas diárias e 44 horas semanais**, e que a hora extra deve ser paga com **50% de acréscimo**, com possibilidade de compensação de horas, desde que pactuada por acordo escrito [Fonte 3].  
+
+No entanto, **não há nenhuma evidência que indique que você está em uma dessas categorias ou que tenha trabalhado além da jornada normal**.  
+
+Além disso, **a possibilidade de compensação de horas** (como trabalhar menos em outro dia para compensar mais em outro) **não exclui o direito à remuneração das horas extras não compensadas**, conforme o artigo 59, § 3º e o artigo 3º da LC 150/2015, § 6º [Fonte 2 e Fonte 3].  
+
+**Limitação importante:**  
+A **prescrição** (período máximo para exigir um direito) pode ser relevante, mas **não há dados sobre o tempo transcorrido** ou a data da rescisão/ocorrência do trabalho extra. Sem isso, não é possível dizer se o direito já prescreveu.  
+
+Portanto, **sem saber o tipo de trabalho, a jornada, se houve excesso de horas e se houve compensação**, **não é possível afirmar com segurança se a empresa deve pagar hora extra**.  
+
+Se você puder fornecer essas informações, posso analisar com base nas fontes jurídicas.",,,dc1fe42a87c1915c4a6a257300f9b9cd0b889c520dff32933ee8b8faf69b13be,7b816953a8c1aec58de7d834ef5d6b2ec20151046f67611a0c41a22f60c08dad
+variante,q_dev_06_v5,concluida,pendente_revisao,Laisa,resposta_modelo_sem_edicoes,False,"**Resposta direta:**  
+Sim, é possível fazer 3 horas extras no dia, **mas com limitações**. O limite máximo de horas extras diárias é de **duas horas**, conforme o artigo 59 da CLT. Portanto, **não é permitido fazer 3 horas extras em um dia**.
+
+---
+
+**Fundamentação:**  
+O artigo 59 da Consolidação das Leis do Trabalho (CLT), que regula a jornada de trabalho, estabelece que **a duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas**, por acordo individual, convenção coletiva ou acordo coletivo de trabalho [Fonte 1].  
+
+Esse limite de **duas horas extras por dia** é um limite legal e não pode ser ultrapassado, mesmo que haja um acordo entre empregado e empregador. A norma não permite, portanto, que sejam realizadas **três horas extras em um único dia**.
+
+Além disso, o artigo 59 prevê que, se o excesso de horas em um dia for compensado em outro dia (por meio de ""banco de horas""), a compensação deve ocorrer dentro do limite máximo de **dez horas diárias** e não pode exceder a soma das jornadas semanais previstas em um ano [Fonte 1, § 2º]. Isso reforça que o regime de horas extras é restrito e não pode ser ampliado para três horas por dia.
+
+**Importante:**  
+O regime de horas extras pode ser pactuado por acordo individual, mas **não pode violar o limite de duas horas diárias** estabelecido na CLT. A possibilidade de compensação de horas extras (como no ""banco de horas"") é permitida, mas **apenas dentro dos limites previstos**, e **não permite a realização de três horas extras em um dia**.
+
+---
+
+**Observação sobre o regime de tempo parcial:**  
+O artigo 58-A da CLT trata do regime de tempo parcial, permitindo até 26 horas semanais com até 6 horas suplementares semanais [Fonte 3]. No entanto, **esse limite se refere à semana**, não ao dia. Mesmo assim, **não há autorização para exceder as duas horas extras diárias**, mesmo que o trabalhador esteja em regime de tempo parcial.
+
+---
+
+**Conclusão:**  
+**Não, você não pode fazer 3 horas extras no dia.** A CLT limita as horas extras diárias a **duas horas**, conforme o artigo 59 [Fonte 1]. Qualquer tentativa de ultrapassar esse limite é inconstitucional e não pode ser validada por acordo ou convenção.  
+
+Se houver um contrato que permita mais horas, ele deve estar de acordo com a CLT e não pode violar esse limite. Se o empregado estiver em regime de tempo parcial, o limite de horas extras ainda se aplica, conforme o artigo 58-A [Fonte 3].","**Resposta direta:**  
+Sim, é possível fazer 3 horas extras no dia, **mas com limitações**. O limite máximo de horas extras diárias é de **duas horas**, conforme o artigo 59 da CLT. Portanto, **não é permitido fazer 3 horas extras em um dia**.
+
+---
+
+**Fundamentação:**  
+O artigo 59 da Consolidação das Leis do Trabalho (CLT), que regula a jornada de trabalho, estabelece que **a duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas**, por acordo individual, convenção coletiva ou acordo coletivo de trabalho [Fonte 1].  
+
+Esse limite de **duas horas extras por dia** é um limite legal e não pode ser ultrapassado, mesmo que haja um acordo entre empregado e empregador. A norma não permite, portanto, que sejam realizadas **três horas extras em um único dia**.
+
+Além disso, o artigo 59 prevê que, se o excesso de horas em um dia for compensado em outro dia (por meio de ""banco de horas""), a compensação deve ocorrer dentro do limite máximo de **dez horas diárias** e não pode exceder a soma das jornadas semanais previstas em um ano [Fonte 1, § 2º]. Isso reforça que o regime de horas extras é restrito e não pode ser ampliado para três horas por dia.
+
+**Importante:**  
+O regime de horas extras pode ser pactuado por acordo individual, mas **não pode violar o limite de duas horas diárias** estabelecido na CLT. A possibilidade de compensação de horas extras (como no ""banco de horas"") é permitida, mas **apenas dentro dos limites previstos**, e **não permite a realização de três horas extras em um dia**.
+
+---
+
+**Observação sobre o regime de tempo parcial:**  
+O artigo 58-A da CLT trata do regime de tempo parcial, permitindo até 26 horas semanais com até 6 horas suplementares semanais [Fonte 3]. No entanto, **esse limite se refere à semana**, não ao dia. Mesmo assim, **não há autorização para exceder as duas horas extras diárias**, mesmo que o trabalhador esteja em regime de tempo parcial.
+
+---
+
+**Conclusão:**  
+**Não, você não pode fazer 3 horas extras no dia.** A CLT limita as horas extras diárias a **duas horas**, conforme o artigo 59 [Fonte 1]. Qualquer tentativa de ultrapassar esse limite é inconstitucional e não pode ser validada por acordo ou convenção.  
+
+Se houver um contrato que permita mais horas, ele deve estar de acordo com a CLT e não pode violar esse limite. Se o empregado estiver em regime de tempo parcial, o limite de horas extras ainda se aplica, conforme o artigo 58-A [Fonte 3].",,,6511aa2bfae742af89492fd48370becd98b42657aeaafe6c9de7c5fe81f8be5a,7d7cd0b4a852da444facbc87bea92d5311bb11c94a68938884c7ab6e880cb502

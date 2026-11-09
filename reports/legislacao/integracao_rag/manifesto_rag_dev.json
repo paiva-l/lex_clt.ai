@@ -1,0 +1,23 @@
+{
+  "executado_em_utc": "2026-11-06T19:07:14.439044+00:00",
+  "split": "dev",
+  "modelo": "qwen3:4b-instruct",
+  "digest": "0edcdef34593eac1aa2be9c7d06c432dcf81945adca5eca2f27662c18f168ba0",
+  "tokenizador": "Qwen/Qwen3-4B-Instruct-2507",
+  "options": {
+    "temperature": 0,
+    "seed": 42,
+    "num_ctx": 8192,
+    "num_predict": 2048
+  },
+  "input_limit": 5888,
+  "contextos_sha256": "3224dd003724dc103c12d6f50f11acdd9877e4def23565c158466cb95afbbe15",
+  "dev_sha256": "de8ecead349c17d22805b9a23a4e0e12c8a7bed64a7d79b72a31281f697fa85c",
+  "prompt_sha256": "92e37d77e4b30cd4236da5e5cd3ecd3cc76cbeaca17a93adc14d553bd755f187",
+  "perguntas": 11,
+  "concluidas": 11,
+  "falhas": 0,
+  "teste_carregado": false,
+  "revisao_juridica": "pendente",
+  "embeddings_recalculados": false
+}

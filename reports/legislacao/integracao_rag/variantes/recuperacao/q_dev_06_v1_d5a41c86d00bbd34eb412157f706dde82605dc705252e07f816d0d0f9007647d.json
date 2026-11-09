@@ -1,0 +1,368 @@
+{
+  "query_id": "q_dev_06_v1",
+  "pergunta": "Sou obrigado a fazer hora extra?",
+  "sources": [
+    {
+      "chunk_id": "904bbb0be62ca89b48151678a00b4bbceabe59cb3a27ed2e9920c9ee5e180f2a",
+      "estrategia": "A_artigo",
+      "artigo_id": "e5de9c8c294cf5ff3a407b526913928fdc875b2a4ac0345ca7a2bfe4c16015f2",
+      "artigo_ref": "Art. 227",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO > SEÇÃO II > Art. 227]",
+      "corpo_chunk": "##### Art. 227\n\nNas empresas que explorem o serviço de telefonia, telegrafia submarina ou subfluvial, de radiotelegrafia ou de radiotelefonia, fica estabelecida para os respectivos operadores a duração máxima de seis horas contínuas de trabalho por dia ou 36 (trinta e seis) horas semanais.\n\n§ 1º - Quando, em caso de indeclinável necessidade, forem os operadores obrigados a permanecer em serviço além do período normal fixado neste artigo, a empresa pagar-lhes-á extraordinariamente o tempo excedente com acréscimo de 50% (cinqüenta por cento) sobre o seu salário-hora normal.\n\n§ 2º - O trabalho aos domingos, feriados e dias santos de guarda será considerado extraordinário e obedecerá, quanto à sua execução e remuneração, ao que dispuserem empregadores e empregados em acordo, ou os respectivos sindicatos em contrato coletivo de trabalho.\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO > SEÇÃO II > Art. 227]\n##### Art. 227\n\nNas empresas que explorem o serviço de telefonia, telegrafia submarina ou subfluvial, de radiotelegrafia ou de radiotelefonia, fica estabelecida para os respectivos operadores a duração máxima de seis horas contínuas de trabalho por dia ou 36 (trinta e seis) horas semanais.\n\n§ 1º - Quando, em caso de indeclinável necessidade, forem os operadores obrigados a permanecer em serviço além do período normal fixado neste artigo, a empresa pagar-lhes-á extraordinariamente o tempo excedente com acréscimo de 50% (cinqüenta por cento) sobre o seu salário-hora normal.\n\n§ 2º - O trabalho aos domingos, feriados e dias santos de guarda será considerado extraordinário e obedecerá, quanto à sua execução e remuneração, ao que dispuserem empregadores e empregados em acordo, ou os respectivos sindicatos em contrato coletivo de trabalho.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 846,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1070,
+      "tokens_reais_corpo": 236,
+      "tokens_reais_total": 335,
+      "tokens_estimados_total": 267.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "d70d02de5e356224fc622a9fbf53b960a5f9301596e3a3dee6e8a9691b594ac0",
+          "rank": 1,
+          "score": 0.6169381737709045
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "eb2203b312421f38080cf0fb3e5e06113603ea1e5c4ad30af5fa02ee0363a4e0",
+      "estrategia": "A_artigo",
+      "artigo_id": "408505eadce41c2140c3d0daa495ad15b0649762bf7c0bea5f6490e5f73566f8",
+      "artigo_ref": "Art. 59",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 59]",
+      "corpo_chunk": "##### Art. 59.\n\nA duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 1º A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2º e 5º deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 4º (Revogado pela Lei nº 13.467, de 2017)\n\n§ 5º O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 6º É lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 59]\n##### Art. 59.\n\nA duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 1º A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2º e 5º deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 4º (Revogado pela Lei nº 13.467, de 2017)\n\n§ 5º O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 6º É lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1636,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1840,
+      "tokens_reais_corpo": 515,
+      "tokens_reais_total": 601,
+      "tokens_estimados_total": 460.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "a2d7cfcbd8568c7b4630ef17cd6510c76e68581a63bac3745efe6cf0b129cccb",
+          "rank": 2,
+          "score": 0.4761691987514496
+        },
+        {
+          "chunk_id": "948dc357e12385809910633f9f9834e633e2718eda9e678593cbb0d92cbf01f7",
+          "rank": 3,
+          "score": 0.47341057658195496
+        },
+        {
+          "chunk_id": "ad85c6be24cecc7fbd9b83d15a961645c1e25421d6da5b3a438d103a71b1887f",
+          "rank": 8,
+          "score": 0.24958311021327972
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "bb7bf80a7922d5898e6db7349785c63d0d49e4ff76f731d519222ce3c4427e49",
+      "estrategia": "A_artigo",
+      "artigo_id": "06f720cf9d89a886c8c08f0a8ff522ab29133e933a64a404aeb62b2082245713",
+      "artigo_ref": "Art. 58-A",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 58-A]",
+      "corpo_chunk": "##### Art. 58-A\n\nConsidera-se trabalho em regime de tempo parcial aquele cuja duração não exceda a trinta horas semanais, sem a possibilidade de horas suplementares semanais, ou, ainda, aquele cuja duração não exceda a vinte e seis horas semanais, com a possibilidade de acréscimo de até seis horas suplementares semanais. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 1º O salário a ser pago aos empregados sob o regime de tempo parcial será proporcional à sua jornada, em relação aos empregados que cumprem, nas mesmas funções, tempo integral. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 2º Para os atuais empregados, a adoção do regime de tempo parcial será feita mediante opção manifestada perante a empresa, na forma prevista em instrumento decorrente de negociação coletiva. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3º As horas suplementares à duração do trabalho semanal normal serão pagas com o acréscimo de 50% (cinquenta por cento) sobre o salário-hora normal. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 4º Na hipótese de o contrato de trabalho em regime de tempo parcial ser estabelecido em número inferior a vinte e seis horas semanais, as horas suplementares a este quantitativo serão consideradas horas extras para fins do pagamento estipulado no § 3º, estando também limitadas a seis horas suplementares semanais. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 5º As horas suplementares da jornada de trabalho normal poderão ser compensadas diretamente até a semana imediatamente posterior à da sua execução, devendo ser feita a sua quitação na folha de pagamento do mês subsequente, caso não sejam compensadas. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 6º É facultado ao empregado contratado sob regime de tempo parcial converter um terço do período de férias a que tiver direito em abono pecuniário. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 7º As férias do regime de tempo parcial são regidas pelo disposto no art. 130 desta Consolidação. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 58-A]\n##### Art. 58-A\n\nConsidera-se trabalho em regime de tempo parcial aquele cuja duração não exceda a trinta horas semanais, sem a possibilidade de horas suplementares semanais, ou, ainda, aquele cuja duração não exceda a vinte e seis horas semanais, com a possibilidade de acréscimo de até seis horas suplementares semanais. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 1º O salário a ser pago aos empregados sob o regime de tempo parcial será proporcional à sua jornada, em relação aos empregados que cumprem, nas mesmas funções, tempo integral. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 2º Para os atuais empregados, a adoção do regime de tempo parcial será feita mediante opção manifestada perante a empresa, na forma prevista em instrumento decorrente de negociação coletiva. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3º As horas suplementares à duração do trabalho semanal normal serão pagas com o acréscimo de 50% (cinquenta por cento) sobre o salário-hora normal. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 4º Na hipótese de o contrato de trabalho em regime de tempo parcial ser estabelecido em número inferior a vinte e seis horas semanais, as horas suplementares a este quantitativo serão consideradas horas extras para fins do pagamento estipulado no § 3º, estando também limitadas a seis horas suplementares semanais. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 5º As horas suplementares da jornada de trabalho normal poderão ser compensadas diretamente até a semana imediatamente posterior à da sua execução, devendo ser feita a sua quitação na folha de pagamento do mês subsequente, caso não sejam compensadas. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 6º É facultado ao empregado contratado sob regime de tempo parcial converter um terço do período de férias a que tiver direito em abono pecuniário. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 7º As férias do regime de tempo parcial são regidas pelo disposto no art. 130 desta Consolidação. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2088,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2294,
+      "tokens_reais_corpo": 655,
+      "tokens_reais_total": 742,
+      "tokens_estimados_total": 573.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "473bae346d831031520e9892c22dfa450ef541a1d8ffe7f52b3dd81f1c5557e5",
+          "rank": 4,
+          "score": 0.3342364728450775
+        },
+        {
+          "chunk_id": "eae5ec8cac5cc90eb70ff9c36bb0b8f347c60f256f5d1b72d6a49f0033f67966",
+          "rank": 20,
+          "score": 0.0973208099603653
+        },
+        {
+          "chunk_id": "0a7681d327c3d008f18cd029f9cb883315693ddb5fdc4c39cdbc3ec289bf73ff",
+          "rank": 26,
+          "score": 0.058863960206508636
+        },
+        {
+          "chunk_id": "0a1db4460945f57b61f7b7af870533000105d063ac51530a276ec941d5286db4",
+          "rank": 35,
+          "score": 0.03476478159427643
+        }
+      ],
+      "best_child_rank": 4,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO > CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO > SEÇÃO II > Art. 227]\n##### Art. 227\n\nNas empresas que explorem o serviço de telefonia, telegrafia submarina ou subfluvial, de radiotelegrafia ou de radiotelefonia, fica estabelecida para os respectivos operadores a duração máxima de seis horas contínuas de trabalho por dia ou 36 (trinta e seis) horas semanais.\n\n§ 1º - Quando, em caso de indeclinável necessidade, forem os operadores obrigados a permanecer em serviço além do período normal fixado neste artigo, a empresa pagar-lhes-á extraordinariamente o tempo excedente com acréscimo de 50% (cinqüenta por cento) sobre o seu salário-hora normal.\n\n§ 2º - O trabalho aos domingos, feriados e dias santos de guarda será considerado extraordinário e obedecerá, quanto à sua execução e remuneração, ao que dispuserem empregadores e empregados em acordo, ou os respectivos sindicatos em contrato coletivo de trabalho.\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 59]\n##### Art. 59.\n\nA duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 1º A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2º e 5º deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 4º (Revogado pela Lei nº 13.467, de 2017)\n\n§ 5º O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 6º É lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 58-A]\n##### Art. 58-A\n\nConsidera-se trabalho em regime de tempo parcial aquele cuja duração não exceda a trinta horas semanais, sem a possibilidade de horas suplementares semanais, ou, ainda, aquele cuja duração não exceda a vinte e seis horas semanais, com a possibilidade de acréscimo de até seis horas suplementares semanais. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 1º O salário a ser pago aos empregados sob o regime de tempo parcial será proporcional à sua jornada, em relação aos empregados que cumprem, nas mesmas funções, tempo integral. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 2º Para os atuais empregados, a adoção do regime de tempo parcial será feita mediante opção manifestada perante a empresa, na forma prevista em instrumento decorrente de negociação coletiva. (Incluído pela Medida Provisória nº 2.164-41, de 2001)\n\n§ 3º As horas suplementares à duração do trabalho semanal normal serão pagas com o acréscimo de 50% (cinquenta por cento) sobre o salário-hora normal. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 4º Na hipótese de o contrato de trabalho em regime de tempo parcial ser estabelecido em número inferior a vinte e seis horas semanais, as horas suplementares a este quantitativo serão consideradas horas extras para fins do pagamento estipulado no § 3º, estando também limitadas a seis horas suplementares semanais. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 5º As horas suplementares da jornada de trabalho normal poderão ser compensadas diretamente até a semana imediatamente posterior à da sua execução, devendo ser feita a sua quitação na folha de pagamento do mês subsequente, caso não sejam compensadas. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 6º É facultado ao empregado contratado sob regime de tempo parcial converter um terço do período de férias a que tiver direito em abono pecuniário. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 7º As férias do regime de tempo parcial são regidas pelo disposto no art. 130 desta Consolidação. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "d70d02de5e356224fc622a9fbf53b960a5f9301596e3a3dee6e8a9691b594ac0",
+      "score": 0.6169381737709045
+    },
+    {
+      "chunk_id": "a2d7cfcbd8568c7b4630ef17cd6510c76e68581a63bac3745efe6cf0b129cccb",
+      "score": 0.4761691987514496
+    },
+    {
+      "chunk_id": "948dc357e12385809910633f9f9834e633e2718eda9e678593cbb0d92cbf01f7",
+      "score": 0.47341057658195496
+    },
+    {
+      "chunk_id": "473bae346d831031520e9892c22dfa450ef541a1d8ffe7f52b3dd81f1c5557e5",
+      "score": 0.3342364728450775
+    },
+    {
+      "chunk_id": "d2f0681c04ed680ac4e8f14440ba2091a033afca65d24bf2e4bfd9fae5dc2cb4",
+      "score": 0.27435988187789917
+    },
+    {
+      "chunk_id": "7f1531520baa1577c39a4b4fac3b75aa1b1017887ec6d3d984622497957d06bc",
+      "score": 0.2541584372520447
+    },
+    {
+      "chunk_id": "ab6f7fe4c8fdca0a97aebd226378e6b722f7d71532d0a98698cec7352ebdee27",
+      "score": 0.2540062963962555
+    },
+    {
+      "chunk_id": "ad85c6be24cecc7fbd9b83d15a961645c1e25421d6da5b3a438d103a71b1887f",
+      "score": 0.24958311021327972
+    },
+    {
+      "chunk_id": "771ae268afb73e5d3ea6e699c1ea4ad6b3e94808ebd60fdcba5307bf47d316ce",
+      "score": 0.19586463272571564
+    },
+    {
+      "chunk_id": "d73671d97df2f68e4df47ecb69855656473d752590c1322f3d0afc4bc4d678b5",
+      "score": 0.19407206773757935
+    },
+    {
+      "chunk_id": "7916f5b6d88b5da6c0096d46d0c47675cf451059844c71db137bf387534894dc",
+      "score": 0.17318201065063477
+    },
+    {
+      "chunk_id": "3f0f2c34a9dec4cdc222ae548eafc8727b994d2bd4ac23d853c912365b1ed6e7",
+      "score": 0.17288856208324432
+    },
+    {
+      "chunk_id": "a70e2dd334c4105be12a457bfaeddc5bde7b98878aefa7b0d773e083d8499c39",
+      "score": 0.147361159324646
+    },
+    {
+      "chunk_id": "b7bdede0deb4159402375e2cecf5db75595ccfd008d4cdea241271d47a299036",
+      "score": 0.14584018290042877
+    },
+    {
+      "chunk_id": "de20663fc0e4801f8c7b5527911f5b8f62628ca78875551cd9e80b7f8b283638",
+      "score": 0.1369582563638687
+    },
+    {
+      "chunk_id": "637573fd46d639d472bc71e74c83a0067ebe3ee0f0535131c90c38f24d3bd953",
+      "score": 0.13480901718139648
+    },
+    {
+      "chunk_id": "e3117e3aabe5b927e7dd7ad700ff6877fcc7b269dd1695a787e87bfe75f31995",
+      "score": 0.12609367072582245
+    },
+    {
+      "chunk_id": "34201a6e89473e1b3f1c5c2bbc51d652a92f90de8bbe35819a7417622588cea5",
+      "score": 0.11446589231491089
+    },
+    {
+      "chunk_id": "4093adfe64d8986964528b35ba8d5b2520c438f42284986633db7e2aca912d8f",
+      "score": 0.1021781712770462
+    },
+    {
+      "chunk_id": "eae5ec8cac5cc90eb70ff9c36bb0b8f347c60f256f5d1b72d6a49f0033f67966",
+      "score": 0.0973208099603653
+    },
+    {
+      "chunk_id": "fdbb8cf66b5f1e9170faa84e47e86008b9aae135f811de96f59bcaf48d3b0924",
+      "score": 0.09380107372999191
+    },
+    {
+      "chunk_id": "7d614a99472c57388751cf5380a9c8df68e4fcb172e38f3997ae620789cae258",
+      "score": 0.0862983986735344
+    },
+    {
+      "chunk_id": "a56392a399a5b19ac0a42641e81dae502dc427304a97290a31347526fe06d6b7",
+      "score": 0.06860505789518356
+    },
+    {
+      "chunk_id": "229d6a382ee2ea41f1d94c03450d521734c21a972ca642220fb40268ba899f61",
+      "score": 0.06473424285650253
+    },
+    {
+      "chunk_id": "98172b8fcd0f8b54465ae8504b351eb27f90f2ace562ba94764e4d423b078ac8",
+      "score": 0.06187054142355919
+    },
+    {
+      "chunk_id": "0a7681d327c3d008f18cd029f9cb883315693ddb5fdc4c39cdbc3ec289bf73ff",
+      "score": 0.058863960206508636
+    },
+    {
+      "chunk_id": "9a0ce3b175a7a18ba4dbbf36426d71014c51ee953c81c14a4f71d3b434310512",
+      "score": 0.05480506643652916
+    },
+    {
+      "chunk_id": "91d195b8483b2b0748e94f8f912f8eaa1f828a5dff22edf9bf81804de7a5688d",
+      "score": 0.0494835264980793
+    },
+    {
+      "chunk_id": "929504b72da347016de0800a60b2cd14b85531ce85be7cf007818ace0ced47fd",
+      "score": 0.04813128709793091
+    },
+    {
+      "chunk_id": "1dad6da9fb952e23c0a12f7682960e3f96224df99bb77522bbd3ce08eee0e6fc",
+      "score": 0.04621207341551781
+    },
+    {
+      "chunk_id": "605c130c80446bb5d9f3223c78268f55ca06c5553f651989c91e8d7cd28059cd",
+      "score": 0.04089988023042679
+    },
+    {
+      "chunk_id": "a907e2f00103d8396d7a9ade47b88a1980fa25785cd1bdfef02a1a451910e9d5",
+      "score": 0.03905078023672104
+    },
+    {
+      "chunk_id": "6e2b3fead805a089e6863f3a000f3cc7f589281c76b21a42d9693d247795b5f6",
+      "score": 0.03892471641302109
+    },
+    {
+      "chunk_id": "64621fe8ffbadae937e4ec652336c7037089023a9dfdc32f2ae41c871eaa509b",
+      "score": 0.03540937975049019
+    },
+    {
+      "chunk_id": "0a1db4460945f57b61f7b7af870533000105d063ac51530a276ec941d5286db4",
+      "score": 0.03476478159427643
+    },
+    {
+      "chunk_id": "27e3b13d0ffbb059fee66fb7f80f8816c10308f36c394b9d17e4b83aec8b52ee",
+      "score": 0.028000181540846825
+    },
+    {
+      "chunk_id": "7dfecf2dc75b16aa5d5c6fc925a63fbe7503229108f643570146671f55627b9d",
+      "score": 0.025590455159544945
+    },
+    {
+      "chunk_id": "9c6ad7205c26496c1bd494ba09488f0bbf80fd9bbeeb241e99505328bfe9ed87",
+      "score": 0.022717498242855072
+    },
+    {
+      "chunk_id": "5be78eb825b7fb5c57d0f36858c3d371ca033dc680740dd2b4f38ddba0dccfd1",
+      "score": 0.022673409432172775
+    },
+    {
+      "chunk_id": "d89bf4cf74675362e26bdc1b5b7bbbf6e631aa57b0636aff48f6afb3eef17bc5",
+      "score": 0.01935998536646366
+    },
+    {
+      "chunk_id": "56fa0e767b230ec1455be1174090e1bf96ba59ded136d5f497e2615db45b9355",
+      "score": 0.014190971851348877
+    },
+    {
+      "chunk_id": "a631c8aa7f2e78e896102b65c1547ff27b051e77fe814e60e44ac3458614780d",
+      "score": 0.012877251021564007
+    },
+    {
+      "chunk_id": "502606c7cb14608dad760096ad16bd08d965e78a17d7a43f5e61283963f67d78",
+      "score": 0.012726536951959133
+    },
+    {
+      "chunk_id": "0a720a1da4915f21299b425047890c54425a93716a0ce07f440e1aa9044fcbaf",
+      "score": 0.01196843758225441
+    },
+    {
+      "chunk_id": "a9150480ee3f92c6aec91ed74e1e6d33dc53184e09ada58d413057aa9ff1f025",
+      "score": 0.008188234642148018
+    },
+    {
+      "chunk_id": "611ea82eb515abea43858631fa5d5b6b357dd0767cd86b15e14559b616598f74",
+      "score": 0.007816827856004238
+    },
+    {
+      "chunk_id": "144f8634b408212eb3207a4b0f302582f0cfcee247695eeefd21764e586e0b24",
+      "score": 0.006520979572087526
+    },
+    {
+      "chunk_id": "90c5ae8aebef9c998e650ec5d98e685fdacc56070f7a2733b6ff844cdc43a971",
+      "score": 0.006428995169699192
+    },
+    {
+      "chunk_id": "8683597d661eb45d0000ff852e944307e1c09d5065c7d43d01a3ff76c2cf0f24",
+      "score": 0.004407637286931276
+    },
+    {
+      "chunk_id": "e218be82b73aa514135c435b7c92f3a6eff0f2e55e38d0cdea68d26b8ffbe909",
+      "score": 0.0010312519734725356
+    }
+  ],
+  "hyde_cache_sha256": "b3ac6eedfaea2114a2a81c3ed6dcccd741f62008c2f602a19ef0f55b56f6001f",
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 88605.63350000302,
+  "hash_configuracao": "d5a41c86d00bbd34eb412157f706dde82605dc705252e07f816d0d0f9007647d",
+  "embedding_corpus_recalculado": false
+}

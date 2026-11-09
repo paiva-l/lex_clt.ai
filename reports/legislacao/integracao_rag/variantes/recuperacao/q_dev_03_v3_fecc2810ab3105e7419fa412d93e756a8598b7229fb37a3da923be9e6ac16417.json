@@ -1,0 +1,343 @@
+{
+  "query_id": "q_dev_03_v3",
+  "pergunta": "Tem como eu demitir a empresa que eu trabalho?",
+  "sources": [
+    {
+      "chunk_id": "3b20af20e777439316596d7833c8c50280150b6a82be31bbf204a9e53b81e2e5",
+      "estrategia": "A_artigo",
+      "artigo_id": "1f17cf2cd73e557630017ec74b0b0265b2e2ec9ed18bd9f62a5955344fb54faa",
+      "artigo_ref": "Art. 502",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO VIII — DA FORÇA MAIOR > Art. 502]",
+      "corpo_chunk": "##### Art. 502\n\nOcorrendo motivo de força maior que determine a extinção da empresa, ou de um dos estabelecimentos em que trabalhe o empregado, é assegurada a este, quando despedido, uma indenização na forma seguinte:\n\nI - sendo estável, nos termos dos arts. 477 e 478;\n\nII - não tendo direito à estabilidade, metade da que seria devida em caso de rescisão sem justa causa;\n\nIII - havendo contrato por prazo determinado, aquela a que se refere o art. 479 desta Lei, reduzida igualmente à metade.\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO VIII — DA FORÇA MAIOR > Art. 502]\n##### Art. 502\n\nOcorrendo motivo de força maior que determine a extinção da empresa, ou de um dos estabelecimentos em que trabalhe o empregado, é assegurada a este, quando despedido, uma indenização na forma seguinte:\n\nI - sendo estável, nos termos dos arts. 477 e 478;\n\nII - não tendo direito à estabilidade, metade da que seria devida em caso de rescisão sem justa causa;\n\nIII - havendo contrato por prazo determinado, aquela a que se refere o art. 479 desta Lei, reduzida igualmente à metade.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 497,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 655,
+      "tokens_reais_corpo": 143,
+      "tokens_reais_total": 206,
+      "tokens_estimados_total": 163.75,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "0133ac72da0b4e12c5ee4604666cb2a52e9122dcebf452ed73cb4217c51e2852",
+          "rank": 1,
+          "score": 0.2365095615386963
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "1de79074fb1b3d6981610059140d3a0268a0da775e76db4afadecd388ea7db85",
+      "estrategia": "A_artigo",
+      "artigo_id": "bccbfcc064bf835a548b042df6672d9f2eafa75750edf7f986bf86d4ded18cb1",
+      "artigo_ref": "Art. 482",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]",
+      "corpo_chunk": "##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]\n##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1480,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1632,
+      "tokens_reais_corpo": 445,
+      "tokens_reais_total": 507,
+      "tokens_estimados_total": 408.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+          "rank": 2,
+          "score": 0.10667407512664795
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "dc53a383753202ee248a7d524f39c557a1d5eb38c3875a597e413ff39ec171e6",
+      "estrategia": "A_artigo",
+      "artigo_id": "5f9c1c9226b4520e3932d3b3699422017769dc41ed24d1fdf32e6009457dd5ae",
+      "artigo_ref": "Art. 500",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO VII — DA ESTABILIDADE > Art. 500]",
+      "corpo_chunk": "##### Art. 500\n\nO pedido de demissão do empregado estável só será válido quando feito com a assistência do respectivo Sindicato e, se não o houver, perante autoridade local competente do Ministério do Trabalho e Previdência Social ou da Justiça do Trabalho. (Revigorado com nova redação, pela Lei nº 5.584, de 26.6.1970)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO VII — DA ESTABILIDADE > Art. 500]\n##### Art. 500\n\nO pedido de demissão do empregado estável só será válido quando feito com a assistência do respectivo Sindicato e, se não o houver, perante autoridade local competente do Ministério do Trabalho e Previdência Social ou da Justiça do Trabalho. (Revigorado com nova redação, pela Lei nº 5.584, de 26.6.1970)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 322,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 480,
+      "tokens_reais_corpo": 99,
+      "tokens_reais_total": 161,
+      "tokens_estimados_total": 120.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "55fb392265c1035937d38994dcff0758927acaa6f55fa7b3b0eb1942218d3677",
+          "rank": 3,
+          "score": 0.10144349187612534
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO VIII — DA FORÇA MAIOR > Art. 502]\n##### Art. 502\n\nOcorrendo motivo de força maior que determine a extinção da empresa, ou de um dos estabelecimentos em que trabalhe o empregado, é assegurada a este, quando despedido, uma indenização na forma seguinte:\n\nI - sendo estável, nos termos dos arts. 477 e 478;\n\nII - não tendo direito à estabilidade, metade da que seria devida em caso de rescisão sem justa causa;\n\nIII - havendo contrato por prazo determinado, aquela a que se refere o art. 479 desta Lei, reduzida igualmente à metade.\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]\n##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO VII — DA ESTABILIDADE > Art. 500]\n##### Art. 500\n\nO pedido de demissão do empregado estável só será válido quando feito com a assistência do respectivo Sindicato e, se não o houver, perante autoridade local competente do Ministério do Trabalho e Previdência Social ou da Justiça do Trabalho. (Revigorado com nova redação, pela Lei nº 5.584, de 26.6.1970)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "0133ac72da0b4e12c5ee4604666cb2a52e9122dcebf452ed73cb4217c51e2852",
+      "score": 0.2365095615386963
+    },
+    {
+      "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+      "score": 0.10667407512664795
+    },
+    {
+      "chunk_id": "55fb392265c1035937d38994dcff0758927acaa6f55fa7b3b0eb1942218d3677",
+      "score": 0.10144349187612534
+    },
+    {
+      "chunk_id": "2645c886113f899fd00f24d380236fabb585c522c4c1bc4384c1a6baa44fffeb",
+      "score": 0.09827098995447159
+    },
+    {
+      "chunk_id": "7f7655b4d9e4378a2e31008ce1cd3ca7b26304871bfe55ecb0e0075da2a60450",
+      "score": 0.06861695647239685
+    },
+    {
+      "chunk_id": "d3f7ab52bdc4c55dfe95f88f282bc841f6be99df5e187d9a85fc3e1659e15910",
+      "score": 0.06602278351783752
+    },
+    {
+      "chunk_id": "8460bbf33276a92f1359103c724fbd0351e2c2f3cb09776e3a43b6ecc7241c8d",
+      "score": 0.06402841210365295
+    },
+    {
+      "chunk_id": "5ce287920d461b23d0e540020cb87a3adba52c18f0ea244ceb56c2b2adb2ae39",
+      "score": 0.060952018946409225
+    },
+    {
+      "chunk_id": "6806ae7e2c05e2ce2f8372d27389edf7b9a81a9972a3c3340eafa0be2015dfb9",
+      "score": 0.05524609610438347
+    },
+    {
+      "chunk_id": "6878f4b43c4a3f70f00e03d4f090cc9da45f82ef72d0b68e3ee01e0b20796d43",
+      "score": 0.05241399258375168
+    },
+    {
+      "chunk_id": "5ff91ed9ea963db49ba4f36bd141772f2a3e3bb4d8eda370d65a1a4f115b96e7",
+      "score": 0.04769385978579521
+    },
+    {
+      "chunk_id": "8f4e04b02a86cd5549b53f98da73034908d40a43745548be48cde00204a45e7a",
+      "score": 0.04673798009753227
+    },
+    {
+      "chunk_id": "51486d4c8622f1f4c36183d96fe1d2b40b80d59158f06908c079ae01b45ad2c6",
+      "score": 0.03876757249236107
+    },
+    {
+      "chunk_id": "8f9be926cb104e29f69a4353dfdc984618854462b1d9ca8680a2739b9552a572",
+      "score": 0.03614572435617447
+    },
+    {
+      "chunk_id": "4a63d4ddcea2930ca61937cb0571045c7d66ad8f5230f6759656c730c34d6167",
+      "score": 0.031875964254140854
+    },
+    {
+      "chunk_id": "6493704240e09bd7b311fd7f88c73f22bb5c859e1962b40f322170327fd6804c",
+      "score": 0.02310270257294178
+    },
+    {
+      "chunk_id": "8905547eb1eb40386131f9c1102234ba37cb4aa83efcd95304a6b0577ca680c1",
+      "score": 0.022955087944865227
+    },
+    {
+      "chunk_id": "1f7bf490644bddff43ce132d8a406a6a106cfe7b504bf0a95f3c210e38735c4c",
+      "score": 0.018581444397568703
+    },
+    {
+      "chunk_id": "3adaaf86e8da7996847b64900479ac4d906a2695ba658a4b1a8b0ec55ebc93e3",
+      "score": 0.018310531973838806
+    },
+    {
+      "chunk_id": "7e66c0e32893a31a7124c504fc0eac283845c012a0285e32afa2b019973aca73",
+      "score": 0.016951721161603928
+    },
+    {
+      "chunk_id": "f303d2dfb6f4b4b936e54b7a73dab821e2f122f36009ff51cb9bd75f227d58bd",
+      "score": 0.016779612749814987
+    },
+    {
+      "chunk_id": "2d2654f7d16f80a4e0568098f35203d19c860e5f2b0a4df361b25c51dbf51dfb",
+      "score": 0.016410626471042633
+    },
+    {
+      "chunk_id": "3e20932e8084c87088081051bf3422b5edb3d4ade3f7a54da93e6b7fd838d2a0",
+      "score": 0.01497101690620184
+    },
+    {
+      "chunk_id": "3fb94d5e7d43931eddb9c33b9f2b44e857f5eb2a20215a9711f63ee8c92555ee",
+      "score": 0.013488342985510826
+    },
+    {
+      "chunk_id": "b98be79e294e560e6c19f414e6570ef3dda9d24733bc06723c0acb9031046b42",
+      "score": 0.012291504070162773
+    },
+    {
+      "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+      "score": 0.01075260154902935
+    },
+    {
+      "chunk_id": "eb784d12490ccd1c7ccc9a2f81637d3191da9ad0a52daf2b033fd5036406c05e",
+      "score": 0.008947387337684631
+    },
+    {
+      "chunk_id": "382e2af243ea47af482b4254d5e45c91f0d7550dda56f7af71e06c9d3f12c963",
+      "score": 0.008045915514230728
+    },
+    {
+      "chunk_id": "cc67f5ef721ebb44227ab1315c638e558dfc77b5e0d3c48f3d2d6672eaab1728",
+      "score": 0.007809934206306934
+    },
+    {
+      "chunk_id": "8d2938089dc5710b5da3fad5e85c571c9e7053c956745935e77d9b90f9882c26",
+      "score": 0.007767071481794119
+    },
+    {
+      "chunk_id": "2fbd05a7d0d3213aff2bd85626adeeeb430ad473f9c9fd5decf514fbfddd3357",
+      "score": 0.007527479901909828
+    },
+    {
+      "chunk_id": "42e79936f20d0a181eb1423cc4149cd5cdc74dc4f37894f732c94b8e3326d67f",
+      "score": 0.007470186799764633
+    },
+    {
+      "chunk_id": "8f2c8a47ebe893c26c971353ef2cfc4348975e8e4e49f58ea1b26e4d8aaaca73",
+      "score": 0.0053745838813483715
+    },
+    {
+      "chunk_id": "f5ca0d6e4097428ac2a56b58520a010a40dcd2ba1a190b093396837bf1ca702f",
+      "score": 0.005328860599547625
+    },
+    {
+      "chunk_id": "7ecc619f95652ace79a2e6243685b2876b84117b3d3d116f7bd9045ce0e73303",
+      "score": 0.005044430494308472
+    },
+    {
+      "chunk_id": "49cba00e56ff865d9453a97f075cce39219fa6922a57c6b30b4e1b1170143884",
+      "score": 0.0040997229516506195
+    },
+    {
+      "chunk_id": "a7fcf8cc39a35e63c91a4265bbd09f793b3f74455497321c3ce2651c571d295b",
+      "score": 0.004041404463350773
+    },
+    {
+      "chunk_id": "04a361495d54b8651c9572cee8d384afdaa877e9e6cf791f321d7bd63645b443",
+      "score": 0.003275570459663868
+    },
+    {
+      "chunk_id": "418bd0ab5cadf1a46e2d301a26bdd6f8d5ca05bd573e32cef2e3e1bd6af0d947",
+      "score": 0.00301109766587615
+    },
+    {
+      "chunk_id": "c7a8820e7ce5df09863390058e27218b3cb34b99e7a391a1fb452094fab75b06",
+      "score": 0.002730683656409383
+    },
+    {
+      "chunk_id": "7abece8e465f8118028c58fa64c3e532636f1406911ce170e58df672fcc642e0",
+      "score": 0.0027132972609251738
+    },
+    {
+      "chunk_id": "f9e3fdb7cb7fd819066714badd2c5d841abe819a333062b8dfc9934994878ab0",
+      "score": 0.002663157181814313
+    },
+    {
+      "chunk_id": "d255f7a011d6c8b8a4023ad450763885e28c5c9337a038389a2aea91e7753f78",
+      "score": 0.00248061609454453
+    },
+    {
+      "chunk_id": "0da54980fd628fc1c0131a77b1533b82a0cdc1a0bd3f689231a95e41eec7210c",
+      "score": 0.0024488368071615696
+    },
+    {
+      "chunk_id": "0811892190201c08e7e5949e585e5204603b984907757ef23fcf46947990420a",
+      "score": 0.002388595137745142
+    },
+    {
+      "chunk_id": "d2512f0e2a32b289fbab107229f4afabc8ff26c209ab72568f50aefdc5f741eb",
+      "score": 0.0023797713220119476
+    },
+    {
+      "chunk_id": "ba7e315624261276c26fa30139c6fb8c8a753801fe49ff2b0b8aa6478b4cc53b",
+      "score": 0.001769553986378014
+    },
+    {
+      "chunk_id": "ecc1bc4e3ccf1d0ea9ee3f7cac37122f0542e1b6f809cc0a9b0c6e391effacff",
+      "score": 0.001497870311141014
+    },
+    {
+      "chunk_id": "48e30555be25e12149d5cf06039ea22fa535e4998080c8cae42aaaa519d43b80",
+      "score": 0.0013792561367154121
+    },
+    {
+      "chunk_id": "db5115b890503c2cb800a2448a6426c1ec74993db66895de8cd9b31a6faf74c5",
+      "score": 0.0007452118443325162
+    }
+  ],
+  "hyde_cache_sha256": "c5d21bc49c70c897f08d7a462bc3dce15a5d0c2499e4c11d26c43a72326ab77f",
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 1656.2212000135332,
+  "hash_configuracao": "fecc2810ab3105e7419fa412d93e756a8598b7229fb37a3da923be9e6ac16417",
+  "embedding_corpus_recalculado": false
+}

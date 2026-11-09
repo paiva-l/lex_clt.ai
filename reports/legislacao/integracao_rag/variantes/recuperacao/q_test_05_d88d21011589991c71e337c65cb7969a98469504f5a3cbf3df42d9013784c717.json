@@ -1,0 +1,355 @@
+{
+  "query_id": "q_test_05",
+  "pergunta": "Quais são as regras aplicáveis ao contrato de trabalho do atleta profissional de futebol nos EUA?",
+  "sources": [
+    {
+      "chunk_id": "548270b63d432faef7582a7d5bf23095beb999e0b19c5330c25b6550e9066ab4",
+      "estrategia": "A_artigo",
+      "artigo_id": "90f67d4f6830408ed36fb8d2e0f76ef61e018b3f35db361241fd86058bfd4c8e",
+      "artigo_ref": "Art. 21",
+      "caminho_relativo": "leis/1991/lei-8212-1991.md",
+      "sha256_fonte": "27fced2ef8c4967d1ea2ad6f2350ed52df2f9ee7e52f38effd9687cbd26f80e9",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/L8212compilado.htm",
+      "date": 680313600000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[leis/1991/lei-8212-1991.md | TÍTULO VIII — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS > CAPÍTULO II — DAS DEMAIS DISPOSIÇÕES > Art. 21]",
+      "corpo_chunk": "##### Art. 21.\n\nA alíquota de contribuição dos segurados empresários, facultativo, trabalhador autônomo e equiparados é de vinte por cento, incidente sobre o respectivo salário-de-contribuição mensal, observado o disposto no inciso III do art. 28.\n\nParágrafo único. Os valores do salário-de-contribuição serão reajustados a partir da data de entrada em vigor desta Lei, na mesma época e com os mesmos índices que os do reajustamento dos benefícios de prestação continuada da Previdência Social.\n\n6 A Lei nº 9.317, de 5.12.96, dispôs sobre o tratamento diferenciado às microempresas e empresas de pequeno porte-SIMPLES\n\n7 A contribuição de empresa em relação às remunerações e retribuições pagas ou creditadas pelos serviços de segurados empresários, trabalhadores autônomos, avulsos e demais pessoas físicas, sem vínculo empregatício, está disciplinada pela Lei Complementar nº 84, de 18.1.96.\n\n8 Parágrafo acrescentado pela Medida Provisória nº 1.663-12, de 27.7.98, em curso como segue:\n\n§ 11. O disposto nos §§ 6º a 9º aplica-se à associação desportiva que mantém equipe de futebol profissional e que se organize na forma da Lei nº 9.615, de 24 de março de 1998.\n\n9 Esta alíquota, a partir de 01 de abril de 1992, por força da lei Complementar nº 70, de 30 de dezembro de 1991, passou a incidir sobre o faturamento mensal.\n\n10 A Lei nº 9.249, de 26 de dezembro de 1995, alterou a contribuição sobre o lucro líquido, passando a alíquota a ser de 8%.\n\n11 Alíquota elevada em mais 8% pela Lei Complementar nº 70, de 30 de dezembro de 1991 e posteriormente reduzida para 18% por força da Lei nº 9.249, de 26 de dezembro de 1995.\n\n12 Valor atualizado a partir de 1º de junho de 1998 para R$ 1.081,50 (um mil, oitenta e um reais e cinqüenta centavos\n\n13 Alínea revogada pela Medida Provisória nº 1.663-12, de 27.7.1998\n\n14 Itens de 6 a 9 acrescentados pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como se segue:\n\n\\6. recebidas a título de abono de férias na forma dos arts. 143 e 144 da CLT;\n\n\\7. recebidas a título de ganhos eventuais e os abonos expressamente desvinculados do salário;\n\n\\8. recebidas a título de licença prêmio indenizada;\n\n\\9. recebidas a título de indenização de que trata o art. 9º da Lei nº 7.238, de 29 de outubro de 1984.\n\n15 Alínea alterada pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como segue:\n\nt) o valor relativo a plano educacional que vise à educação básica, nos termos do art. 21 da Lei nº 9.394, de 20 de dezembro de 1996, e a cursos de capacitação e qualificação profissionais vinculados às atividades desenvolvidas pela empresa, desde que não seja utilizado em substituição de parcela salarial e que todos os empregados e dirigentes tenham acesso ao mesmo;\n\n16 Valores atualizados a partir de 1º de junho de 1998, pela Portaria MPAS nº 4.479, de 4.6.98, como segue:\n\n<table>\n<tr><td colspan=\"3\">ESCALA DE SALÁRIOS BASE</td></tr>\n<tr><td>CLASSE</td><td>SALÁRIO - BASE</td><td>NÚMERO MÍNIMO DE MESES DE PERMANÊNCIA EM CADA CLASSE (INTERSTÍCIOS)</td></tr>\n<tr><td>1</td><td>R$ 130,00</td><td>12</td></tr>\n<tr><td>2</td><td>R$ 216,30</td><td>12</td></tr>\n<tr><td>3</td><td>R$ 324,45</td><td>24</td></tr>\n<tr><td>4</td><td>R$ 432,59</td><td>24</td></tr>\n<tr><td>5</td><td>R$ 540,75</td><td>36</td></tr>\n<tr><td>6</td><td>R$ 648,90</td><td>48</td></tr>\n<tr><td>7</td><td>R$ 757,04</td><td>48</td></tr>\n<tr><td>8</td><td>R$ 865,21</td><td>60</td></tr>\n<tr><td>9</td><td>R$ 973,35</td><td>60</td></tr>\n<tr><td>10</td><td>R$ 1.081,50</td><td>-</td></tr>\n</table>\n\n17 Por força do disposto na Lei nº 9.063, de 14.6.95, esta disposição aplica-se somente ao contido no inciso II do art. 30.\n\n18 Parágrafo único renumerado para 1º e § 2º acrescentado pela Medida Provisória nº 1.663-12, de 27.7.98, como segue:\n\n§ 1º Recebida a notificação do débito a empresa ou segurado terá o prazo de 15 (quinze) dias para apresentar defesa, observado o disposto em regulamento.\n\n§ 2º Por ocasião da notificação de débito ou, quando for o caso, da inscrição na Dívida Ativa do Instituto Nacional do Seguro Social INSS, a fiscalização poderá proceder ao arrolamento de bens e direitos do sujeito passivo, conforme dispuser aquela autarquia previdenciária, observado, no que couber, o disposto nos §§ 1º a 6º, 8º e 9º do art. 64 da Lei nº 9.532, de 10 de dezembro de 1997.\n\n19 Valores atualizados a partir de 1º de junho de 1998, para R$ 15.904,18 (quinze mil, novecentos e quatro reais e dezoito centavos)\n\n20 Inciso alterado pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como segue:\n\nI - simultaneamente com a inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ\n\n21 Inciso alterado pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como segue:\n\nII - perante o Instituto Nacional do Seguro Social INSS no prazo de 30 (trinta) dias contados do início de suas atividades, quando não sujeita a inscrição no Cadastro Nacional da Pessoa Jurídica CNPJ.\n\n22 Artigo revogado pela Medida Provisória nº 1.663-12, de 27.7.1998\n\n23 Artigo revogado pela Medida Provisória nº 1.663-12, de 27.7.1998\n\n24 Valores atualizados pela Portaria MPAS nº 4.479, de 4.6.98, a partir de 1º de junho de 1998, para, respectivamente, R$ 636,17 (seiscentos e trinta e seis reais e dezessete centavos) e R$ 63.617,35 (sessenta e três mil, seiscentos e dezessete reais e trinta e cinco centavos)\n\n25 Sem efeito para o auxílio-natalidade a partir de 1.1.96, por força do disposto na Lei nº 8.742, de 7.12.93.\n",
+      "conteudo_chunk": "[leis/1991/lei-8212-1991.md | TÍTULO VIII — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS > CAPÍTULO II — DAS DEMAIS DISPOSIÇÕES > Art. 21]\n##### Art. 21.\n\nA alíquota de contribuição dos segurados empresários, facultativo, trabalhador autônomo e equiparados é de vinte por cento, incidente sobre o respectivo salário-de-contribuição mensal, observado o disposto no inciso III do art. 28.\n\nParágrafo único. Os valores do salário-de-contribuição serão reajustados a partir da data de entrada em vigor desta Lei, na mesma época e com os mesmos índices que os do reajustamento dos benefícios de prestação continuada da Previdência Social.\n\n6 A Lei nº 9.317, de 5.12.96, dispôs sobre o tratamento diferenciado às microempresas e empresas de pequeno porte-SIMPLES\n\n7 A contribuição de empresa em relação às remunerações e retribuições pagas ou creditadas pelos serviços de segurados empresários, trabalhadores autônomos, avulsos e demais pessoas físicas, sem vínculo empregatício, está disciplinada pela Lei Complementar nº 84, de 18.1.96.\n\n8 Parágrafo acrescentado pela Medida Provisória nº 1.663-12, de 27.7.98, em curso como segue:\n\n§ 11. O disposto nos §§ 6º a 9º aplica-se à associação desportiva que mantém equipe de futebol profissional e que se organize na forma da Lei nº 9.615, de 24 de março de 1998.\n\n9 Esta alíquota, a partir de 01 de abril de 1992, por força da lei Complementar nº 70, de 30 de dezembro de 1991, passou a incidir sobre o faturamento mensal.\n\n10 A Lei nº 9.249, de 26 de dezembro de 1995, alterou a contribuição sobre o lucro líquido, passando a alíquota a ser de 8%.\n\n11 Alíquota elevada em mais 8% pela Lei Complementar nº 70, de 30 de dezembro de 1991 e posteriormente reduzida para 18% por força da Lei nº 9.249, de 26 de dezembro de 1995.\n\n12 Valor atualizado a partir de 1º de junho de 1998 para R$ 1.081,50 (um mil, oitenta e um reais e cinqüenta centavos\n\n13 Alínea revogada pela Medida Provisória nº 1.663-12, de 27.7.1998\n\n14 Itens de 6 a 9 acrescentados pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como se segue:\n\n\\6. recebidas a título de abono de férias na forma dos arts. 143 e 144 da CLT;\n\n\\7. recebidas a título de ganhos eventuais e os abonos expressamente desvinculados do salário;\n\n\\8. recebidas a título de licença prêmio indenizada;\n\n\\9. recebidas a título de indenização de que trata o art. 9º da Lei nº 7.238, de 29 de outubro de 1984.\n\n15 Alínea alterada pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como segue:\n\nt) o valor relativo a plano educacional que vise à educação básica, nos termos do art. 21 da Lei nº 9.394, de 20 de dezembro de 1996, e a cursos de capacitação e qualificação profissionais vinculados às atividades desenvolvidas pela empresa, desde que não seja utilizado em substituição de parcela salarial e que todos os empregados e dirigentes tenham acesso ao mesmo;\n\n16 Valores atualizados a partir de 1º de junho de 1998, pela Portaria MPAS nº 4.479, de 4.6.98, como segue:\n\n<table>\n<tr><td colspan=\"3\">ESCALA DE SALÁRIOS BASE</td></tr>\n<tr><td>CLASSE</td><td>SALÁRIO - BASE</td><td>NÚMERO MÍNIMO DE MESES DE PERMANÊNCIA EM CADA CLASSE (INTERSTÍCIOS)</td></tr>\n<tr><td>1</td><td>R$ 130,00</td><td>12</td></tr>\n<tr><td>2</td><td>R$ 216,30</td><td>12</td></tr>\n<tr><td>3</td><td>R$ 324,45</td><td>24</td></tr>\n<tr><td>4</td><td>R$ 432,59</td><td>24</td></tr>\n<tr><td>5</td><td>R$ 540,75</td><td>36</td></tr>\n<tr><td>6</td><td>R$ 648,90</td><td>48</td></tr>\n<tr><td>7</td><td>R$ 757,04</td><td>48</td></tr>\n<tr><td>8</td><td>R$ 865,21</td><td>60</td></tr>\n<tr><td>9</td><td>R$ 973,35</td><td>60</td></tr>\n<tr><td>10</td><td>R$ 1.081,50</td><td>-</td></tr>\n</table>\n\n17 Por força do disposto na Lei nº 9.063, de 14.6.95, esta disposição aplica-se somente ao contido no inciso II do art. 30.\n\n18 Parágrafo único renumerado para 1º e § 2º acrescentado pela Medida Provisória nº 1.663-12, de 27.7.98, como segue:\n\n§ 1º Recebida a notificação do débito a empresa ou segurado terá o prazo de 15 (quinze) dias para apresentar defesa, observado o disposto em regulamento.\n\n§ 2º Por ocasião da notificação de débito ou, quando for o caso, da inscrição na Dívida Ativa do Instituto Nacional do Seguro Social INSS, a fiscalização poderá proceder ao arrolamento de bens e direitos do sujeito passivo, conforme dispuser aquela autarquia previdenciária, observado, no que couber, o disposto nos §§ 1º a 6º, 8º e 9º do art. 64 da Lei nº 9.532, de 10 de dezembro de 1997.\n\n19 Valores atualizados a partir de 1º de junho de 1998, para R$ 15.904,18 (quinze mil, novecentos e quatro reais e dezoito centavos)\n\n20 Inciso alterado pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como segue:\n\nI - simultaneamente com a inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ\n\n21 Inciso alterado pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como segue:\n\nII - perante o Instituto Nacional do Seguro Social INSS no prazo de 30 (trinta) dias contados do início de suas atividades, quando não sujeita a inscrição no Cadastro Nacional da Pessoa Jurídica CNPJ.\n\n22 Artigo revogado pela Medida Provisória nº 1.663-12, de 27.7.1998\n\n23 Artigo revogado pela Medida Provisória nº 1.663-12, de 27.7.1998\n\n24 Valores atualizados pela Portaria MPAS nº 4.479, de 4.6.98, a partir de 1º de junho de 1998, para, respectivamente, R$ 636,17 (seiscentos e trinta e seis reais e dezessete centavos) e R$ 63.617,35 (sessenta e três mil, seiscentos e dezessete reais e trinta e cinco centavos)\n\n25 Sem efeito para o auxílio-natalidade a partir de 1.1.96, por força do disposto na Lei nº 8.742, de 7.12.93.\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 5443,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 5575,
+      "tokens_reais_corpo": 1966,
+      "tokens_reais_total": 2031,
+      "tokens_estimados_total": 1393.75,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "6b1fed4ccee6fb914ee3c68fc0d1867e55ab4b18328d582e84f174b20b5ac3bc",
+          "rank": 1,
+          "score": 0.010224764235317707
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "b7fb420986bc82bb270c56bd815627fd7f812df6d0ab36318fdff89170f6f751",
+      "estrategia": "A_artigo",
+      "artigo_id": "d1feaaa2d8fccd5b10ed2b771077b3e68ae211d62ad74c2cef2d37f88a3f4618",
+      "artigo_ref": "Art. 75-B",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II-A > Art. 75-B]",
+      "corpo_chunk": "##### Art. 75-B\n\nConsidera-se teletrabalho ou trabalho remoto a prestação de serviços fora das dependências do empregador, de maneira preponderante ou não, com a utilização de tecnologias de informação e de comunicação, que, por sua natureza, não configure trabalho externo. (Redação dada pela Lei nº 14.442, de 2022)\n\n§ 1º O comparecimento, ainda que de modo habitual, às dependências do empregador para a realização de atividades específicas que exijam a presença do empregado no estabelecimento não descaracteriza o regime de teletrabalho ou trabalho remoto. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 2º O empregado submetido ao regime de teletrabalho ou trabalho remoto poderá prestar serviços por jornada ou por produção ou tarefa. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 3º Na hipótese da prestação de serviços em regime de teletrabalho ou trabalho remoto por produção ou tarefa, não se aplicará o disposto no Capítulo II do Título II desta Consolidação. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 4º O regime de teletrabalho ou trabalho remoto não se confunde nem se equipara à ocupação de operador de telemarketing ou de teleatendimento. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 5º O tempo de uso de equipamentos tecnológicos e de infraestrutura necessária, bem como de softwares, de ferramentas digitais ou de aplicações de internet utilizados para o teletrabalho, fora da jornada de trabalho normal do empregado não constitui tempo à disposição ou regime de prontidão ou de sobreaviso, exceto se houver previsão em acordo individual ou em acordo ou convenção coletiva de trabalho. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 6º Fica permitida a adoção do regime de teletrabalho ou trabalho remoto para estagiários e aprendizes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 7º Aos empregados em regime de teletrabalho aplicam-se as disposições previstas na legislação local e nas convenções e nos acordos coletivos de trabalho relativas à base territorial do estabelecimento de lotação do empregado. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 8º Ao contrato de trabalho do empregado admitido no Brasil que optar pela realização de teletrabalho fora do território nacional aplica-se a legislação brasileira, excetuadas as disposições constantes da Lei nº 7.064, de 6 de dezembro de 1982, salvo disposição em contrário estipulada entre as partes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 9º Acordo individual poderá dispor sobre os horários e os meios de comunicação entre empregado e empregador, desde que assegurados os repousos legais. (Incluído pela Lei nº 14.442, de 2022)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II-A > Art. 75-B]\n##### Art. 75-B\n\nConsidera-se teletrabalho ou trabalho remoto a prestação de serviços fora das dependências do empregador, de maneira preponderante ou não, com a utilização de tecnologias de informação e de comunicação, que, por sua natureza, não configure trabalho externo. (Redação dada pela Lei nº 14.442, de 2022)\n\n§ 1º O comparecimento, ainda que de modo habitual, às dependências do empregador para a realização de atividades específicas que exijam a presença do empregado no estabelecimento não descaracteriza o regime de teletrabalho ou trabalho remoto. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 2º O empregado submetido ao regime de teletrabalho ou trabalho remoto poderá prestar serviços por jornada ou por produção ou tarefa. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 3º Na hipótese da prestação de serviços em regime de teletrabalho ou trabalho remoto por produção ou tarefa, não se aplicará o disposto no Capítulo II do Título II desta Consolidação. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 4º O regime de teletrabalho ou trabalho remoto não se confunde nem se equipara à ocupação de operador de telemarketing ou de teleatendimento. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 5º O tempo de uso de equipamentos tecnológicos e de infraestrutura necessária, bem como de softwares, de ferramentas digitais ou de aplicações de internet utilizados para o teletrabalho, fora da jornada de trabalho normal do empregado não constitui tempo à disposição ou regime de prontidão ou de sobreaviso, exceto se houver previsão em acordo individual ou em acordo ou convenção coletiva de trabalho. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 6º Fica permitida a adoção do regime de teletrabalho ou trabalho remoto para estagiários e aprendizes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 7º Aos empregados em regime de teletrabalho aplicam-se as disposições previstas na legislação local e nas convenções e nos acordos coletivos de trabalho relativas à base territorial do estabelecimento de lotação do empregado. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 8º Ao contrato de trabalho do empregado admitido no Brasil que optar pela realização de teletrabalho fora do território nacional aplica-se a legislação brasileira, excetuadas as disposições constantes da Lei nº 7.064, de 6 de dezembro de 1982, salvo disposição em contrário estipulada entre as partes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 9º Acordo individual poderá dispor sobre os horários e os meios de comunicação entre empregado e empregador, desde que assegurados os repousos legais. (Incluído pela Lei nº 14.442, de 2022)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2583,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2730,
+      "tokens_reais_corpo": 783,
+      "tokens_reais_total": 847,
+      "tokens_estimados_total": 682.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "231eca26b4c6b7c85c481a46732ae14382e365902e6161b6ed8c530985ac0bed",
+          "rank": 2,
+          "score": 0.008784446865320206
+        },
+        {
+          "chunk_id": "a2abba8874a759ca5a5b98781e9ac8908db2fd47965376ee6b57d20954375924",
+          "rank": 23,
+          "score": 0.0007390688406303525
+        },
+        {
+          "chunk_id": "00dfa9615400a9696aa63903a66c51103c1132a86738c15e7a21e529f4daa225",
+          "rank": 41,
+          "score": 0.0002082906139548868
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "6163c646044813c548c9f5198594dc66e16565eef6291ef10d17a6422b1ffb06",
+      "estrategia": "A_artigo",
+      "artigo_id": "1506560e2914c4028ca492642bffdec444fab92ab22ebfc7dedb66afed0e3e5f",
+      "artigo_ref": "Art. 444",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO I — DISPOSIÇÕES GERAIS > Art. 444]",
+      "corpo_chunk": "##### Art. 444\n\nAs relações contratuais de trabalho podem ser objeto de livre estipulação das partes interessadas em tudo quanto não contravenha às disposições de proteção ao trabalho, aos contratos coletivos que lhes sejam aplicáveis e às decisões das autoridades competentes.\n\nParágrafo único. A livre estipulação a que se refere o caput deste artigo aplica-se às hipóteses previstas no art. 611-A desta Consolidação, com a mesma eficácia legal e preponderância sobre os instrumentos coletivos, no caso de empregado portador de diploma de nível superior e que perceba salário mensal igual ou superior a duas vezes o limite máximo dos benefícios do Regime Geral de Previdência Social. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO I — DISPOSIÇÕES GERAIS > Art. 444]\n##### Art. 444\n\nAs relações contratuais de trabalho podem ser objeto de livre estipulação das partes interessadas em tudo quanto não contravenha às disposições de proteção ao trabalho, aos contratos coletivos que lhes sejam aplicáveis e às decisões das autoridades competentes.\n\nParágrafo único. A livre estipulação a que se refere o caput deste artigo aplica-se às hipóteses previstas no art. 611-A desta Consolidação, com a mesma eficácia legal e preponderância sobre os instrumentos coletivos, no caso de empregado portador de diploma de nível superior e que perceba salário mensal igual ou superior a duas vezes o limite máximo dos benefícios do Regime Geral de Previdência Social. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 726,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 885,
+      "tokens_reais_corpo": 194,
+      "tokens_reais_total": 261,
+      "tokens_estimados_total": 221.25,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "e37ae71b62454fb36982e3aa24a8738881e52c7bae5dcdd48e705783dad9194e",
+          "rank": 3,
+          "score": 0.00664452975615859
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[leis/1991/lei-8212-1991.md | TÍTULO VIII — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS > CAPÍTULO II — DAS DEMAIS DISPOSIÇÕES > Art. 21]\n##### Art. 21.\n\nA alíquota de contribuição dos segurados empresários, facultativo, trabalhador autônomo e equiparados é de vinte por cento, incidente sobre o respectivo salário-de-contribuição mensal, observado o disposto no inciso III do art. 28.\n\nParágrafo único. Os valores do salário-de-contribuição serão reajustados a partir da data de entrada em vigor desta Lei, na mesma época e com os mesmos índices que os do reajustamento dos benefícios de prestação continuada da Previdência Social.\n\n6 A Lei nº 9.317, de 5.12.96, dispôs sobre o tratamento diferenciado às microempresas e empresas de pequeno porte-SIMPLES\n\n7 A contribuição de empresa em relação às remunerações e retribuições pagas ou creditadas pelos serviços de segurados empresários, trabalhadores autônomos, avulsos e demais pessoas físicas, sem vínculo empregatício, está disciplinada pela Lei Complementar nº 84, de 18.1.96.\n\n8 Parágrafo acrescentado pela Medida Provisória nº 1.663-12, de 27.7.98, em curso como segue:\n\n§ 11. O disposto nos §§ 6º a 9º aplica-se à associação desportiva que mantém equipe de futebol profissional e que se organize na forma da Lei nº 9.615, de 24 de março de 1998.\n\n9 Esta alíquota, a partir de 01 de abril de 1992, por força da lei Complementar nº 70, de 30 de dezembro de 1991, passou a incidir sobre o faturamento mensal.\n\n10 A Lei nº 9.249, de 26 de dezembro de 1995, alterou a contribuição sobre o lucro líquido, passando a alíquota a ser de 8%.\n\n11 Alíquota elevada em mais 8% pela Lei Complementar nº 70, de 30 de dezembro de 1991 e posteriormente reduzida para 18% por força da Lei nº 9.249, de 26 de dezembro de 1995.\n\n12 Valor atualizado a partir de 1º de junho de 1998 para R$ 1.081,50 (um mil, oitenta e um reais e cinqüenta centavos\n\n13 Alínea revogada pela Medida Provisória nº 1.663-12, de 27.7.1998\n\n14 Itens de 6 a 9 acrescentados pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como se segue:\n\n\\6. recebidas a título de abono de férias na forma dos arts. 143 e 144 da CLT;\n\n\\7. recebidas a título de ganhos eventuais e os abonos expressamente desvinculados do salário;\n\n\\8. recebidas a título de licença prêmio indenizada;\n\n\\9. recebidas a título de indenização de que trata o art. 9º da Lei nº 7.238, de 29 de outubro de 1984.\n\n15 Alínea alterada pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como segue:\n\nt) o valor relativo a plano educacional que vise à educação básica, nos termos do art. 21 da Lei nº 9.394, de 20 de dezembro de 1996, e a cursos de capacitação e qualificação profissionais vinculados às atividades desenvolvidas pela empresa, desde que não seja utilizado em substituição de parcela salarial e que todos os empregados e dirigentes tenham acesso ao mesmo;\n\n16 Valores atualizados a partir de 1º de junho de 1998, pela Portaria MPAS nº 4.479, de 4.6.98, como segue:\n\n<table>\n<tr><td colspan=\"3\">ESCALA DE SALÁRIOS BASE</td></tr>\n<tr><td>CLASSE</td><td>SALÁRIO - BASE</td><td>NÚMERO MÍNIMO DE MESES DE PERMANÊNCIA EM CADA CLASSE (INTERSTÍCIOS)</td></tr>\n<tr><td>1</td><td>R$ 130,00</td><td>12</td></tr>\n<tr><td>2</td><td>R$ 216,30</td><td>12</td></tr>\n<tr><td>3</td><td>R$ 324,45</td><td>24</td></tr>\n<tr><td>4</td><td>R$ 432,59</td><td>24</td></tr>\n<tr><td>5</td><td>R$ 540,75</td><td>36</td></tr>\n<tr><td>6</td><td>R$ 648,90</td><td>48</td></tr>\n<tr><td>7</td><td>R$ 757,04</td><td>48</td></tr>\n<tr><td>8</td><td>R$ 865,21</td><td>60</td></tr>\n<tr><td>9</td><td>R$ 973,35</td><td>60</td></tr>\n<tr><td>10</td><td>R$ 1.081,50</td><td>-</td></tr>\n</table>\n\n17 Por força do disposto na Lei nº 9.063, de 14.6.95, esta disposição aplica-se somente ao contido no inciso II do art. 30.\n\n18 Parágrafo único renumerado para 1º e § 2º acrescentado pela Medida Provisória nº 1.663-12, de 27.7.98, como segue:\n\n§ 1º Recebida a notificação do débito a empresa ou segurado terá o prazo de 15 (quinze) dias para apresentar defesa, observado o disposto em regulamento.\n\n§ 2º Por ocasião da notificação de débito ou, quando for o caso, da inscrição na Dívida Ativa do Instituto Nacional do Seguro Social INSS, a fiscalização poderá proceder ao arrolamento de bens e direitos do sujeito passivo, conforme dispuser aquela autarquia previdenciária, observado, no que couber, o disposto nos §§ 1º a 6º, 8º e 9º do art. 64 da Lei nº 9.532, de 10 de dezembro de 1997.\n\n19 Valores atualizados a partir de 1º de junho de 1998, para R$ 15.904,18 (quinze mil, novecentos e quatro reais e dezoito centavos)\n\n20 Inciso alterado pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como segue:\n\nI - simultaneamente com a inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ\n\n21 Inciso alterado pela Medida Provisória nº 1.663-12, de 27.7.1998, em curso, como segue:\n\nII - perante o Instituto Nacional do Seguro Social INSS no prazo de 30 (trinta) dias contados do início de suas atividades, quando não sujeita a inscrição no Cadastro Nacional da Pessoa Jurídica CNPJ.\n\n22 Artigo revogado pela Medida Provisória nº 1.663-12, de 27.7.1998\n\n23 Artigo revogado pela Medida Provisória nº 1.663-12, de 27.7.1998\n\n24 Valores atualizados pela Portaria MPAS nº 4.479, de 4.6.98, a partir de 1º de junho de 1998, para, respectivamente, R$ 636,17 (seiscentos e trinta e seis reais e dezessete centavos) e R$ 63.617,35 (sessenta e três mil, seiscentos e dezessete reais e trinta e cinco centavos)\n\n25 Sem efeito para o auxílio-natalidade a partir de 1.1.96, por força do disposto na Lei nº 8.742, de 7.12.93.\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II-A > Art. 75-B]\n##### Art. 75-B\n\nConsidera-se teletrabalho ou trabalho remoto a prestação de serviços fora das dependências do empregador, de maneira preponderante ou não, com a utilização de tecnologias de informação e de comunicação, que, por sua natureza, não configure trabalho externo. (Redação dada pela Lei nº 14.442, de 2022)\n\n§ 1º O comparecimento, ainda que de modo habitual, às dependências do empregador para a realização de atividades específicas que exijam a presença do empregado no estabelecimento não descaracteriza o regime de teletrabalho ou trabalho remoto. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 2º O empregado submetido ao regime de teletrabalho ou trabalho remoto poderá prestar serviços por jornada ou por produção ou tarefa. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 3º Na hipótese da prestação de serviços em regime de teletrabalho ou trabalho remoto por produção ou tarefa, não se aplicará o disposto no Capítulo II do Título II desta Consolidação. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 4º O regime de teletrabalho ou trabalho remoto não se confunde nem se equipara à ocupação de operador de telemarketing ou de teleatendimento. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 5º O tempo de uso de equipamentos tecnológicos e de infraestrutura necessária, bem como de softwares, de ferramentas digitais ou de aplicações de internet utilizados para o teletrabalho, fora da jornada de trabalho normal do empregado não constitui tempo à disposição ou regime de prontidão ou de sobreaviso, exceto se houver previsão em acordo individual ou em acordo ou convenção coletiva de trabalho. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 6º Fica permitida a adoção do regime de teletrabalho ou trabalho remoto para estagiários e aprendizes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 7º Aos empregados em regime de teletrabalho aplicam-se as disposições previstas na legislação local e nas convenções e nos acordos coletivos de trabalho relativas à base territorial do estabelecimento de lotação do empregado. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 8º Ao contrato de trabalho do empregado admitido no Brasil que optar pela realização de teletrabalho fora do território nacional aplica-se a legislação brasileira, excetuadas as disposições constantes da Lei nº 7.064, de 6 de dezembro de 1982, salvo disposição em contrário estipulada entre as partes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 9º Acordo individual poderá dispor sobre os horários e os meios de comunicação entre empregado e empregador, desde que assegurados os repousos legais. (Incluído pela Lei nº 14.442, de 2022)\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO I — DISPOSIÇÕES GERAIS > Art. 444]\n##### Art. 444\n\nAs relações contratuais de trabalho podem ser objeto de livre estipulação das partes interessadas em tudo quanto não contravenha às disposições de proteção ao trabalho, aos contratos coletivos que lhes sejam aplicáveis e às decisões das autoridades competentes.\n\nParágrafo único. A livre estipulação a que se refere o caput deste artigo aplica-se às hipóteses previstas no art. 611-A desta Consolidação, com a mesma eficácia legal e preponderância sobre os instrumentos coletivos, no caso de empregado portador de diploma de nível superior e que perceba salário mensal igual ou superior a duas vezes o limite máximo dos benefícios do Regime Geral de Previdência Social. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "6b1fed4ccee6fb914ee3c68fc0d1867e55ab4b18328d582e84f174b20b5ac3bc",
+      "score": 0.010224764235317707
+    },
+    {
+      "chunk_id": "231eca26b4c6b7c85c481a46732ae14382e365902e6161b6ed8c530985ac0bed",
+      "score": 0.008784446865320206
+    },
+    {
+      "chunk_id": "e37ae71b62454fb36982e3aa24a8738881e52c7bae5dcdd48e705783dad9194e",
+      "score": 0.00664452975615859
+    },
+    {
+      "chunk_id": "ef19b6703e80e43e0f0665e5b04c9cda84adb56dcc48e6a340b1e3c55938e1b4",
+      "score": 0.005792667623609304
+    },
+    {
+      "chunk_id": "05fd61e86d1f3d4e7167c8a4779e9298da72fc7a4f0b29dd15789724b025c989",
+      "score": 0.004622533917427063
+    },
+    {
+      "chunk_id": "1584616e560b618b9bdf23a0da46fb6d03f1d197f7c41f39e59341b55c95e94e",
+      "score": 0.0034151750151067972
+    },
+    {
+      "chunk_id": "ba233fc80b387b6cc614238a9228010ae991babc94e522c806a3f0c30d7eb613",
+      "score": 0.0025114670861512423
+    },
+    {
+      "chunk_id": "da954c3ba24f1a421530c41a16d9fee25b5d523ca3d5c2074295e8c8cd3b356b",
+      "score": 0.002420451957732439
+    },
+    {
+      "chunk_id": "b9f4e8108165871247cb930042526f8fe047e853a3781c33af2bb57470705e9c",
+      "score": 0.0023604172747582197
+    },
+    {
+      "chunk_id": "930b552177af37d1b5f4aedaad7590183bb6398f384c39d0cae9660c84eb2d16",
+      "score": 0.002258815336972475
+    },
+    {
+      "chunk_id": "79904301626c3b9f4c868471905fd86f1b7e37c46b5f0e4dce25032018b396da",
+      "score": 0.002187282545492053
+    },
+    {
+      "chunk_id": "a2c3c25bbd6a046d368052b10dc67c416313daac7a668c8bece9843c0e564336",
+      "score": 0.0021498941350728273
+    },
+    {
+      "chunk_id": "0629c5583a5585be2e283cca16d04fc430bb258624380ca5b00c80f04ac112fa",
+      "score": 0.0017639751313254237
+    },
+    {
+      "chunk_id": "79efb305ae8cf5999356739888b583edaadd5b3f246b5f9ce26706c299227c92",
+      "score": 0.00160815694835037
+    },
+    {
+      "chunk_id": "5c7b869c19acde9d4f5d0479c3e09352dfbdd6fb3df6bd0321c8b7deee50f6c4",
+      "score": 0.0014056299114599824
+    },
+    {
+      "chunk_id": "b0b5e5362d594392b987fb68a86e09f1960011b42374ffd65abda407e8bbacde",
+      "score": 0.001283244346268475
+    },
+    {
+      "chunk_id": "c43ef77c239b9b8d3e370abcac51812b0b53f90a7082ade9b221a37e1afdfd77",
+      "score": 0.0012336327927187085
+    },
+    {
+      "chunk_id": "677385f7e51b7b44cb155401695f160296adafbf1bdc95cf80aba9b3dd916c31",
+      "score": 0.0012174369767308235
+    },
+    {
+      "chunk_id": "38abc20769fba1549070ea914b69f0bc7d260ce5c82928cc7064e1684cc0e84f",
+      "score": 0.001030407496728003
+    },
+    {
+      "chunk_id": "0660aa40b26d21c63a752b29f67105dac0f7f8377f21208414a2a811b4671f72",
+      "score": 0.0009545334614813328
+    },
+    {
+      "chunk_id": "0274397b0db2732e43fd2c661cbe899591e6f457afd53502e168ece9be931327",
+      "score": 0.0009348236490041018
+    },
+    {
+      "chunk_id": "2c1167eab50e239d9c27ca7f308f06e3ccf28e923d373fccd1e21f44c55ff2f7",
+      "score": 0.0008705988293513656
+    },
+    {
+      "chunk_id": "a2abba8874a759ca5a5b98781e9ac8908db2fd47965376ee6b57d20954375924",
+      "score": 0.0007390688406303525
+    },
+    {
+      "chunk_id": "3f68c9a97e8799980b5fe1c25c818d8595488c801d61ae32e9a0c9b5e028b380",
+      "score": 0.000716978800483048
+    },
+    {
+      "chunk_id": "e2562ab75c5621cc671d15432aa66b84c389b477a935c9f5b21f84968be40074",
+      "score": 0.0007110710721462965
+    },
+    {
+      "chunk_id": "90eea6b5be39af4746f9d110813164057cce0c55c355fa8338792a4b0d6cb0a1",
+      "score": 0.0006429483182728291
+    },
+    {
+      "chunk_id": "9d2e9ae22a34db25ae1b916e8c140fd480773e9034d6eb770be83df865a0ff74",
+      "score": 0.000636485347058624
+    },
+    {
+      "chunk_id": "c1a065632afa777aa784200fa80a1e2890347825052fa8d83feed3023dbd4115",
+      "score": 0.0006247149431146681
+    },
+    {
+      "chunk_id": "09665eaa5bef10e6737fb009e5a0b55cdf7f8573f20cd0bd4448491d0eeb354e",
+      "score": 0.0006064666085876524
+    },
+    {
+      "chunk_id": "10f6e397d58e8c0d4c8c0fa5ae77f15000b8f3e7a5887743934748c3fa0639f7",
+      "score": 0.0005739043117500842
+    },
+    {
+      "chunk_id": "f5ca0d6e4097428ac2a56b58520a010a40dcd2ba1a190b093396837bf1ca702f",
+      "score": 0.000527886557392776
+    },
+    {
+      "chunk_id": "81e5acfd8e2ce397894a09f7bb58fa0347a19780c192e92df6814eab68b69fcc",
+      "score": 0.000470641563879326
+    },
+    {
+      "chunk_id": "f7eb946d12e8fe2c649eb62ca68d9e9b49c966559e130326dd7de88a3ab05f17",
+      "score": 0.00043003555038012564
+    },
+    {
+      "chunk_id": "13788a3c1da0c19c5a719d3485e9e1097feb8e34b261b50ee421fadccfa7f112",
+      "score": 0.0004054814053233713
+    },
+    {
+      "chunk_id": "bc31fee36728ea9e8caf739162c1c4a4b2579650b1eca5c722c9d1c5694cfa4f",
+      "score": 0.0003883155295625329
+    },
+    {
+      "chunk_id": "733a7bb4db625c76c6933bab9ea855fbd5e1cbf5e7701657bcb7c033dc1254f4",
+      "score": 0.000364742852980271
+    },
+    {
+      "chunk_id": "150b4ff6fb25ab3a7cf43fffb077ff62242dfd655e2bad2c2bd25a867e797805",
+      "score": 0.0003179643827024847
+    },
+    {
+      "chunk_id": "87c751ee683582046f154e8061474e6500d220c117a0b6ab6e92c006d79a40a8",
+      "score": 0.00031767532345838845
+    },
+    {
+      "chunk_id": "a2bd56f0102d289c6c7df7249836b1ae451b1ad9b28fc5527e40a873ed5a7195",
+      "score": 0.0002784203679766506
+    },
+    {
+      "chunk_id": "dc7ee36f0e2df8a69cdf390f07131f9059b3d30d2f08488a2503300b78af52e3",
+      "score": 0.00023300985048990697
+    },
+    {
+      "chunk_id": "00dfa9615400a9696aa63903a66c51103c1132a86738c15e7a21e529f4daa225",
+      "score": 0.0002082906139548868
+    },
+    {
+      "chunk_id": "e218be82b73aa514135c435b7c92f3a6eff0f2e55e38d0cdea68d26b8ffbe909",
+      "score": 0.00020549654436763376
+    },
+    {
+      "chunk_id": "895448588f4f996cd6ab493d68042f3db865cd2653a083e1e2e97da39e4799d2",
+      "score": 0.00014055220526643097
+    },
+    {
+      "chunk_id": "84ece5cb327d10bd568af73cfa3c1e272a2d7d0d55074784c953d9d66f1d087d",
+      "score": 0.00014015004853717983
+    },
+    {
+      "chunk_id": "51d19352b529bd45615faeb97eefa31f39ce992b69e27b6566720b0917fd0455",
+      "score": 0.00011721594637492672
+    },
+    {
+      "chunk_id": "144f8634b408212eb3207a4b0f302582f0cfcee247695eeefd21764e586e0b24",
+      "score": 0.00010489948181202635
+    },
+    {
+      "chunk_id": "59ecfa4a563e1664335bcbb7aa744e53a325e02d5c0f6afd2a3c8d7e49b9df8a",
+      "score": 8.690178947290406e-05
+    },
+    {
+      "chunk_id": "6a61270b0cdab8482893a4fa3865e29565f343f6b9ed9ff505c673a608af8857",
+      "score": 8.06113239377737e-05
+    },
+    {
+      "chunk_id": "3bf5166a9723a762d49eaaa0ccac2f05a4834d79e57a443d1b0f075c5db615e4",
+      "score": 6.967429362703115e-05
+    },
+    {
+      "chunk_id": "2002235aae7602681a782b1ac2ad0c8d5e8b3aacb3d2b857e2ecff63c6901063",
+      "score": 4.4514315959531814e-05
+    }
+  ],
+  "hyde_cache_sha256": "11936dffbc4ca8939b835c2873235c51ab9d73eab4011f44b6263775d92b8815",
+  "hyde_text": "O tema abordado refere-se ao contrato de trabalho do atleta profissional de futebol nos EUA. É importante salientar que a legislação brasileira não regula diretamente esse tipo de contrato, pois se refere a um contexto jurídico estrangeiro. Portanto, qualquer busca em coleções de legislação brasileira não resultará em normas aplicáveis ao tema. A legislação dos EUA, por sua vez, é composta por leis específicas, como o Código do Trabalho dos EUA e acordos de contratação esportiva, que não estão disponíveis em fontes brasileiras. Ao realizar uma busca, é fundamental considerar que os termos \"atleta profissional\", \"futebol\" e \"contrato de trabalho\" podem gerar resultados em português, mas com conteúdo não alinhado ao contexto norte-americano. A consulta deve ser feita com cautela, pois a legislação brasileira não possui preceitos diretos sobre esse tema. Recomenda-se, portanto, que a busca seja feita com foco em fontes estrangeiras e que os resultados sejam verificados com base em contextos jurídicos específicos.",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 121727.85920000752,
+  "hash_configuracao": "d88d21011589991c71e337c65cb7969a98469504f5a3cbf3df42d9013784c717",
+  "embedding_corpus_recalculado": false
+}

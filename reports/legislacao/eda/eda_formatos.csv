@@ -1,0 +1,6 @@
+tipo_dispositivo,padrao_regex_utilizado,ocorrencias_totais
+Artigos com sufixos,\bArt\.?\s*\d+[-–—][A-Za-z]+\b,204
+Parágrafo único,Parágrafo\s+único,1041
+Parágrafos numerados,§\s*\d+[º°]?,5706
+Incisos (candidatos),^[ \t]*(?:\*\*)?[IVXLCDM]+\s*[-–—)],4725
+Alíneas (candidatas),^[ \t]*(?:\*\*)?[a-z]\),1285

@@ -1,0 +1,345 @@
+{
+  "query_id": "q_test_08",
+  "pergunta": "Quais ausências sem prejuízo do salário são enumeradas no art. 473 da CLT?",
+  "sources": [
+    {
+      "chunk_id": "e8b2735ea458227645f7fe0d0da5f2c0640d88e42862a544758ecb2ed858580a",
+      "estrategia": "A_artigo",
+      "artigo_id": "266062337230a568cd3c1e5d118c142ff4a57fb14ec70dcfe5376d188828944a",
+      "artigo_ref": "Art. 473",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO IV — DA SUSPENSÃO E DA INTERRUPÇÃO > Art. 473]",
+      "corpo_chunk": "##### Art. 473\n\nO empregado poderá deixar de comparecer ao serviço sem prejuízo do salário: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)\n\nI - até 2 (dois) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que, declarada em sua carteira de trabalho e previdência social, viva sob sua dependência econômica; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nII - até 3 (três) dias consecutivos, em virtude de casamento; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nIII - por 5 (cinco) dias consecutivos, em caso de nascimento de filho, de adoção ou de guarda compartilhada; (Redação dada pela Lei nº 14.457, de 2022)\n\nIV - por um dia, em cada 12 (doze) meses de trabalho, em caso de doação voluntária de sangue devidamente comprovada; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nV - até 2 (dois) dias consecutivos ou não, para o fim de se alistar eleitor, nos têrmos da lei respectiva. (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nVI - no período de tempo em que tiver de cumprir as exigências do Serviço Militar referidas na letra \"c\" do art. 65 da Lei nº 4.375, de 17 de agosto de 1964 (Lei do Serviço Militar). (Incluído pelo Decreto-lei nº 757, de 12.8.1969)\n\nVII - nos dias em que estiver comprovadamente realizando provas de exame vestibular para ingresso em estabelecimento de ensino superior. (Inciso incluído pela Lei nº 9.471, de 14.7.1997)\n\nVIII - pelo tempo que se fizer necessário, quando tiver que comparecer a juízo. (Incluído pela Lei nº 9.853, de 27.10.1999)\n\nIX - pelo tempo que se fizer necessário, quando, na qualidade de representante de entidade sindical, estiver participando de reunião oficial de organismo internacional do qual o Brasil seja membro. (Incluído pela Lei nº 11.304, de 2006)\n\nX - pelo tempo necessário para acompanhar sua esposa ou companheira em até 6 (seis) consultas médicas, ou em exames complementares, durante o período de gravidez; (Redação dada pela Lei nº 14.457, de 2022)\n\nXI - por 1 (um) dia por ano para acompanhar filho de até 6 (seis) anos em consulta médica. (Incluído dada pela Lei nº 13.257, de 2016)\n\nXII - até 3 (três) dias, em cada 12 (doze) meses de trabalho, em caso de realização de exames preventivos de câncer devidamente comprovada. (Incluído pela Lei nº 13.767, de 2018)\n\n§ 1º O prazo a que se refere o inciso III do caput deste artigo será contado a partir da data de nascimento do filho. (Redação dada pela Lei nº 15.156, de 2025)\n\n§ 2º Na hipótese de nascimento ou de adoção de criança com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika, o prazo a que se refere o inciso III do caput deste artigo será ampliado para 20 (vinte) dias. (Incluído pela Lei nº 15.156, de 2025)\n\n§ 3º O empregador informará o empregado sobre a possibilidade de deixar de comparecer ao serviço para a realização de exames preventivos do papilomavírus humano (HPV) e de câncer, nos termos do inciso XII do caput deste artigo. (Incluído pela Lei nº 15.377, de 2026)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO IV — DA SUSPENSÃO E DA INTERRUPÇÃO > Art. 473]\n##### Art. 473\n\nO empregado poderá deixar de comparecer ao serviço sem prejuízo do salário: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)\n\nI - até 2 (dois) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que, declarada em sua carteira de trabalho e previdência social, viva sob sua dependência econômica; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nII - até 3 (três) dias consecutivos, em virtude de casamento; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nIII - por 5 (cinco) dias consecutivos, em caso de nascimento de filho, de adoção ou de guarda compartilhada; (Redação dada pela Lei nº 14.457, de 2022)\n\nIV - por um dia, em cada 12 (doze) meses de trabalho, em caso de doação voluntária de sangue devidamente comprovada; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nV - até 2 (dois) dias consecutivos ou não, para o fim de se alistar eleitor, nos têrmos da lei respectiva. (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nVI - no período de tempo em que tiver de cumprir as exigências do Serviço Militar referidas na letra \"c\" do art. 65 da Lei nº 4.375, de 17 de agosto de 1964 (Lei do Serviço Militar). (Incluído pelo Decreto-lei nº 757, de 12.8.1969)\n\nVII - nos dias em que estiver comprovadamente realizando provas de exame vestibular para ingresso em estabelecimento de ensino superior. (Inciso incluído pela Lei nº 9.471, de 14.7.1997)\n\nVIII - pelo tempo que se fizer necessário, quando tiver que comparecer a juízo. (Incluído pela Lei nº 9.853, de 27.10.1999)\n\nIX - pelo tempo que se fizer necessário, quando, na qualidade de representante de entidade sindical, estiver participando de reunião oficial de organismo internacional do qual o Brasil seja membro. (Incluído pela Lei nº 11.304, de 2006)\n\nX - pelo tempo necessário para acompanhar sua esposa ou companheira em até 6 (seis) consultas médicas, ou em exames complementares, durante o período de gravidez; (Redação dada pela Lei nº 14.457, de 2022)\n\nXI - por 1 (um) dia por ano para acompanhar filho de até 6 (seis) anos em consulta médica. (Incluído dada pela Lei nº 13.257, de 2016)\n\nXII - até 3 (três) dias, em cada 12 (doze) meses de trabalho, em caso de realização de exames preventivos de câncer devidamente comprovada. (Incluído pela Lei nº 13.767, de 2018)\n\n§ 1º O prazo a que se refere o inciso III do caput deste artigo será contado a partir da data de nascimento do filho. (Redação dada pela Lei nº 15.156, de 2025)\n\n§ 2º Na hipótese de nascimento ou de adoção de criança com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika, o prazo a que se refere o inciso III do caput deste artigo será ampliado para 20 (vinte) dias. (Incluído pela Lei nº 15.156, de 2025)\n\n§ 3º O empregador informará o empregado sobre a possibilidade de deixar de comparecer ao serviço para a realização de exames preventivos do papilomavírus humano (HPV) e de câncer, nos termos do inciso XII do caput deste artigo. (Incluído pela Lei nº 15.377, de 2026)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 3051,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 3222,
+      "tokens_reais_corpo": 1019,
+      "tokens_reais_total": 1087,
+      "tokens_estimados_total": 805.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "6f2537fbf606da4f8bd171b61e0098740ea6dafd10f19f0a0f14c6abbb18de7a",
+          "rank": 1,
+          "score": 0.9806946516036987
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "afe74880489d4b2aa0eed3e4fcad2c7368eb60032bcc221ebec6220f6b28131e",
+      "estrategia": "A_artigo",
+      "artigo_id": "140633edb70021cdfd4a2296b21bdd08fc0a418c750878b1af7f3d610135fbe2",
+      "artigo_ref": "Art. 131",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO IV — DAS FÉRIAS ANUAIS > SEÇÃO I — DO DIREITO A FÉRIAS E DA SUA DURAÇÃO > Art. 131]",
+      "corpo_chunk": "##### Art. 131\n\nNão será considerada falta ao serviço, para os efeitos do artigo anterior, a ausência do empregado: (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nI - nos casos referidos no art. 473; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nIl - durante o licenciamento compulsório da empregada por motivo de maternidade ou aborto, observados os requisitos para percepção do salário-maternidade custeado pela Previdência Social; (Redação dada pela Lei nº 8.921, de 25.7.1994)\n\nIII - por motivo de acidente do trabalho ou enfermidade atestada pelo Instituto Nacional do Seguro Social - INSS, excetuada a hipótese do inciso IV do art. 133; (Redação dada pela Lei nº 8.726, de 5.11.1993)\n\nIV - justificada pela empresa, entendendo-se como tal a que não tiver determinado o desconto do correspondente salário; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nV - durante a suspensão preventiva para responder a inquérito administrativo ou de prisão preventiva, quando for impronunciado ou absolvido; e (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nVI - nos dias em que não tenha havido serviço, salvo na hipótese do inciso III do art. 133. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO IV — DAS FÉRIAS ANUAIS > SEÇÃO I — DO DIREITO A FÉRIAS E DA SUA DURAÇÃO > Art. 131]\n##### Art. 131\n\nNão será considerada falta ao serviço, para os efeitos do artigo anterior, a ausência do empregado: (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nI - nos casos referidos no art. 473; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nIl - durante o licenciamento compulsório da empregada por motivo de maternidade ou aborto, observados os requisitos para percepção do salário-maternidade custeado pela Previdência Social; (Redação dada pela Lei nº 8.921, de 25.7.1994)\n\nIII - por motivo de acidente do trabalho ou enfermidade atestada pelo Instituto Nacional do Seguro Social - INSS, excetuada a hipótese do inciso IV do art. 133; (Redação dada pela Lei nº 8.726, de 5.11.1993)\n\nIV - justificada pela empresa, entendendo-se como tal a que não tiver determinado o desconto do correspondente salário; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nV - durante a suspensão preventiva para responder a inquérito administrativo ou de prisão preventiva, quando for impronunciado ou absolvido; e (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nVI - nos dias em que não tenha havido serviço, salvo na hipótese do inciso III do art. 133. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1217,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1430,
+      "tokens_reais_corpo": 406,
+      "tokens_reais_total": 499,
+      "tokens_estimados_total": 357.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "60829f1c7dbedb4fb1299d64f0b04652f9cb0973c8063dff32adc9f7287fe5b3",
+          "rank": 2,
+          "score": 0.9452798366546631
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "50d179fe1b0323b28d7f1869a1e18fdad3f6e23223d892bf0fec844caab38691",
+      "estrategia": "A_artigo",
+      "artigo_id": "519a07792a180a2899099591366702564f9c9c4c36b28f9d8cc7fcfd572c36eb",
+      "artigo_ref": "Art. 6º",
+      "caminho_relativo": "leis/1949/lei-605-1949.md",
+      "sha256_fonte": "abb1abb11c4cd2af8c48fe7c69a58c2e8285e77190f93029622a1ee3d4832c69",
+      "status_declarado": "repealed",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/L0605.htm",
+      "date": -662342400000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[leis/1949/lei-605-1949.md | Art. 6º]",
+      "corpo_chunk": "## Art. 6º\n\nNão será devida a remuneração quando, sem motivo justificado, o empregado não tiver trabalhado durante toda a semana anterior, cumprindo integralmente o seu horário de trabalho.\n\n§ 1º São motivos justificados:\n\na) os previstos no artigo 473 e seu parágrafo único da Consolidação das Leis do Trabalho;\n\nb) a ausência do empregado devidamente justificada, a critério da administração do estabelecimento;\n\nc) a paralisação do serviço nos dias em que, por conveniência do empregador, não tenha havido trabalho;\n\nd) a ausência do empregado, até três dias consecutivos, em virtude do seu casamento;\n\ne) a falta ao serviço com fundamento na lei sobre acidente do trabalho;\n\nf) a doença do empregado, devidamente comprovada.\n\n§ 2º A doença será comprovada mediante atestado de médico da instituição da previdência social a que estiver filiado o empregado, e, na falta dêste e sucessivamente, de médico do Serviço Social do Comércio ou da Indústria; de médico da emprêsa ou por ela designado; de médico a serviço de representação federal, estadual ou municipal incumbido de assuntos de higiene ou de saúde pública; ou não existindo êstes, na localidade em que trabalhar, de médico de sua escôlha. (Redação dada pela Lei nº 2.761, de 26.4.56)\n\n§ 3º Nas empresas em que vigorar regime de trabalho reduzido, a freqüência exigida corresponderá ao número de dias em que o empregado tiver de trabalhar.\n\n§ 4º Durante período de emergência em saúde pública decorrente da Covid-19, a imposição de isolamento dispensará o empregado da comprovação de doença por 7 (sete) dias. (Incluído pela Lei nº 14.128, de 2021)\n\n§ 5º No caso de imposição de isolamento em razão da Covid-19, o trabalhador poderá apresentar como justificativa válida, no oitavo dia de afastamento, além do disposto neste artigo, documento de unidade de saúde do Sistema Único de Saúde (SUS) ou documento eletrônico regulamentado pelo Ministério da Saúde. (Incluído pela Lei nº 14.128, de 2021)\n\n",
+      "conteudo_chunk": "[leis/1949/lei-605-1949.md | Art. 6º]\n## Art. 6º\n\nNão será devida a remuneração quando, sem motivo justificado, o empregado não tiver trabalhado durante toda a semana anterior, cumprindo integralmente o seu horário de trabalho.\n\n§ 1º São motivos justificados:\n\na) os previstos no artigo 473 e seu parágrafo único da Consolidação das Leis do Trabalho;\n\nb) a ausência do empregado devidamente justificada, a critério da administração do estabelecimento;\n\nc) a paralisação do serviço nos dias em que, por conveniência do empregador, não tenha havido trabalho;\n\nd) a ausência do empregado, até três dias consecutivos, em virtude do seu casamento;\n\ne) a falta ao serviço com fundamento na lei sobre acidente do trabalho;\n\nf) a doença do empregado, devidamente comprovada.\n\n§ 2º A doença será comprovada mediante atestado de médico da instituição da previdência social a que estiver filiado o empregado, e, na falta dêste e sucessivamente, de médico do Serviço Social do Comércio ou da Indústria; de médico da emprêsa ou por ela designado; de médico a serviço de representação federal, estadual ou municipal incumbido de assuntos de higiene ou de saúde pública; ou não existindo êstes, na localidade em que trabalhar, de médico de sua escôlha. (Redação dada pela Lei nº 2.761, de 26.4.56)\n\n§ 3º Nas empresas em que vigorar regime de trabalho reduzido, a freqüência exigida corresponderá ao número de dias em que o empregado tiver de trabalhar.\n\n§ 4º Durante período de emergência em saúde pública decorrente da Covid-19, a imposição de isolamento dispensará o empregado da comprovação de doença por 7 (sete) dias. (Incluído pela Lei nº 14.128, de 2021)\n\n§ 5º No caso de imposição de isolamento em razão da Covid-19, o trabalhador poderá apresentar como justificativa válida, no oitavo dia de afastamento, além do disposto neste artigo, documento de unidade de saúde do Sistema Único de Saúde (SUS) ou documento eletrônico regulamentado pelo Ministério da Saúde. (Incluído pela Lei nº 14.128, de 2021)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1958,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1996,
+      "tokens_reais_corpo": 587,
+      "tokens_reais_total": 608,
+      "tokens_estimados_total": 499.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "e4ecc846897bd56f5d2eaada2a5bbdb147366c69e33f82b3cc92fee0f3681c6e",
+          "rank": 3,
+          "score": 0.8966575264930725
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO IV — DA SUSPENSÃO E DA INTERRUPÇÃO > Art. 473]\n##### Art. 473\n\nO empregado poderá deixar de comparecer ao serviço sem prejuízo do salário: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)\n\nI - até 2 (dois) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que, declarada em sua carteira de trabalho e previdência social, viva sob sua dependência econômica; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nII - até 3 (três) dias consecutivos, em virtude de casamento; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nIII - por 5 (cinco) dias consecutivos, em caso de nascimento de filho, de adoção ou de guarda compartilhada; (Redação dada pela Lei nº 14.457, de 2022)\n\nIV - por um dia, em cada 12 (doze) meses de trabalho, em caso de doação voluntária de sangue devidamente comprovada; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nV - até 2 (dois) dias consecutivos ou não, para o fim de se alistar eleitor, nos têrmos da lei respectiva. (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\nVI - no período de tempo em que tiver de cumprir as exigências do Serviço Militar referidas na letra \"c\" do art. 65 da Lei nº 4.375, de 17 de agosto de 1964 (Lei do Serviço Militar). (Incluído pelo Decreto-lei nº 757, de 12.8.1969)\n\nVII - nos dias em que estiver comprovadamente realizando provas de exame vestibular para ingresso em estabelecimento de ensino superior. (Inciso incluído pela Lei nº 9.471, de 14.7.1997)\n\nVIII - pelo tempo que se fizer necessário, quando tiver que comparecer a juízo. (Incluído pela Lei nº 9.853, de 27.10.1999)\n\nIX - pelo tempo que se fizer necessário, quando, na qualidade de representante de entidade sindical, estiver participando de reunião oficial de organismo internacional do qual o Brasil seja membro. (Incluído pela Lei nº 11.304, de 2006)\n\nX - pelo tempo necessário para acompanhar sua esposa ou companheira em até 6 (seis) consultas médicas, ou em exames complementares, durante o período de gravidez; (Redação dada pela Lei nº 14.457, de 2022)\n\nXI - por 1 (um) dia por ano para acompanhar filho de até 6 (seis) anos em consulta médica. (Incluído dada pela Lei nº 13.257, de 2016)\n\nXII - até 3 (três) dias, em cada 12 (doze) meses de trabalho, em caso de realização de exames preventivos de câncer devidamente comprovada. (Incluído pela Lei nº 13.767, de 2018)\n\n§ 1º O prazo a que se refere o inciso III do caput deste artigo será contado a partir da data de nascimento do filho. (Redação dada pela Lei nº 15.156, de 2025)\n\n§ 2º Na hipótese de nascimento ou de adoção de criança com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika, o prazo a que se refere o inciso III do caput deste artigo será ampliado para 20 (vinte) dias. (Incluído pela Lei nº 15.156, de 2025)\n\n§ 3º O empregador informará o empregado sobre a possibilidade de deixar de comparecer ao serviço para a realização de exames preventivos do papilomavírus humano (HPV) e de câncer, nos termos do inciso XII do caput deste artigo. (Incluído pela Lei nº 15.377, de 2026)\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO IV — DAS FÉRIAS ANUAIS > SEÇÃO I — DO DIREITO A FÉRIAS E DA SUA DURAÇÃO > Art. 131]\n##### Art. 131\n\nNão será considerada falta ao serviço, para os efeitos do artigo anterior, a ausência do empregado: (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nI - nos casos referidos no art. 473; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nIl - durante o licenciamento compulsório da empregada por motivo de maternidade ou aborto, observados os requisitos para percepção do salário-maternidade custeado pela Previdência Social; (Redação dada pela Lei nº 8.921, de 25.7.1994)\n\nIII - por motivo de acidente do trabalho ou enfermidade atestada pelo Instituto Nacional do Seguro Social - INSS, excetuada a hipótese do inciso IV do art. 133; (Redação dada pela Lei nº 8.726, de 5.11.1993)\n\nIV - justificada pela empresa, entendendo-se como tal a que não tiver determinado o desconto do correspondente salário; (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nV - durante a suspensão preventiva para responder a inquérito administrativo ou de prisão preventiva, quando for impronunciado ou absolvido; e (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\nVI - nos dias em que não tenha havido serviço, salvo na hipótese do inciso III do art. 133. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)\n\n\n\n[Fonte 3]\n[leis/1949/lei-605-1949.md | Art. 6º]\n## Art. 6º\n\nNão será devida a remuneração quando, sem motivo justificado, o empregado não tiver trabalhado durante toda a semana anterior, cumprindo integralmente o seu horário de trabalho.\n\n§ 1º São motivos justificados:\n\na) os previstos no artigo 473 e seu parágrafo único da Consolidação das Leis do Trabalho;\n\nb) a ausência do empregado devidamente justificada, a critério da administração do estabelecimento;\n\nc) a paralisação do serviço nos dias em que, por conveniência do empregador, não tenha havido trabalho;\n\nd) a ausência do empregado, até três dias consecutivos, em virtude do seu casamento;\n\ne) a falta ao serviço com fundamento na lei sobre acidente do trabalho;\n\nf) a doença do empregado, devidamente comprovada.\n\n§ 2º A doença será comprovada mediante atestado de médico da instituição da previdência social a que estiver filiado o empregado, e, na falta dêste e sucessivamente, de médico do Serviço Social do Comércio ou da Indústria; de médico da emprêsa ou por ela designado; de médico a serviço de representação federal, estadual ou municipal incumbido de assuntos de higiene ou de saúde pública; ou não existindo êstes, na localidade em que trabalhar, de médico de sua escôlha. (Redação dada pela Lei nº 2.761, de 26.4.56)\n\n§ 3º Nas empresas em que vigorar regime de trabalho reduzido, a freqüência exigida corresponderá ao número de dias em que o empregado tiver de trabalhar.\n\n§ 4º Durante período de emergência em saúde pública decorrente da Covid-19, a imposição de isolamento dispensará o empregado da comprovação de doença por 7 (sete) dias. (Incluído pela Lei nº 14.128, de 2021)\n\n§ 5º No caso de imposição de isolamento em razão da Covid-19, o trabalhador poderá apresentar como justificativa válida, no oitavo dia de afastamento, além do disposto neste artigo, documento de unidade de saúde do Sistema Único de Saúde (SUS) ou documento eletrônico regulamentado pelo Ministério da Saúde. (Incluído pela Lei nº 14.128, de 2021)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "6f2537fbf606da4f8bd171b61e0098740ea6dafd10f19f0a0f14c6abbb18de7a",
+      "score": 0.9806946516036987
+    },
+    {
+      "chunk_id": "60829f1c7dbedb4fb1299d64f0b04652f9cb0973c8063dff32adc9f7287fe5b3",
+      "score": 0.9452798366546631
+    },
+    {
+      "chunk_id": "e4ecc846897bd56f5d2eaada2a5bbdb147366c69e33f82b3cc92fee0f3681c6e",
+      "score": 0.8966575264930725
+    },
+    {
+      "chunk_id": "585968a4c4164073f6c958c099892d6fddce76959e8190658ebd8f4211085c46",
+      "score": 0.669860303401947
+    },
+    {
+      "chunk_id": "ac89f377ea75629808cc7b2829ccc859cd214ee59a6ed47f0b94d67b24696e86",
+      "score": 0.3970588445663452
+    },
+    {
+      "chunk_id": "c5a664ffd755c82c05a171fdd2dab0f6a9fd6def0c7301a827cc1141f2ec79a4",
+      "score": 0.19389329850673676
+    },
+    {
+      "chunk_id": "9bfee210ea94c2c37e0d9f749af3114c6cd3aab48d9e7b83980bbf3562b64114",
+      "score": 0.1344236582517624
+    },
+    {
+      "chunk_id": "e8d127276f3ff4ac6f102825ddce6696258529ad55786fcc23bfafd67ab44ae4",
+      "score": 0.12077751010656357
+    },
+    {
+      "chunk_id": "66433b619ba3001931f98e695ca10d08021fab1a3355fa831232bce585130303",
+      "score": 0.10251470655202866
+    },
+    {
+      "chunk_id": "ba2ed56809bc137861b134ac6bb3c50cec69c19cb6fafb480552cce52acc8171",
+      "score": 0.0803450495004654
+    },
+    {
+      "chunk_id": "05fd61e86d1f3d4e7167c8a4779e9298da72fc7a4f0b29dd15789724b025c989",
+      "score": 0.07517845928668976
+    },
+    {
+      "chunk_id": "052bb259584dac35b03d251172040dd92f6bcdb5fb2e683ff672a152eaf810b4",
+      "score": 0.07424546033143997
+    },
+    {
+      "chunk_id": "9771448e2f3c6418083ef5d1cd6ece417ad7a9e4e895eacb63a6820690477a8a",
+      "score": 0.07173993438482285
+    },
+    {
+      "chunk_id": "bfe56a7eb7273a3e6f0348284ebd42d556f0d68c58cbd9524537ff3f90cbda69",
+      "score": 0.06947873532772064
+    },
+    {
+      "chunk_id": "de9010dc51380035c5a3cdd19da8d465f2b36e613b971dc10319c7fcbab1aaa9",
+      "score": 0.04376966878771782
+    },
+    {
+      "chunk_id": "d73671d97df2f68e4df47ecb69855656473d752590c1322f3d0afc4bc4d678b5",
+      "score": 0.025701705366373062
+    },
+    {
+      "chunk_id": "4b5b184baf871d78627537c43413f113af106c5eac8dc071241e813ad238a7db",
+      "score": 0.025190485641360283
+    },
+    {
+      "chunk_id": "6532bee8f1ad5f00f6a52c8d98b9f02f0ea011b8e5536ec1e64bd30300446352",
+      "score": 0.024681739509105682
+    },
+    {
+      "chunk_id": "a3d062a220de48e2a2d2bf65c88311eb7844a8c5f6daef7dfa6655fd81d80456",
+      "score": 0.023706985637545586
+    },
+    {
+      "chunk_id": "bcb642b450bed8eb5d96bf0c7efe25f020598fcf79152cfe5778efc5e79aa040",
+      "score": 0.021612711250782013
+    },
+    {
+      "chunk_id": "8d2938089dc5710b5da3fad5e85c571c9e7053c956745935e77d9b90f9882c26",
+      "score": 0.020777124911546707
+    },
+    {
+      "chunk_id": "d2e0bdb1982aaf5e24e6578119d709450100b8445f1a440815de049b008bfadc",
+      "score": 0.018192017450928688
+    },
+    {
+      "chunk_id": "3c66052ebb3d88abea6162b58295c2799c3b4e48d53f4205902cab9eb9d7f675",
+      "score": 0.017895232886075974
+    },
+    {
+      "chunk_id": "1a49c3c4c1cf988021c405eef619d1f2020284b76daad45d894452c40f8063e1",
+      "score": 0.017029162496328354
+    },
+    {
+      "chunk_id": "767fbc8d4fc74c373a96f159aaae2dc4891caf484ba1d11e68466de537c33f1b",
+      "score": 0.016223780810832977
+    },
+    {
+      "chunk_id": "6e32a5a19f2781e9df33af9f98bc92bcac6e4c1ef4e4a0028717c252ca078525",
+      "score": 0.013788774609565735
+    },
+    {
+      "chunk_id": "1f61b3d86d56685159c3af6250faed7c2c37fd8033fd73dd9e57c4c153406b40",
+      "score": 0.013365581631660461
+    },
+    {
+      "chunk_id": "ad85c6be24cecc7fbd9b83d15a961645c1e25421d6da5b3a438d103a71b1887f",
+      "score": 0.011840839870274067
+    },
+    {
+      "chunk_id": "33d3845fc46cce59d2659c1f18bb364d853912d69a14b07587397a6d6fd0ecf5",
+      "score": 0.011366273276507854
+    },
+    {
+      "chunk_id": "59160f2e4542c85e787b6e23673bc6b6e366a246d352939266f7eb262fc7a98e",
+      "score": 0.009246462024748325
+    },
+    {
+      "chunk_id": "418bd0ab5cadf1a46e2d301a26bdd6f8d5ca05bd573e32cef2e3e1bd6af0d947",
+      "score": 0.008331794291734695
+    },
+    {
+      "chunk_id": "e8893aa0ec80fcbd7aea122ba750fba1f04a5a12301e95bc7c4fda41609dcbb3",
+      "score": 0.008219094015657902
+    },
+    {
+      "chunk_id": "9c4a81e26f85cefa43c7bb458afc420579bcc3c6f9404db58ef53ffb884b0684",
+      "score": 0.007860253565013409
+    },
+    {
+      "chunk_id": "63916cfa7a5edc6df854f556f556ac562db9b335e0d9bdd2bbc749bc0435c98d",
+      "score": 0.007651806343346834
+    },
+    {
+      "chunk_id": "2a3ddf86d279dcb9a3bf7d43ffd108788f15eea286e74006bb8ec58e6ed6d882",
+      "score": 0.007562618236988783
+    },
+    {
+      "chunk_id": "fab5c99586365e066bc0f4fac27fec37b14a3a5eec36cfc465d6e3f11c344082",
+      "score": 0.00689033605158329
+    },
+    {
+      "chunk_id": "fde03aeab4544153786918498dd41926582cd1f1e0e8c9868afbcb49f4b47dc2",
+      "score": 0.006367853377014399
+    },
+    {
+      "chunk_id": "42d2fdaf429e970ff3d8558ff759e27a176c409e10bab595a2d4b6a70c32d75e",
+      "score": 0.006279574241489172
+    },
+    {
+      "chunk_id": "c0044e7d3326de507602834426f5f029e4fe03ff9fdeae7fb49629fc191f00c9",
+      "score": 0.006188460625708103
+    },
+    {
+      "chunk_id": "89f91a96d2bc3144173e49aa067dfc4808ac757f25205957e3ffb28a40f25892",
+      "score": 0.006035481579601765
+    },
+    {
+      "chunk_id": "ecc1bc4e3ccf1d0ea9ee3f7cac37122f0542e1b6f809cc0a9b0c6e391effacff",
+      "score": 0.005447595380246639
+    },
+    {
+      "chunk_id": "955061c7933a0b7a48231d122f50dee55074abffdaedd752649942fdd5e33abd",
+      "score": 0.005145690869539976
+    },
+    {
+      "chunk_id": "db5115b890503c2cb800a2448a6426c1ec74993db66895de8cd9b31a6faf74c5",
+      "score": 0.004942450672388077
+    },
+    {
+      "chunk_id": "382e2af243ea47af482b4254d5e45c91f0d7550dda56f7af71e06c9d3f12c963",
+      "score": 0.004751202650368214
+    },
+    {
+      "chunk_id": "48e30555be25e12149d5cf06039ea22fa535e4998080c8cae42aaaa519d43b80",
+      "score": 0.004260864108800888
+    },
+    {
+      "chunk_id": "dc1c4040dc129648f2b0930eb9c2c49b351eb010e3b1533dda5721cddd41f49d",
+      "score": 0.004082527011632919
+    },
+    {
+      "chunk_id": "e8d0baa00f89d2b6675791d9dac09d44165952987da97cc345f09fc4e6402183",
+      "score": 0.0036768352147191763
+    },
+    {
+      "chunk_id": "b7ed507027cbf497603ed0f78086eded0b7a4e8ce9d8fc09496278bacc9a0ff6",
+      "score": 0.003153088968247175
+    },
+    {
+      "chunk_id": "612dfb61ecb9f24bbb097a78b3eb3f386d5dfe75dbdd1ccf0f6ef22da43a365e",
+      "score": 0.0022684151772409678
+    },
+    {
+      "chunk_id": "2d02f614df8b69460153134c5d906fd0d860aef9efd4e2b1d93d14a798845bd7",
+      "score": 0.00131913460791111
+    }
+  ],
+  "hyde_cache_sha256": "9e680e8bb2755b12b9859a37807e8103d58f08b2f13f634d0d577576b9fdee69",
+  "hyde_text": "O tema trata de ausências sem prejuízo do salário previstas no artigo 473 da Consolidação das Leis do Trabalho (CLT). O documento hipotético busca orientar a localização de textos relevantes em uma coleção de legislação brasileira, sem afirmar conteúdo específico ou citar normas com detalhes concretos. É importante destacar que o artigo 473 da CLT trata de ausências autorizadas, como as decorrentes de doenças, acidentes, ou outras situações de força maior, que não geram perda de salário. A busca deve considerar expressões como \"ausência sem prejuízo do salário\", \"justificativa de ausência\", \"férias\", \"doença\", \"acidente\", \"força maior\" ou \"autorização do empregador\". A consulta deve ser feita com cautela, evitando afirmações sobre a extensão ou natureza exata das condições. O documento não fornece respostas definitivas, apenas indica palavras-chave e contextos que podem auxiliar na localização de trechos legais. A busca deve ser realizada em fontes oficiais, com atenção à data de vigência e à redação do texto original.",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 157966.11700000358,
+  "hash_configuracao": "edab3fb7cb7cbe6c55d5d9ce8f78ceddf757f0d3e1c2b34fa28cccf2b5a77e61",
+  "embedding_corpus_recalculado": false
+}

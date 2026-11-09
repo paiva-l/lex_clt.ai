@@ -1,0 +1,360 @@
+{
+  "query_id": "q_test_01",
+  "pergunta": "Que exigência o art. 60 da CLT estabelece para a prorrogação de jornada em atividades insalubres e que exceção registra?",
+  "sources": [
+    {
+      "chunk_id": "0dd30d50b1324075f4ac267c103d1a7101764ffa8be5dbb1d256a4584896d3d6",
+      "estrategia": "A_artigo",
+      "artigo_id": "7d08e8164d7e61f22f7469764b702bea984e945b68f2c45280f0ccc3c0f2505e",
+      "artigo_ref": "Art. 60",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 60]",
+      "corpo_chunk": "##### Art. 60\n\nNas atividades insalubres, assim consideradas as constantes dos quadros mencionados no capítulo \"Da Segurança e da Medicina do Trabalho\", ou que neles venham a ser incluídas por ato do Ministro do Trabalho, Industria e Comercio, quaisquer prorrogações só poderão ser acordadas mediante licença prévia das autoridades competentes em matéria de higiene do trabalho, as quais, para esse efeito, procederão aos necessários exames locais e à verificação dos métodos e processos de trabalho, quer diretamente, quer por intermédio de autoridades sanitárias federais, estaduais e municipais, com quem entrarão em entendimento para tal fim.\n\nParágrafo único. Excetuam-se da exigência de licença prévia as jornadas de doze horas de trabalho por trinta e seis horas ininterruptas de descanso. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 60]\n##### Art. 60\n\nNas atividades insalubres, assim consideradas as constantes dos quadros mencionados no capítulo \"Da Segurança e da Medicina do Trabalho\", ou que neles venham a ser incluídas por ato do Ministro do Trabalho, Industria e Comercio, quaisquer prorrogações só poderão ser acordadas mediante licença prévia das autoridades competentes em matéria de higiene do trabalho, as quais, para esse efeito, procederão aos necessários exames locais e à verificação dos métodos e processos de trabalho, quer diretamente, quer por intermédio de autoridades sanitárias federais, estaduais e municipais, com quem entrarão em entendimento para tal fim.\n\nParágrafo único. Excetuam-se da exigência de licença prévia as jornadas de doze horas de trabalho por trinta e seis horas ininterruptas de descanso. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 848,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1052,
+      "tokens_reais_corpo": 239,
+      "tokens_reais_total": 325,
+      "tokens_estimados_total": 263.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "5907dc4ec14e5c91532ac68823c5815d1387a9d00dff1fc6d87800977a41fa4e",
+          "rank": 1,
+          "score": 0.9891319870948792
+        },
+        {
+          "chunk_id": "56fa0e767b230ec1455be1174090e1bf96ba59ded136d5f497e2615db45b9355",
+          "rank": 2,
+          "score": 0.8670560121536255
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "189154134fdd1f800711241711ae6429fec7a0a28a5433b32206ad908a6a0c56",
+      "estrategia": "A_artigo",
+      "artigo_id": "0481530c35d99813068c134c39f6d3d3a5a73296fa9d4d406897317f74e84e29",
+      "artigo_ref": "Art. 61",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 61]",
+      "corpo_chunk": "##### Art. 61\n\nOcorrendo necessidade imperiosa, poderá a duração do trabalho exceder do limite legal ou convencionado, seja para fazer face a motivo de força maior, seja para atender à realização ou conclusão de serviços inadiáveis ou cuja inexecução possa acarretar prejuízo manifesto.\n\n§ 1º O excesso, nos casos deste artigo, pode ser exigido independentemente de convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º - Nos casos de excesso de horário por motivo de força maior, a remuneração da hora excedente não será inferior à da hora normal. Nos demais casos de excesso previstos neste artigo, a remuneração será, pelo menos, 25% (vinte e cinco por cento) superior à da hora normal, e o trabalho não poderá exceder de 12 (doze) horas, desde que a lei não fixe expressamente outro limite.\n\n§ 3º - Sempre que ocorrer interrupção do trabalho, resultante de causas acidentais, ou de força maior, que determinem a impossibilidade de sua realização, a duração do trabalho poderá ser prorrogada pelo tempo necessário até o máximo de 2 (duas) horas, durante o número de dias indispensáveis à recuperação do tempo perdido, desde que não exceda de 10 (dez) horas diárias, em período não superior a 45 (quarenta e cinco) dias por ano, sujeita essa recuperação à prévia autorização da autoridade competente.\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 61]\n##### Art. 61\n\nOcorrendo necessidade imperiosa, poderá a duração do trabalho exceder do limite legal ou convencionado, seja para fazer face a motivo de força maior, seja para atender à realização ou conclusão de serviços inadiáveis ou cuja inexecução possa acarretar prejuízo manifesto.\n\n§ 1º O excesso, nos casos deste artigo, pode ser exigido independentemente de convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º - Nos casos de excesso de horário por motivo de força maior, a remuneração da hora excedente não será inferior à da hora normal. Nos demais casos de excesso previstos neste artigo, a remuneração será, pelo menos, 25% (vinte e cinco por cento) superior à da hora normal, e o trabalho não poderá exceder de 12 (doze) horas, desde que a lei não fixe expressamente outro limite.\n\n§ 3º - Sempre que ocorrer interrupção do trabalho, resultante de causas acidentais, ou de força maior, que determinem a impossibilidade de sua realização, a duração do trabalho poderá ser prorrogada pelo tempo necessário até o máximo de 2 (duas) horas, durante o número de dias indispensáveis à recuperação do tempo perdido, desde que não exceda de 10 (dez) horas diárias, em período não superior a 45 (quarenta e cinco) dias por ano, sujeita essa recuperação à prévia autorização da autoridade competente.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1361,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1565,
+      "tokens_reais_corpo": 383,
+      "tokens_reais_total": 469,
+      "tokens_estimados_total": 391.25,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "605c130c80446bb5d9f3223c78268f55ca06c5553f651989c91e8d7cd28059cd",
+          "rank": 3,
+          "score": 0.7115757465362549
+        },
+        {
+          "chunk_id": "42a95bed1d747fe5d29d6ac46c2301d1296e5ebf7e916a2ff89ee6b4715a1d81",
+          "rank": 4,
+          "score": 0.5404787659645081
+        },
+        {
+          "chunk_id": "d89bf4cf74675362e26bdc1b5b7bbbf6e631aa57b0636aff48f6afb3eef17bc5",
+          "rank": 7,
+          "score": 0.34572216868400574
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "4bde73226e4d53e5d75ba918dfea26e8b9f861f3f5ff3b581889bae3f607142f",
+      "estrategia": "A_artigo",
+      "artigo_id": "af78ab4e4e94342c7222d37979659bc1198e2eb8ca655a289aa2a1061ec25995",
+      "artigo_ref": "Art. 611-A",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TíTULO VI — CONVENÇÕES COLETIVAS DE TRABALHO > Art. 611-A]",
+      "corpo_chunk": "##### Art. 611-A\n\nA convenção coletiva e o acordo coletivo de trabalho têm prevalência sobre a lei quando, entre outros, dispuserem sobre: (Incluído pela Lei nº 13.467, de 2017)\n\nI - pacto quanto à jornada de trabalho, observados os limites constitucionais; (Incluído pela Lei nº 13.467, de 2017)\n\nII - banco de horas anual; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - intervalo intrajornada, respeitado o limite mínimo de trinta minutos para jornadas superiores a seis horas; (Incluído pela Lei nº 13.467, de 2017)\n\nIV - adesão ao Programa Seguro-Emprego (PSE), de que trata a Lei nº 13.189, de 19 de novembro de 2015; (Incluído pela Lei nº 13.467, de 2017)\n\nV - plano de cargos, salários e funções compatíveis com a condição pessoal do empregado, bem como identificação dos cargos que se enquadram como funções de confiança; (Incluído pela Lei nº 13.467, de 2017)\n\nVI - regulamento empresarial; (Incluído pela Lei nº 13.467, de 2017)\n\nVII - representante dos trabalhadores no local de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nVIII - teletrabalho, regime de sobreaviso, e trabalho intermitente; (Incluído pela Lei nº 13.467, de 2017)\n\nIX - remuneração por produtividade, incluídas as gorjetas percebidas pelo empregado, e remuneração por desempenho individual; (Incluído pela Lei nº 13.467, de 2017)\n\nX - modalidade de registro de jornada de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXI - troca do dia de feriado; (Incluído pela Lei nº 13.467, de 2017)\n\nXII - enquadramento do grau de insalubridade; (Incluído pela Lei nº 13.467, de 2017)\n\nXIII - prorrogação de jornada em ambientes insalubres, sem licença prévia das autoridades competentes do Ministério do Trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXIV - prêmios de incentivo em bens ou serviços, eventualmente concedidos em programas de incentivo; (Incluído pela Lei nº 13.467, de 2017)\n\nXV - participação nos lucros ou resultados da empresa. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1º No exame da convenção coletiva ou do acordo coletivo de trabalho, a Justiça do Trabalho observará o disposto no § 3º do art. 8º desta Consolidação. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 2º A inexistência de expressa indicação de contrapartidas recíprocas em convenção coletiva ou acordo coletivo de trabalho não ensejará sua nulidade por não caracterizar um vício do negócio jurídico. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 3º Se for pactuada cláusula que reduza o salário ou a jornada, a convenção coletiva ou o acordo coletivo de trabalho deverão prever a proteção dos empregados contra dispensa imotivada durante o prazo de vigência do instrumento coletivo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 4º Na hipótese de procedência de ação anulatória de cláusula de convenção coletiva ou de acordo coletivo de trabalho, quando houver a cláusula compensatória, esta deverá ser igualmente anulada, sem repetição do indébito. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 5º Os sindicatos subscritores de convenção coletiva ou de acordo coletivo de trabalho deverão participar, como litisconsortes necessários, em ação individual ou coletiva, que tenha como objeto a anulação de cláusulas desses instrumentos. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TíTULO VI — CONVENÇÕES COLETIVAS DE TRABALHO > Art. 611-A]\n##### Art. 611-A\n\nA convenção coletiva e o acordo coletivo de trabalho têm prevalência sobre a lei quando, entre outros, dispuserem sobre: (Incluído pela Lei nº 13.467, de 2017)\n\nI - pacto quanto à jornada de trabalho, observados os limites constitucionais; (Incluído pela Lei nº 13.467, de 2017)\n\nII - banco de horas anual; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - intervalo intrajornada, respeitado o limite mínimo de trinta minutos para jornadas superiores a seis horas; (Incluído pela Lei nº 13.467, de 2017)\n\nIV - adesão ao Programa Seguro-Emprego (PSE), de que trata a Lei nº 13.189, de 19 de novembro de 2015; (Incluído pela Lei nº 13.467, de 2017)\n\nV - plano de cargos, salários e funções compatíveis com a condição pessoal do empregado, bem como identificação dos cargos que se enquadram como funções de confiança; (Incluído pela Lei nº 13.467, de 2017)\n\nVI - regulamento empresarial; (Incluído pela Lei nº 13.467, de 2017)\n\nVII - representante dos trabalhadores no local de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nVIII - teletrabalho, regime de sobreaviso, e trabalho intermitente; (Incluído pela Lei nº 13.467, de 2017)\n\nIX - remuneração por produtividade, incluídas as gorjetas percebidas pelo empregado, e remuneração por desempenho individual; (Incluído pela Lei nº 13.467, de 2017)\n\nX - modalidade de registro de jornada de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXI - troca do dia de feriado; (Incluído pela Lei nº 13.467, de 2017)\n\nXII - enquadramento do grau de insalubridade; (Incluído pela Lei nº 13.467, de 2017)\n\nXIII - prorrogação de jornada em ambientes insalubres, sem licença prévia das autoridades competentes do Ministério do Trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXIV - prêmios de incentivo em bens ou serviços, eventualmente concedidos em programas de incentivo; (Incluído pela Lei nº 13.467, de 2017)\n\nXV - participação nos lucros ou resultados da empresa. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1º No exame da convenção coletiva ou do acordo coletivo de trabalho, a Justiça do Trabalho observará o disposto no § 3º do art. 8º desta Consolidação. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 2º A inexistência de expressa indicação de contrapartidas recíprocas em convenção coletiva ou acordo coletivo de trabalho não ensejará sua nulidade por não caracterizar um vício do negócio jurídico. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 3º Se for pactuada cláusula que reduza o salário ou a jornada, a convenção coletiva ou o acordo coletivo de trabalho deverão prever a proteção dos empregados contra dispensa imotivada durante o prazo de vigência do instrumento coletivo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 4º Na hipótese de procedência de ação anulatória de cláusula de convenção coletiva ou de acordo coletivo de trabalho, quando houver a cláusula compensatória, esta deverá ser igualmente anulada, sem repetição do indébito. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 5º Os sindicatos subscritores de convenção coletiva ou de acordo coletivo de trabalho deverão participar, como litisconsortes necessários, em ação individual ou coletiva, que tenha como objeto a anulação de cláusulas desses instrumentos. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 3220,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 3345,
+      "tokens_reais_corpo": 1086,
+      "tokens_reais_total": 1140,
+      "tokens_estimados_total": 836.25,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "6c1a02eb8d4ebcf6e0da85878e93cfb760d40f2a40af8bcf5cd79079624ba7d9",
+          "rank": 5,
+          "score": 0.41483017802238464
+        }
+      ],
+      "best_child_rank": 5,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 60]\n##### Art. 60\n\nNas atividades insalubres, assim consideradas as constantes dos quadros mencionados no capítulo \"Da Segurança e da Medicina do Trabalho\", ou que neles venham a ser incluídas por ato do Ministro do Trabalho, Industria e Comercio, quaisquer prorrogações só poderão ser acordadas mediante licença prévia das autoridades competentes em matéria de higiene do trabalho, as quais, para esse efeito, procederão aos necessários exames locais e à verificação dos métodos e processos de trabalho, quer diretamente, quer por intermédio de autoridades sanitárias federais, estaduais e municipais, com quem entrarão em entendimento para tal fim.\n\nParágrafo único. Excetuam-se da exigência de licença prévia as jornadas de doze horas de trabalho por trinta e seis horas ininterruptas de descanso. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II — DA DURAÇÃO DO TRABALHO > SEÇÃO II — DA JORNADA DE TRABALHO > Art. 61]\n##### Art. 61\n\nOcorrendo necessidade imperiosa, poderá a duração do trabalho exceder do limite legal ou convencionado, seja para fazer face a motivo de força maior, seja para atender à realização ou conclusão de serviços inadiáveis ou cuja inexecução possa acarretar prejuízo manifesto.\n\n§ 1º O excesso, nos casos deste artigo, pode ser exigido independentemente de convenção coletiva ou acordo coletivo de trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º - Nos casos de excesso de horário por motivo de força maior, a remuneração da hora excedente não será inferior à da hora normal. Nos demais casos de excesso previstos neste artigo, a remuneração será, pelo menos, 25% (vinte e cinco por cento) superior à da hora normal, e o trabalho não poderá exceder de 12 (doze) horas, desde que a lei não fixe expressamente outro limite.\n\n§ 3º - Sempre que ocorrer interrupção do trabalho, resultante de causas acidentais, ou de força maior, que determinem a impossibilidade de sua realização, a duração do trabalho poderá ser prorrogada pelo tempo necessário até o máximo de 2 (duas) horas, durante o número de dias indispensáveis à recuperação do tempo perdido, desde que não exceda de 10 (dez) horas diárias, em período não superior a 45 (quarenta e cinco) dias por ano, sujeita essa recuperação à prévia autorização da autoridade competente.\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TíTULO VI — CONVENÇÕES COLETIVAS DE TRABALHO > Art. 611-A]\n##### Art. 611-A\n\nA convenção coletiva e o acordo coletivo de trabalho têm prevalência sobre a lei quando, entre outros, dispuserem sobre: (Incluído pela Lei nº 13.467, de 2017)\n\nI - pacto quanto à jornada de trabalho, observados os limites constitucionais; (Incluído pela Lei nº 13.467, de 2017)\n\nII - banco de horas anual; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - intervalo intrajornada, respeitado o limite mínimo de trinta minutos para jornadas superiores a seis horas; (Incluído pela Lei nº 13.467, de 2017)\n\nIV - adesão ao Programa Seguro-Emprego (PSE), de que trata a Lei nº 13.189, de 19 de novembro de 2015; (Incluído pela Lei nº 13.467, de 2017)\n\nV - plano de cargos, salários e funções compatíveis com a condição pessoal do empregado, bem como identificação dos cargos que se enquadram como funções de confiança; (Incluído pela Lei nº 13.467, de 2017)\n\nVI - regulamento empresarial; (Incluído pela Lei nº 13.467, de 2017)\n\nVII - representante dos trabalhadores no local de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nVIII - teletrabalho, regime de sobreaviso, e trabalho intermitente; (Incluído pela Lei nº 13.467, de 2017)\n\nIX - remuneração por produtividade, incluídas as gorjetas percebidas pelo empregado, e remuneração por desempenho individual; (Incluído pela Lei nº 13.467, de 2017)\n\nX - modalidade de registro de jornada de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXI - troca do dia de feriado; (Incluído pela Lei nº 13.467, de 2017)\n\nXII - enquadramento do grau de insalubridade; (Incluído pela Lei nº 13.467, de 2017)\n\nXIII - prorrogação de jornada em ambientes insalubres, sem licença prévia das autoridades competentes do Ministério do Trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXIV - prêmios de incentivo em bens ou serviços, eventualmente concedidos em programas de incentivo; (Incluído pela Lei nº 13.467, de 2017)\n\nXV - participação nos lucros ou resultados da empresa. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1º No exame da convenção coletiva ou do acordo coletivo de trabalho, a Justiça do Trabalho observará o disposto no § 3º do art. 8º desta Consolidação. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 2º A inexistência de expressa indicação de contrapartidas recíprocas em convenção coletiva ou acordo coletivo de trabalho não ensejará sua nulidade por não caracterizar um vício do negócio jurídico. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 3º Se for pactuada cláusula que reduza o salário ou a jornada, a convenção coletiva ou o acordo coletivo de trabalho deverão prever a proteção dos empregados contra dispensa imotivada durante o prazo de vigência do instrumento coletivo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 4º Na hipótese de procedência de ação anulatória de cláusula de convenção coletiva ou de acordo coletivo de trabalho, quando houver a cláusula compensatória, esta deverá ser igualmente anulada, sem repetição do indébito. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 5º Os sindicatos subscritores de convenção coletiva ou de acordo coletivo de trabalho deverão participar, como litisconsortes necessários, em ação individual ou coletiva, que tenha como objeto a anulação de cláusulas desses instrumentos. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "5907dc4ec14e5c91532ac68823c5815d1387a9d00dff1fc6d87800977a41fa4e",
+      "score": 0.9891319870948792
+    },
+    {
+      "chunk_id": "56fa0e767b230ec1455be1174090e1bf96ba59ded136d5f497e2615db45b9355",
+      "score": 0.8670560121536255
+    },
+    {
+      "chunk_id": "605c130c80446bb5d9f3223c78268f55ca06c5553f651989c91e8d7cd28059cd",
+      "score": 0.7115757465362549
+    },
+    {
+      "chunk_id": "42a95bed1d747fe5d29d6ac46c2301d1296e5ebf7e916a2ff89ee6b4715a1d81",
+      "score": 0.5404787659645081
+    },
+    {
+      "chunk_id": "6c1a02eb8d4ebcf6e0da85878e93cfb760d40f2a40af8bcf5cd79079624ba7d9",
+      "score": 0.41483017802238464
+    },
+    {
+      "chunk_id": "8b5ff71cff1ded9635b660db68e79664fe02cc1f113cfc4b2ae5f1450ef2c033",
+      "score": 0.3569660484790802
+    },
+    {
+      "chunk_id": "d89bf4cf74675362e26bdc1b5b7bbbf6e631aa57b0636aff48f6afb3eef17bc5",
+      "score": 0.34572216868400574
+    },
+    {
+      "chunk_id": "f91e64a853b36e98223df759d82442adb5b14db8324eb5f467d158761dd0298e",
+      "score": 0.2937319874763489
+    },
+    {
+      "chunk_id": "a9150480ee3f92c6aec91ed74e1e6d33dc53184e09ada58d413057aa9ff1f025",
+      "score": 0.2899419665336609
+    },
+    {
+      "chunk_id": "abd1b0645a99f218dd12928dfe01f8fedac28663d6a0170384e88d20ea9cd2ef",
+      "score": 0.2354663610458374
+    },
+    {
+      "chunk_id": "d73671d97df2f68e4df47ecb69855656473d752590c1322f3d0afc4bc4d678b5",
+      "score": 0.23144644498825073
+    },
+    {
+      "chunk_id": "2aa6c93c0eac8c359522ccbaeabcedc6b6703ae3b36793a2acd793f6c795d789",
+      "score": 0.17195366322994232
+    },
+    {
+      "chunk_id": "55faf123670d9eb42d5980001f21d015a29c949feb99d21c0b535f97121b15a8",
+      "score": 0.16821600496768951
+    },
+    {
+      "chunk_id": "05fd61e86d1f3d4e7167c8a4779e9298da72fc7a4f0b29dd15789724b025c989",
+      "score": 0.1568198800086975
+    },
+    {
+      "chunk_id": "b107ef45076969e30470c4f78f2b3fc79fc8aa34ee25f2dcd1c4178f49851747",
+      "score": 0.15539410710334778
+    },
+    {
+      "chunk_id": "45b0f6af20171b6f9c49acb2caa4f03cb364ee40c871b727ee8370de1cd80240",
+      "score": 0.15067312121391296
+    },
+    {
+      "chunk_id": "ad4105b560989d3e6d2af23fb20a41a54e017f6fd7e51fb532dcd2924c7cf1f7",
+      "score": 0.1505984514951706
+    },
+    {
+      "chunk_id": "929504b72da347016de0800a60b2cd14b85531ce85be7cf007818ace0ced47fd",
+      "score": 0.12686152756214142
+    },
+    {
+      "chunk_id": "58492759d796c70ce40298c2d95697c687359d3f20f95195410145eed30c9952",
+      "score": 0.12451539188623428
+    },
+    {
+      "chunk_id": "fdbb8cf66b5f1e9170faa84e47e86008b9aae135f811de96f59bcaf48d3b0924",
+      "score": 0.11977242678403854
+    },
+    {
+      "chunk_id": "0c34281e190de5656c178d42b500975c0b43ca73bff554fd0eed9ad44bb4d904",
+      "score": 0.09420029819011688
+    },
+    {
+      "chunk_id": "3b9ad802853a083d65ba4c34c07dc9d0e0daccd10b042cc64de18acba667f6d5",
+      "score": 0.0901036262512207
+    },
+    {
+      "chunk_id": "46b350f7582f8e63627905d40cf91e1dfabe85698f8a44e87c96ac87f68a4853",
+      "score": 0.08474908769130707
+    },
+    {
+      "chunk_id": "ee92ccd1a3cedbf160fb99380d73251f32e8043aec596ce1a816a643841cfd54",
+      "score": 0.08266927301883698
+    },
+    {
+      "chunk_id": "5be78eb825b7fb5c57d0f36858c3d371ca033dc680740dd2b4f38ddba0dccfd1",
+      "score": 0.07675132155418396
+    },
+    {
+      "chunk_id": "f9757658904b994ce7b4f5d4c2eff3f660f64ce833404284392ddf584a5f7318",
+      "score": 0.07353143393993378
+    },
+    {
+      "chunk_id": "71a60e7862410aa989c5da2345062d56ea5cd6eeab24d26b1c0c8c16bb8677ac",
+      "score": 0.06957212835550308
+    },
+    {
+      "chunk_id": "4ea34896af1e112a15de9d3d05a7feaf840615547437a84d47985b650a047c31",
+      "score": 0.05848398059606552
+    },
+    {
+      "chunk_id": "01a6f042cec2812529383cad4eaec774b6141a37d32558e814c9c7bed0df3ac4",
+      "score": 0.056340377777814865
+    },
+    {
+      "chunk_id": "f8d9b66e9f2beb2ccc5128476e8cc22959b6adfb26362f1e1d8214726bf3c0ce",
+      "score": 0.05496625229716301
+    },
+    {
+      "chunk_id": "98172b8fcd0f8b54465ae8504b351eb27f90f2ace562ba94764e4d423b078ac8",
+      "score": 0.03939589112997055
+    },
+    {
+      "chunk_id": "7dfecf2dc75b16aa5d5c6fc925a63fbe7503229108f643570146671f55627b9d",
+      "score": 0.03805302083492279
+    },
+    {
+      "chunk_id": "1839de9c7208a600a6f8724054eccb2a2a3408e48941ac594a19d50d88e4a14f",
+      "score": 0.0357581228017807
+    },
+    {
+      "chunk_id": "9727da6d5a2dbf5915be5191f7b280096de45b90508ee41b005f7a249d2c2ba7",
+      "score": 0.03514982759952545
+    },
+    {
+      "chunk_id": "a2d7cfcbd8568c7b4630ef17cd6510c76e68581a63bac3745efe6cf0b129cccb",
+      "score": 0.03318868204951286
+    },
+    {
+      "chunk_id": "406fb92a5a5c1e113a8d774a75f3598b8254664918387923670c8815eaf14da5",
+      "score": 0.03271857276558876
+    },
+    {
+      "chunk_id": "637573fd46d639d472bc71e74c83a0067ebe3ee0f0535131c90c38f24d3bd953",
+      "score": 0.030556155368685722
+    },
+    {
+      "chunk_id": "0a1db4460945f57b61f7b7af870533000105d063ac51530a276ec941d5286db4",
+      "score": 0.02729538455605507
+    },
+    {
+      "chunk_id": "1e5fcc4c4832b4c1df933c22c658536fa33f7e13ae82a9a16edc309a97c40ab5",
+      "score": 0.0271883774548769
+    },
+    {
+      "chunk_id": "9c6ad7205c26496c1bd494ba09488f0bbf80fd9bbeeb241e99505328bfe9ed87",
+      "score": 0.025380810722708702
+    },
+    {
+      "chunk_id": "878f0fe80a13365348ebfc229ecefbc9d63bcac032ab69d34a03884461429b4f",
+      "score": 0.02427533082664013
+    },
+    {
+      "chunk_id": "6532bee8f1ad5f00f6a52c8d98b9f02f0ea011b8e5536ec1e64bd30300446352",
+      "score": 0.022097455337643623
+    },
+    {
+      "chunk_id": "336a328be2db36164a9ecfeb63342e27beb07fdcd3b7112ce7fa349341975834",
+      "score": 0.020249532535672188
+    },
+    {
+      "chunk_id": "f245d29ed1cb4c090c05991cd9c18afa7a16b3083f94b7a42c06f8572a12f9c7",
+      "score": 0.01670202612876892
+    },
+    {
+      "chunk_id": "21e3a89619a0a9834d0ac012285c19102fea041af7fd8b7eb7240b0bdef2a399",
+      "score": 0.01050515379756689
+    },
+    {
+      "chunk_id": "44d2bd27ce0fd9528d956f97a75ec3e019de9985ed60ef73f02c62ed5b7fc5ab",
+      "score": 0.009363136254251003
+    },
+    {
+      "chunk_id": "a56392a399a5b19ac0a42641e81dae502dc427304a97290a31347526fe06d6b7",
+      "score": 0.006155305076390505
+    },
+    {
+      "chunk_id": "5750a77cbca53fc3d51a72bf631c9cb7a1dc4ff37dae345461173e502cc93547",
+      "score": 0.005767060909420252
+    },
+    {
+      "chunk_id": "09665eaa5bef10e6737fb009e5a0b55cdf7f8573f20cd0bd4448491d0eeb354e",
+      "score": 0.0042191483080387115
+    },
+    {
+      "chunk_id": "c7a8820e7ce5df09863390058e27218b3cb34b99e7a391a1fb452094fab75b06",
+      "score": 0.0010748907225206494
+    }
+  ],
+  "hyde_cache_sha256": "c3287a748ddfb50e624d7b47ea61be940c1d0292ee6ff707facc1eb30e310b75",
+  "hyde_text": "O tema aborda a exigência prevista no artigo 60 da Consolidação das Leis do Trabalho (CLT) sobre a prorrogação da jornada de trabalho em atividades insalubres, bem como a exceção que pode ser aplicada. O documento hipotético orienta que a busca deve considerar expressões como \"prorrogação de jornada\", \"atividades insalubres\", \"exigência legal\", \"exceção\", e \"CLT\". É importante que a consulta inclua termos relacionados ao risco à saúde, como \"exposição\", \"condições insalubres\" ou \"proteção ao trabalhador\". A busca deve ser feita com cautela, evitando termos que possam levar a interpretações erradas ou a resultados não confiáveis. A exceção mencionada deve ser identificada por meio de frases como \"não se aplica em determinadas situações\" ou \"exceção de validade\". O documento não fornece citações diretas, artigos completos ou dados específicos, e não pode ser usado como base para conclusões jurídicas. A consulta deve ser feita com base em palavras-chave e estruturas semânticas, sem supor a validade ou aplicação de normas em contextos específicos.",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 101739.59369998192,
+  "hash_configuracao": "3d7bfa60b9e0ea543e3a88b18f82b7535cd4be8cbbbc04260c7173d69874b000",
+  "embedding_corpus_recalculado": false
+}

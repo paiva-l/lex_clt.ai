@@ -1,0 +1,365 @@
+{
+  "query_id": "q_test_06",
+  "pergunta": "Que definição e consequências do tempo à disposição são descritas no art. 4º da CLT?",
+  "sources": [
+    {
+      "chunk_id": "b2689dfe543e8f0d7a5a5ca586753f59a1fbae3e225b20c4e5c382b497673942",
+      "estrategia": "A_artigo",
+      "artigo_id": "96314259fa0a58eaafa69e272ad261620eb49e5508c93ae7b87ee1eb1582cabe",
+      "artigo_ref": "Art. 4º",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO I — INTRODUÇÃO > Art. 4º]",
+      "corpo_chunk": "##### Art. 4º\n\nConsidera-se como de serviço efetivo o período em que o empregado esteja à disposição do empregador, aguardando ou executando ordens, salvo disposição especial expressamente consignada.\n\n§ 1º Computar-se-ão, na contagem de tempo de serviço, para efeito de indenização e estabilidade, os períodos em que o empregado estiver afastado do trabalho prestando serviço militar e por motivo de acidente do trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º Por não se considerar tempo à disposição do empregador, não será computado como período extraordinário o que exceder a jornada normal, ainda que ultrapasse o limite de cinco minutos previsto no § 1º do art. 58 desta Consolidação, quando o empregado, por escolha própria, buscar proteção pessoal, em caso de insegurança nas vias públicas ou más condições climáticas, bem como adentrar ou permanecer nas dependências da empresa para exercer atividades particulares, entre outras: (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nI - práticas religiosas; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nII - descanso; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nIII - lazer; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nIV - estudo; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nV - alimentação; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nVI - atividades de relacionamento social; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nVII - higiene pessoal; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nVIII - troca de roupa ou uniforme, quando não houver obrigatoriedade de realizar a troca na empresa. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO I — INTRODUÇÃO > Art. 4º]\n##### Art. 4º\n\nConsidera-se como de serviço efetivo o período em que o empregado esteja à disposição do empregador, aguardando ou executando ordens, salvo disposição especial expressamente consignada.\n\n§ 1º Computar-se-ão, na contagem de tempo de serviço, para efeito de indenização e estabilidade, os períodos em que o empregado estiver afastado do trabalho prestando serviço militar e por motivo de acidente do trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º Por não se considerar tempo à disposição do empregador, não será computado como período extraordinário o que exceder a jornada normal, ainda que ultrapasse o limite de cinco minutos previsto no § 1º do art. 58 desta Consolidação, quando o empregado, por escolha própria, buscar proteção pessoal, em caso de insegurança nas vias públicas ou más condições climáticas, bem como adentrar ou permanecer nas dependências da empresa para exercer atividades particulares, entre outras: (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nI - práticas religiosas; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nII - descanso; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nIII - lazer; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nIV - estudo; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nV - alimentação; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nVI - atividades de relacionamento social; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nVII - higiene pessoal; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nVIII - troca de roupa ou uniforme, quando não houver obrigatoriedade de realizar a troca na empresa. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1669,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1768,
+      "tokens_reais_corpo": 551,
+      "tokens_reais_total": 594,
+      "tokens_estimados_total": 442.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "d73671d97df2f68e4df47ecb69855656473d752590c1322f3d0afc4bc4d678b5",
+          "rank": 1,
+          "score": 0.8444859981536865
+        },
+        {
+          "chunk_id": "19e5ec2db0ccbf927e37702c7e23c87190ed0c10393c4abebc8431a125d0f847",
+          "rank": 2,
+          "score": 0.8226317763328552
+        },
+        {
+          "chunk_id": "1a49c3c4c1cf988021c405eef619d1f2020284b76daad45d894452c40f8063e1",
+          "rank": 5,
+          "score": 0.30898770689964294
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "89789690ddb8b758fce6a75e219f803b65a0de3c6002e80b41cecce9d039a8ea",
+      "estrategia": "A_artigo",
+      "artigo_id": "396f7ef5d7ee2e03c034dce036f6b3ade66782bd0b24cab453ff3821441242f1",
+      "artigo_ref": "Art. 452-A",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO I — DISPOSIÇÕES GERAIS > Art. 452-A]",
+      "corpo_chunk": "##### Art. 452-A\n\nO contrato de trabalho intermitente deve ser celebrado por escrito e deve conter especificamente o valor da hora de trabalho, que não pode ser inferior ao valor horário do salário mínimo ou àquele devido aos demais empregados do estabelecimento que exerçam a mesma função em contrato intermitente ou não. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1º O empregador convocará, por qualquer meio de comunicação eficaz, para a prestação de serviços, informando qual será a jornada, com, pelo menos, três dias corridos de antecedência. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 2º Recebida a convocação, o empregado terá o prazo de um dia útil para responder ao chamado, presumindo-se, no silêncio, a recusa. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 3º A recusa da oferta não descaracteriza a subordinação para fins do contrato de trabalho intermitente. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 4º Aceita a oferta para o comparecimento ao trabalho, a parte que descumprir, sem justo motivo, pagará à outra parte, no prazo de trinta dias, multa de 50% (cinquenta por cento) da remuneração que seria devida, permitida a compensação em igual prazo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 5º O período de inatividade não será considerado tempo à disposição do empregador, podendo o trabalhador prestar serviços a outros contratantes. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 6º Ao final de cada período de prestação de serviço, o empregado receberá o pagamento imediato das seguintes parcelas: (Incluído pela Lei nº 13.467, de 2017)\n\nI - remuneração; (Incluído pela Lei nº 13.467, de 2017)\n\nII - férias proporcionais com acréscimo de um terço; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - décimo terceiro salário proporcional; (Incluído pela Lei nº 13.467, de 2017)\n\nIV - repouso semanal remunerado; e (Incluído pela Lei nº 13.467, de 2017)\n\nV - adicionais legais. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 7º O recibo de pagamento deverá conter a discriminação dos valores pagos relativos a cada uma das parcelas referidas no § 6º deste artigo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 8º O empregador efetuará o recolhimento da contribuição previdenciária e o depósito do Fundo de Garantia do Tempo de Serviço, na forma da lei, com base nos valores pagos no período mensal e fornecerá ao empregado comprovante do cumprimento dessas obrigações. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 9º A cada doze meses, o empregado adquire direito a usufruir, nos doze meses subsequentes, um mês de férias, período no qual não poderá ser convocado para prestar serviços pelo mesmo empregador. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO I — DISPOSIÇÕES GERAIS > Art. 452-A]\n##### Art. 452-A\n\nO contrato de trabalho intermitente deve ser celebrado por escrito e deve conter especificamente o valor da hora de trabalho, que não pode ser inferior ao valor horário do salário mínimo ou àquele devido aos demais empregados do estabelecimento que exerçam a mesma função em contrato intermitente ou não. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1º O empregador convocará, por qualquer meio de comunicação eficaz, para a prestação de serviços, informando qual será a jornada, com, pelo menos, três dias corridos de antecedência. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 2º Recebida a convocação, o empregado terá o prazo de um dia útil para responder ao chamado, presumindo-se, no silêncio, a recusa. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 3º A recusa da oferta não descaracteriza a subordinação para fins do contrato de trabalho intermitente. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 4º Aceita a oferta para o comparecimento ao trabalho, a parte que descumprir, sem justo motivo, pagará à outra parte, no prazo de trinta dias, multa de 50% (cinquenta por cento) da remuneração que seria devida, permitida a compensação em igual prazo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 5º O período de inatividade não será considerado tempo à disposição do empregador, podendo o trabalhador prestar serviços a outros contratantes. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 6º Ao final de cada período de prestação de serviço, o empregado receberá o pagamento imediato das seguintes parcelas: (Incluído pela Lei nº 13.467, de 2017)\n\nI - remuneração; (Incluído pela Lei nº 13.467, de 2017)\n\nII - férias proporcionais com acréscimo de um terço; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - décimo terceiro salário proporcional; (Incluído pela Lei nº 13.467, de 2017)\n\nIV - repouso semanal remunerado; e (Incluído pela Lei nº 13.467, de 2017)\n\nV - adicionais legais. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 7º O recibo de pagamento deverá conter a discriminação dos valores pagos relativos a cada uma das parcelas referidas no § 6º deste artigo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 8º O empregador efetuará o recolhimento da contribuição previdenciária e o depósito do Fundo de Garantia do Tempo de Serviço, na forma da lei, com base nos valores pagos no período mensal e fornecerá ao empregado comprovante do cumprimento dessas obrigações. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 9º A cada doze meses, o empregado adquire direito a usufruir, nos doze meses subsequentes, um mês de férias, período no qual não poderá ser convocado para prestar serviços pelo mesmo empregador. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2639,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2800,
+      "tokens_reais_corpo": 865,
+      "tokens_reais_total": 933,
+      "tokens_estimados_total": 700.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "4b5b184baf871d78627537c43413f113af106c5eac8dc071241e813ad238a7db",
+          "rank": 3,
+          "score": 0.44419723749160767
+        },
+        {
+          "chunk_id": "33d3845fc46cce59d2659c1f18bb364d853912d69a14b07587397a6d6fd0ecf5",
+          "rank": 11,
+          "score": 0.15892420709133148
+        },
+        {
+          "chunk_id": "5eeb4e08c27f1d305169bdfd67137b24bd151a569567b2fa1a47a3195ba97faa",
+          "rank": 32,
+          "score": 0.030872177332639694
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "b7fb420986bc82bb270c56bd815627fd7f812df6d0ab36318fdff89170f6f751",
+      "estrategia": "A_artigo",
+      "artigo_id": "d1feaaa2d8fccd5b10ed2b771077b3e68ae211d62ad74c2cef2d37f88a3f4618",
+      "artigo_ref": "Art. 75-B",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II-A > Art. 75-B]",
+      "corpo_chunk": "##### Art. 75-B\n\nConsidera-se teletrabalho ou trabalho remoto a prestação de serviços fora das dependências do empregador, de maneira preponderante ou não, com a utilização de tecnologias de informação e de comunicação, que, por sua natureza, não configure trabalho externo. (Redação dada pela Lei nº 14.442, de 2022)\n\n§ 1º O comparecimento, ainda que de modo habitual, às dependências do empregador para a realização de atividades específicas que exijam a presença do empregado no estabelecimento não descaracteriza o regime de teletrabalho ou trabalho remoto. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 2º O empregado submetido ao regime de teletrabalho ou trabalho remoto poderá prestar serviços por jornada ou por produção ou tarefa. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 3º Na hipótese da prestação de serviços em regime de teletrabalho ou trabalho remoto por produção ou tarefa, não se aplicará o disposto no Capítulo II do Título II desta Consolidação. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 4º O regime de teletrabalho ou trabalho remoto não se confunde nem se equipara à ocupação de operador de telemarketing ou de teleatendimento. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 5º O tempo de uso de equipamentos tecnológicos e de infraestrutura necessária, bem como de softwares, de ferramentas digitais ou de aplicações de internet utilizados para o teletrabalho, fora da jornada de trabalho normal do empregado não constitui tempo à disposição ou regime de prontidão ou de sobreaviso, exceto se houver previsão em acordo individual ou em acordo ou convenção coletiva de trabalho. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 6º Fica permitida a adoção do regime de teletrabalho ou trabalho remoto para estagiários e aprendizes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 7º Aos empregados em regime de teletrabalho aplicam-se as disposições previstas na legislação local e nas convenções e nos acordos coletivos de trabalho relativas à base territorial do estabelecimento de lotação do empregado. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 8º Ao contrato de trabalho do empregado admitido no Brasil que optar pela realização de teletrabalho fora do território nacional aplica-se a legislação brasileira, excetuadas as disposições constantes da Lei nº 7.064, de 6 de dezembro de 1982, salvo disposição em contrário estipulada entre as partes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 9º Acordo individual poderá dispor sobre os horários e os meios de comunicação entre empregado e empregador, desde que assegurados os repousos legais. (Incluído pela Lei nº 14.442, de 2022)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II-A > Art. 75-B]\n##### Art. 75-B\n\nConsidera-se teletrabalho ou trabalho remoto a prestação de serviços fora das dependências do empregador, de maneira preponderante ou não, com a utilização de tecnologias de informação e de comunicação, que, por sua natureza, não configure trabalho externo. (Redação dada pela Lei nº 14.442, de 2022)\n\n§ 1º O comparecimento, ainda que de modo habitual, às dependências do empregador para a realização de atividades específicas que exijam a presença do empregado no estabelecimento não descaracteriza o regime de teletrabalho ou trabalho remoto. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 2º O empregado submetido ao regime de teletrabalho ou trabalho remoto poderá prestar serviços por jornada ou por produção ou tarefa. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 3º Na hipótese da prestação de serviços em regime de teletrabalho ou trabalho remoto por produção ou tarefa, não se aplicará o disposto no Capítulo II do Título II desta Consolidação. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 4º O regime de teletrabalho ou trabalho remoto não se confunde nem se equipara à ocupação de operador de telemarketing ou de teleatendimento. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 5º O tempo de uso de equipamentos tecnológicos e de infraestrutura necessária, bem como de softwares, de ferramentas digitais ou de aplicações de internet utilizados para o teletrabalho, fora da jornada de trabalho normal do empregado não constitui tempo à disposição ou regime de prontidão ou de sobreaviso, exceto se houver previsão em acordo individual ou em acordo ou convenção coletiva de trabalho. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 6º Fica permitida a adoção do regime de teletrabalho ou trabalho remoto para estagiários e aprendizes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 7º Aos empregados em regime de teletrabalho aplicam-se as disposições previstas na legislação local e nas convenções e nos acordos coletivos de trabalho relativas à base territorial do estabelecimento de lotação do empregado. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 8º Ao contrato de trabalho do empregado admitido no Brasil que optar pela realização de teletrabalho fora do território nacional aplica-se a legislação brasileira, excetuadas as disposições constantes da Lei nº 7.064, de 6 de dezembro de 1982, salvo disposição em contrário estipulada entre as partes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 9º Acordo individual poderá dispor sobre os horários e os meios de comunicação entre empregado e empregador, desde que assegurados os repousos legais. (Incluído pela Lei nº 14.442, de 2022)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2583,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2730,
+      "tokens_reais_corpo": 783,
+      "tokens_reais_total": 847,
+      "tokens_estimados_total": 682.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "7f29d3872184d440ceea9b8626b53027ff9c56905c9cc119da80bd759f015fc0",
+          "rank": 4,
+          "score": 0.39842846989631653
+        }
+      ],
+      "best_child_rank": 4,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO I — INTRODUÇÃO > Art. 4º]\n##### Art. 4º\n\nConsidera-se como de serviço efetivo o período em que o empregado esteja à disposição do empregador, aguardando ou executando ordens, salvo disposição especial expressamente consignada.\n\n§ 1º Computar-se-ão, na contagem de tempo de serviço, para efeito de indenização e estabilidade, os períodos em que o empregado estiver afastado do trabalho prestando serviço militar e por motivo de acidente do trabalho. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)\n\n§ 2º Por não se considerar tempo à disposição do empregador, não será computado como período extraordinário o que exceder a jornada normal, ainda que ultrapasse o limite de cinco minutos previsto no § 1º do art. 58 desta Consolidação, quando o empregado, por escolha própria, buscar proteção pessoal, em caso de insegurança nas vias públicas ou más condições climáticas, bem como adentrar ou permanecer nas dependências da empresa para exercer atividades particulares, entre outras: (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nI - práticas religiosas; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nII - descanso; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nIII - lazer; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nIV - estudo; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nV - alimentação; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nVI - atividades de relacionamento social; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nVII - higiene pessoal; (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\nVIII - troca de roupa ou uniforme, quando não houver obrigatoriedade de realizar a troca na empresa. (Incluído pela Lei nº 13.467, de 2017) (Vigência)\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO I — DISPOSIÇÕES GERAIS > Art. 452-A]\n##### Art. 452-A\n\nO contrato de trabalho intermitente deve ser celebrado por escrito e deve conter especificamente o valor da hora de trabalho, que não pode ser inferior ao valor horário do salário mínimo ou àquele devido aos demais empregados do estabelecimento que exerçam a mesma função em contrato intermitente ou não. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 1º O empregador convocará, por qualquer meio de comunicação eficaz, para a prestação de serviços, informando qual será a jornada, com, pelo menos, três dias corridos de antecedência. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 2º Recebida a convocação, o empregado terá o prazo de um dia útil para responder ao chamado, presumindo-se, no silêncio, a recusa. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 3º A recusa da oferta não descaracteriza a subordinação para fins do contrato de trabalho intermitente. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 4º Aceita a oferta para o comparecimento ao trabalho, a parte que descumprir, sem justo motivo, pagará à outra parte, no prazo de trinta dias, multa de 50% (cinquenta por cento) da remuneração que seria devida, permitida a compensação em igual prazo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 5º O período de inatividade não será considerado tempo à disposição do empregador, podendo o trabalhador prestar serviços a outros contratantes. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 6º Ao final de cada período de prestação de serviço, o empregado receberá o pagamento imediato das seguintes parcelas: (Incluído pela Lei nº 13.467, de 2017)\n\nI - remuneração; (Incluído pela Lei nº 13.467, de 2017)\n\nII - férias proporcionais com acréscimo de um terço; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - décimo terceiro salário proporcional; (Incluído pela Lei nº 13.467, de 2017)\n\nIV - repouso semanal remunerado; e (Incluído pela Lei nº 13.467, de 2017)\n\nV - adicionais legais. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 7º O recibo de pagamento deverá conter a discriminação dos valores pagos relativos a cada uma das parcelas referidas no § 6º deste artigo. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 8º O empregador efetuará o recolhimento da contribuição previdenciária e o depósito do Fundo de Garantia do Tempo de Serviço, na forma da lei, com base nos valores pagos no período mensal e fornecerá ao empregado comprovante do cumprimento dessas obrigações. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 9º A cada doze meses, o empregado adquire direito a usufruir, nos doze meses subsequentes, um mês de férias, período no qual não poderá ser convocado para prestar serviços pelo mesmo empregador. (Incluído pela Lei nº 13.467, de 2017)\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO > CAPÍTULO II-A > Art. 75-B]\n##### Art. 75-B\n\nConsidera-se teletrabalho ou trabalho remoto a prestação de serviços fora das dependências do empregador, de maneira preponderante ou não, com a utilização de tecnologias de informação e de comunicação, que, por sua natureza, não configure trabalho externo. (Redação dada pela Lei nº 14.442, de 2022)\n\n§ 1º O comparecimento, ainda que de modo habitual, às dependências do empregador para a realização de atividades específicas que exijam a presença do empregado no estabelecimento não descaracteriza o regime de teletrabalho ou trabalho remoto. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 2º O empregado submetido ao regime de teletrabalho ou trabalho remoto poderá prestar serviços por jornada ou por produção ou tarefa. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 3º Na hipótese da prestação de serviços em regime de teletrabalho ou trabalho remoto por produção ou tarefa, não se aplicará o disposto no Capítulo II do Título II desta Consolidação. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 4º O regime de teletrabalho ou trabalho remoto não se confunde nem se equipara à ocupação de operador de telemarketing ou de teleatendimento. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 5º O tempo de uso de equipamentos tecnológicos e de infraestrutura necessária, bem como de softwares, de ferramentas digitais ou de aplicações de internet utilizados para o teletrabalho, fora da jornada de trabalho normal do empregado não constitui tempo à disposição ou regime de prontidão ou de sobreaviso, exceto se houver previsão em acordo individual ou em acordo ou convenção coletiva de trabalho. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 6º Fica permitida a adoção do regime de teletrabalho ou trabalho remoto para estagiários e aprendizes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 7º Aos empregados em regime de teletrabalho aplicam-se as disposições previstas na legislação local e nas convenções e nos acordos coletivos de trabalho relativas à base territorial do estabelecimento de lotação do empregado. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 8º Ao contrato de trabalho do empregado admitido no Brasil que optar pela realização de teletrabalho fora do território nacional aplica-se a legislação brasileira, excetuadas as disposições constantes da Lei nº 7.064, de 6 de dezembro de 1982, salvo disposição em contrário estipulada entre as partes. (Incluído pela Lei nº 14.442, de 2022)\n\n§ 9º Acordo individual poderá dispor sobre os horários e os meios de comunicação entre empregado e empregador, desde que assegurados os repousos legais. (Incluído pela Lei nº 14.442, de 2022)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "d73671d97df2f68e4df47ecb69855656473d752590c1322f3d0afc4bc4d678b5",
+      "score": 0.8444859981536865
+    },
+    {
+      "chunk_id": "19e5ec2db0ccbf927e37702c7e23c87190ed0c10393c4abebc8431a125d0f847",
+      "score": 0.8226317763328552
+    },
+    {
+      "chunk_id": "4b5b184baf871d78627537c43413f113af106c5eac8dc071241e813ad238a7db",
+      "score": 0.44419723749160767
+    },
+    {
+      "chunk_id": "7f29d3872184d440ceea9b8626b53027ff9c56905c9cc119da80bd759f015fc0",
+      "score": 0.39842846989631653
+    },
+    {
+      "chunk_id": "1a49c3c4c1cf988021c405eef619d1f2020284b76daad45d894452c40f8063e1",
+      "score": 0.30898770689964294
+    },
+    {
+      "chunk_id": "f64265d61e5a9595f73fb9e6c23f591d1a4a7dde0fe6fabc5742bac9401cbbea",
+      "score": 0.30568593740463257
+    },
+    {
+      "chunk_id": "fab5c99586365e066bc0f4fac27fec37b14a3a5eec36cfc465d6e3f11c344082",
+      "score": 0.26043176651000977
+    },
+    {
+      "chunk_id": "8683597d661eb45d0000ff852e944307e1c09d5065c7d43d01a3ff76c2cf0f24",
+      "score": 0.22220075130462646
+    },
+    {
+      "chunk_id": "6f2537fbf606da4f8bd171b61e0098740ea6dafd10f19f0a0f14c6abbb18de7a",
+      "score": 0.2217363715171814
+    },
+    {
+      "chunk_id": "473bae346d831031520e9892c22dfa450ef541a1d8ffe7f52b3dd81f1c5557e5",
+      "score": 0.2107357680797577
+    },
+    {
+      "chunk_id": "33d3845fc46cce59d2659c1f18bb364d853912d69a14b07587397a6d6fd0ecf5",
+      "score": 0.15892420709133148
+    },
+    {
+      "chunk_id": "6a354b98bcda12ae59acd34521ee051809427106a6a8ebcbae8238d93ba6990e",
+      "score": 0.13988488912582397
+    },
+    {
+      "chunk_id": "ffd0d2a35e5d3678ac01ce6fef202e5fcaff96a1353af50c30cbb4f47b553774",
+      "score": 0.10593128949403763
+    },
+    {
+      "chunk_id": "c309f7c98e53da3a57737d1b1c8c2b23849680f707e136c95b300eb62431759d",
+      "score": 0.07655546814203262
+    },
+    {
+      "chunk_id": "855f9aef92632504dca98b61af61c00d1af60d85edd28ff9b0ddef5747ef9631",
+      "score": 0.07491037994623184
+    },
+    {
+      "chunk_id": "bd676f48e27ba03b356600b49fcd4503e7441ba66aaa350d1ba9e0fa713f8d8d",
+      "score": 0.06830000877380371
+    },
+    {
+      "chunk_id": "a9150480ee3f92c6aec91ed74e1e6d33dc53184e09ada58d413057aa9ff1f025",
+      "score": 0.06353698670864105
+    },
+    {
+      "chunk_id": "e38cc17d294023ed888430ef93acc6b35214967241ab586cf042769bb7e0d73d",
+      "score": 0.06301894038915634
+    },
+    {
+      "chunk_id": "9fab0f089381d6444f7b7f2cef806753e6923ca0402e987ab7c05aaaa7599ae8",
+      "score": 0.06267942488193512
+    },
+    {
+      "chunk_id": "90c5ae8aebef9c998e650ec5d98e685fdacc56070f7a2733b6ff844cdc43a971",
+      "score": 0.06255198270082474
+    },
+    {
+      "chunk_id": "ae6fcdf9cb4c26069f25e75432435db00e82f5a69ff7879b184bcd0a112b98da",
+      "score": 0.058903489261865616
+    },
+    {
+      "chunk_id": "76c9b8c2f730cc90a3676e138d649c8eac226e5019f72471b449a0e9bf88984e",
+      "score": 0.04945852980017662
+    },
+    {
+      "chunk_id": "4627ea4058c44c029aa8b3b246e2825d3cc9c0964dd6177f202f77a07a4fa3b3",
+      "score": 0.048797961324453354
+    },
+    {
+      "chunk_id": "637573fd46d639d472bc71e74c83a0067ebe3ee0f0535131c90c38f24d3bd953",
+      "score": 0.046082571148872375
+    },
+    {
+      "chunk_id": "54c778ad9303d5750338728a6e709e94b111a79c29dec04aa7c129bdf851d51a",
+      "score": 0.0445793941617012
+    },
+    {
+      "chunk_id": "1e5fcc4c4832b4c1df933c22c658536fa33f7e13ae82a9a16edc309a97c40ab5",
+      "score": 0.04152563586831093
+    },
+    {
+      "chunk_id": "b7e08e73758e68d20694231f933914e20998577f605bce967b4c62d381757ffd",
+      "score": 0.040634527802467346
+    },
+    {
+      "chunk_id": "a2a33578813a71d297d62a9d76a616cb7e6e31e6cb26b1cee6478afae51bf9ec",
+      "score": 0.03705553710460663
+    },
+    {
+      "chunk_id": "d2e0bdb1982aaf5e24e6578119d709450100b8445f1a440815de049b008bfadc",
+      "score": 0.03544238209724426
+    },
+    {
+      "chunk_id": "a2c3c25bbd6a046d368052b10dc67c416313daac7a668c8bece9843c0e564336",
+      "score": 0.0312727726995945
+    },
+    {
+      "chunk_id": "585968a4c4164073f6c958c099892d6fddce76959e8190658ebd8f4211085c46",
+      "score": 0.031070556491613388
+    },
+    {
+      "chunk_id": "5eeb4e08c27f1d305169bdfd67137b24bd151a569567b2fa1a47a3195ba97faa",
+      "score": 0.030872177332639694
+    },
+    {
+      "chunk_id": "2c6b6db6740e2c6add73bf9363aed24fe16acde3a65d3fcd5951273771366867",
+      "score": 0.02924434281885624
+    },
+    {
+      "chunk_id": "4b9fd25b75209f2675a8a0b20730f03420b421377116f7857089b74b8c0178a4",
+      "score": 0.026590287685394287
+    },
+    {
+      "chunk_id": "e8d127276f3ff4ac6f102825ddce6696258529ad55786fcc23bfafd67ab44ae4",
+      "score": 0.02622668445110321
+    },
+    {
+      "chunk_id": "b5922b15dbb83f51cec5707bb5dcd65e067bf03a70c77acbee4670cf2c3e753d",
+      "score": 0.021483322605490685
+    },
+    {
+      "chunk_id": "9a80950b48b412b918a753647faa7768aa47b14c010fd2542f7f8f49d8ae09f6",
+      "score": 0.01707165315747261
+    },
+    {
+      "chunk_id": "a907e2f00103d8396d7a9ade47b88a1980fa25785cd1bdfef02a1a451910e9d5",
+      "score": 0.01556403934955597
+    },
+    {
+      "chunk_id": "e1aef3709e4850e373cc3ff07823f6932e5b88dc8846eba06d1e2d2ebbe8bc75",
+      "score": 0.015266775153577328
+    },
+    {
+      "chunk_id": "f39c16321d6ff2ac8da87a8a2406586f50ff52d2c9afdb703074ff8eb6478d26",
+      "score": 0.01166407112032175
+    },
+    {
+      "chunk_id": "f8d9b66e9f2beb2ccc5128476e8cc22959b6adfb26362f1e1d8214726bf3c0ce",
+      "score": 0.011336829513311386
+    },
+    {
+      "chunk_id": "2ea5843f4fa23216934a72d21681935bf35d6dd062eecb25d17ab3d9fac76f61",
+      "score": 0.010309901088476181
+    },
+    {
+      "chunk_id": "929504b72da347016de0800a60b2cd14b85531ce85be7cf007818ace0ced47fd",
+      "score": 0.010120652616024017
+    },
+    {
+      "chunk_id": "a576bc4e35ca6c41c0ad5bce9736e83c887e86441eb8be6be37158ab99317db0",
+      "score": 0.00957295298576355
+    },
+    {
+      "chunk_id": "0a1db4460945f57b61f7b7af870533000105d063ac51530a276ec941d5286db4",
+      "score": 0.008693322539329529
+    },
+    {
+      "chunk_id": "f4035beb142f44240e6eb320055561bfdf17c9fb689787d6e911008786005936",
+      "score": 0.005321152042597532
+    },
+    {
+      "chunk_id": "31cadf0dfffd7a4a7725f0b26cf2bd35e2452b598dc65a0325d9dad2db8adfdb",
+      "score": 0.0036243314389139414
+    },
+    {
+      "chunk_id": "9771448e2f3c6418083ef5d1cd6ece417ad7a9e4e895eacb63a6820690477a8a",
+      "score": 0.003519743913784623
+    },
+    {
+      "chunk_id": "1c329e572fc9c196446419850a9aca3930ae3c3a9e3396287c8b77efd0496027",
+      "score": 0.0028418786823749542
+    },
+    {
+      "chunk_id": "e513adec426dd95799df8ee986e40bd467d73c7c42a96322233d1fc8d908297d",
+      "score": 0.0018010761123150587
+    }
+  ],
+  "hyde_cache_sha256": "719fdfbb9fa8247f594efaaec78f21c41fb8daaa999fe1d7fb5bcd5aa5db66ac",
+  "hyde_text": "O tema aborda a definição e consequências do tempo à disposição previsto no artigo 4º da Consolidação das Leis do Trabalho (CLT). O documento hipotético orienta que a busca por textos relevantes deve considerar expressões como \"tempo à disposição\", \"disposição do empregado\", \"prazo de exercício\", \"direito de ausência\", \"consequências trabalhistas\" e \"regime de trabalho\". É importante que a consulta inclua termos como \"disposição de tempo\", \"uso do tempo\", \"horas de trabalho\", \"ausência sem justificativa\" e \"consequências legais\". A busca deve ser feita com cautela, evitando interpretações que ultrapassam o conteúdo do artigo 4º, que trata da definição do tempo de trabalho e das condições de exercício do direito de ausência. A consulta deve focar apenas nos trechos que mencionam a definição do tempo à disposição e suas implicações no âmbito do trabalho. Não se deve assumir que o artigo 4º contém detalhes sobre penalidades ou prazos específicos, pois a legislação não estabelece tais elementos nesse ponto. A busca deve ser feita com base em termos técnicos e jurídicos, sem suposições sobre o conteúdo exato ou a aplicação prática.",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 106739.90600000252,
+  "hash_configuracao": "b8c3b9516dfb71fa2e290ffc6040879865406546be418aae1a04c6852cadb21c",
+  "embedding_corpus_recalculado": false
+}

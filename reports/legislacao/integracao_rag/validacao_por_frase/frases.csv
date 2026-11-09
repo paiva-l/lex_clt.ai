@@ -1,0 +1,797 @@
+grupo,query_id,ordem,texto,fontes_citadas,fontes_inexistentes,pergunta_ao_usuario,titulo_heuristico,possivel_afirmacao,sem_citacao,termo_que_exige_revisao,suporte_semantico
+original,q_dev_01,1,"A duração normal diária do trabalho para os empregados em geral, segundo a CLT, é de **oito horas diárias**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_01,2,"Esse limite é estabelecido no **Artigo 58**, do Título II – Das Normas Gerais de Tutela do Trabalho, do Capítulo II – Da Duração do Trabalho, da Seção II – Da Jornada de Trabalho, da CLT (Decreto-Lei nº 5.452/1943), que diz:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_01,3,"> ""A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite."" [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_01,4,"Esse artigo se aplica a todos os empregados em atividades privadas, exceto nos casos específicos previstos em outras normas da CLT, como os bancários (Art. 224) ou os jornalistas profissionais (Art. 303), que têm jornadas distintas.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_01,5,"Portanto, **para os empregados em geral**, sem exceção específica, a jornada normal diária é de **oito horas**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_01,6,⚠️ **Limitação importante**:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_01,7,Essa resposta se baseia apenas na norma geral do Art. 58 da CLT.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_01,8,"Caso o empregado esteja em um setor específico (como bancos ou jornalismo), a jornada pode ser diferente, conforme previsto em outros artigos (como o Art. 224 ou Art. 303).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_01,9,"No entanto, como a pergunta se refere a ""empregados em geral"", a resposta deve seguir a regra geral da CLT.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_01,10,"Se o usuário quiser, posso ajudar a analisar casos específicos com base em setores ou funções, desde que forneça mais detalhes (ex: tipo de cargo, setor, atividade).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_01,11,Não há evidência de jurisprudência relevante para essa pergunta no contexto fornecido.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_01,12,A resposta se sustenta apenas na legislação (Art. 58 da CLT).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,1,O **Art. 130 da CLT** estabelece uma relação direta entre o número de **faltas ao serviço** no período aquisitivo e a **duração das férias anuais** do empregado.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,2,"Vamos explicar isso de forma simples, com base **exclusivamente nas evidências fornecidas**:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_02,3,### 🔹 Como o Art. 130 relaciona a duração das férias às faltas ao serviço?,[],[],True,True,False,False,False,nao_avaliado
+original,q_dev_02,4,"O artigo define que, após cada período de 12 meses de trabalho (período aquisitivo), o empregado tem direito a férias, **mas a duração dessas férias varia conforme o número de faltas ao serviço** durante esse período.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,5,Essa relação é descrita nos **incisos I a IV** do artigo:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_02,6,"**I – 30 dias corridos**, se **não houver mais de 5 faltas**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,7,→ O empregado tem direito a 30 dias de férias se faltou ao serviço **5 vezes ou menos**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,8,"**II – 24 dias corridos**, se houver **de 6 a 14 faltas**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,9,"→ A cada falta acima de 5, a duração das férias diminui: 24 dias para 6 a 14 faltas.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,10,"**III – 18 dias corridos**, se houver **de 15 a 23 faltas**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,11,"→ A cada 6 faltas adicionais, a quantidade de dias de férias cai.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,12,"**IV – 12 dias corridos**, se houver **de 24 a 32 faltas**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,13,→ O limite máximo de faltas para receber 12 dias de férias é 32.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,14,> ⚠️ **Importante**: O artigo **proíbe descontar as faltas do período de férias** (§1º).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,15,"Ou seja, mesmo que o empregado tenha faltado, **não se desconta esse tempo das férias**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,16,"> ✅ Além disso, o período de férias **é computado como tempo de serviço** (§2º), o que significa que ele conta para o cálculo de outros direitos, como aposentadoria ou avanço de carreira.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,17,### 🔍 Fonte da afirmação:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_02,18,"**[Fonte 1]** – Art. 130 da CLT (com redação do Decreto-Lei nº 1.535/1977), que define a proporção das férias com base no número de faltas.",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_02,19,### ❗ Limitações importantes:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_02,20,"**Não há informação sobre o período aquisitivo específico** (ex: quando começou o trabalho, qual foi o período de 12 meses).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,21,"→ Para aplicar o Art. 130, é necessário saber **quando o empregado começou a trabalhar** e **quais foram as faltas registradas nos 12 meses anteriores**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,22,**O artigo não diz que as faltas devem ser registradas ou comprovadas**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,23,→ A ausência de faltas é considerada apenas se **não houver registros** ou se **a ausência for justificada** (como nos incisos do Art. 131).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,24,"**O Art. 131** (que está na mesma seção) **exclui certas ausências de contar como faltas**, como:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_02,25,Licenciamento maternidade;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,26,Acidente do trabalho;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,27,Suspensão preventiva;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,28,Dias sem serviço (exceto em casos específicos).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,29,"→ Isso significa que **algumas ausências não contam como faltas**, e, portanto, **não afetam a duração das férias**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,30,### ✅ Conclusão:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_02,31,O **Art. 130 da CLT** **relaciona a duração das férias ao número de faltas ao serviço** no período de 12 meses.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,32,"Quanto mais faltas, menor o número de dias de férias (de 30 para 12 dias).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,33,Mas **esse cálculo só se aplica se as faltas forem registradas e não forem justificadas** (como nos casos do Art. 131).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,34,### 📌 Dica para o usuário:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_02,35,"Se você quer saber **se o empregado tem direito a férias com 30 dias ou 12 dias**, é necessário saber:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_02,36,O **período aquisitivo** (ex: de 1º de janeiro de 2023 a 31 de dezembro de 2023);,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,37,O **número total de faltas** nesse período;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,38,"Se **algumas ausências foram justificadas** (ex: maternidade, doença, acidente).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,39,"Se essas informações não estiverem disponíveis, **não é possível determinar com certeza a duração das férias**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,40,Se você puder fornecer:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_02,41,A **data de admissão** do empregado;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,42,O **número de faltas** no período de 12 meses;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,43,"Se houve **ausências justificadas** (como maternidade, doença, etc.),",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,44,... posso ajudar a calcular a duração das férias com base no Art. 130.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_02,45,"Até lá, a resposta está **baseada apenas na norma**, como solicitado.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,1,"A pergunta faz referência à **rescisão indireta do contrato de trabalho por justa causa do empregador**, ou seja, quando o empregado **rescinde o contrato por motivos que o empregador cometeu**, e não por atos do próprio empregado.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,2,"No entanto, **a legislação brasileira não prevê que o empregado possa rescindir o contrato de trabalho por justa causa do empregador** — o que seria uma **rescisão indireta** — como forma de direito do empregado.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,3,"Na verdade, o que a legislação prevê é que **o empregador pode rescindir o contrato por justa causa**, e que **o empregado pode rescindir o contrato por motivos que o empregador cometeu**, mas **não por ""justa causa do empregador""**, como se fosse uma causa válida para rescisão do empregado.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,4,Vamos analisar com base nas fontes fornecidas:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,5,### 🔍 Análise jurídica com base nas fontes:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,6,#### 1. **Art. 482 da CLT** – Define **quais atos do empregado constituem justa causa para rescisão do contrato pelo empregador**.,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,7,Este artigo **não permite que o empregado rescinda o contrato por justa causa do empregador**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,8,"Ele lista **atos do empregado** (como improbidade, desídia, jogos de azar, etc.) que **justificam a rescisão do empregador**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,9,"Portanto, **não há hipóteses em que o empregado pode rescindir o contrato por justa causa do empregador** — porque o conceito de ""justa causa"" é aplicado ao empregado, não ao empregador.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,10,➡️ **Fonte 1 – Art. 482**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,11,→ **Não aplica-se** à rescisão do empregado por justa causa do empregador.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,12,#### 2. **Art. 27 da Lei Complementar 150/2015** – Regula o contrato de trabalho doméstico.,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,13,"Este artigo **define justas causas para o empregado doméstico** (ex: maus tratos, embriaguez, abandono, etc.), mas **não permite que o empregado rescinda o contrato por justa causa do empregador**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,14,"Ele prevê que o empregado pode rescindir o contrato **quando o empregador comete atos lesivos**, como:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,15,Exigir serviços superiores às forças do empregado;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,16,Tratar com rigor excessivo;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,17,Ofender fisicamente;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,18,Praticar atos lesivos à honra ou à boa fama.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,19,➡️ **Fonte 2 – Art. 27**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,20,"→ **Permite que o empregado rescinda o contrato por atos do empregador**, mas **não por ""justa causa do empregador""** — e sim por **condutas do empregador que violam direitos do empregado**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,21,#### 3. **Art. 483 da CLT** – Define **quando o empregado pode rescindir o contrato**.,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,22,"Este artigo **permite ao empregado rescindir o contrato** em situações em que o empregador comete atos lesivos, como:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,23,Exigir serviços superiores às forças do empregado;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,24,Tratar com rigor excessivo;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,25,Correr perigo manifesto de mal considerável;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,26,Não cumprir obrigações do contrato;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,27,Praticar atos lesivos à honra ou à boa fama;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,28,Ofender fisicamente.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,29,➡️ **Fonte 3 – Art. 483**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,30,→ **É a única fonte que permite ao empregado rescindir o contrato por atos do empregador**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,31,### ✅ Resposta direta à pergunta:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,32,"**O empregado não pode rescindir o contrato de trabalho por ""justa causa do empregador""**, pois **o conceito de ""justa causa"" é aplicado ao empregado**, não ao empregador.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,33,"No entanto, **o empregado pode rescindir o contrato de trabalho por atos do empregador que violam direitos fundamentais**, como:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,34,"Exigir serviços superiores às forças do empregado (art. 483, a);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,35,"Tratar com rigor excessivo (art. 483, b);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,36,"Ofender fisicamente (art. 483, f);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,37,"Não cumprir obrigações do contrato (art. 483, d);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,38,"Praticar atos lesivos à honra ou à boa fama (art. 483, e).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,39,"Essas situações **não são chamadas de ""justa causa do empregador""**, mas sim **condutas do empregador que violam o direito do empregado**, e que **justificam a rescisão do empregado**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,40,### 📌 Conclusão:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,41,"> **Não há hipóteses em que o empregado pode rescindir o contrato de trabalho por ""justa causa do empregador""**, pois o conceito de justa causa se aplica ao empregado, não ao empregador.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,42,"O que a CLT permite é que o **empregado rescinda o contrato por atos do empregador que violam direitos fundamentais**, como exigir serviços excessivos, tratar com rigor excessivo ou ofender fisicamente.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,43,➡️ **Fonte 3 – Art. 483** é a única que prevê essa possibilidade.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,44,### ⚠️ Limitações importantes:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,45,"A **rescisão indireta** (por atos do empregador) **não é chamada de ""justa causa""** — é um direito do empregado para rescindir o contrato por violação de direitos.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,46,"A **prescrição** (prazo para ação) pode ser relevante: **a CLT não estabelece um prazo específico para a rescisão por atos do empregador**, mas **a ação pode ser prescrida** (ex: 2 anos, conforme o art. 483, § 3º, que permite suspensão ou rescisão até decisão do processo).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,47,**Não há evidência de que a prescrição seja aplicável a todas as situações** — isso depende do contexto e da data de início do ato.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,48,### ✅ Resposta final (simples e com fonte):,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_03,49,"> O empregado **não pode rescindir o contrato por justa causa do empregador**, pois o conceito de justa causa se aplica ao empregado.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,50,>,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,51,"> No entanto, o empregado **pode rescindir o contrato por atos do empregador que violam direitos**, como exigir serviços superiores às forças, tratar com rigor excessivo ou ofender fisicamente.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,52,>,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,53,> Essas hipóteses estão previstas no **Art. 483 da CLT**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,54,>,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_03,55,"> ⚠️ Importante: ""Justa causa"" não é um direito do empregado para rescindir o contrato — é um direito do empregador para rescindir o contrato por atos do empregado. [Fonte 3 – Art. 483]",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,1,"Para responder à sua pergunta sobre **como deve ser formalizado o pagamento das verbas rescisórias** e **quais são os prazos legais**, vamos analisar as evidências disponíveis e explicar com clareza, usando linguagem simples e vinculando cada afirmação à fonte correspondente.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,2,### ✅ **1.,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,3,Como deve ser formalizado o pagamento das verbas rescisórias?**,[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_04,4,"O pagamento das verbas rescisórias deve ser feito de forma **específica e clara**, com os seguintes requisitos:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,5,**O instrumento de rescisão ou recibo de quitação** deve especificar **a natureza de cada parcela** paga ao empregado e **discriminar o valor de cada uma**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,6,"→ Isso significa que não basta apenas dizer ""pagamos o que deveria ser pago"", mas deve haver uma lista detalhada das verbas (como salário, férias, 13º, etc.) e seus valores. [Fonte 1, § 2º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,7,"O pagamento pode ser feito **em dinheiro, depósito bancário ou cheque visado**, conforme **acordo entre as partes**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,8,"→ O empregador e o empregado podem escolher o meio de pagamento, desde que esteja acordado. [Fonte 1, § 4º, I]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,9,"**Se o empregado for analfabeto**, o pagamento deve ser feito **em dinheiro ou depósito bancário**, pois não é permitido o uso de documentos escritos. [Fonte 1, § 4º, II]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,10,**Qualquer compensação** (como desconto ou acréscimo) no pagamento das verbas **não pode exceder o equivalente a um mês de remuneração** do empregado.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,11,"→ Isso impede que o empregador faça descontos excessivos ou acréscimos abusivos. [Fonte 1, § 5º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,12,> ⚠️ **Importante**: A **quitação é válida apenas para as parcelas especificadas** no instrumento.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,13,"Se o empregado não vê o detalhamento, não pode exigir o pagamento de algo que não esteja escrito.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,14,"> [Fonte 1, § 2º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,15,### ✅ **2.,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,16,Quais são os prazos legais para o pagamento e entrega dos documentos?**,[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_04,17,O empregador tem **obrigação de entregar documentos e efetuar o pagamento dentro de um prazo específico**:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,18,A **entrega dos documentos** que comprovam a **comunicação da extinção do contrato** aos órgãos competentes (como a Carteira de Trabalho e Previdência Social) e o **pagamento das verbas** deve ocorrer **até dez dias contados a partir do término do contrato**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,19,"→ Isso inclui o recibo de quitação e a anotação na Carteira de Trabalho e Previdência Social. [Fonte 1, § 6º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,20,"> ⚠️ **Se o empregador não cumprir esse prazo**, será **multado**:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,21,> - Em **160 unidades do valor do BTN (Bolsa de Trabalho)** por trabalhador;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,22,"> - E também deverá pagar **uma multa equivalente ao salário do empregado**, corrigido pelo índice de variação do BTN, **salvo se o empregado causar a mora**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,23,"> [Fonte 1, § 8º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,24,### ✅ **3.,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,25,O que acontece se houver controvérsia sobre o montante das verbas?**,[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_04,26,"Se houver **controvérsia sobre o valor das verbas rescisórias**, o empregador **deve pagar à data do comparecimento à Justiça do Trabalho** a **parte incontroversa** das verbas.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,27,"→ Se não pagar, será **acrescida uma multa de 50%** sobre o valor da parte em causa. [Fonte 2, Art. 467]",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,28,"> ⚠️ Isso significa que, mesmo que haja desacordo sobre o valor total, o empregador **não pode deixar de pagar o que é claro e aceito** (ex: salário, férias, 13º), sob pena de multa.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,29,### ✅ **4.,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,30,Caso especial: empregado com banco de horas**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,31,"Se o empregado estiver em **regime de banco de horas**, há uma regra específica:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,32,"Se a **demissão for por iniciativa do empregado** e o empregado **não puder compensar a jornada**, as horas acumuladas **serão descontadas das verbas rescisórias**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,33,"Se a **demissão for por iniciativa do empregador**, as horas **serão pagas junto com as verbas rescisórias**. [Fonte 3, Art. 9º]",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,34,"> ⚠️ Essa regra **aplica-se apenas a empregados em regime de banco de horas**, e não é geral para todos os trabalhadores.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,35,### 🔍 **Limitações e pontos importantes**,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,36,"**As regras acima se aplicam a todos os casos de rescisão**, desde que o contrato tenha sido firmado com base na CLT (Lei do Trabalho).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,37,"**Não há menção ao tipo de rescisão** (por justa causa, por falta de acordo, por demissão sem justa causa, etc.) nas fontes, então **não é possível afirmar se há diferença de tratamento** entre os motivos.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,38,"**Falta informação sobre a data de admissão, o tipo de contrato, ou o motivo da rescisão**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,39,"→ Isso tornaria necessário **esclarecer** se o empregado está em regime de banco de horas, se foi demitido por justa causa, se é analfabeto, etc.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,40,### ❓ **Perguntas necessárias para uma resposta mais precisa**,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,41,"Para responder com segurança ao caso específico do seu empregado, **preciso saber**:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,42,"**O tipo de rescisão** (ex: por justa causa, por demissão sem justa causa, por acordo, etc.)?",[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_04,43,**O empregado está em regime de banco de horas?**,[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_04,44,**O empregado é analfabeto?**,[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_04,45,**Qual é a data do término do contrato?**,[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_04,46,"**O que foi acordado entre as partes sobre o pagamento (dinheiro, depósito, etc.)?**",[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_04,47,"> Sem essas informações, **não é possível afirmar com certeza** como o pagamento deve ser feito ou se há alguma exceção.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,48,### ✅ **Resumo final (com fontes)**,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_04,49,| Ponto | Detalhe | Fonte |,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,50,"| Formatação do pagamento | O instrumento de rescisão deve especificar a natureza e valor de cada verba | [Fonte 1, § 2º] |",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,51,"| Meios de pagamento | Dinheiro, depósito bancário ou cheque visado (acordo das partes) | [Fonte 1, § 4º, I] |",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,52,"| Pagamento a analfabetos | Em dinheiro ou depósito bancário | [Fonte 1, § 4º, II] |",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,53,"| Limite de compensação | Não pode exceder um mês de remuneração | [Fonte 1, § 5º] |",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,54,"| Prazo para entrega | Até **dez dias após o término do contrato** | [Fonte 1, § 6º] |",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,55,"| Multa por atraso | 160 BTN por trabalhador + multa equivalente ao salário (se não for culpa do empregado) | [Fonte 1, § 8º] |",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,56,"| Controvérsia sobre verbas | Parte incontroversa deve ser paga à data do comparecimento à Justiça do Trabalho | [Fonte 2, Art. 467] |",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,57,"| Banco de horas | Horas não compensadas são descontadas ou pagas conforme o motivo da rescisão | [Fonte 3, Art. 9º] |",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_04,58,"Se você puder fornecer os dados específicos do caso (como tipo de rescisão, regime de trabalho, etc.), posso dar uma análise ainda mais direcionada.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_04,59,"Até lá, esta é a **resposta jurídica com base nas fontes disponíveis**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,1,"O prazo prescricional para o trabalhador reclamar créditos relativos às relações de trabalho é de **cinco anos**, contado até o limite de **dois anos após a extinção do contrato de trabalho**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,2,"Esse prazo está previsto no **Art. 11** da Consolidação das Leis do Trabalho (CLT), com a redação atualizada pela Lei nº 13.467, de 2017. [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_05,3,O texto do artigo afirma:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_05,4,"> ""A pretensão quanto a créditos resultantes das relações de trabalho prescreve em cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho."" [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_05,5,"Além disso, o **Art. 43** da Lei Complementar nº 150/2015** reafirma esse mesmo prazo:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_05,6,"> ""O direito de ação quanto a créditos resultantes das relações de trabalho prescreve em 5 (cinco) anos até o limite de 2 (dois) anos após a extinção do contrato de trabalho."" [Fonte 2]",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_05,7,"Portanto, **os dois dispositivos (Art. 11 da CLT e Art. 43 da LCP 150/2015)** sustentam a mesma regra jurídica, com a mesma previsão de cinco anos de prescrição, até o limite de dois anos após o fim do contrato.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,8,**Observações importantes:**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,9,"O prazo prescricional **não se aplica** às ações que tenham por objeto anotações para fins de prova junto à Previdência Social, conforme o § 1º do Art. 11. [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_05,10,"Em casos de **prestações sucessivas** decorrentes de alteração ou descumprimento do pactuado, a prescrição é **total**, exceto quando o direito à parcela estiver assegurado por preceito de lei. [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_05,11,"A **interrupção da prescrição** ocorre apenas pelo ajuizamento de reclamação trabalhista, mesmo que em juízo incompetente, e produz efeitos apenas em relação aos pedidos idênticos. [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_05,12,**Limitações:**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,13,A resposta se baseia apenas no prazo geral previsto na legislação.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,14,"**Não há informação sobre a data de admissão, extinção do contrato ou o tipo de crédito** (ex: férias, horas extras, salário, etc.) no contexto fornecido.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,15,"Para uma análise mais específica (ex: se o direito prescreveu em um caso particular), seria necessário saber:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_05,16,Quando o contrato foi extinto (data de desligamento);,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,17,"O tipo de crédito reclamado (ex: salário, férias, horas extras);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,18,Se houve interrupção da prescrição (ex: reclamação feita em juízo).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,19,"Se você puder fornecer essas informações, posso analisar se o direito ainda está prescrito ou não.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,20,"> ⚠️ **Importante:** A prescrição não é um direito, mas uma limitação de tempo.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,21,"Isso significa que, se o trabalhador não reclamar dentro do prazo, o direito de receber o crédito **perde a validade**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,22,"A prescrição **não é suspensa** por ausência de resposta do empregador, e **não pode ser contestada** por falta de ação do trabalhador.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,23,"Se a pergunta for sobre um caso específico, por favor, forneça:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_05,24,A data de desligamento;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,25,O tipo de crédito;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,26,A data em que foi feita a reclamação (se houver).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_05,27,"Sem essas informações, a resposta permanece na base legal geral.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_01,1,Essa não é uma pergunta ligada ao Direito do Trabalho.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_01,2,"A pergunta solicitada trata sobre **regras de tributação do imposto de renda para lucros e dividendos de empresas S.A. no Brasil**, o que pertence ao **Direito Tributário**, não ao Direito do Trabalho.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_01,3,"Portanto, a resposta correta é:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_01,4,> **Essa não é uma pergunta ligada ao Direito do Trabalho.**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_01,5,"Se você quiser que eu analise a questão de **tributação de lucros e dividendos de empresas S.A.**, posso ajudar com base em fontes de Direito Tributário — como a Constituição Federal, a Lei nº 10.101/2000 (Lei das Participações nos Lucros) e outras normas tributárias — **mas isso está fora do escopo do Direito do Trabalho**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_01,6,"Se desejar, posso redirecionar a resposta para o Direito Tributário com base nas fontes disponíveis.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_01,7,Deseja continuar com essa análise?,[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_neg_02,1,"Segundo o **art. 733 do Código de Processo Civil (CPC)**, presente na base, as **condições e formalidades** para o **divórcio consensual por escritura pública** são as seguintes:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_02,2,"**O divórcio consensual pode ser realizado por escritura pública**, desde que:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_02,3,Não haja nascituro (filho não nascido) ou filhos incapazes;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,4,Sejam observados os **requisitos legais** estabelecidos em lei.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,5,→ [Fonte 1 – Art. 733],['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_neg_02,6,"**A escritura pública não exige homologação judicial**, o que significa que ela é válida por si só e pode ser usada para:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_02,7,Qualquer ato de registro;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,8,Levantamento de importância depositada em instituições financeiras.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,9,→ [Fonte 1 – § 1º do art. 733],['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_neg_02,10,**O tabelião (notário) só poderá lavrar a escritura se os interessados estiverem assistidos por:**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,11,Um advogado ou,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,12,Um defensor público.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,13,→ [Fonte 1 – § 2º do art. 733],['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_neg_02,14,### Observações importantes:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_02,15,"O **art. 733 não exige a homologação judicial**, diferentemente do que ocorre em outros tipos de divórcio (como o judicial).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,16,"A **escrita pública** é considerada **título hábil**, ou seja, tem força legal imediata, sem necessidade de posterior validação judicial.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,17,"A **assistência jurídica** (advogado ou defensor público) é **obrigatória** para a lavratura da escritura, conforme o § 2º do art. 733.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,18,"O **art. 731** (que trata da homologação) **não se aplica** ao divórcio consensual por escritura pública, pois esse tipo de divórcio **não precisa de homologação**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,19,"O **art. 732** estabelece que as regras do processo de homologação judicial se aplicam à extinção consensual de união estável, mas **não se aplica ao divórcio consensual por escritura pública**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,20,### Limitações e pontos críticos:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_02,21,"A **ausência de filhos incapazes** é uma condição prevista, mas **não há detalhamento sobre o que significa ""filhos incapazes""** no contexto do art. 733.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,22,"O **requisito de ""requisitos legais""** não é esclarecido aqui, o que pode implicar a necessidade de análise de outros dispositivos do CPC ou da legislação específica sobre divórcio.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,23,"A **assistência jurídica** é obrigatória, mas **não há informação sobre o tipo de assistência (ex: conteúdo do acordo, forma de assistência)**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,24,"**Não há menção ao conteúdo do acordo** (como partilha de bens, pensão alimentícia, guarda de filhos) no art. 733 — esses temas estão no **art. 731**, que **não se aplica** ao divórcio por escritura pública.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,25,### Conclusão:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_02,26,"O **divórcio consensual por escritura pública**, segundo o **art. 733 do CPC**, exige:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_02,27,✅ Ausência de nascituro ou filhos incapazes,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,28,✅ Observância dos requisitos legais (não detalhados aqui),[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,29,✅ Escrita pública sem necessidade de homologação judicial,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,30,✅ Assistência jurídica (advogado ou defensor público) para a lavratura da escritura,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,31,→ [Fonte 1 – Art. 733],['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_neg_02,32,⚠️ **Importante**:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_02,33,"Essa resposta se baseia **exclusivamente** no **art. 733 do CPC**, que trata da **forma da escritura pública**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,34,"**Não há informação sobre o conteúdo do acordo** (ex: partilha de bens, pensão alimentícia), pois esses temas estão no **art. 731**, que **não se aplica** ao divórcio por escritura pública.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,35,"Se o usuário quiser saber sobre **quais disposições devem estar no acordo**, ou se o divórcio por escritura pública **pode ser usado em casos com filhos**, seria necessário **mais detalhamento** sobre os fatos do caso (ex: presença de filhos, tipo de união, etc.).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,36,"Se desejar, posso ajudar a verificar se os **requisitos legais** mencionados no art. 733 estão alinhados com a **legislação específica sobre divórcio**, mas isso exige acesso a outros dispositivos do CPC ou à legislação complementar.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,37,"Se houver necessidade, posso pedir ao usuário para fornecer:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_02,38,Se há filhos ou nascituros;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,39,Se o divórcio é consensual ou não;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,40,"Se há outros acordos (ex: pensão alimentícia, guarda de filhos).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_02,41,Essas informações ajudariam a verificar se o art. 733 se aplica ao caso específico.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,1,"O **Art. 59 da CLT** descreve a prestação de horas extras de forma estruturada, com regras sobre o número máximo de horas, remuneração, compensação e direitos do trabalhador em caso de rescisão do contrato.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,2,"Abaixo, explico cada parte do artigo com base nas evidências fornecidas, vinculando cada afirmação à fonte correspondente:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,3,### 1. **Número máximo de horas extras por dia**,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,4,"O artigo permite que a jornada diária de trabalho seja **acrescida de até duas horas extras**, mediante acordo individual, convenção coletiva ou acordo coletivo de trabalho.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,5,"➡️ **Fonte: Art. 59, caput**",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,6,"*Observação: Essa limitação se aplica ao número de horas extras por dia, não ao total de horas trabalhadas por semana.*",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,7,### 2. **Remuneração das horas extras**,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,8,A remuneração da hora extra deve ser **pelo menos 50% superior à da hora normal**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,9,"➡️ **Fonte: Art. 59, § 1º**",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,10,### 3. **Possibilidade de compensação de jornada (banco de horas)**,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,11,"O trabalhador pode ter seu excesso de horas em um dia **compensado em outro dia**, desde que:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,12,A compensação não exceda o limite máximo de **dez horas diárias**;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,13,"O total de horas extras, ao longo de um ano, não ultrapasse a soma das jornadas semanais previstas;",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,14,A compensação ocorra no período máximo de **seis meses** (se pactuada por acordo individual escrito).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,15,"➡️ **Fonte: Art. 59, § 2º e § 5º**",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,16,"> Importante: O regime de compensação pode ser pactuado por **acordo individual**, **tácito** ou **escrito**, inclusive para compensação no mesmo mês.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,17,"➡️ **Fonte: Art. 59, § 6º**",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,18,### 4. **Situação de rescisão sem compensação integral**,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,19,"Se o contrato de trabalho for rescindido **sem que haja compensação integral da jornada extraordinária**, o trabalhador tem direito ao **pagamento das horas extras não compensadas**, calculadas com base no valor da remuneração na data da rescisão.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,20,"➡️ **Fonte: Art. 59, § 3º**",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,21,### 5. **O não atendimento das exigências legais sobre compensação**,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,22,O artigo **59-B** (um dispositivo complementar) estabelece que:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,23,"O **não atendimento das exigências legais** para compensação de jornada (mesmo que estabelecida por acordo tácito) **não implica a repetição do pagamento** das horas extras, **se não ultrapassar a duração máxima semanal**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,24,"O que é devido é **apenas o adicional** (ou seja, o acréscimo de 50%) sobre a hora normal.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,25,➡️ **Fonte: Art. 59-B**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,26,"> Além disso, a **prestação de horas extras habituais** não descaracteriza o acordo de compensação ou o banco de horas.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,27,"➡️ **Fonte: Art. 59-B, Parágrafo Único**",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,28,### Resumo simples:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,29,"O trabalhador pode trabalhar **até 2 horas extras por dia**, com **acréscimo de 50%** na remuneração.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,30,"Essas horas podem ser **compensadas em outro dia**, dentro de limites (máximo de 10 horas diárias e soma anual de jornadas semanais).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,31,A compensação pode ser feita em **até 6 meses** (se por acordo individual escrito).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,32,"Se o contrato terminar **sem compensação integral**, o trabalhador tem direito ao **pagamento das horas extras não compensadas**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,33,"Se o acordo de compensação não for cumprido, **não há repetição do pagamento**, apenas o adicional.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,34,### Limitações importantes:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,35,"As regras do Art. 59 **não se aplicam ao motorista profissional empregado**, que tem sua própria norma específica no **Art. 235-C**, que estabelece jornada de 8 horas com possibilidade de até 4 horas extras (e com regras distintas sobre espera e descanso).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,36,➡️ **Fonte: Art. 235-C**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,37,"> Portanto, se o caso envolver um **motorista profissional**, as regras do Art. 59 **não se aplicam diretamente**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,38,### Conclusão:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,39,O **Art. 59 da CLT** descreve a prestação de horas extras com base em:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,40,Limites de horas (máximo de 2 horas extras por dia);,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,41,Remuneração (50% acima da hora normal);,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,42,Possibilidade de compensação (com prazos e limites);,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,43,Direito ao pagamento das horas não compensadas em caso de rescisão;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,44,"Exclusão de repetição de pagamento por falta de compensação, desde que não ultrapasse a jornada semanal máxima.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,45,➡️ **Fontes principais: Art. 59 e Art. 59-B da CLT**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,46,⚠️ **Observação importante**:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,47,"Se o caso envolver um **motorista profissional**, as regras do Art. 59 **não se aplicam**, pois há uma norma específica (Art. 235-C) que regula seu trabalho.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,48,"Se o usuário não especificar o tipo de empregado (ex: motorista profissional ou outro), **não é possível afirmar com certeza que o Art. 59 se aplica**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,49,✅ **Pergunta para esclarecer o caso**:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_06,50,"**Qual é o tipo de empregado (ex: motorista profissional, operário, funcionário comum)?**",[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_06,51,Essa informação é essencial para saber se o Art. 59 se aplica ou se deve ser considerado o Art. 235-C.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,52,"Se o empregado for um **motorista profissional**, a resposta deve ser modificada com base no Art. 235-C.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_06,53,"Se não houver essa informação, a resposta acima se aplica ao empregado comum.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,1,O artigo 71 da CLT prevê os seguintes intervalos durante a jornada de trabalho:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_07,2,**Intervalo obrigatório para repouso ou alimentação**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,3,"Em qualquer trabalho contínuo cuja duração exceda **6 horas**, é obrigatório um intervalo de **no mínimo 1 hora** e **não poderá exceder 2 horas**. [Fonte 1 – Art. 71, caput]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_07,4,**Intervalo obrigatório para empregados com jornada entre 4 e 6 horas**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,5,"Se a duração do trabalho **não exceder 6 horas**, mas **ultrapassar 4 horas**, será obrigatório um intervalo de **15 minutos**. [Fonte 1 – Art. 71, § 1º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_07,6,**Não computação do intervalo na duração do trabalho**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,7,"Os intervalos de descanso **não são contados** na duração do trabalho. [Fonte 1 – Art. 71, § 2º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_07,8,**Possibilidade de redução do intervalo (em casos específicos)**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,9,"O limite mínimo de 1 hora pode ser reduzido por ato do Ministro do Trabalho, **apenas se**:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_07,10,O estabelecimento atender às exigências de organização dos refeitórios;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,11,"Os empregados não estiverem sob regime de trabalho prorrogado a horas suplementares. [Fonte 1 – Art. 71, § 3º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_07,12,**Indenização por não concessão ou concessão parcial do intervalo**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,13,"Se o intervalo for não concedido ou parcialmente concedido, o empregado deve receber **indenização** pelo período suprimido, com **acréscimo de 50% sobre a remuneração da hora normal**. [Fonte 1 – Art. 71, § 4º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_07,14,**Possibilidade de fracionamento do intervalo (em serviços específicos)**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,15,"O intervalo previsto no artigo 71 pode ser **fracionado**, desde que previsto em **convenção ou acordo coletivo**, e **apenas para motoristas, cobradores, fiscalização de campo e afins** nos serviços de transporte coletivo de passageiros, **com a remuneração mantida** e com intervalos menores ao final de cada viagem. [Fonte 1 – Art. 71, § 5º]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_07,16,**Observação importante**:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_07,17,"O artigo 383 da CLT (relativo às empregadas) **confirma** a exigência de um intervalo de **no mínimo 1 hora** e **máximo de 2 horas**, mas **excepcionalmente** permite a redução conforme previsto no § 3º do art. 71, **só se atendidas as condições específicas**. [Fonte 2 – Art. 383]",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_07,18,**Limitações e considerações**:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_07,19,As regras do art. 71 **não se aplicam automaticamente a todos os tipos de trabalho**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,20,A aplicação depende da **duração da jornada** (maior que 4h ou 6h) e do **tipo de atividade** (ex: transporte de passageiros).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,21,"O **fracionamento do intervalo** é permitido apenas para **motoristas e profissionais de transporte coletivo**, conforme o art. 235-E da CLT, que complementa o art. 71. [Fonte 3 – Art. 235-E]",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_07,22,**Conclusão**:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_07,23,"O art. 71 da CLT prevê intervalos de **15 minutos** (para jornadas entre 4 e 6 horas) e **mínimo de 1 hora** (para jornadas acima de 6 horas), com limite máximo de **2 horas**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,24,Esses intervalos **não são computados** na jornada.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,25,A redução do intervalo é permitida apenas em casos específicos e com condições prévias.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,26,A **indenização** é obrigatória se o intervalo for omitido ou parcialmente concedido.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,27,> ⚠️ **Observação**: Essas regras se aplicam a **trabalhos contínuos**.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,28,"Se o trabalho for interrompido, ou se for de natureza diferente (ex: rotativo, com pausas), a aplicação pode variar.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,29,"> Para uma análise mais precisa, seria necessário saber:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_07,30,> - A **duração da jornada de trabalho** do empregado;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,31,"> - O **tipo de atividade** (ex: transporte de passageiros, serviço de campo, etc.);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,32,> - Se o empregado é **urbanos ou rurais**;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,33,> - Se há **convenção ou acordo coletivo** que altere os intervalos.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_07,34,"Se você puder fornecer essas informações, posso dar uma análise mais específica.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,1,"Os artigos 129 e 130 da CLT se complementam ao estabelecerem, respectivamente, o **direito fundamental** e a **duração proporcional** das férias anuais do empregado.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,2,"Vamos explicar isso de forma simples, com base nas fontes fornecidas:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_08,3,**Art. 129 da CLT**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,4,"> ""Todo empregado terá direito anualmente ao gozo de um período de férias, sem prejuízo da remuneração.""",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,5,"👉 Esse artigo garante que **todo empregado tem o direito de férias anuais**, independentemente de qualquer outro fator.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,6,"Ele estabelece o **direito fundamental** ao descanso anual, e **não pode ser negado** por razões de trabalho, desempenho ou ausência. [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_08,7,"Essa norma é a base do direito das férias — é um direito garantido pela lei, e não depende de condições específicas como desempenho ou frequência.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,8,**Art. 130 da CLT**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,9,"> ""Após cada período de 12 (doze) meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_08,10,"> I – 30 dias corridos, quando não houver faltado ao serviço mais de 5 vezes;",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,11,"> II – 24 dias corridos, quando houver tido de 6 a 14 faltas;",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,12,"> III – 18 dias corridos, quando houver tido de 15 a 23 faltas;",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,13,"> IV – 12 dias corridos, quando houver tido de 24 a 32 faltas.""",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,14,"👉 Esse artigo **determina a duração das férias**, que **varia conforme o número de faltas** do empregado ao longo do ano. [Fonte 2]",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_08,15,"Ou seja, embora o direito às férias seja universal (Art. 129), a **quantidade de dias** que o empregado pode gozar **depende da frequência** (número de faltas) registradas no período de 12 meses.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,16,**Como os dois se complementam?**,[],[],True,False,False,False,False,nao_avaliado
+original,q_dev_08,17,O **Art. 129** garante que **todo empregado tem o direito** de férias — isso é um direito incondicional.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,18,"O **Art. 130** **especifica a duração** desse direito, **com base em um critério de desempenho (frequência)**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,19,"👉 Portanto, eles se complementam porque:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_08,20,"O direito à férias (Art. 129) é **universal**, mas",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,21,"A **quantidade de dias** (Art. 130) é **regulada por uma regra de proporcionalidade**, que considera o desempenho do empregado.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,22,⚠️ **Limitação importante:**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,23,A aplicação do Art. 130 **não é automática** e depende de **dados concretos** sobre o número de faltas do empregado ao longo de 12 meses.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,24,"Se o usuário não informar **quando foi a admissão**, **quais foram as faltas**, ou **quanto tempo o empregado trabalhou**, não é possível determinar qual é a duração exata das férias.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,25,"Além disso, o Art. 130 **não permite descontar faltas do período de férias** (ver §1º), o que reforça que o direito é garantido, mesmo com ausências.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,26,✅ **Conclusão:**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,27,Os artigos 129 e 130 se complementam porque:,[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_08,28,O Art. 129 **assegura o direito universal** de férias anuais;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,29,"O Art. 130 **determina a duração** desse direito, **com base na frequência do empregado**, mas **sem descontar as faltas** do período de férias.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,30,"Essa combinação garante que o empregado tem **direito garantido**, mas com **uma regra de proporcionalidade** que considera seu desempenho. [Fonte 1] [Fonte 2]","['Fonte 1', 'Fonte 2']",[],False,False,True,False,False,nao_avaliado
+original,q_dev_08,31,📌 **Observação:**,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,32,"Se o usuário quiser saber **qual é a duração exata das férias** para um caso específico, ele precisa fornecer:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_08,33,A data de admissão;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,34,O número de faltas registradas ao longo do ano;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,35,"O tipo de contrato (por exemplo, CLT, PJ, etc.).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,36,"Sem essas informações, não é possível calcular a duração exata das férias com base no Art. 130.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_08,37,"Se desejar, posso ajudar a calcular com base em dados fornecidos.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,1,Essa não é uma pergunta ligada ao Direito do Trabalho.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,2,"A pergunta solicitada refere-se a um **valor exato do depósito de FGTS em uma data futura (outubro de 2026)**, que **não pode ser respondida com base nas evidências disponíveis**, porque:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_03,3,"A data de outubro de 2026 ainda **não ocorreu** e, portanto, **não há registros de depósitos de FGTS realizados nesse período**.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,4,"O valor do depósito de FGTS **depende de fatores específicos**, como:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_03,5,"O valor da remuneração do trabalhador no mês anterior (ou no mês da rescisão, se for o caso);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,6,O tipo de contrato de trabalho;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,7,"O motivo da rescisão (se houve despedida sem justa causa, culpa recíproca, etc.);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,8,A data de admissão e a data de rescisão do contrato;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,9,"O valor do depósito mensal (que é 8% do salário, conforme a CLT, mas pode variar com base no cálculo do FGTS).",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,10,"Além disso, **não há nenhuma evidência no contexto fornecido** que mencione:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_03,11,O valor do depósito mensal de FGTS;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,12,A data de admissão ou rescisão do contrato;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,13,"O tipo de rescisão (despedida sem justa causa, por culpa recíproca, etc.);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,14,O valor do salário ou da remuneração do trabalhador;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,15,O mês de depósito específico (outubro de 2026).,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,16,"Portanto, **não é possível determinar o valor exato do depósito de FGTS em outubro de 2026**, pois:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_03,17,A data é futura e não há dados de depósito disponíveis;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,18,O valor do depósito depende de dados pessoais e específicos do contrato que não foram fornecidos.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,19,"Se você quiser saber **como é calculado o depósito de FGTS**, posso explicar com base na legislação.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,20,"Mas, para saber **qual foi o valor exato do depósito em um mês específico**, seria necessário:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_03,21,O valor do salário do trabalhador no mês anterior ao depósito;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,22,A data de admissão e rescisão do contrato;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,23,"O tipo de rescisão (se houve despedida sem justa causa, por exemplo);",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,24,"O valor do FGTS mensal (8% do salário), que é calculado com base no salário de referência.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,25,"Se você puder fornecer essas informações, posso ajudar a calcular o valor do depósito de FGTS com base na CLT.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,26,"Até lá, **não é possível determinar o valor exato do depósito de FGTS em outubro de 2026**, pois essa data ainda não ocorreu e não há dados suficientes para uma análise jurídica específica.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,27,"> ⚠️ Observação: A Lei nº 8.036/1990 (CLT), Art. 18, trata do **depósito de FGTS em caso de rescisão do contrato**, mas **não prevê o valor exato do depósito mensal em uma data futura**, pois esse valor depende do salário e do mês de referência. [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+original,q_dev_neg_03,28,"Se você estiver buscando saber **se o depósito foi feito corretamente**, ou **se houve uma despedida sem justa causa com direito a 40% do FGTS**, posso ajudar com base na CLT — mas isso exige dados sobre o tipo de rescisão e o valor do FGTS acumulado.",[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,29,"Por favor, me informe se deseja:",[],[],False,True,False,False,False,nao_avaliado
+original,q_dev_neg_03,30,Calcular o valor do depósito mensal de FGTS com base em um salário;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,31,Verificar se houve despedida sem justa causa e o direito ao 40% do FGTS;,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,32,Ou saber se o depósito foi feito conforme a CLT.,[],[],False,False,True,True,False,nao_avaliado
+original,q_dev_neg_03,33,"Sem essas informações, não é possível responder com precisão.",[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,1,Resposta direta:,[],[],False,True,False,False,False,nao_avaliado
+correcao_assistida,q_dev_03,2,"As hipóteses em que o empregado pode rescindir o contrato de trabalho por justa causa do empregador (rescisão indireta) são as seguintes, conforme previsto no Art. 483 da CLT:",[],[],False,True,False,False,False,nao_avaliado
+correcao_assistida,q_dev_03,3,"Exigência de serviços superiores às suas forças, defesos por lei, contrários aos bons costumes ou alheios ao contrato;",[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,4,Tratamento com rigor excessivo pelo empregador ou por seus superiores hierárquicos;,[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,5,Correr perigo manifesto de sofrer um dano considerável;,[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,6,Descumprimento das obrigações do contrato de trabalho pelo empregador;,[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,7,Prática de ato lesivo à honra ou à boa fama pelo empregador ou seus prepostos contra o empregado ou pessoas de sua família;,[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,8,"Ofensa física pelo empregador ou seus prepostos ao empregado, salvo em caso de legítima defesa própria ou de outrem;",[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,9,"Redução do trabalho, quando remunerado por peça ou tarefa, de forma a afetar sensivelmente o valor dos salários.",[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,10,Essas hipóteses estão previstas no Art. 483 da CLT [Fonte 3].,['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,11,Fundamentação:,[],[],False,True,False,False,False,nao_avaliado
+correcao_assistida,q_dev_03,12,"O Art. 483 da CLT, no contexto do Título IV — Do Contrato Individual do Trabalho, Capítulo V — Da Rescisão, prevê que o empregado pode considerar rescindido o contrato e pleitear a devida indenização em situações de condutas do empregador que violam direitos fundamentais.",[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,13,As alíneas do artigo indicam as condições específicas em que a rescisão indireta é possível.,[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,14,"A alínea a trata da exigência indevida de serviços, conforme o texto: ""exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato"" [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,15,"A alínea b refere-se ao tratamento com rigor excessivo: ""tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo"" [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,16,"A alínea c diz respeito ao perigo manifesto de dano considerável: ""correr perigo manifesto de mal considerável"" [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,17,"A alínea d menciona o descumprimento das obrigações do contrato: ""não cumprir o empregador as obrigações do contrato"" [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,18,"A alínea e trata da ofensa à honra ou à boa fama: ""praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama"" [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,19,"A alínea f refere-se à ofensa física: ""o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem"" [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,20,"A alínea g diz respeito à redução do trabalho por peça ou tarefa: ""reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários"" [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,21,"O § 3º do Art. 483 estabelece que, nas hipóteses das alíneas d e g, o empregado poderá pleitear a rescisão e as indenizações, permanecendo ou não no serviço até a decisão final do processo [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,22,Essa previsão se aplica apenas a essas alíneas e não pode ser estendida automaticamente às demais.,[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,23,"É importante destacar que o Art. 482 da CLT trata das hipóteses em que o empregador pode rescindir o contrato por justa causa (rescisão direta), não do empregado rescindindo por condutas do empregador.",[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_03,24,"Portanto, não se aplica à pergunta sobre rescisão indireta do empregado [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+correcao_assistida,q_dev_03,25,A resposta está baseada exclusivamente nas evidências fornecidas e não inclui afirmações não sustentadas pelas fontes.,[],[],False,False,True,True,False,nao_avaliado
+correcao_assistida,q_dev_neg_02,1,Essa não é uma pergunta ligada ao Direito do Trabalho.,[],[],False,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,1,**Resposta direta:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,2,"As situações que permitem a rescisão indireta do contrato de trabalho são aquelas em que o empregado pode rescindir o contrato por causa de condutas ou condições do empregador que violam direitos fundamentais, como o tratamento desumano, a exigência de serviços superiores às forças do empregado, o perigo manifesto de mal considerável ou a falta de cumprimento das obrigações contratualmente estabelecidas.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,3,"Essas situações estão previstas no **Art. 483 da CLT**, com base no que foi estabelecido para o empregado doméstico e para o empregado em geral.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,4,Essas situações incluem:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,5,"Exigência de serviços superiores às forças do empregado, defesos por lei, contrários aos bons costumes ou alheios ao contrato;",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,6,Tratamento com rigor excessivo pelo empregador ou por seus superiores hierárquicos;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,7,Correr perigo manifesto de mal considerável;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,8,Falta de cumprimento das obrigações do contrato pelo empregador;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,9,Prática de atos lesivos à honra e à boa fama ou ofensas físicas por parte do empregador ou de seus prepostos;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,10,Redução do trabalho de forma a afetar sensivelmente a importância dos salários.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,11,"Essas condições são **relevante para a rescisão indireta**, ou seja, quando o empregado não é desligado diretamente pelo empregador, mas sim por atos que violam direitos trabalhistas.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,12,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,13,"O conceito de **rescisão indireta** refere-se à possibilidade do empregado rescindir o contrato de trabalho por causa de condutas do empregador que violam direitos fundamentais, como o tratamento desumano, a exigência de serviços excessivos ou a falta de cumprimento de obrigações contratualmente estabelecidas.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,14,"Essa possibilidade é regulamentada no **Art. 483 da CLT**, que estabelece que o empregado pode considerar rescindido o contrato e pleitear indenização em situações como:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,15,"**Exigência de serviços superiores às forças do empregado**, defesos por lei, contrários aos bons costumes ou alheios ao contrato [Fonte 3, Art. 483, alínea a];",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,16,"**Tratamento com rigor excessivo** pelo empregador ou por superiores hierárquicos [Fonte 3, Art. 483, alínea b];",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,17,"**Correr perigo manifesto de mal considerável** [Fonte 3, Art. 483, alínea c];",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,18,"**Falta de cumprimento das obrigações do contrato** pelo empregador [Fonte 3, Art. 483, alínea d];",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,19,"**Atos lesivos à honra e à boa fama** ou ofensas físicas praticados pelo empregador ou por seus prepostos [Fonte 3, Art. 483, alíneas e e f];",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,20,"**Redução do trabalho** de forma a afetar sensivelmente a importância dos salários [Fonte 3, Art. 483, alínea g].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,21,"Essas hipóteses são **aplicáveis tanto para empregados em geral quanto para empregados domésticos**, embora com algumas diferenças de detalhamento.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,22,"No caso do **trabalho doméstico**, a **Lei Complementar nº 150/2015** (Art. 27) estabelece situações semelhantes, como:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,23,Tratamento com rigor excessivo ou de forma degradante;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,24,Exigência de serviços superiores às forças do empregado doméstico;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,25,Perigo manifesto de mal considerável;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,26,Falta de cumprimento das obrigações do contrato;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,27,Atos lesivos à honra e à boa fama ou ofensas físicas por parte do empregador ou da família;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,28,"Violência doméstica ou familiar contra mulheres (Art. 27, alínea vii).",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,29,"Essas normas **reforçam a possibilidade de rescisão indireta**, especialmente em contextos de trabalho doméstico, onde o empregado está mais vulnerável.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,30,**Observações importantes:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,31,"A **rescisão indireta** não é permitida apenas por condutas do empregado, mas sim por **condutas do empregador** que violam direitos fundamentais.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,32,O empregado **não precisa ser desligado diretamente** pelo empregador para exercer esse direito; ele pode rescindir o contrato com base em situações que comprometem sua dignidade e segurança.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,33,O **Art. 483 da CLT** permite que o empregado **suspenda a prestação de serviços ou rescinda o contrato** quando estiver obrigado a desempenhar obrigações legais incompatíveis com a continuação do serviço (§ 1º).,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,34,"A **rescisão indireta** é **diferente da rescisão por justa causa**, que ocorre quando o empregador desliga o empregado por condutas do empregado (como improbidade, desídia, jogos de azar, etc.), conforme o **Art. 482 da CLT**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,35,**Limitações:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,36,"A aplicação dessas regras depende de **prova concreta** de que o empregador violou uma das condições descritas (ex: comprovante de tratamento desumano, documento de exigência de serviço excessivo, etc.).",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,37,"A **prescrição** de direitos trabalhistas pode ser relevante: o direito de rescisão indireta **não tem prazo de prescrição**, mas a **ação judicial** para pleitear a rescisão deve ser iniciada dentro do prazo legal (geralmente 2 anos, conforme o art. 483, § 3º, que permite suspensão e permanência até decisão).",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,38,"Não há dados sobre a **data de admissão**, **tipo de contrato** ou **natureza do trabalho** no contexto, o que torna difícil afirmar com certeza se a situação se aplica ao caso específico do usuário.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,39,**Perguntas necessárias para uma análise mais precisa:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,40,"O empregado está em um contrato de trabalho doméstico ou em outro tipo de emprego (ex: industrial, comercial, etc.)?",[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,41,Há comprovação de que o empregador exigiu serviços superiores às forças do empregado ou o tratou com rigor excessivo?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,42,O empregado correu perigo manifesto de mal considerável?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,43,O empregador não cumprir as obrigações do contrato?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,44,Houve atos lesivos à honra ou ofensas físicas por parte do empregador ou de seus prepostos?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v1,45,"Se você puder fornecer essas informações, posso orientar melhor se a rescisão indireta é aplicável ao caso específico.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,46,> ⚠️ **Importante:** As informações acima estão baseadas apenas nas fontes recuperadas.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,47,Não há jurisprudência ou decisão específica mencionada nas evidências para confirmar a aplicação prática dessas regras em um caso concreto.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v1,48,A análise é feita com base apenas na CLT e na LC 150/2015.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,1,"Não, você não pode pedir rescisão indireta apenas por seu patrão não estar pagando o FGTS.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,2,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,3,"A Lei nº 8.036/1990, que institui o Regime Geral de Previdência Social, estabelece que a Justiça do Trabalho é competente para julgar dissídios trabalhistas, incluindo os relacionados ao FGTS, conforme o **Art. 26** [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v2,4,"No entanto, esse artigo trata da competência judicial e do dever de recolhimento do FGTS, não permite a rescisão indireta como meio de cobrar o pagamento do FGTS.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,5,"O **Art. 20-B** [Fonte 2] trata da possibilidade de o titular de contas vinculadas do FGTS optar por alterar a sistemática de saque-rescisão, mas isso se aplica ao trabalhador que já tem conta vinculada, não ao caso de não pagamento do FGTS por parte do empregador.",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v2,6,**Resposta direta:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,7,"Não, o não pagamento do FGTS não dá direito à rescisão indireta.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,8,"A rescisão indireta é um direito que pode ser exercido apenas por motivos específicos previstos em lei, como a falta de pagamento de salário, e não por ausência de contribuição ao FGTS.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,9,**Limitações importantes:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,10,A Lei não prevê a rescisão indireta por não pagamento do FGTS.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,11,"O não pagamento do FGTS é um ato de descumprimento de obrigação contratual e pode gerar ações trabalhistas para cobrança do FGTS, conforme o **Art. 26**, parágrafo único [Fonte 1], que obriga a empresa a proceder ao recolhimento imediato das parcelas devidas.",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v2,12,"A prescrição para a cobrança do FGTS é de 5 anos, conforme a legislação, mas isso não se aplica à rescisão indireta.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,13,**Conclusão:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,14,"Você pode exigir o pagamento do FGTS por meio de ação trabalhista, mas não pode pedir rescisão indireta por esse motivo.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,15,"A rescisão indireta exige a existência de uma causa específica prevista em lei, como a falta de pagamento de salário, e não a ausência de contribuição ao FGTS.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,16,"Se você deseja, posso ajudar a explicar como fazer uma ação trabalhista para cobrar o FGTS.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v2,17,Deseja isso?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v3,1,"Não, você não pode demitir a empresa que você trabalha.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,2,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,3,"O contrato de trabalho é um acordo entre empregado e empregador, onde o empregado realiza serviços e o empregador paga salário.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,4,"Nesse modelo, é o empregador quem tem a responsabilidade de decidir a rescisão do contrato (ou seja, a demissão do empregado), não o empregado.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,5,A Lei do Trabalho (CLT) não permite que o empregado demita a empresa.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,6,"O empregado não tem o direito de rescindir o contrato de trabalho por iniciativa própria, pois isso violaria o princípio da relação de trabalho, onde o empregador é o responsável pela gestão e pela finalização do contrato.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,7,"Se a pergunta fosse sobre o empregado ser demitido, haveria uma análise sobre justa causa, força maior, estabilidade, entre outros, conforme as fontes.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,8,"Mas, como a pergunta é sobre o empregado demitir a empresa, isso não é possível sob o direito trabalhista brasileiro.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,9,**Fonte:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,10,"[Fonte 1] e [Fonte 2] tratam da rescisão do contrato de trabalho, mas não prevê que o empregado possa demitir a empresa.","['Fonte 1', 'Fonte 2']",[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v3,11,"O artigo 482 da CLT define quais atos constituem justa causa para a demissão do empregado, e o artigo 502 trata da indenização em caso de força maior, não de direito de demissão do empregado.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,12,"Portanto, **não há dispositivo jurídico que permita ao empregado demitir a empresa**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,13,"Se você estiver buscando sair do emprego, o procedimento correto é que o empregador realize a rescisão do contrato, com ou sem justa causa, conforme as normas da CLT.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,14,"Se houver uma situação específica (como empresa fechada, força maior, ou outro fato), posso ajudar a analisar com base nas fontes.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v3,15,"Mas, em geral, **não é possível demitir a empresa que você trabalha**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,1,**Resposta direta:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,2,"Sim, você pode rescindir seu contrato de trabalho se foi agredida fisicamente no serviço, desde que a agressão tenha ocorrido em serviço e não tenha sido em caso de legítima defesa.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,3,Isso está previsto na legislação trabalhista.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,4,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,5,"O artigo 482, inciso **j** da Lei do Trabalho (CLT), estabelece que **""ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem""** constitui justa causa para rescisão do contrato de trabalho pelo empregador.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,6,"Essa norma é aplicável ao seu caso, pois você foi agredida fisicamente no trabalho, o que se encaixa na definição de ""ofensas físicas praticadas no serviço"".",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,7,"A exceção é o caso de **legítima defesa**, que exige comprovação de que a agressão foi respondida de forma proporcional e necessária.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,8,"Além disso, o **artigo 483**, inciso **f**, da CLT, prevê que o empregado pode rescindir o contrato se **""o empregador ou seus prepostos ofenderem-no fisicamente""**, salvo em caso de legítima defesa.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,9,"Portanto, se a agressão foi cometida por um superior, por um colega ou por qualquer pessoa ligada ao ambiente de trabalho, e não foi justificada por defesa legítima, você tem direito a rescindir o contrato com base nesses dispositivos.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,10,**Importante:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,11,A agressão precisa ter ocorrido **no ambiente de trabalho** (em serviço) para que seja considerada como ato lesivo no contexto do trabalho.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,12,A **legítima defesa** é uma exceção que exige comprovação de que a agressão foi respondida de forma proporcional e necessária.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,13,"A **rescisão por justa causa** pode ser feita pelo empregado, mas o empregador também pode rescindir por esse motivo.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,14,**Fontes:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,15,[Fonte 2],['Fonte 2'],[],False,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v4,16,"Art. 483, inciso **f**",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,17,[Fonte 3],['Fonte 3'],[],False,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v4,18,"Art. 482, inciso **j**",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,19,> ⚠️ **Limitação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,20,"> A análise depende de comprovação da agressão (como testemunhas, registros, fotos, etc.).",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,21,A ausência de evidências pode dificultar a validade da alegação.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,22,"> Além disso, a prescrição para ações trabalhistas é de **2 anos**, a partir da data do fato (agressão), conforme o art. 206 da CLT.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,23,"> Portanto, é importante que você atue dentro desse prazo para garantir a eficácia do direito.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,24,"Se você puder fornecer mais detalhes (como quem agrediu, onde, quando e se houve comprovação), posso ajudar a refinar a análise.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v4,25,"Mas com base nas evidências disponíveis, **sim, você pode rescindir o contrato por agressão física no trabalho**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,1,**Resposta direta:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,2,"Sim, você pode sair da empresa sem perder seus direitos, **mas** isso depende de vários fatores, como o **motivo do desligamento**, **se houve ofensa moral grave**, **se houve justa causa** e **se a ofensa foi cometida por atos do empregador ou do empregado**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,3,"No entanto, **a ofensa moral** que você menciona, **se for de natureza grave e prolongada**, pode gerar **direito a indenização**, e **não impede que você saia da empresa**, desde que o desligamento seja feito de forma **legítima** (por exemplo, por justa causa ou por acordo).",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,4,"Mas, **se o desligamento for por motivo de ofensa moral**, e **não houver justa causa**, pode haver **riscos de que a empresa não respeite seus direitos**, como a **indenização por ofensa moral** ou **a preservação de direitos trabalhistas**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,5,"Portanto, **você não perde seus direitos apenas por sair da empresa**, **mas** é importante saber **se o desligamento foi por justa causa** ou por **motivo de ofensa moral**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,6,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,7,**Sobre a ofensa moral e os direitos de indenização:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,8,"O artigo 223-G da CLT (Lei nº 13.467, de 2017), que foi incluído pela Lei nº 13.467, de 2017, estabelece os **parâmetros para a indenização por ofensa moral**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,9,"Ele diz que, ao julgar um pedido de indenização por ofensa moral, o juízo deve considerar:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v5,10,a natureza do bem jurídico tutelado;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,11,a intensidade do sofrimento ou da humilhação;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,12,a possibilidade de superação física ou psicológica;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,13,os reflexos pessoais e sociais da ação ou omissão;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,14,a extensão e duração dos efeitos da ofensa;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,15,as condições em que ocorreu a ofensa;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,16,o grau de dolo ou culpa;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,17,a ocorrência de retratação espontânea;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,18,o esforço efetivo para minimizar a ofensa;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,19,"o perdão, tácito ou expresso;",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,20,a situação social e econômica das partes;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,21,o grau de publicidade da ofensa.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,22,"Esses critérios são aplicados para **determinar se houve ofensa moral** e **quanto deve ser paga a indenização**, com base na **natureza leve, média, grave ou gravíssima** da ofensa.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,23,👉 [Fonte 1],['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v5,24,**Sobre a possibilidade de sair da empresa sem perder direitos:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,25,"A CLT não impede que um trabalhador saia da empresa, **mesmo com ofensas morais**, desde que o desligamento seja feito **de forma legal**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,26,"O artigo 482 da CLT define **quais atos constituem justa causa** para rescisão do contrato, como:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v5,27,ato de improbidade;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,28,incontinência de conduta;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,29,negociação sem permissão;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,30,condenação criminal;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,31,desídia;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,32,embriaguez;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,33,violação de segredo;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,34,ato lesivo da honra ou da boa fama;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,35,abandono de emprego;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,36,ato lesivo à honra do empregador ou superiores.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,37,👉 [Fonte 3],['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v5,38,"Se a ofensa moral **for cometida por você**, e **não por um ato do empregador**, e **não for considerada justa causa**, então **você pode sair da empresa sem perder direitos**, desde que o desligamento seja feito por **motivo legítimo** (como aposentadoria, demissão por justa causa, ou acordo).",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,39,"Mas se a ofensa foi **cometida por um ato do empregador** (como humilhações, discriminação, ou atos lesivos), e **você não foi punido por justa causa**, então **você pode ter direito a indenização**, e **não perde seus direitos trabalhistas** ao sair.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,40,**Sobre a preservação dos direitos trabalhistas:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,41,"O artigo 7º da Constituição de 1988 garante que os trabalhadores têm direitos sociais, como **proteção contra despedida arbitrária**, **direito à indenização**, **direito à ação por créditos trabalhistas**, e **proteção contra discriminação**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,42,"Além disso, o artigo 29 do mesmo artigo garante que **os créditos trabalhistas têm prazo prescricional de cinco anos**, **até o limite de dois anos após a extinção do contrato**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,43,👉 [Fonte 2],['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v5,44,"Isso significa que, **mesmo que você saia da empresa**, **se houver ofensa moral grave**, **você pode buscar indenização**, e **não perde seus direitos trabalhistas**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,45,**Limitações importantes:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,46,A **natureza da ofensa** (se foi do empregador ou do empregado) é **crucial** para saber se há direito a indenização.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,47,"O **motivo do desligamento** (por justa causa, por acordo, por demissão sem justa causa) **afeta se você perde direitos**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,48,A **duração e intensidade da ofensa** devem ser **comprovadas** para que haja direito a indenização.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,49,"**Não há garantia de que a empresa não rejeite a indenização**, mesmo que legalmente você tenha direito.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,50,"👉 **Se você não souber se a ofensa foi do empregador ou do empregado, ou se o desligamento foi por justa causa, é necessário esclarecer isso para uma análise mais precisa.**",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,51,**Perguntas necessárias para uma resposta mais precisa:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,52,"**O que foi o ato ou comportamento que você considera ofensivo?** (Ex: foi do empregador, do colega, do chefe?)",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,53,"**O desligamento foi por justa causa?** (Ex: foi por falta de desempenho, por ato lesivo, por acordo?)",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,54,**Você já apresentou uma reclamação formal ou uma ação por ofensa moral?**,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v5,55,**Você tem comprovante de que a ofensa foi prolongada (por meses ou anos)?**,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v5,56,"👉 Sem essas informações, **não é possível afirmar com certeza se você perdeu direitos ou se pode buscar indenização**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,57,**Conclusão final:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,58,"✅ **Você pode sair da empresa sem perder seus direitos trabalhistas**, **mesmo com ofensas morais**, **se o desligamento for feito de forma legal**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,59,"✅ **Se a ofensa foi cometida por ato do empregador**, você tem **direito a indenização** por ofensa moral, conforme o artigo 223-G da CLT.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,60,"❌ **Se o desligamento foi por justa causa (como ato lesivo da honra)**, e **não houve ofensa grave**, pode haver risco de que os direitos sejam prejudicados.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,61,👉 **A melhor forma é que você busque ajuda de um advogado especializado em Direito do Trabalho para analisar o caso com base nos fatos específicos.**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v5,62,[Fonte 1] – Art. 223-G da CLT,['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v5,63,[Fonte 2] – Art. 7º da Constituição de 1988,['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v5,64,[Fonte 3] – Art. 482 da CLT,['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,1,"Sim, existe a possibilidade de o empregador (patrão, chefe ou empresa) dar ""justa causa"" para rescindir o contrato de trabalho, **mas isso está limitado por normas jurídicas e condições específicas**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,2,"Essa possibilidade é prevista na **Lei do Trabalho (CLT)**, e o dispositivo que define quais atos constituem justa causa é o **Art. 482 da CLT**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,3,### ✅ Resposta direta:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,4,"Sim, o empregador pode dar justa causa para rescindir o contrato de trabalho, **se o comportamento do empregado for comprovado como um dos atos listados no Art. 482 da CLT**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,5,### 📚 Fundamentação:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,6,"O **Art. 482 da CLT** (Lei nº 5.452/1943, consolidada) estabelece que os seguintes atos constituem justa causa para rescisão do contrato de trabalho pelo empregador:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,7,Atos de improbidade,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,8,Incontinência de conduta ou mau procedimento,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,9,"Negociação sem permissão, que prejudica o serviço",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,10,Condenação criminal transitada em julgado (sem suspensão da pena),[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,11,Desídia no desempenho das funções,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,12,Embriaguez habitual ou em serviço,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,13,Violção de segredo da empresa,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,14,Atos de indisciplina ou insubordinação,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,15,Abandono de emprego,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,16,Atos lesivos à honra ou à boa fama no serviço,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,17,Prática constante de jogos de azar,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,18,Perda da habilitação profissional por conduta dolosa,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,19,> [Fonte 1 – Art. 482 da CLT],['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,20,**Importante:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,21,"Esses atos devem ser **comprovados** e **direcionados ao desempenho do trabalho**, não apenas a comportamentos pessoais ou internos.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,22,"A justa causa não é aberta para qualquer motivo, e o empregador deve comprovar que o ato do empregado **afetou o serviço ou a empresa**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,23,### ⚠️ Observação sobre o contrato de trabalho doméstico:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,24,"Há uma **diferença específica** no caso de **trabalho doméstico**, onde o **Art. 27 da Lei Complementar nº 150/2015** estabelece justas causas semelhantes, mas com foco no **tratamento do empregado doméstico**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,25,"Nesse caso, a justa causa pode incluir:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,26,"Maus tratos a idosos, enfermos, pessoas com deficiência ou crianças",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,27,Abandono de emprego (por ausência injustificada de 30 dias),[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,28,Atos lesivos à honra ou à boa fama,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,29,> [Fonte 2 – Art. 27 da LC 150/2015],['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,30,Mas **esse tipo de contrato é diferente** do trabalho comum em empresas.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,31,"A pergunta não especifica o tipo de trabalho, então a resposta se baseia no **trabalho comum**, conforme a CLT.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,32,### ❌ O que NÃO é justa causa:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,33,"**A ausência injustificada de 30 dias** pode ser considerada justa causa **apenas no caso de trabalho doméstico** (Art. 27, inciso IX da LC 150/2015), **não no trabalho comum**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,34,**A simples falta de desempenho** sem comprovação de desídia ou má conduta **não é justa causa**.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,35,"**A vontade do empregador** de demitir por ""motivos pessoais"" **não é justa causa**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,36,### ⚖️ Limitações importantes:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,37,"**A justa causa exige comprovação** – o empregador deve apresentar **evidências** (como relatórios, registros, testemunhas) para provar que o ato do empregado se encaixa nos itens do Art. 482.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,38,"**A ausência de justa causa impede a rescisão** – se o empregador demitir sem justa causa, o empregado pode ter direito a **indenização** (Art. 480 da CLT).",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,39,"**A prescrição** – se a demissão for por justa causa, o prazo de prescrição para ações trabalhistas é de **2 anos**, a partir da data da rescisão.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,40,"(Mas isso não é mencionado nas fontes, então não posso afirmar com base nas evidências disponíveis.)",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,41,### 📝 Conclusão:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,42,"✅ Sim, o empregador pode dar justa causa para rescindir o contrato de trabalho, **se o comportamento do empregado for comprovado como um dos atos descritos no Art. 482 da CLT**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,43,"❌ Não, se o comportamento for apenas uma falta de desempenho, ausência sem justificativa (em trabalho comum), ou se não houver comprovação de ato lesivo ao serviço.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,44,> [Fonte 1 – Art. 482 da CLT],['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,45,### 📝 Observação final:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,46,Se você puder me informar:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v6,47,"O tipo de trabalho (ex: empregado doméstico, funcionário de empresa, etc.)",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,48,O motivo da demissão,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,49,"Se houve comprovação de ato (ex: relatório, denúncia, registro)",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,50,Posso dar uma análise mais específica.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v6,51,"Até então, a resposta se baseia no **trabalho comum**, conforme a CLT.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,1,**Resposta direta:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,2,"Sim, você pode pedir a rescisão do contrato de trabalho em situações específicas previstas na legislação trabalhista, como quando o empregador exige serviços superiores às suas forças, trata com rigor excessivo, coloca em perigo seu bem-estar, não cumprir obrigações contratualmente estabelecidas, praticar atos lesivos à sua honra ou à sua família, ou reduzir seu trabalho de forma a afetar sensivelmente seus salários.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,3,Essas situações estão previstas no **Art. 483 da CLT**.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,4,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,5,"O direito de rescisão do contrato de trabalho por parte do empregado está previsto no **Art. 483 da CLT**, que estabelece situações em que o empregado pode considerar rescindido o contrato e pleitear indenização.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,6,As hipóteses são:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_03_v7,7,"**a)** Quando forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes ou alheios ao contrato;",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,8,**b)** Quando for tratado pelo empregador ou por seus superiores com rigor excessivo;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,9,**c)** Quando correr perigo manifesto de mal considerável;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,10,**d)** Quando o empregador não cumprir as obrigações do contrato;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,11,**e)** Quando o empregador ou seus prepostos praticarem ato lesivo à honra e boa fama;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,12,"**f)** Quando o empregador ou seus prepostos o ofenderem fisicamente, salvo em caso de legítima defesa;",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,13,**g)** Quando o empregador reduzir o trabalho (por peça ou tarefa) de forma a afetar sensivelmente a importância dos salários.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,14,"Além disso, o **§ 3º do Art. 483** permite que o empregado pleiteie a rescisão e o pagamento de indenização, mesmo permanecendo no serviço até a decisão do processo.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,15,Essas normas são válidas e em vigor ([Fonte 1]).,['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_03_v7,16,**Observação importante:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,17,"O Art. 483 trata da **rescisão por justa causa do empregado**, ou seja, situações em que o empregado pode **interromper o contrato por motivos de proteção de seus direitos**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,18,"É importante diferenciar isso da **rescisão por justa causa do empregador**, que ocorre em situações como atos de improbidade, desídia, embriaguez, violação de segredo, entre outros, previstos no **Art. 482 da CLT**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,19,"No entanto, a sua pergunta se refere à **situação em que você pode pedir rescisão**, o que se encaixa no Art. 483, pois trata do direito do empregado de rescindir o contrato por motivos de proteção de seus direitos.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,20,**Limitações e esclarecimentos:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,21,"A resposta se baseia apenas nas hipóteses do **Art. 483 da CLT**, que são **situações de rescisão por parte do empregado**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,22,"Não há dados sobre o tipo de contrato, data de admissão, tempo de serviço ou motivo específico do desligamento no seu caso.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,23,"Para que a rescisão seja válida, é necessário que as condições descritas no Art. 483 sejam **verificadas e comprovadas**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,24,"A **prescrição** de direitos trabalhistas é de **2 anos**, a partir da data em que o fato ocorreu (art. 483, § 3º, da CLT), mas isso não é relevante aqui porque não há data de ocorrência informada.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,25,"Se você quiser que eu avalie se uma situação específica (ex: redução de trabalho, ato lesivo) se encaixa no Art. 483, **por favor, forneça mais detalhes** sobre o que aconteceu no seu caso.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,26,> ⚠️ **Importante:** Não é possível afirmar com certeza se uma situação específica é ou não coberta pelo Art. 483 sem conhecer os fatos concretos.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,27,"A análise jurídica exige detalhes como o tipo de ato, o contexto do trabalho e a relação com o contrato.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,28,"Se desejar, posso ajudar a verificar se uma situação específica se encaixa nas hipóteses do Art. 483.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_03_v7,29,Basta me informar.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,1,**Resposta direta:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,2,"Não, você não está obrigado a fazer hora extra apenas por causa do seu contrato ou da empresa.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,3,"A obrigatoriedade de fazer hora extra depende de condições específicas, como acordo individual, convenção coletiva ou necessidade de trabalho em horário extraordinário.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,4,"Se o trabalho for feito por acordos formais ou em situações excepcionais, pode haver hora extra, mas isso não é automático.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,5,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,6,"O direito à hora extra é regulado pelo **Art. 59** da CLT (Consolidação das Leis do Trabalho), que estabelece que a duração diária do trabalho pode ser aumentada de **até duas horas extras**, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. [Fonte 2].",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v1,7,"O texto do artigo afirma que a remuneração da hora extra será, pelo menos, **50% superior** à da hora normal. [Fonte 2].",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v1,8,"Além disso, o **Art. 58-A** trata do regime de tempo parcial, onde a jornada máxima é de 30 horas semanais (sem horas suplementares) ou 26 horas semanais com até 6 horas suplementares. [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v1,9,"Nesse caso, as horas suplementares são pagas com acréscimo de 50% sobre o salário-hora normal. [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v1,10,Importante: **não há obrigatoriedade de fazer hora extra** por simples fato de trabalhar.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,11,"A hora extra só ocorre quando houver **acordo formal** (individual, coletivo ou por convenção) ou quando o trabalho for realizado em **horário extraordinário** (como nos domingos, feriados ou em situações de necessidade indeclinável, como no caso de operadores de telefonia, conforme o Art. 227). [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v1,12,"Portanto, **você só está obrigado a fazer hora extra se houver um acordo formal ou se a empresa estiver obrigada por lei específica** (como em operações de telefonia submarina, por exemplo).",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,13,"Caso contrário, não há obrigatoriedade.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,14,"Se você quiser saber se há hora extra no seu caso específico, preciso saber:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v1,15,O tipo de cargo ou função que você exerce;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,16,Se há um acordo individual ou convenção coletiva com a empresa;,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,17,"Se o trabalho é feito em horário extraordinário (domingos, feriados, etc.);",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,18,Se o contrato é de tempo integral ou parcial.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,19,Essas informações são essenciais para decidir se a hora extra é obrigatória ou não.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v1,20,"Sem elas, não é possível concluir com precisão.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,1,Resposta direta:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,2,"Você pode fazer até **duas horas extras por dia**, desde que haja acordo individual, convenção coletiva ou acordo coletivo de trabalho.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,3,"Se o acréscimo de horas for compensado em outro dia, o total de horas extras no ano não pode exceder a soma das jornadas semanais previstas, e não pode ultrapassar **dez horas diárias**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,4,Essa regra se aplica ao regime de trabalho integral.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,5,"Se você estiver em **regime de tempo parcial**, a quantidade de horas extras depende do tipo de jornada:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,6,"Se a jornada for de até **26 horas semanais**, pode haver até **6 horas suplementares semanais**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,7,"Se a jornada for de até **25 horas semanais**, pode haver até **1 hora extra diária**, com limite máximo de **6 horas semanais**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,8,O pagamento das horas extras é de **50% superior ao salário normal**.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,9,Fundamentação:,[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,10,**Limite de horas extras por dia (até 2 horas)**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,11,"O Art. 59, § 1º da CLT, estabelece que ""a duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho"". [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,12,**Pagamento das horas extras**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,13,"O mesmo artigo, § 1º, prevê que ""a remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal"". [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,14,**Compensação de horas extras**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,15,"O Art. 59, § 2º, permite que o excesso de horas em um dia seja compensado em outro, desde que não exceda o limite máximo de **dez horas diárias** e não ultrapasse a soma das jornadas semanais previstas em um ano. [Fonte 1]",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,16,**Regime de tempo parcial – limite de horas suplementares**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,17,"O Art. 58-A, § 2º, estabelece que, em regime de tempo parcial, o empregado pode ter até **uma hora extra diária**, com limite máximo de **seis horas semanais**. [Fonte 2]",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,18,**Diferença entre CLT e Lei Complementar 150/2015**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,19,"A Lei Complementar 150/2015 (regime de trabalho doméstico) estabelece um limite mais restrito: até **1 hora extra diária**, com limite de **6 horas semanais**, e aplica-se apenas ao trabalho doméstico. [Fonte 3]",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,20,⚠️ **Limitações importantes:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,21,"As regras acima se aplicam apenas se houver **acordo escrito**, **convenção coletiva** ou **acordo individual**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,22,O regime de tempo parcial (até 25 ou 26 horas semanais) é diferente do trabalho integral e tem regras específicas.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,23,"A pergunta não menciona o tipo de contrato (integral ou parcial), o setor de trabalho, a natureza do emprego (doméstico ou não) ou a data de início do contrato.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,24,"Sem essas informações, não é possível afirmar com certeza se o empregado está sob regime de tempo parcial ou integral.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,25,✅ **Conclusão:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,26,"Se você está em **regime de trabalho integral**, pode ter até **duas horas extras por dia**, com pagamento de 50% a mais, e com compensação em outro dia, desde que não exceda 10 horas diárias no ano.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,27,"Se você está em **regime de tempo parcial**, o limite é de **1 hora extra diária**, com até 6 horas semanais, conforme a Lei Complementar 150/2015 (apenas para trabalho doméstico).",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,28,👉 **Pergunta necessária para esclarecer o caso:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,29,Você está em regime de trabalho integral ou de tempo parcial?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,30,E o trabalho é doméstico ou não?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v2,31,*(Observação: Não há jurisprudência relevante nas evidências fornecidas para apoiar ou contradizer essas regras.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v2,32,"As afirmações estão baseadas apenas na CLT e na LC 150/2015, com seus dispositivos citados.)*",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,1,"Sim, você tem direito a receber a hora extra que faz, desde que as condições legais sejam cumpridas.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,2,**Resposta direta:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,3,"Sim, você tem direito a receber a hora extra, desde que o trabalho exceda a jornada normal e haja um acordo, convenção coletiva ou regime legal que permita a compensação ou o pagamento.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,4,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,5,"O direito à hora extra é previsto no **Art. 59** da Consolidação das Leis do Trabalho (CLT), que estabelece que a duração diária do trabalho pode ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v3,6,"Além disso, o **§ 1º do Art. 59** determina que a remuneração da hora extra será, pelo menos, 50% superior à da hora normal, o que garante um pagamento proporcional ao tempo trabalhado além da jornada normal [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v3,7,"O **§ 3º do Art. 59** afirma que, em caso de rescisão do contrato sem compensação integral da jornada extraordinária, o trabalhador tem direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v3,8,"Isso significa que, mesmo que o contrato termine, você pode receber o valor das horas extras não compensadas.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,9,"O **Art. 58-A**, que trata do regime de tempo parcial, também prevê que as horas suplementares à jornada semanal normal serão pagas com acréscimo de 50% sobre o salário-hora normal [Fonte 3], o que reforça o direito ao pagamento de horas extras, mesmo em jornadas mais curtas.",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v3,10,**Importante:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,11,O direito à hora extra só se aplica se o trabalho exceder a jornada normal e houver um acordo ou regime legal que permita a compensação ou o pagamento.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,12,"Se o trabalho for feito dentro da jornada normal, ou se não houver acordo, não há direito à hora extra.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,13,**Observação sobre a compensação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,14,"O **§ 2º do Art. 59** permite que o excesso de horas em um dia seja compensado por uma diminuição em outro dia, desde que não exceda o limite máximo de dez horas diárias e não ultrapasse a soma das jornadas semanais previstas em um ano [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v3,15,"Isso significa que, em certos casos, o trabalho extra pode ser compensado, mas não é obrigatório o pagamento — apenas a compensação, desde que o acordo seja feito.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,16,**Conclusão:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,17,"Com base nas normas citadas, **você tem direito a receber a hora extra**, desde que o trabalho exceda a jornada normal e haja um regime legal (acordo individual, convenção coletiva ou regime de tempo parcial) que permita o pagamento ou a compensação.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,18,"Se você não tiver um acordo ou não estiver em regime de tempo parcial, e o trabalho for feito dentro da jornada normal, então não há direito à hora extra.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,19,"Se quiser, posso ajudar a verificar se o seu caso se encaixa nesses parâmetros — basta me informar:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v3,20,Se você trabalha com jornada normal ou em tempo parcial,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,21,Se houve um acordo ou convenção coletiva,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,22,Se o trabalho excedeu a jornada normal,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,23,Se houve compensação de horas,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v3,24,Essas informações são essenciais para confirmar se o direito à hora extra se aplica ao seu caso.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,1,**Resposta direta:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,2,"Não é possível afirmar com certeza se a empresa tem que pagar hora extra, pois **faltam informações essenciais** sobre o tipo de trabalho que você realiza, a jornada de trabalho que você tem, se houve excesso de horas em um dia, e se houve compensação em outro dia.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,3,"Para responder com precisão, precisamos saber:",[],[],False,True,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,4,"Qual é o seu cargo ou tipo de atividade (por exemplo, operador de telefonia, trabalhador doméstico, etc.)?",[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,5,Qual é a jornada de trabalho diária e semanal que você tem?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,6,Houve excesso de horas em um dia?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,7,Houve compensação de horas em outro dia?,[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,8,"O trabalho foi feito em domingo, feriado ou dia de repouso?",[],[],True,False,False,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,9,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,10,A responsabilidade de pagar hora extra depende do tipo de trabalho e das condições específicas do contrato.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,11,"**Para trabalhadores em empresas que explorem telefonia, radiotelegrafia, etc.**, o artigo 227 da CLT estabelece que a jornada máxima é de **6 horas diárias ou 36 horas semanais**, e que **quando os operadores permanecerem além do período normal, devem receber 50% a mais sobre o salário-hora normal** [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,12,"**Para todos os trabalhadores**, o artigo 59 da CLT permite que a jornada seja aumentada em até **duas horas extras por dia**, mediante acordo individual, convenção coletiva ou acordo coletivo, e que a remuneração da hora extra seja **no mínimo 50% superior à hora normal** [Fonte 2].",['Fonte 2'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,13,"**Para empregados domésticos**, o artigo 2º da Lei Complementar 150/2015 estabelece que a jornada máxima é de **8 horas diárias e 44 horas semanais**, e que a hora extra deve ser paga com **50% de acréscimo**, com possibilidade de compensação de horas, desde que pactuada por acordo escrito [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,14,"No entanto, **não há nenhuma evidência que indique que você está em uma dessas categorias ou que tenha trabalhado além da jornada normal**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,15,"Além disso, **a possibilidade de compensação de horas** (como trabalhar menos em outro dia para compensar mais em outro) **não exclui o direito à remuneração das horas extras não compensadas**, conforme o artigo 59, § 3º e o artigo 3º da LC 150/2015, § 6º [Fonte 2 e Fonte 3].","['Fonte 2', 'Fonte 3']",[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v4,16,**Limitação importante:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,17,"A **prescrição** (período máximo para exigir um direito) pode ser relevante, mas **não há dados sobre o tempo transcorrido** ou a data da rescisão/ocorrência do trabalho extra.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,18,"Sem isso, não é possível dizer se o direito já prescreveu.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,19,"Portanto, **sem saber o tipo de trabalho, a jornada, se houve excesso de horas e se houve compensação**, **não é possível afirmar com segurança se a empresa deve pagar hora extra**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v4,20,"Se você puder fornecer essas informações, posso analisar com base nas fontes jurídicas.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,1,**Resposta direta:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,2,"Sim, é possível fazer 3 horas extras no dia, **mas com limitações**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,3,"O limite máximo de horas extras diárias é de **duas horas**, conforme o artigo 59 da CLT.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,4,"Portanto, **não é permitido fazer 3 horas extras em um dia**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,5,**Fundamentação:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,6,"O artigo 59 da Consolidação das Leis do Trabalho (CLT), que regula a jornada de trabalho, estabelece que **a duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas**, por acordo individual, convenção coletiva ou acordo coletivo de trabalho [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v5,7,"Esse limite de **duas horas extras por dia** é um limite legal e não pode ser ultrapassado, mesmo que haja um acordo entre empregado e empregador.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,8,"A norma não permite, portanto, que sejam realizadas **três horas extras em um único dia**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,9,"Além disso, o artigo 59 prevê que, se o excesso de horas em um dia for compensado em outro dia (por meio de ""banco de horas""), a compensação deve ocorrer dentro do limite máximo de **dez horas diárias** e não pode exceder a soma das jornadas semanais previstas em um ano [Fonte 1, § 2º].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v5,10,Isso reforça que o regime de horas extras é restrito e não pode ser ampliado para três horas por dia.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,11,**Importante:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,12,"O regime de horas extras pode ser pactuado por acordo individual, mas **não pode violar o limite de duas horas diárias** estabelecido na CLT.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,13,"A possibilidade de compensação de horas extras (como no ""banco de horas"") é permitida, mas **apenas dentro dos limites previstos**, e **não permite a realização de três horas extras em um dia**.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,14,**Observação sobre o regime de tempo parcial:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,15,"O artigo 58-A da CLT trata do regime de tempo parcial, permitindo até 26 horas semanais com até 6 horas suplementares semanais [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v5,16,"No entanto, **esse limite se refere à semana**, não ao dia.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,17,"Mesmo assim, **não há autorização para exceder as duas horas extras diárias**, mesmo que o trabalhador esteja em regime de tempo parcial.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,18,**Conclusão:**,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,19,"**Não, você não pode fazer 3 horas extras no dia.** A CLT limita as horas extras diárias a **duas horas**, conforme o artigo 59 [Fonte 1].",['Fonte 1'],[],False,False,True,False,False,nao_avaliado
+variante_rag,q_dev_06_v5,20,Qualquer tentativa de ultrapassar esse limite é inconstitucional e não pode ser validada por acordo ou convenção.,[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,21,"Se houver um contrato que permita mais horas, ele deve estar de acordo com a CLT e não pode violar esse limite.",[],[],False,False,True,True,False,nao_avaliado
+variante_rag,q_dev_06_v5,22,"Se o empregado estiver em regime de tempo parcial, o limite de horas extras ainda se aplica, conforme o artigo 58-A [Fonte 3].",['Fonte 3'],[],False,False,True,False,False,nao_avaliado

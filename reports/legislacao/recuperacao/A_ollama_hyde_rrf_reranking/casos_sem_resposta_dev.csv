@@ -1,0 +1,9 @@
+query_id,estrategia,motor,score_top1,abstinencia_avaliada
+q_dev_neg_01,A_artigo,vector,0.6044752597808838,False
+q_dev_neg_01,A_artigo,hyde,0.6325123310089111,False
+q_dev_neg_01,A_artigo,rrf,0.032266458495966696,False
+q_dev_neg_01,A_artigo,rrf_rerank,0.16703785955905914,False
+q_dev_neg_03,A_artigo,vector,0.6134751439094543,False
+q_dev_neg_03,A_artigo,hyde,0.7009962797164917,False
+q_dev_neg_03,A_artigo,rrf,0.032266458495966696,False
+q_dev_neg_03,A_artigo,rrf_rerank,0.5304397940635681,False

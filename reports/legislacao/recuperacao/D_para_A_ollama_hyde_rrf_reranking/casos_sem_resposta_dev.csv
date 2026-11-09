@@ -1,0 +1,9 @@
+query_id,estrategia,motor,score_top1,abstinencia_avaliada
+q_dev_neg_01,D_paragrafo_completo,vector,0.6077082572070308,False
+q_dev_neg_01,D_paragrafo_completo,hyde,0.687768874665905,False
+q_dev_neg_01,D_paragrafo_completo,rrf,0.03278688524590164,False
+q_dev_neg_01,D_paragrafo_completo,rrf_rerank,0.33934393525123596,False
+q_dev_neg_03,D_paragrafo_completo,vector,0.6165505280166561,False
+q_dev_neg_03,D_paragrafo_completo,hyde,0.7430932828076794,False
+q_dev_neg_03,D_paragrafo_completo,rrf,0.032266458495966696,False
+q_dev_neg_03,D_paragrafo_completo,rrf_rerank,0.372629314661026,False

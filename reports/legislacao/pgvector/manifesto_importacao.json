@@ -1,0 +1,14 @@
+{
+  "model": "BAAI/bge-m3",
+  "strategy": "A_artigo",
+  "dimensions": 1024,
+  "chunk_count": 5284,
+  "cache_key": "5a6e4c1bd0c79d4e613a633bbd1f1559fb2ecadfc386dc664050c0fd2e451b6e",
+  "chunks_sha256": "e00879fc28a97925f5ca675e93d5b182c6853c5d8c05207d3378221c8499f02b",
+  "vectors_sha256": "dd64c7f6de9eb5f2b3426f43c0e6071e940a7ee61decaf702c3447074e00df7f",
+  "ordered_mapping_sha256": "87806c266061d4759a6621dccdd55ee379479a0a60d72c347c7d5b97cb5b7322",
+  "model_config_sha256": "cf56514950c02edad3710742f37e36976694688013ab5b4dd89aa374f3ac4b73",
+  "correspondence": "row i do cache corresponde ao chunk i do JSON cuja SHA-256 compõe a chave original",
+  "embeddings_recomputed": false,
+  "dataset_id": "508abda2246b7cc1db28bd9b0bf762bddfb2a5696f6681ec22e99b60108876f9"
+}

@@ -1,0 +1,355 @@
+{
+  "query_id": "q_test_02",
+  "pergunta": "Quais descontos salariais são admitidos e quais condições para desconto por dano são descritas no art. 462 da CLT?",
+  "sources": [
+    {
+      "chunk_id": "fe9b0dd8f57e270af317c77ccf5bc0fea3cdd9ee21c77de56d14b044180cba21",
+      "estrategia": "A_artigo",
+      "artigo_id": "619a8aa01c328e92a082d8be1f79cbe0376073e7c0a00f92a774236fdbf2fc6e",
+      "artigo_ref": "Art. 462",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 462]",
+      "corpo_chunk": "##### Art. 462\n\nAo empregador é vedado efetuar qualquer desconto nos salários do empregado, salvo quando este resultar de adiantamentos, de dispositivos de lei ou de contrato coletivo.\n\n§ 1º - Em caso de dano causado pelo empregado, o desconto será lícito, desde de que esta possibilidade tenha sido acordada ou na ocorrência de dolo do empregado. (Parágrafo único renumerado pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 2º - É vedado à emprêsa que mantiver armazém para venda de mercadorias aos empregados ou serviços estimados a proporcionar-lhes prestações \" in natura \" exercer qualquer coação ou induzimento no sentido de que os empregados se utilizem do armazém ou dos serviços. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 3º - Sempre que não fôr possível o acesso dos empregados a armazéns ou serviços não mantidos pela Emprêsa, é lícito à autoridade competente determinar a adoção de medidas adequadas, visando a que as mercadorias sejam vendidas e os serviços prestados a preços razoáveis, sem intuito de lucro e sempre em benefício das empregados. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 4º - Observado o disposto neste Capítulo, é vedado às emprêsas limitar, por qualquer forma, a liberdade dos empregados de dispôr do seu salário. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 462]\n##### Art. 462\n\nAo empregador é vedado efetuar qualquer desconto nos salários do empregado, salvo quando este resultar de adiantamentos, de dispositivos de lei ou de contrato coletivo.\n\n§ 1º - Em caso de dano causado pelo empregado, o desconto será lícito, desde de que esta possibilidade tenha sido acordada ou na ocorrência de dolo do empregado. (Parágrafo único renumerado pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 2º - É vedado à emprêsa que mantiver armazém para venda de mercadorias aos empregados ou serviços estimados a proporcionar-lhes prestações \" in natura \" exercer qualquer coação ou induzimento no sentido de que os empregados se utilizem do armazém ou dos serviços. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 3º - Sempre que não fôr possível o acesso dos empregados a armazéns ou serviços não mantidos pela Emprêsa, é lícito à autoridade competente determinar a adoção de medidas adequadas, visando a que as mercadorias sejam vendidas e os serviços prestados a preços razoáveis, sem intuito de lucro e sempre em benefício das empregados. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 4º - Observado o disposto neste Capítulo, é vedado às emprêsas limitar, por qualquer forma, a liberdade dos empregados de dispôr do seu salário. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1310,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1466,
+      "tokens_reais_corpo": 415,
+      "tokens_reais_total": 477,
+      "tokens_estimados_total": 366.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "37028f0c642124d74e344a6308f40c727d6851c3dd4df1aeeaba0a5ae2a167eb",
+          "rank": 1,
+          "score": 0.9769585728645325
+        },
+        {
+          "chunk_id": "9c4cc03e7e46353331ac5c4149c62d60e4fd441beeb523c8ba5502aca69722a8",
+          "rank": 2,
+          "score": 0.9689982533454895
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "6b6d24b873ef8e1bb4abca1dc577c9a2fe045fc33e635f7a9d75ae7ec550b78d",
+      "estrategia": "A_artigo",
+      "artigo_id": "d4da4d6a6c92e22c568becb250915a852e014623fbb8ae03f348cdff30431f67",
+      "artigo_ref": "Art. 461",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 461]",
+      "corpo_chunk": "##### Art. 461.\n\nSendo idêntica a função, a todo trabalho de igual valor, prestado ao mesmo empregador, no mesmo estabelecimento empresarial, corresponderá igual salário, sem distinção de sexo, etnia, nacionalidade ou idade. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1º Trabalho de igual valor, para os fins deste Capítulo, será o que for feito com igual produtividade e com a mesma perfeição técnica, entre pessoas cuja diferença de tempo de serviço para o mesmo empregador não seja superior a quatro anos e a diferença de tempo na função não seja superior a dois anos. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 2º Os dispositivos deste artigo não prevalecerão quando o empregador tiver pessoal organizado em quadro de carreira ou adotar, por meio de norma interna da empresa ou de negociação coletiva, plano de cargos e salários, dispensada qualquer forma de homologação ou registro em órgão público. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 3º No caso do § 2º deste artigo, as promoções poderão ser feitas por merecimento e por antiguidade, ou por apenas um destes critérios, dentro de cada categoria profissional. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 4º - O trabalhador readaptado em nova função por motivo de deficiência física ou mental atestada pelo órgão competente da Previdência Social não servirá de paradigma para fins de equiparação salarial. (Incluído pela Lei nº 5.798, de 31.8.1972)\n\n§ 5º A equiparação salarial só será possível entre empregados contemporâneos no cargo ou na função, ficando vedada a indicação de paradigmas remotos, ainda que o paradigma contemporâneo tenha obtido a vantagem em ação judicial própria. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 6º Na hipótese de discriminação por motivo de sexo, raça, etnia, origem ou idade, o pagamento das diferenças salariais devidas ao empregado discriminado não afasta seu direito de ação de indenização por danos morais, consideradas as especificidades do caso concreto. (Redação dada pela Lei nº 14.611, de 2023)\n\n§ 7º Sem prejuízo do disposto no § 6º, no caso de infração ao previsto neste artigo, a multa de que trata o art. 510 desta Consolidação corresponderá a 10 (dez) vezes o valor do novo salário devido pelo empregador ao empregado discriminado, elevada ao dobro, no caso de reincidência, sem prejuízo das demais cominações legais. (Incluído pela Lei nº 14.611, de 2023)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 461]\n##### Art. 461.\n\nSendo idêntica a função, a todo trabalho de igual valor, prestado ao mesmo empregador, no mesmo estabelecimento empresarial, corresponderá igual salário, sem distinção de sexo, etnia, nacionalidade ou idade. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1º Trabalho de igual valor, para os fins deste Capítulo, será o que for feito com igual produtividade e com a mesma perfeição técnica, entre pessoas cuja diferença de tempo de serviço para o mesmo empregador não seja superior a quatro anos e a diferença de tempo na função não seja superior a dois anos. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 2º Os dispositivos deste artigo não prevalecerão quando o empregador tiver pessoal organizado em quadro de carreira ou adotar, por meio de norma interna da empresa ou de negociação coletiva, plano de cargos e salários, dispensada qualquer forma de homologação ou registro em órgão público. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 3º No caso do § 2º deste artigo, as promoções poderão ser feitas por merecimento e por antiguidade, ou por apenas um destes critérios, dentro de cada categoria profissional. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 4º - O trabalhador readaptado em nova função por motivo de deficiência física ou mental atestada pelo órgão competente da Previdência Social não servirá de paradigma para fins de equiparação salarial. (Incluído pela Lei nº 5.798, de 31.8.1972)\n\n§ 5º A equiparação salarial só será possível entre empregados contemporâneos no cargo ou na função, ficando vedada a indicação de paradigmas remotos, ainda que o paradigma contemporâneo tenha obtido a vantagem em ação judicial própria. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 6º Na hipótese de discriminação por motivo de sexo, raça, etnia, origem ou idade, o pagamento das diferenças salariais devidas ao empregado discriminado não afasta seu direito de ação de indenização por danos morais, consideradas as especificidades do caso concreto. (Redação dada pela Lei nº 14.611, de 2023)\n\n§ 7º Sem prejuízo do disposto no § 6º, no caso de infração ao previsto neste artigo, a multa de que trata o art. 510 desta Consolidação corresponderá a 10 (dez) vezes o valor do novo salário devido pelo empregador ao empregado discriminado, elevada ao dobro, no caso de reincidência, sem prejuízo das demais cominações legais. (Incluído pela Lei nº 14.611, de 2023)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2378,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 2534,
+      "tokens_reais_corpo": 723,
+      "tokens_reais_total": 785,
+      "tokens_estimados_total": 633.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "9072f236c3fd3fc92e078de92eb45f2ba2e54901ae872d0f4480d5c78ab30cb0",
+          "rank": 3,
+          "score": 0.3100733458995819
+        },
+        {
+          "chunk_id": "43d304f44cef627d0d79efd4d214f03eac3a92c87ade666220a757ac1822b116",
+          "rank": 5,
+          "score": 0.06099172681570053
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "07f159a1b2fc5d5460f922a716621d62f6b0ab2ddfecfeef935c05589f9fc589",
+      "estrategia": "A_artigo",
+      "artigo_id": "5e5c5e145ee6e5914e8f01704ad46f9ae89aef0dea46c7ff6d8e74fffc7848de",
+      "artigo_ref": "Art. 611-B",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TíTULO VI — CONVENÇÕES COLETIVAS DE TRABALHO > Art. 611-B]",
+      "corpo_chunk": "##### Art. 611-B\n\nConstituem objeto ilícito de convenção coletiva ou de acordo coletivo de trabalho, exclusivamente, a supressão ou a redução dos seguintes direitos: (Incluído pela Lei nº 13.467, de 2017)\n\nI - normas de identificação profissional, inclusive as anotações na Carteira de Trabalho e Previdência Social; (Incluído pela Lei nº 13.467, de 2017)\n\nII - seguro-desemprego, em caso de desemprego involuntário; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - valor dos depósitos mensais e da indenização rescisória do Fundo de Garantia do Tempo de Serviço (FGTS); (Incluído pela Lei nº 13.467, de 2017)\n\nIV - salário mínimo; (Incluído pela Lei nº 13.467, de 2017)\n\nV - valor nominal do décimo terceiro salário; (Incluído pela Lei nº 13.467, de 2017)\n\nVI - remuneração do trabalho noturno superior à do diurno; (Incluído pela Lei nº 13.467, de 2017)\n\nVII - proteção do salário na forma da lei, constituindo crime sua retenção dolosa; (Incluído pela Lei nº 13.467, de 2017)\n\nVIII - salário-família; (Incluído pela Lei nº 13.467, de 2017)\n\nIX - repouso semanal remunerado; (Incluído pela Lei nº 13.467, de 2017)\n\nX - remuneração do serviço extraordinário superior, no mínimo, em 50% (cinquenta por cento) à do normal; (Incluído pela Lei nº 13.467, de 2017)\n\nXI - número de dias de férias devidas ao empregado; (Incluído pela Lei nº 13.467, de 2017)\n\nXII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; (Incluído pela Lei nº 13.467, de 2017)\n\nXIII - licença-maternidade com a duração mínima de cento e vinte dias; (Incluído pela Lei nº 13.467, de 2017)\n\nXIV - licença-paternidade nos termos fixados em lei; (Incluído pela Lei nº 13.467, de 2017)\n\nXV - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei; (Incluído pela Lei nº 13.467, de 2017)\n\nXVI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei; (Incluído pela Lei nº 13.467, de 2017)\n\nXVII - normas de saúde, higiene e segurança do trabalho previstas em lei ou em normas regulamentadoras do Ministério do Trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXVIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas; (Incluído pela Lei nº 13.467, de 2017)\n\nXIX - aposentadoria; (Incluído pela Lei nº 13.467, de 2017)\n\nXX - seguro contra acidentes de trabalho, a cargo do empregador; (Incluído pela Lei nº 13.467, de 2017)\n\nXXI - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXXII - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador com deficiência; (Incluído pela Lei nº 13.467, de 2017)\n\nXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito anos e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Incluído pela Lei nº 13.467, de 2017)\n\nXXIV - medidas de proteção legal de crianças e adolescentes; (Incluído pela Lei nº 13.467, de 2017)\n\nXXV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso; (Incluído pela Lei nº 13.467, de 2017)\n\nXXVI - liberdade de associação profissional ou sindical do trabalhador, inclusive o direito de não sofrer, sem sua expressa e prévia anuência, qualquer cobrança ou desconto salarial estabelecidos em convenção coletiva ou acordo coletivo de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXXVII - direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender; (Incluído pela Lei nº 13.467, de 2017)\n\nXXVIII - definição legal sobre os serviços ou atividades essenciais e disposições legais sobre o atendimento das necessidades inadiáveis da comunidade em caso de greve; (Incluído pela Lei nº 13.467, de 2017)\n\nXXIX - tributos e outros créditos de terceiros; (Incluído pela Lei nº 13.467, de 2017)\n\nXXX - as disposições previstas nos arts. 373-A, 390, 392, 392-A, 394, 394-A, 395, 396 e 400 desta Consolidação. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único. Regras sobre duração do trabalho e intervalos não são consideradas como normas de saúde, higiene e segurança do trabalho para os fins do disposto neste artigo. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TíTULO VI — CONVENÇÕES COLETIVAS DE TRABALHO > Art. 611-B]\n##### Art. 611-B\n\nConstituem objeto ilícito de convenção coletiva ou de acordo coletivo de trabalho, exclusivamente, a supressão ou a redução dos seguintes direitos: (Incluído pela Lei nº 13.467, de 2017)\n\nI - normas de identificação profissional, inclusive as anotações na Carteira de Trabalho e Previdência Social; (Incluído pela Lei nº 13.467, de 2017)\n\nII - seguro-desemprego, em caso de desemprego involuntário; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - valor dos depósitos mensais e da indenização rescisória do Fundo de Garantia do Tempo de Serviço (FGTS); (Incluído pela Lei nº 13.467, de 2017)\n\nIV - salário mínimo; (Incluído pela Lei nº 13.467, de 2017)\n\nV - valor nominal do décimo terceiro salário; (Incluído pela Lei nº 13.467, de 2017)\n\nVI - remuneração do trabalho noturno superior à do diurno; (Incluído pela Lei nº 13.467, de 2017)\n\nVII - proteção do salário na forma da lei, constituindo crime sua retenção dolosa; (Incluído pela Lei nº 13.467, de 2017)\n\nVIII - salário-família; (Incluído pela Lei nº 13.467, de 2017)\n\nIX - repouso semanal remunerado; (Incluído pela Lei nº 13.467, de 2017)\n\nX - remuneração do serviço extraordinário superior, no mínimo, em 50% (cinquenta por cento) à do normal; (Incluído pela Lei nº 13.467, de 2017)\n\nXI - número de dias de férias devidas ao empregado; (Incluído pela Lei nº 13.467, de 2017)\n\nXII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; (Incluído pela Lei nº 13.467, de 2017)\n\nXIII - licença-maternidade com a duração mínima de cento e vinte dias; (Incluído pela Lei nº 13.467, de 2017)\n\nXIV - licença-paternidade nos termos fixados em lei; (Incluído pela Lei nº 13.467, de 2017)\n\nXV - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei; (Incluído pela Lei nº 13.467, de 2017)\n\nXVI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei; (Incluído pela Lei nº 13.467, de 2017)\n\nXVII - normas de saúde, higiene e segurança do trabalho previstas em lei ou em normas regulamentadoras do Ministério do Trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXVIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas; (Incluído pela Lei nº 13.467, de 2017)\n\nXIX - aposentadoria; (Incluído pela Lei nº 13.467, de 2017)\n\nXX - seguro contra acidentes de trabalho, a cargo do empregador; (Incluído pela Lei nº 13.467, de 2017)\n\nXXI - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXXII - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador com deficiência; (Incluído pela Lei nº 13.467, de 2017)\n\nXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito anos e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Incluído pela Lei nº 13.467, de 2017)\n\nXXIV - medidas de proteção legal de crianças e adolescentes; (Incluído pela Lei nº 13.467, de 2017)\n\nXXV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso; (Incluído pela Lei nº 13.467, de 2017)\n\nXXVI - liberdade de associação profissional ou sindical do trabalhador, inclusive o direito de não sofrer, sem sua expressa e prévia anuência, qualquer cobrança ou desconto salarial estabelecidos em convenção coletiva ou acordo coletivo de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXXVII - direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender; (Incluído pela Lei nº 13.467, de 2017)\n\nXXVIII - definição legal sobre os serviços ou atividades essenciais e disposições legais sobre o atendimento das necessidades inadiáveis da comunidade em caso de greve; (Incluído pela Lei nº 13.467, de 2017)\n\nXXIX - tributos e outros créditos de terceiros; (Incluído pela Lei nº 13.467, de 2017)\n\nXXX - as disposições previstas nos arts. 373-A, 390, 392, 392-A, 394, 394-A, 395, 396 e 400 desta Consolidação. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único. Regras sobre duração do trabalho e intervalos não são consideradas como normas de saúde, higiene e segurança do trabalho para os fins do disposto neste artigo. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 4489,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 4614,
+      "tokens_reais_corpo": 1521,
+      "tokens_reais_total": 1575,
+      "tokens_estimados_total": 1153.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "05fd61e86d1f3d4e7167c8a4779e9298da72fc7a4f0b29dd15789724b025c989",
+          "rank": 4,
+          "score": 0.2016402781009674
+        }
+      ],
+      "best_child_rank": 4,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 462]\n##### Art. 462\n\nAo empregador é vedado efetuar qualquer desconto nos salários do empregado, salvo quando este resultar de adiantamentos, de dispositivos de lei ou de contrato coletivo.\n\n§ 1º - Em caso de dano causado pelo empregado, o desconto será lícito, desde de que esta possibilidade tenha sido acordada ou na ocorrência de dolo do empregado. (Parágrafo único renumerado pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 2º - É vedado à emprêsa que mantiver armazém para venda de mercadorias aos empregados ou serviços estimados a proporcionar-lhes prestações \" in natura \" exercer qualquer coação ou induzimento no sentido de que os empregados se utilizem do armazém ou dos serviços. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 3º - Sempre que não fôr possível o acesso dos empregados a armazéns ou serviços não mantidos pela Emprêsa, é lícito à autoridade competente determinar a adoção de medidas adequadas, visando a que as mercadorias sejam vendidas e os serviços prestados a preços razoáveis, sem intuito de lucro e sempre em benefício das empregados. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 4º - Observado o disposto neste Capítulo, é vedado às emprêsas limitar, por qualquer forma, a liberdade dos empregados de dispôr do seu salário. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 461]\n##### Art. 461.\n\nSendo idêntica a função, a todo trabalho de igual valor, prestado ao mesmo empregador, no mesmo estabelecimento empresarial, corresponderá igual salário, sem distinção de sexo, etnia, nacionalidade ou idade. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 1º Trabalho de igual valor, para os fins deste Capítulo, será o que for feito com igual produtividade e com a mesma perfeição técnica, entre pessoas cuja diferença de tempo de serviço para o mesmo empregador não seja superior a quatro anos e a diferença de tempo na função não seja superior a dois anos. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 2º Os dispositivos deste artigo não prevalecerão quando o empregador tiver pessoal organizado em quadro de carreira ou adotar, por meio de norma interna da empresa ou de negociação coletiva, plano de cargos e salários, dispensada qualquer forma de homologação ou registro em órgão público. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 3º No caso do § 2º deste artigo, as promoções poderão ser feitas por merecimento e por antiguidade, ou por apenas um destes critérios, dentro de cada categoria profissional. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 4º - O trabalhador readaptado em nova função por motivo de deficiência física ou mental atestada pelo órgão competente da Previdência Social não servirá de paradigma para fins de equiparação salarial. (Incluído pela Lei nº 5.798, de 31.8.1972)\n\n§ 5º A equiparação salarial só será possível entre empregados contemporâneos no cargo ou na função, ficando vedada a indicação de paradigmas remotos, ainda que o paradigma contemporâneo tenha obtido a vantagem em ação judicial própria. (Incluído pela Lei nº 13.467, de 2017)\n\n§ 6º Na hipótese de discriminação por motivo de sexo, raça, etnia, origem ou idade, o pagamento das diferenças salariais devidas ao empregado discriminado não afasta seu direito de ação de indenização por danos morais, consideradas as especificidades do caso concreto. (Redação dada pela Lei nº 14.611, de 2023)\n\n§ 7º Sem prejuízo do disposto no § 6º, no caso de infração ao previsto neste artigo, a multa de que trata o art. 510 desta Consolidação corresponderá a 10 (dez) vezes o valor do novo salário devido pelo empregador ao empregado discriminado, elevada ao dobro, no caso de reincidência, sem prejuízo das demais cominações legais. (Incluído pela Lei nº 14.611, de 2023)\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TíTULO VI — CONVENÇÕES COLETIVAS DE TRABALHO > Art. 611-B]\n##### Art. 611-B\n\nConstituem objeto ilícito de convenção coletiva ou de acordo coletivo de trabalho, exclusivamente, a supressão ou a redução dos seguintes direitos: (Incluído pela Lei nº 13.467, de 2017)\n\nI - normas de identificação profissional, inclusive as anotações na Carteira de Trabalho e Previdência Social; (Incluído pela Lei nº 13.467, de 2017)\n\nII - seguro-desemprego, em caso de desemprego involuntário; (Incluído pela Lei nº 13.467, de 2017)\n\nIII - valor dos depósitos mensais e da indenização rescisória do Fundo de Garantia do Tempo de Serviço (FGTS); (Incluído pela Lei nº 13.467, de 2017)\n\nIV - salário mínimo; (Incluído pela Lei nº 13.467, de 2017)\n\nV - valor nominal do décimo terceiro salário; (Incluído pela Lei nº 13.467, de 2017)\n\nVI - remuneração do trabalho noturno superior à do diurno; (Incluído pela Lei nº 13.467, de 2017)\n\nVII - proteção do salário na forma da lei, constituindo crime sua retenção dolosa; (Incluído pela Lei nº 13.467, de 2017)\n\nVIII - salário-família; (Incluído pela Lei nº 13.467, de 2017)\n\nIX - repouso semanal remunerado; (Incluído pela Lei nº 13.467, de 2017)\n\nX - remuneração do serviço extraordinário superior, no mínimo, em 50% (cinquenta por cento) à do normal; (Incluído pela Lei nº 13.467, de 2017)\n\nXI - número de dias de férias devidas ao empregado; (Incluído pela Lei nº 13.467, de 2017)\n\nXII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; (Incluído pela Lei nº 13.467, de 2017)\n\nXIII - licença-maternidade com a duração mínima de cento e vinte dias; (Incluído pela Lei nº 13.467, de 2017)\n\nXIV - licença-paternidade nos termos fixados em lei; (Incluído pela Lei nº 13.467, de 2017)\n\nXV - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei; (Incluído pela Lei nº 13.467, de 2017)\n\nXVI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei; (Incluído pela Lei nº 13.467, de 2017)\n\nXVII - normas de saúde, higiene e segurança do trabalho previstas em lei ou em normas regulamentadoras do Ministério do Trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXVIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas; (Incluído pela Lei nº 13.467, de 2017)\n\nXIX - aposentadoria; (Incluído pela Lei nº 13.467, de 2017)\n\nXX - seguro contra acidentes de trabalho, a cargo do empregador; (Incluído pela Lei nº 13.467, de 2017)\n\nXXI - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXXII - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador com deficiência; (Incluído pela Lei nº 13.467, de 2017)\n\nXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito anos e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Incluído pela Lei nº 13.467, de 2017)\n\nXXIV - medidas de proteção legal de crianças e adolescentes; (Incluído pela Lei nº 13.467, de 2017)\n\nXXV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso; (Incluído pela Lei nº 13.467, de 2017)\n\nXXVI - liberdade de associação profissional ou sindical do trabalhador, inclusive o direito de não sofrer, sem sua expressa e prévia anuência, qualquer cobrança ou desconto salarial estabelecidos em convenção coletiva ou acordo coletivo de trabalho; (Incluído pela Lei nº 13.467, de 2017)\n\nXXVII - direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender; (Incluído pela Lei nº 13.467, de 2017)\n\nXXVIII - definição legal sobre os serviços ou atividades essenciais e disposições legais sobre o atendimento das necessidades inadiáveis da comunidade em caso de greve; (Incluído pela Lei nº 13.467, de 2017)\n\nXXIX - tributos e outros créditos de terceiros; (Incluído pela Lei nº 13.467, de 2017)\n\nXXX - as disposições previstas nos arts. 373-A, 390, 392, 392-A, 394, 394-A, 395, 396 e 400 desta Consolidação. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único. Regras sobre duração do trabalho e intervalos não são consideradas como normas de saúde, higiene e segurança do trabalho para os fins do disposto neste artigo. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "37028f0c642124d74e344a6308f40c727d6851c3dd4df1aeeaba0a5ae2a167eb",
+      "score": 0.9769585728645325
+    },
+    {
+      "chunk_id": "9c4cc03e7e46353331ac5c4149c62d60e4fd441beeb523c8ba5502aca69722a8",
+      "score": 0.9689982533454895
+    },
+    {
+      "chunk_id": "9072f236c3fd3fc92e078de92eb45f2ba2e54901ae872d0f4480d5c78ab30cb0",
+      "score": 0.3100733458995819
+    },
+    {
+      "chunk_id": "05fd61e86d1f3d4e7167c8a4779e9298da72fc7a4f0b29dd15789724b025c989",
+      "score": 0.2016402781009674
+    },
+    {
+      "chunk_id": "43d304f44cef627d0d79efd4d214f03eac3a92c87ade666220a757ac1822b116",
+      "score": 0.06099172681570053
+    },
+    {
+      "chunk_id": "66433b619ba3001931f98e695ca10d08021fab1a3355fa831232bce585130303",
+      "score": 0.052012018859386444
+    },
+    {
+      "chunk_id": "265d3b439e243dc6e3e8f3afb1c341ec7631e387b3d180729eff710f08974d0a",
+      "score": 0.05179427191615105
+    },
+    {
+      "chunk_id": "73933fbc2c1a3747a878f1b3a06b399fcb5dac68f9c2510aa382e39641043882",
+      "score": 0.043807253241539
+    },
+    {
+      "chunk_id": "6f2537fbf606da4f8bd171b61e0098740ea6dafd10f19f0a0f14c6abbb18de7a",
+      "score": 0.03267964348196983
+    },
+    {
+      "chunk_id": "f4bc05466f36b399fdb1c9540c225cc4855617e607df4d41c7f65c9245ab3b9b",
+      "score": 0.02217795141041279
+    },
+    {
+      "chunk_id": "ccae4dfa7db984df0f517221aed2690305e403ab696e1b7eb7a53f567d99a384",
+      "score": 0.020541617646813393
+    },
+    {
+      "chunk_id": "f7f9f7833b5be29c195b8c30ebde4a598352adbed9a1ff47f728364b0fa02916",
+      "score": 0.018728282302618027
+    },
+    {
+      "chunk_id": "e72d6312c15adbfe28ede5ed7781c2317867e2fe65dc8fcf947e3cbcc6469e2c",
+      "score": 0.015339536592364311
+    },
+    {
+      "chunk_id": "a03dfe3047363e448fb6010da86a9372146bad04fd87a8d48fa372dfbed60172",
+      "score": 0.014877800829708576
+    },
+    {
+      "chunk_id": "209cf13088a5a63eef29f2f1cb8a9cbd4a7e29fad75440e5d338ec3fd996ae53",
+      "score": 0.013277648016810417
+    },
+    {
+      "chunk_id": "6532bee8f1ad5f00f6a52c8d98b9f02f0ea011b8e5536ec1e64bd30300446352",
+      "score": 0.01188581995666027
+    },
+    {
+      "chunk_id": "a702dac5e7802e6a07dabc50bcadcc1ba9e43be6c62ffbdf92aebb444ec62ea7",
+      "score": 0.010398083366453648
+    },
+    {
+      "chunk_id": "abd1b0645a99f218dd12928dfe01f8fedac28663d6a0170384e88d20ea9cd2ef",
+      "score": 0.009173032827675343
+    },
+    {
+      "chunk_id": "63916cfa7a5edc6df854f556f556ac562db9b335e0d9bdd2bbc749bc0435c98d",
+      "score": 0.007320706266909838
+    },
+    {
+      "chunk_id": "21b89a51765a10d5ae464bc075cf228c43c158b869a851f1e83440f3cbaecc2f",
+      "score": 0.0069660316221416
+    },
+    {
+      "chunk_id": "4d35718736e098cb7f7e0441f150cbbb0ee14d9998df0c632247b1252239a6f6",
+      "score": 0.006349195726215839
+    },
+    {
+      "chunk_id": "dcce0d8684199f0e6f39c3ac0d5cbd3cb0b5af4c1c160031c163d389e2c2e0eb",
+      "score": 0.0060410709120333195
+    },
+    {
+      "chunk_id": "5f8e022de55d05d42bb9ec22e023e6d04ff8d83018ccb26454c810c6203352a1",
+      "score": 0.006016342900693417
+    },
+    {
+      "chunk_id": "ecc1bc4e3ccf1d0ea9ee3f7cac37122f0542e1b6f809cc0a9b0c6e391effacff",
+      "score": 0.005964086856693029
+    },
+    {
+      "chunk_id": "48e30555be25e12149d5cf06039ea22fa535e4998080c8cae42aaaa519d43b80",
+      "score": 0.005869104061275721
+    },
+    {
+      "chunk_id": "0331a7ec91e2cf7fb25ed859094eb94eef9837ff3a027b38727df5af85c3f685",
+      "score": 0.005678215529769659
+    },
+    {
+      "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+      "score": 0.005373768508434296
+    },
+    {
+      "chunk_id": "0fe872aa8c37a0d535364bf18de8a4a75ca27fe4d62e66f6ab0782bab26247c5",
+      "score": 0.005363853182643652
+    },
+    {
+      "chunk_id": "c47df4dae08e7028ad28b2e8d811d32cc00a49a5d13a12f3b6aee95dfc9083c1",
+      "score": 0.005280336830765009
+    },
+    {
+      "chunk_id": "322c78feb05dc8bc260f50b9f93de8903f3520ee49d4c80c7f95fb166daa715d",
+      "score": 0.004766292870044708
+    },
+    {
+      "chunk_id": "89894f65d77a76a8dfd90a1e6c303a56dbe3e33db8ee3ae92a356105ee0059b0",
+      "score": 0.004245486110448837
+    },
+    {
+      "chunk_id": "af39b78e9c6fd73fae83031f886781d54e8ef6c5672d77cfbeeef8ff7d1d5102",
+      "score": 0.0036285887472331524
+    },
+    {
+      "chunk_id": "586643ee93417f74307431c8bb9351c84db80f6d578d71cf1704fc3b05d0a4f8",
+      "score": 0.0035766810178756714
+    },
+    {
+      "chunk_id": "c6d71812068ecf17f9fe77bc824c67c32d4a00fb9684a02fa451b7233386ec81",
+      "score": 0.0030933294910937548
+    },
+    {
+      "chunk_id": "43556cac3b39caf677cff290ca1cba78c03756dc883ce8a58721a1278dad5c32",
+      "score": 0.0027750309091061354
+    },
+    {
+      "chunk_id": "c53392337b5484ddd6a28098a40d898e5c95ff9d0adebcd26b5e29de279446e3",
+      "score": 0.002735747490078211
+    },
+    {
+      "chunk_id": "f9e3fdb7cb7fd819066714badd2c5d841abe819a333062b8dfc9934994878ab0",
+      "score": 0.00268993410281837
+    },
+    {
+      "chunk_id": "68750b3623d3ca97384f6832dcccc41c8f486573102a9c1f69929f2e205f17b0",
+      "score": 0.002681097947061062
+    },
+    {
+      "chunk_id": "87b70e6e3563d25769ecfcdaad910f3ab826f5aed14be105cf3783dc21c29754",
+      "score": 0.0025280313566327095
+    },
+    {
+      "chunk_id": "df3d18f12e7ac7f549c26ccad3c55bcb37203b94daea5ceda7d0597cd4b57858",
+      "score": 0.0025159865617752075
+    },
+    {
+      "chunk_id": "0133ac72da0b4e12c5ee4604666cb2a52e9122dcebf452ed73cb4217c51e2852",
+      "score": 0.0024659025948494673
+    },
+    {
+      "chunk_id": "b3aba6a0bd63470fece38aeda3bc9ff87caf217ee2059d3c79b7a8cbb357551f",
+      "score": 0.00245113973505795
+    },
+    {
+      "chunk_id": "f303d2dfb6f4b4b936e54b7a73dab821e2f122f36009ff51cb9bd75f227d58bd",
+      "score": 0.0021600904874503613
+    },
+    {
+      "chunk_id": "520c54c31fcf606bb949e2bf4ab7f7217ef8fc99a394a460bc6a3b39916cc550",
+      "score": 0.0021165129728615284
+    },
+    {
+      "chunk_id": "a3d062a220de48e2a2d2bf65c88311eb7844a8c5f6daef7dfa6655fd81d80456",
+      "score": 0.0019464690703898668
+    },
+    {
+      "chunk_id": "ad3972f9b5ad8ba2081ee62a5252805959c2d90cd0ca4593cd78100bbedd7382",
+      "score": 0.001741452724672854
+    },
+    {
+      "chunk_id": "cf3bb83a019e8dea7d226bcc1ed6187fbcf599bd20cf351d145dd239c1f315c8",
+      "score": 0.001594063243828714
+    },
+    {
+      "chunk_id": "3d17d32bbc9c0270f518709dbff2ab40dd9466d7e7646ec5ce3c20aabf8c9a24",
+      "score": 0.001524181803688407
+    },
+    {
+      "chunk_id": "353c6076b3b34d2a1ea5e3a3d6c84343a38c990750b03ccc6a342ebbfe2f8fd5",
+      "score": 0.0012828881153836846
+    },
+    {
+      "chunk_id": "9b60f20e9aa2d6b79f8ebdad71b4abcbd242f1d0b78bedb95b70c658351ce032",
+      "score": 0.0009969339007511735
+    }
+  ],
+  "hyde_cache_sha256": "7de7f55ff1c5d3cba88c96a1b3d4ae19ed19287ffbe502ac349e28ad5f34704d",
+  "hyde_text": "O tema aborda descontos salariais previstos no artigo 462 da Consolidação das Leis do Trabalho (CLT), com foco em descontos admitidos e condições específicas para descontos por dano. O documento hipotético orienta que a busca deve considerar expressões como \"descontos salariais\", \"dano\", \"responsabilidade civil\", \"obrigação de indenização\" e \"condições para desconto\". É importante verificar se o texto menciona situações de dano decorrente de atos do empregado ou do empregador, bem como se há referência a limites ou exigências legais para a aplicação desses descontos. A consulta deve ser feita com cautela, pois o artigo 462 não trata diretamente de descontos por dano, mas sim de descontos por dívidas ou obrigações trabalhistas. A busca deve incluir termos como \"desconto por dano\", \"responsabilidade civil\", \"obrigação de indenização\" e \"limites de desconto\". É fundamental evitar interpretações que ultrapassam o conteúdo do texto original, mantendo-se apenas na análise de possíveis referências sem afirmar validade ou aplicação prática. A localização deve ser feita com base em termos técnicos e contextuais, sem supor a existência de normas específicas ou exemplos concretos.",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 122019.17129999492,
+  "hash_configuracao": "8f260094301be6e020085d765cfe92ca3856c48f2797b1b316d9f34bf6d65079",
+  "embedding_corpus_recalculado": false
+}

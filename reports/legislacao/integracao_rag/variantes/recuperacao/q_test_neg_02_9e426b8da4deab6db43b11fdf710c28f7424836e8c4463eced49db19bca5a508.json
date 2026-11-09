@@ -1,0 +1,350 @@
+{
+  "query_id": "q_test_neg_02",
+  "pergunta": "Qual foi o fundamento utilizado pelo juiz na sentença do meu processo, cujo número e documentos não forneci?",
+  "sources": [
+    {
+      "chunk_id": "abedaf31e6d9904dbdfa84cdcec5c07a56e4d7e9344a8b7cfd69c431efc8b33d",
+      "estrategia": "A_artigo",
+      "artigo_id": "dbf180a2d5be6b512f4485c63fe83bdb331f0ec14286cfe4c3cf68620f7be2eb",
+      "artigo_ref": "Art. 426",
+      "caminho_relativo": "codigos/codigo-de-processo-civil-lei-13105-2015.md",
+      "sha256_fonte": "39006ac91e7e93548cbdcbf167d69746f6b4d0ca45d5d81ffe19a27a193d910c",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105compilada.htm",
+      "date": 1426464000000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/codigo-de-processo-civil-lei-13105-2015.md | PARTE ESPECIAL > LIVRO I — DO PROCESSO DE CONHECIMENTO E DO CUMPRIMENTO DE SENTENÇA > TÍTULO I — DO PROCEDIMENTO COMUM > CAPÍTULO XII — DAS PROVAS > Seção VII — Da Prova Documental > Subseção I — Da Força Probante dos Documentos > Art. 426]",
+      "corpo_chunk": "**Art. 426. O** juiz apreciará fundamentadamente a fé que deva merecer o documento, quando em ponto substancial e sem ressalva contiver entrelinha, emenda, borrão ou cancelamento.\n\n",
+      "conteudo_chunk": "[codigos/codigo-de-processo-civil-lei-13105-2015.md | PARTE ESPECIAL > LIVRO I — DO PROCESSO DE CONHECIMENTO E DO CUMPRIMENTO DE SENTENÇA > TÍTULO I — DO PROCEDIMENTO COMUM > CAPÍTULO XII — DAS PROVAS > Seção VII — Da Prova Documental > Subseção I — Da Força Probante dos Documentos > Art. 426]\n**Art. 426. O** juiz apreciará fundamentadamente a fé que deva merecer o documento, quando em ponto substancial e sem ressalva contiver entrelinha, emenda, borrão ou cancelamento.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 181,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 476,
+      "tokens_reais_corpo": 50,
+      "tokens_reais_total": 156,
+      "tokens_estimados_total": 119.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "773c8f63e413f087d33529f6222c4e1baf7c44fb084f6870220189d168fc809b",
+          "rank": 1,
+          "score": 0.7350231409072876
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "85ee7650d6dee187af1499e358d0730a73542f50deb7c20f9343e9c8db473712",
+      "estrategia": "A_artigo",
+      "artigo_id": "d64f98fecd76b54ad0afdadd351aa3348bc8450020d07c69a51880845a6aebd1",
+      "artigo_ref": "Art. 398",
+      "caminho_relativo": "codigos/codigo-de-processo-civil-lei-13105-2015.md",
+      "sha256_fonte": "39006ac91e7e93548cbdcbf167d69746f6b4d0ca45d5d81ffe19a27a193d910c",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105compilada.htm",
+      "date": 1426464000000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/codigo-de-processo-civil-lei-13105-2015.md | PARTE ESPECIAL > LIVRO I — DO PROCESSO DE CONHECIMENTO E DO CUMPRIMENTO DE SENTENÇA > TÍTULO I — DO PROCEDIMENTO COMUM > CAPÍTULO XII — DAS PROVAS > Seção VI — Da Exibição de Documento ou Coisa > Art. 398]",
+      "corpo_chunk": "**Art. 398. O** requerido dará sua resposta nos 5 (cinco) dias subsequentes à sua intimação.\n\nParágrafo único. Se o requerido afirmar que não possui o documento ou a coisa, o juiz permitirá que o requerente prove, por qualquer meio, que a declaração não corresponde à verdade.\n\n",
+      "conteudo_chunk": "[codigos/codigo-de-processo-civil-lei-13105-2015.md | PARTE ESPECIAL > LIVRO I — DO PROCESSO DE CONHECIMENTO E DO CUMPRIMENTO DE SENTENÇA > TÍTULO I — DO PROCEDIMENTO COMUM > CAPÍTULO XII — DAS PROVAS > Seção VI — Da Exibição de Documento ou Coisa > Art. 398]\n**Art. 398. O** requerido dará sua resposta nos 5 (cinco) dias subsequentes à sua intimação.\n\nParágrafo único. Se o requerido afirmar que não possui o documento ou a coisa, o juiz permitirá que o requerente prove, por qualquer meio, que a declaração não corresponde à verdade.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 278,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 538,
+      "tokens_reais_corpo": 77,
+      "tokens_reais_total": 174,
+      "tokens_estimados_total": 134.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "e2428a6bb023337a2487a49a76f71b9139efe44d0c693edb3a559dafdc049168",
+          "rank": 2,
+          "score": 0.718199610710144
+        }
+      ],
+      "best_child_rank": 2,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "f385dbcd2c4978161009e3acfc78667147871574ed3a2c14230327c53d614849",
+      "estrategia": "A_artigo",
+      "artigo_id": "ad413d08df9ab2f549c40834f6143bc30ce3de369903dbba44c09a54b1f56a06",
+      "artigo_ref": "Art. 203",
+      "caminho_relativo": "codigos/codigo-de-processo-civil-lei-13105-2015.md",
+      "sha256_fonte": "39006ac91e7e93548cbdcbf167d69746f6b4d0ca45d5d81ffe19a27a193d910c",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105compilada.htm",
+      "date": 1426464000000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/codigo-de-processo-civil-lei-13105-2015.md | PARTE GERAL > LIVRO IV — DOS ATOS PROCESSUAIS > TÍTULO I — DA FORMA, DO TEMPO E DO LUGAR DOS ATOS PROCESSUAIS > CAPÍTULO I — DA FORMA DOS ATOS PROCESSUAIS > Seção IV — Dos Pronunciamentos do Juiz > Art. 203]",
+      "corpo_chunk": "**Art. 203.** Os pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos.\n\n§ 1º Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487, põe fim à fase cognitiva do procedimento comum, bem como extingue a execução.\n\n§ 2º Decisão interlocutória é todo pronunciamento judicial de natureza decisória que não se enquadre no § 1º.\n\n§ 3º São despachos todos os demais pronunciamentos do juiz praticados no processo, de ofício ou a requerimento da parte.\n\n§ 4º Os atos meramente ordinatórios, como a juntada e a vista obrigatória, independem de despacho, devendo ser praticados de ofício pelo servidor e revistos pelo juiz quando necessário.\n\n",
+      "conteudo_chunk": "[codigos/codigo-de-processo-civil-lei-13105-2015.md | PARTE GERAL > LIVRO IV — DOS ATOS PROCESSUAIS > TÍTULO I — DA FORMA, DO TEMPO E DO LUGAR DOS ATOS PROCESSUAIS > CAPÍTULO I — DA FORMA DOS ATOS PROCESSUAIS > Seção IV — Dos Pronunciamentos do Juiz > Art. 203]\n**Art. 203.** Os pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos.\n\n§ 1º Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487, põe fim à fase cognitiva do procedimento comum, bem como extingue a execução.\n\n§ 2º Decisão interlocutória é todo pronunciamento judicial de natureza decisória que não se enquadre no § 1º.\n\n§ 3º São despachos todos os demais pronunciamentos do juiz praticados no processo, de ofício ou a requerimento da parte.\n\n§ 4º Os atos meramente ordinatórios, como a juntada e a vista obrigatória, independem de despacho, devendo ser praticados de ofício pelo servidor e revistos pelo juiz quando necessário.\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 765,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1027,
+      "tokens_reais_corpo": 224,
+      "tokens_reais_total": 319,
+      "tokens_estimados_total": 256.75,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "da57f6b5120ef0e546f3af617b8acf1a054499608798c4c8e155e1739c90c11b",
+          "rank": 3,
+          "score": 0.4851936995983124
+        },
+        {
+          "chunk_id": "5213308dbec344992ee41fe4d3981110ecc9788debbee9b427c91717587043b9",
+          "rank": 33,
+          "score": 0.01694304496049881
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/codigo-de-processo-civil-lei-13105-2015.md | PARTE ESPECIAL > LIVRO I — DO PROCESSO DE CONHECIMENTO E DO CUMPRIMENTO DE SENTENÇA > TÍTULO I — DO PROCEDIMENTO COMUM > CAPÍTULO XII — DAS PROVAS > Seção VII — Da Prova Documental > Subseção I — Da Força Probante dos Documentos > Art. 426]\n**Art. 426. O** juiz apreciará fundamentadamente a fé que deva merecer o documento, quando em ponto substancial e sem ressalva contiver entrelinha, emenda, borrão ou cancelamento.\n\n\n\n[Fonte 2]\n[codigos/codigo-de-processo-civil-lei-13105-2015.md | PARTE ESPECIAL > LIVRO I — DO PROCESSO DE CONHECIMENTO E DO CUMPRIMENTO DE SENTENÇA > TÍTULO I — DO PROCEDIMENTO COMUM > CAPÍTULO XII — DAS PROVAS > Seção VI — Da Exibição de Documento ou Coisa > Art. 398]\n**Art. 398. O** requerido dará sua resposta nos 5 (cinco) dias subsequentes à sua intimação.\n\nParágrafo único. Se o requerido afirmar que não possui o documento ou a coisa, o juiz permitirá que o requerente prove, por qualquer meio, que a declaração não corresponde à verdade.\n\n\n\n[Fonte 3]\n[codigos/codigo-de-processo-civil-lei-13105-2015.md | PARTE GERAL > LIVRO IV — DOS ATOS PROCESSUAIS > TÍTULO I — DA FORMA, DO TEMPO E DO LUGAR DOS ATOS PROCESSUAIS > CAPÍTULO I — DA FORMA DOS ATOS PROCESSUAIS > Seção IV — Dos Pronunciamentos do Juiz > Art. 203]\n**Art. 203.** Os pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos.\n\n§ 1º Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487, põe fim à fase cognitiva do procedimento comum, bem como extingue a execução.\n\n§ 2º Decisão interlocutória é todo pronunciamento judicial de natureza decisória que não se enquadre no § 1º.\n\n§ 3º São despachos todos os demais pronunciamentos do juiz praticados no processo, de ofício ou a requerimento da parte.\n\n§ 4º Os atos meramente ordinatórios, como a juntada e a vista obrigatória, independem de despacho, devendo ser praticados de ofício pelo servidor e revistos pelo juiz quando necessário.\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "773c8f63e413f087d33529f6222c4e1baf7c44fb084f6870220189d168fc809b",
+      "score": 0.7350231409072876
+    },
+    {
+      "chunk_id": "e2428a6bb023337a2487a49a76f71b9139efe44d0c693edb3a559dafdc049168",
+      "score": 0.718199610710144
+    },
+    {
+      "chunk_id": "da57f6b5120ef0e546f3af617b8acf1a054499608798c4c8e155e1739c90c11b",
+      "score": 0.4851936995983124
+    },
+    {
+      "chunk_id": "76654287bb2e969254b8c4d1d1040963adcf36b39a70cb77d619dc71df185373",
+      "score": 0.4410582184791565
+    },
+    {
+      "chunk_id": "68cf1e0e7f6ac5d7c63e69657755b3cd8aa85e3a0a11965273b13b784f425a54",
+      "score": 0.4337919354438782
+    },
+    {
+      "chunk_id": "3095c322430297213008c9b74e5c356fa98d5613fd07aa27de574c51343244be",
+      "score": 0.4020140767097473
+    },
+    {
+      "chunk_id": "f35f89836ef5e6a2b45c583d91135d3042efa3a3b1fc402bed972d913edcd61e",
+      "score": 0.33305689692497253
+    },
+    {
+      "chunk_id": "bcbc39163a0498cfb3de9447ec6655e4852cd9bb96d950d7ab83613f82ad20df",
+      "score": 0.32556504011154175
+    },
+    {
+      "chunk_id": "13e59074cac288e1d61ae9730294fd15c5c8207b8989d369734a78c85c17aa33",
+      "score": 0.28558364510536194
+    },
+    {
+      "chunk_id": "67b0b505ed29580c73a1de20d96288fcd05dd5930d7de1f13def8ecc30a77d29",
+      "score": 0.2698845863342285
+    },
+    {
+      "chunk_id": "73b1694b51ae4f63bccf61efae61e4922d4b5ad9695f6700c723400481c1caf0",
+      "score": 0.19004005193710327
+    },
+    {
+      "chunk_id": "3bb2f0a3370938ba28a90c6fceb264e19665ebab1751f9fac7fd8134d839469d",
+      "score": 0.16674119234085083
+    },
+    {
+      "chunk_id": "70338b99442922fb75a5167e30f3d7ba7c7518918ac628c598abf56de158ce34",
+      "score": 0.12459460645914078
+    },
+    {
+      "chunk_id": "1a4c70829ca83fdd3b3e89bcd6e08a3e157c1e2c18c3d6f728735c706b4642f0",
+      "score": 0.09635291993618011
+    },
+    {
+      "chunk_id": "da85969e79b2af3d93c3c8f0bf724e975ffef1c4d7f11a419f8fe4346c309d20",
+      "score": 0.07924601435661316
+    },
+    {
+      "chunk_id": "3b67c51ee11b275817d9dc853a29ac2275a24b3d3e33d67a03582d9b86f1d069",
+      "score": 0.07762613892555237
+    },
+    {
+      "chunk_id": "3ac4824cd83497adb4f1d9a1f198e39455c53f9e4af77d600683613e9ac37ae5",
+      "score": 0.060684241354465485
+    },
+    {
+      "chunk_id": "929ce87714912d887fcb49b2e4d4d1aa3cbf2a9ba321ee91e9cdaaea93bddede",
+      "score": 0.04353548586368561
+    },
+    {
+      "chunk_id": "954f5d30c6de07b992d03fed39c85203736be320c329f1aa99052bfedfbffcf1",
+      "score": 0.0435020811855793
+    },
+    {
+      "chunk_id": "6be013d1cb8b7410f162c01597f244956012b92e7636d4cff39fd1973262352d",
+      "score": 0.04248650372028351
+    },
+    {
+      "chunk_id": "c7be449dd3aafa8fbec2dbcf00e5a605fb2aa150cedc69ab51e3c6ed67ce602a",
+      "score": 0.04097503423690796
+    },
+    {
+      "chunk_id": "64961f75a5bb5fa7ce5d0f2dbccb5756504cc2b9e097c0f2eb520efec2f7d92e",
+      "score": 0.03950455039739609
+    },
+    {
+      "chunk_id": "ce94177361cca0cc596760dfcc005a0e341c4bde08a986fcee13e650df13d4f4",
+      "score": 0.0377194806933403
+    },
+    {
+      "chunk_id": "768843019671c2def9c9ddd6dbb058f6387cab9651898dc54a7c59cf6b649730",
+      "score": 0.032454781234264374
+    },
+    {
+      "chunk_id": "2a9ad1a4c4bd92b16576ef897ad1f3c458c4b5730ac91dff9c2510c6e67d2a62",
+      "score": 0.032389089465141296
+    },
+    {
+      "chunk_id": "c5a5d955de374f4da930cefd7825f339a2d8fceb0f78e7b270a8b63cf7d0ff3d",
+      "score": 0.032240256667137146
+    },
+    {
+      "chunk_id": "876ee4c7a9c1dedad785d6c326437a2751251b7b6b1eaeca5d2d68a3720e9d66",
+      "score": 0.031262923032045364
+    },
+    {
+      "chunk_id": "e543349dd69f78523abfad81298fe2d2634b1da6e6e044dbeac3070c9c06171b",
+      "score": 0.02635667286813259
+    },
+    {
+      "chunk_id": "84a7c298b1fbf925a637eb35f121af296eeb2de66ef22dfd9ac5d0e78be1814d",
+      "score": 0.02471732161939144
+    },
+    {
+      "chunk_id": "cd791b3c1192bf9072f60b2e5ab2935e66c05017d8531c3701506953e2f7aaec",
+      "score": 0.02321205474436283
+    },
+    {
+      "chunk_id": "77d6ed00cba05cea0067b14b465db0191d204b1f66481ed510c40491712da39b",
+      "score": 0.020803947001695633
+    },
+    {
+      "chunk_id": "bcbedf4a621405504ad9c20ceff9d0bfc2d7606170427e3de2ba6da5fa294fa0",
+      "score": 0.018257008865475655
+    },
+    {
+      "chunk_id": "5213308dbec344992ee41fe4d3981110ecc9788debbee9b427c91717587043b9",
+      "score": 0.01694304496049881
+    },
+    {
+      "chunk_id": "2541e0443018a5e12baf58212c7a4da7b8503bf82458a40d9decf82b03b38749",
+      "score": 0.014636121690273285
+    },
+    {
+      "chunk_id": "bca4cc1a4318a1efb3ccc862bf2d75e4c52aadc7c1b23da5c06aa5e96103e49b",
+      "score": 0.010282912291586399
+    },
+    {
+      "chunk_id": "e60f43f82f8563859ceee5678031dcf8b264cf3e9ffa1a08c3bbeb73c4923cd9",
+      "score": 0.01005825400352478
+    },
+    {
+      "chunk_id": "bbe4d86641b9afe5cb4c8b0ec580e58f8d1718a79de3dc5996b7e36e597c9e05",
+      "score": 0.009763884358108044
+    },
+    {
+      "chunk_id": "2d1e50a00c3e87354a0d73bc3395722770c1b30cc9a4e625824f3621ebc5eef2",
+      "score": 0.008826755918562412
+    },
+    {
+      "chunk_id": "4db1572b267e0bc91f6ce04cf4d27a48d1f98a33300b604f2e9ca8763000b46d",
+      "score": 0.008193635381758213
+    },
+    {
+      "chunk_id": "10db5e685138fbb6e6e361b608ae58b87935ab1b3399eee31080299366c09937",
+      "score": 0.007811996154487133
+    },
+    {
+      "chunk_id": "8ced17fae900f8715e59e104075941f60ff60ad74845a783f8c1fc59f0b457bd",
+      "score": 0.006723467260599136
+    },
+    {
+      "chunk_id": "2d6f2cd0702dcaa1c89687dd93abe449a69d34a81f50973a9ba1b1d59f134443",
+      "score": 0.00660280417650938
+    },
+    {
+      "chunk_id": "24fd717e36218fc03518c6a1b4b58b4a6dd7ea336d83e685f4ac966fd529c114",
+      "score": 0.004086949862539768
+    },
+    {
+      "chunk_id": "730f3b3fcd226fb584dc676bff07d7fbaca40517bc825cc586c33382e1433c03",
+      "score": 0.0040476624853909016
+    },
+    {
+      "chunk_id": "30c125e19979d1901a9b2e7a07a48ea38acdc96fdf430596f02b8c848691e649",
+      "score": 0.002010545926168561
+    },
+    {
+      "chunk_id": "1725bac04d2ab6fd7eae0cebb941caf7af48a5a3f8d480ba21c00882e019b14e",
+      "score": 0.0012837889371439815
+    },
+    {
+      "chunk_id": "6bf8d7b72ba30c40b7b4f8a45cbd9952316a72afca14d79fc0de34ce4666af65",
+      "score": 0.0011349261039867997
+    },
+    {
+      "chunk_id": "54be8494d85c7dcd4824248dc4ee3190719cd22d04953b3f2fa33fb4d1a254cc",
+      "score": 0.0011082160053774714
+    },
+    {
+      "chunk_id": "178e02da918f017623dbf081c2881f5a4cbf9912b9ed3d51f5f1190189ef24d8",
+      "score": 0.0009996996959671378
+    },
+    {
+      "chunk_id": "384028d053fb12c65d1b4da05d530efc73a428be0978e20512c1993b6396a8cc",
+      "score": 0.0009036878473125398
+    }
+  ],
+  "hyde_cache_sha256": "43d3232ede41789d5740e7134d9befe73f60dce050bb21b1180dfff3ea18a361",
+  "hyde_text": "Este documento serve como guia de busca em coleções de legislação brasileira, com foco na localização de trechos relevantes a uma sentença judicial. O tema central é a análise do fundamento jurídico utilizado por um juiz em uma decisão. Para uma busca eficaz, é recomendado considerar expressões como \"fundamento da sentença\", \"razão jurídica\", \"base legal\", \"aplicação do direito\", \"decisão judicial\" ou \"interpretação do artigo\". A busca deve incluir termos relacionados ao tipo de processo (ex: civil, criminal, administrativo) e ao objeto do direito (ex: responsabilidade civil, direitos fundamentais). É importante utilizar palavras-chave genéricas, evitando detalhes específicos como número de processo ou nome do juiz, pois não foram fornecidos. A consulta deve ser feita em bases de dados jurídicas oficiais, como o Portal do Judiciário ou o sistema do TJ. A precisão depende da clareza do tema e da estrutura da legislação aplicável. O resultado obtido deve ser interpretado com cautela, pois não garante a correspondência com o caso específico.",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 178741.94519998855,
+  "hash_configuracao": "9e426b8da4deab6db43b11fdf710c28f7424836e8c4463eced49db19bca5a508",
+  "embedding_corpus_recalculado": false
+}

@@ -1,0 +1,28 @@
+{
+  "revisoes_originais": {
+    "aprovada_por_revisor": 8,
+    "reprovada": 2,
+    "pendente_revisao": 1
+  },
+  "correcoes": 2,
+  "variantes": 12,
+  "novas_respostas_pendentes": 13,
+  "falhas_tecnicas_novas": 0,
+  "novas_versoes_revisadas": 1,
+  "revisoes_novas_por_grupo": {
+    "correcao_assistida": {
+      "pendente_revisao": 1,
+      "aprovada_por_revisor": 1
+    },
+    "variante_rag": {
+      "pendente_revisao": 12
+    }
+  },
+  "decisoes_versoes_anteriores_preservadas": 13,
+  "celulas_com_edicoes_na_resposta": 0,
+  "novas_execucoes_total": 14,
+  "medias_tecnicas": "Somente telemetria disponível; falhas sem contadores não são tratadas como zero.",
+  "melhora_juridica_validada": false,
+  "teste_utilizado": false,
+  "gerado_em_utc": "2026-11-09T05:57:33.614232+00:00"
+}

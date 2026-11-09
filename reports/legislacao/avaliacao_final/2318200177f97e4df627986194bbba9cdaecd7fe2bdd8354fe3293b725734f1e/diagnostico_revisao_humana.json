@@ -1,0 +1,20 @@
+{
+  "respostas_reais_salvas": 9,
+  "revisoes_registradas": 9,
+  "aprovadas_pela_revisora": 6,
+  "reprovadas_pela_revisora": 3,
+  "proporcao_aprovada_pela_revisora": 0.6666666666666666,
+  "interpretacao": "Proporção das saídas originais aprovadas pela revisora; não certificação jurídica independente.",
+  "textos_revisora_preservados": 9,
+  "casos_com_alerta_de_curadoria": [
+    "q_test_03",
+    "q_test_05",
+    "q_test_06",
+    "q_test_07",
+    "q_test_08"
+  ],
+  "modelo_treinado": false,
+  "respostas_regeneradas": false,
+  "feedback_arquivo": "data\\evaluation\\legislacao\\feedback_pos_teste\\113baf0b957455ddc6d720e68c14f6e30cfaa093484e790068ca239b30de2c9c\\respostas_reais_e_feedback.jsonl",
+  "feedback_sha256": "113baf0b957455ddc6d720e68c14f6e30cfaa093484e790068ca239b30de2c9c"
+}

@@ -1,0 +1,75 @@
+{
+  "executado_em_utc": "2026-11-06T18:46:30.416706+00:00",
+  "split": "dev",
+  "motores_executados": [
+    "vector",
+    "hyde",
+    "rrf",
+    "rrf_rerank"
+  ],
+  "estrategias": [
+    "D_paragrafo_completo"
+  ],
+  "top_k": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "profundidade_candidatos": 50,
+  "rrf_k": 60,
+  "pipeline_version": "D-para-A-pgvector-hyde-rrf-rerank-v4",
+  "estrategia_selecionada": "D_paragrafo_completo",
+  "context_strategy": "A_artigo",
+  "search_backend": "pgvector",
+  "sql_datasets": {
+    "D_paragrafo_completo": "036e49f3a30a99ea706fce9be2f8301aabf5817c81e9f700535753b046657313"
+  },
+  "hyde": {
+    "modelo": "ollama:qwen3:4b-instruct:0edcdef34593eac1aa2be9c7d06c432dcf81945adca5eca2f27662c18f168ba0",
+    "temperature": 0,
+    "configuracao": {
+      "backend": "ollama",
+      "base_url": "http://127.0.0.1:11434",
+      "options": {
+        "temperature": 0,
+        "seed": 42,
+        "num_predict": 512,
+        "num_ctx": 4096
+      },
+      "keep_alive": 0
+    },
+    "hashes_cache": {
+      "q_dev_01": "1365747fd556c5af3e3aecac53c016880d4cc8aa918188576cb15b1ff07df23d",
+      "q_dev_02": "0f1c0ea13d50f23976bff8ec46c9981da1db2483eab8bea31519204c89d587fd",
+      "q_dev_03": "002babcd9f25e69daed7167e7a3f4b2aed7322705785b38ac280d9a487830352",
+      "q_dev_04": "169a8c6e180b8c56f01f2c52b1576ceab45b5a026b573e5c390d7b49b1cb4c46",
+      "q_dev_05": "f755fc72e8bb981130f0abf016e9efb2cea25ebd05b67ea8638dac218427d62b",
+      "q_dev_neg_01": "8aed6eed7f758879938bb1af705627e774cc4fccf8e52018a10d9fd02ef527c9",
+      "q_dev_neg_02": "d7fe0cdeb6c966a6ec10c3fef41b7ece27b2cb88b4e1a7af4e0293f58e087591",
+      "q_dev_06": "6e0326154973af5d57699cbb000896a7188fd1aa1ceb7e5d4c48c8312d58e257",
+      "q_dev_07": "6f6d800c206d85e4a551f0884bba25c67a4b6a87f29eff6b0ecac53c3bfb022e",
+      "q_dev_08": "768a524ced548e2d87ae745d1356fd753270e2e163c4bf242eb9d5fcdc939deb",
+      "q_dev_neg_03": "df1d8f766b1fb592d2f974852f2cb24e8ae48aeaf67d7e19bbf052e0bc9db82d"
+    }
+  },
+  "reranker": {
+    "modelo": "BAAI/bge-reranker-v2-m3",
+    "limite": 8192,
+    "candidatos": 50
+  },
+  "embeddings": {
+    "habilitado": true,
+    "modelo": "BAAI/bge-m3",
+    "max_seq_length": 8192,
+    "device": "cpu",
+    "truncamento_permitido": false
+  },
+  "hashes_chunks": {
+    "D_paragrafo_completo": "95e5bc502de3d78d4394bebd671578f348f14db58830dca8d0130216484133c1"
+  },
+  "hash_dev": "de8ecead349c17d22805b9a23a4e0e12c8a7bed64a7d79b72a31281f697fa85c",
+  "hash_referencias": "1c4c77fbe2cb8615e80f0f523ac010e5d570b05645bd49d676d78c9b65062864",
+  "negativos": "Registrados sem métrica de abstinência; exige calibração posterior.",
+  "limitacao": "Piloto pequeno; revisão assistida por IA; HyDE é sintético e não comprova suporte jurídico."
+}

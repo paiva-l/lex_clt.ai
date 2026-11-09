@@ -1,0 +1,343 @@
+{
+  "query_id": "q_test_07",
+  "pergunta": "Como os arts. 457 e 458 da CLT descrevem parcelas relacionadas ao salário e à remuneração?",
+  "sources": [
+    {
+      "chunk_id": "79bad9e86b7c576bdd8f2bee964e1a6fd425673e4d4e1d7117684a35eb2d8408",
+      "estrategia": "A_artigo",
+      "artigo_id": "1284457315642fd6e54c066a59bf97563e444442f5f8e7af35e0920a0a90cfd5",
+      "artigo_ref": "Art. 458",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 458]",
+      "corpo_chunk": "##### Art. 458\n\nAlém do pagamento em dinheiro, compreende-se no salário, para todos os efeitos legais, a alimentação, habitação, vestuário ou outras prestações \"in natura\" que a empresa, por fôrça do contrato ou do costume, fornecer habitualmente ao empregado. Em caso algum será permitido o pagamento com bebidas alcoólicas ou drogas nocivas. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 1º Os valôres atribuídos às prestações \"in natura\" deverão ser justos e razoáveis, não podendo exceder, em cada caso, os dos percentuais das parcelas componentes do salário-mínimo (arts. 81 e 82).Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 2º Para os efeitos previstos neste artigo, não serão consideradas como salário as seguintes utilidades concedidas pelo empregador: (Redação dada pela Lei nº 10.243, de 19.6.2001)\n\nI – vestuários, equipamentos e outros acessórios fornecidos aos empregados e utilizados no local de trabalho, para a prestação do serviço; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nII – educação, em estabelecimento de ensino próprio ou de terceiros, compreendendo os valores relativos a matrícula, mensalidade, anuidade, livros e material didático; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nIII – transporte destinado ao deslocamento para o trabalho e retorno, em percurso servido ou não por transporte público; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nIV – assistência médica, hospitalar e odontológica, prestada diretamente ou mediante seguro-saúde; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nV – seguros de vida e de acidentes pessoais; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nVI – previdência privada; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nVII – (VETADO) (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nVIII - o valor correspondente ao vale-cultura. (Incluído pela Lei nº 12.761, de 2012)\n\n§ 3º - A habitação e a alimentação fornecidas como salário-utilidade deverão atender aos fins a que se destinam e não poderão exceder, respectivamente, a 25% (vinte e cinco por cento) e 20% (vinte por cento) do salário-contratual. (Incluído pela Lei nº 8.860, de 24.3.1994)\n\n§ 4º - Tratando-se de habitação coletiva, o valor do salário-utilidade a ela correspondente será obtido mediante a divisão do justo valor da habitação pelo número de co-habitantes, vedada, em qualquer hipótese, a utilização da mesma unidade residencial por mais de uma família. (Incluído pela Lei nº 8.860, de 24.3.1994)\n\n§ 5º O valor relativo à assistência prestada por serviço médico ou odontológico, próprio ou não, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, próteses, órteses, despesas médico-hospitalares e outras similares, mesmo quando concedido em diferentes modalidades de planos e coberturas, não integram o salário do empregado para qualquer efeito nem o salário de contribuição, para efeitos do previsto na alínea q do § 9º do art. 28 da Lei nº 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 458]\n##### Art. 458\n\nAlém do pagamento em dinheiro, compreende-se no salário, para todos os efeitos legais, a alimentação, habitação, vestuário ou outras prestações \"in natura\" que a empresa, por fôrça do contrato ou do costume, fornecer habitualmente ao empregado. Em caso algum será permitido o pagamento com bebidas alcoólicas ou drogas nocivas. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 1º Os valôres atribuídos às prestações \"in natura\" deverão ser justos e razoáveis, não podendo exceder, em cada caso, os dos percentuais das parcelas componentes do salário-mínimo (arts. 81 e 82).Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 2º Para os efeitos previstos neste artigo, não serão consideradas como salário as seguintes utilidades concedidas pelo empregador: (Redação dada pela Lei nº 10.243, de 19.6.2001)\n\nI – vestuários, equipamentos e outros acessórios fornecidos aos empregados e utilizados no local de trabalho, para a prestação do serviço; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nII – educação, em estabelecimento de ensino próprio ou de terceiros, compreendendo os valores relativos a matrícula, mensalidade, anuidade, livros e material didático; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nIII – transporte destinado ao deslocamento para o trabalho e retorno, em percurso servido ou não por transporte público; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nIV – assistência médica, hospitalar e odontológica, prestada diretamente ou mediante seguro-saúde; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nV – seguros de vida e de acidentes pessoais; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nVI – previdência privada; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nVII – (VETADO) (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nVIII - o valor correspondente ao vale-cultura. (Incluído pela Lei nº 12.761, de 2012)\n\n§ 3º - A habitação e a alimentação fornecidas como salário-utilidade deverão atender aos fins a que se destinam e não poderão exceder, respectivamente, a 25% (vinte e cinco por cento) e 20% (vinte por cento) do salário-contratual. (Incluído pela Lei nº 8.860, de 24.3.1994)\n\n§ 4º - Tratando-se de habitação coletiva, o valor do salário-utilidade a ela correspondente será obtido mediante a divisão do justo valor da habitação pelo número de co-habitantes, vedada, em qualquer hipótese, a utilização da mesma unidade residencial por mais de uma família. (Incluído pela Lei nº 8.860, de 24.3.1994)\n\n§ 5º O valor relativo à assistência prestada por serviço médico ou odontológico, próprio ou não, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, próteses, órteses, despesas médico-hospitalares e outras similares, mesmo quando concedido em diferentes modalidades de planos e coberturas, não integram o salário do empregado para qualquer efeito nem o salário de contribuição, para efeitos do previsto na alínea q do § 9º do art. 28 da Lei nº 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 13.467, de 2017)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 2985,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 3141,
+      "tokens_reais_corpo": 997,
+      "tokens_reais_total": 1059,
+      "tokens_estimados_total": 785.25,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "ef5ee52fb459bb17727f5e3b27839e933dabdb214755b7cf5dd45d6b873e040f",
+          "rank": 1,
+          "score": 0.9087665677070618
+        },
+        {
+          "chunk_id": "145db03889683fd95fd535195221bb7ed4e2071fc753e10e5173f93ea6a57d46",
+          "rank": 2,
+          "score": 0.8876677751541138
+        },
+        {
+          "chunk_id": "ee6333c8f21d86dc097ea94f8f578c2e428db4b37e5fa4c3b65b6e081b2bb9ea",
+          "rank": 5,
+          "score": 0.8158406615257263
+        },
+        {
+          "chunk_id": "ba2ed56809bc137861b134ac6bb3c50cec69c19cb6fafb480552cce52acc8171",
+          "rank": 6,
+          "score": 0.7840043306350708
+        },
+        {
+          "chunk_id": "2f3144b46ab62b6b01a6c1e4d6ac077ac956b5850e4020e52adb8dd512e0930f",
+          "rank": 7,
+          "score": 0.6074370741844177
+        },
+        {
+          "chunk_id": "c5c70972cecdab21ced0815f057b5480b83a96d55726162ba1ee40ac3c02c354",
+          "rank": 9,
+          "score": 0.551887571811676
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "621afb0515b86c0996a427234ec648136d4a8d1b53eda714f8b225adf6609927",
+      "estrategia": "A_artigo",
+      "artigo_id": "28b09f7326c8c6cf8bdd4102fe0517ef88847781bd4ace0319f04f26140ecaad",
+      "artigo_ref": "Art. 457",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 457]",
+      "corpo_chunk": "##### Art. 457\n\nCompreendem-se na remuneração do empregado, para todos os efeitos legais, além do salário devido e pago diretamente pelo empregador, como contraprestação do serviço, as gorjetas que receber. (Redação dada pela Lei nº 1.999, de 1.10.1953)\n\n§ 1º Integram o salário a importância fixa estipulada, as gratificações legais e as comissões pagas pelo empregador. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 2º As importâncias, ainda que habituais, pagas a título de ajuda de custo, auxílio-alimentação, vedado seu pagamento em dinheiro, diárias para viagem, prêmios e abonos não integram a remuneração do empregado, não se incorporam ao contrato de trabalho e não constituem base de incidência de qualquer encargo trabalhista e previdenciário. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 3º Considera-se gorjeta não só a importância espontaneamente dada pelo cliente ao empregado, como também o valor cobrado pela empresa, como serviço ou adicional, a qualquer título, e destinado à distribuição aos empregados. (Redação dada pela Lei nº 13.419, de 2017)\n\n§ 4º Consideram-se prêmios as liberalidades concedidas pelo empregador em forma de bens, serviços ou valor em dinheiro a empregado ou a grupo de empregados, em razão de desempenho superior ao ordinariamente esperado no exercício de suas atividades. (Redação dada pela Lei nº 13.467, de 2017)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 457]\n##### Art. 457\n\nCompreendem-se na remuneração do empregado, para todos os efeitos legais, além do salário devido e pago diretamente pelo empregador, como contraprestação do serviço, as gorjetas que receber. (Redação dada pela Lei nº 1.999, de 1.10.1953)\n\n§ 1º Integram o salário a importância fixa estipulada, as gratificações legais e as comissões pagas pelo empregador. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 2º As importâncias, ainda que habituais, pagas a título de ajuda de custo, auxílio-alimentação, vedado seu pagamento em dinheiro, diárias para viagem, prêmios e abonos não integram a remuneração do empregado, não se incorporam ao contrato de trabalho e não constituem base de incidência de qualquer encargo trabalhista e previdenciário. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 3º Considera-se gorjeta não só a importância espontaneamente dada pelo cliente ao empregado, como também o valor cobrado pela empresa, como serviço ou adicional, a qualquer título, e destinado à distribuição aos empregados. (Redação dada pela Lei nº 13.419, de 2017)\n\n§ 4º Consideram-se prêmios as liberalidades concedidas pelo empregador em forma de bens, serviços ou valor em dinheiro a empregado ou a grupo de empregados, em razão de desempenho superior ao ordinariamente esperado no exercício de suas atividades. (Redação dada pela Lei nº 13.467, de 2017)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1362,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1518,
+      "tokens_reais_corpo": 412,
+      "tokens_reais_total": 474,
+      "tokens_estimados_total": 379.5,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "7cc2deb38d203cb5ea4293938c309c47e80619bde6b5c02d261e99a804d85bfb",
+          "rank": 3,
+          "score": 0.8871901035308838
+        },
+        {
+          "chunk_id": "357d7829d4f4b7c6ccc68e5c2229c7f2ffb272c3a834350b3a5459867bb11536",
+          "rank": 4,
+          "score": 0.821378767490387
+        },
+        {
+          "chunk_id": "beaf0350ef056b6f5c08e1b1038280abfcf80857c01e4f19b2ff59428570147a",
+          "rank": 11,
+          "score": 0.4195404052734375
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 2"
+    }
+  ],
+  "omitted": [
+    {
+      "artigo_id": "b0eca8cd12564c8f379164008c506c78563c97a8a39baff15dba790300e17533",
+      "reason": "orcamento_prompt_completo"
+    }
+  ],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 458]\n##### Art. 458\n\nAlém do pagamento em dinheiro, compreende-se no salário, para todos os efeitos legais, a alimentação, habitação, vestuário ou outras prestações \"in natura\" que a empresa, por fôrça do contrato ou do costume, fornecer habitualmente ao empregado. Em caso algum será permitido o pagamento com bebidas alcoólicas ou drogas nocivas. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 1º Os valôres atribuídos às prestações \"in natura\" deverão ser justos e razoáveis, não podendo exceder, em cada caso, os dos percentuais das parcelas componentes do salário-mínimo (arts. 81 e 82).Incluído pelo Decreto-lei nº 229, de 28.2.1967)\n\n§ 2º Para os efeitos previstos neste artigo, não serão consideradas como salário as seguintes utilidades concedidas pelo empregador: (Redação dada pela Lei nº 10.243, de 19.6.2001)\n\nI – vestuários, equipamentos e outros acessórios fornecidos aos empregados e utilizados no local de trabalho, para a prestação do serviço; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nII – educação, em estabelecimento de ensino próprio ou de terceiros, compreendendo os valores relativos a matrícula, mensalidade, anuidade, livros e material didático; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nIII – transporte destinado ao deslocamento para o trabalho e retorno, em percurso servido ou não por transporte público; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nIV – assistência médica, hospitalar e odontológica, prestada diretamente ou mediante seguro-saúde; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nV – seguros de vida e de acidentes pessoais; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nVI – previdência privada; (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nVII – (VETADO) (Incluído pela Lei nº 10.243, de 19.6.2001)\n\nVIII - o valor correspondente ao vale-cultura. (Incluído pela Lei nº 12.761, de 2012)\n\n§ 3º - A habitação e a alimentação fornecidas como salário-utilidade deverão atender aos fins a que se destinam e não poderão exceder, respectivamente, a 25% (vinte e cinco por cento) e 20% (vinte por cento) do salário-contratual. (Incluído pela Lei nº 8.860, de 24.3.1994)\n\n§ 4º - Tratando-se de habitação coletiva, o valor do salário-utilidade a ela correspondente será obtido mediante a divisão do justo valor da habitação pelo número de co-habitantes, vedada, em qualquer hipótese, a utilização da mesma unidade residencial por mais de uma família. (Incluído pela Lei nº 8.860, de 24.3.1994)\n\n§ 5º O valor relativo à assistência prestada por serviço médico ou odontológico, próprio ou não, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, próteses, órteses, despesas médico-hospitalares e outras similares, mesmo quando concedido em diferentes modalidades de planos e coberturas, não integram o salário do empregado para qualquer efeito nem o salário de contribuição, para efeitos do previsto na alínea q do § 9º do art. 28 da Lei nº 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 13.467, de 2017)\n\n\n\n[Fonte 2]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO II — DA REMUNERAÇÃO > Art. 457]\n##### Art. 457\n\nCompreendem-se na remuneração do empregado, para todos os efeitos legais, além do salário devido e pago diretamente pelo empregador, como contraprestação do serviço, as gorjetas que receber. (Redação dada pela Lei nº 1.999, de 1.10.1953)\n\n§ 1º Integram o salário a importância fixa estipulada, as gratificações legais e as comissões pagas pelo empregador. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 2º As importâncias, ainda que habituais, pagas a título de ajuda de custo, auxílio-alimentação, vedado seu pagamento em dinheiro, diárias para viagem, prêmios e abonos não integram a remuneração do empregado, não se incorporam ao contrato de trabalho e não constituem base de incidência de qualquer encargo trabalhista e previdenciário. (Redação dada pela Lei nº 13.467, de 2017)\n\n§ 3º Considera-se gorjeta não só a importância espontaneamente dada pelo cliente ao empregado, como também o valor cobrado pela empresa, como serviço ou adicional, a qualquer título, e destinado à distribuição aos empregados. (Redação dada pela Lei nº 13.419, de 2017)\n\n§ 4º Consideram-se prêmios as liberalidades concedidas pelo empregador em forma de bens, serviços ou valor em dinheiro a empregado ou a grupo de empregados, em razão de desempenho superior ao ordinariamente esperado no exercício de suas atividades. (Redação dada pela Lei nº 13.467, de 2017)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "ef5ee52fb459bb17727f5e3b27839e933dabdb214755b7cf5dd45d6b873e040f",
+      "score": 0.9087665677070618
+    },
+    {
+      "chunk_id": "145db03889683fd95fd535195221bb7ed4e2071fc753e10e5173f93ea6a57d46",
+      "score": 0.8876677751541138
+    },
+    {
+      "chunk_id": "7cc2deb38d203cb5ea4293938c309c47e80619bde6b5c02d261e99a804d85bfb",
+      "score": 0.8871901035308838
+    },
+    {
+      "chunk_id": "357d7829d4f4b7c6ccc68e5c2229c7f2ffb272c3a834350b3a5459867bb11536",
+      "score": 0.821378767490387
+    },
+    {
+      "chunk_id": "ee6333c8f21d86dc097ea94f8f578c2e428db4b37e5fa4c3b65b6e081b2bb9ea",
+      "score": 0.8158406615257263
+    },
+    {
+      "chunk_id": "ba2ed56809bc137861b134ac6bb3c50cec69c19cb6fafb480552cce52acc8171",
+      "score": 0.7840043306350708
+    },
+    {
+      "chunk_id": "2f3144b46ab62b6b01a6c1e4d6ac077ac956b5850e4020e52adb8dd512e0930f",
+      "score": 0.6074370741844177
+    },
+    {
+      "chunk_id": "66433b619ba3001931f98e695ca10d08021fab1a3355fa831232bce585130303",
+      "score": 0.5912128686904907
+    },
+    {
+      "chunk_id": "c5c70972cecdab21ced0815f057b5480b83a96d55726162ba1ee40ac3c02c354",
+      "score": 0.551887571811676
+    },
+    {
+      "chunk_id": "3e98d06079806cb751309928ce37d9e4697dadef7d69234d06bc0ceb2c99d844",
+      "score": 0.5415180325508118
+    },
+    {
+      "chunk_id": "beaf0350ef056b6f5c08e1b1038280abfcf80857c01e4f19b2ff59428570147a",
+      "score": 0.4195404052734375
+    },
+    {
+      "chunk_id": "c446c1666e21868b9835538de284248cd1762727b10842bc248994f93dfcc826",
+      "score": 0.4148547947406769
+    },
+    {
+      "chunk_id": "4ae1d2207700350eff75b7b891c800b3a89713a27b4278a0307095c37401d4c2",
+      "score": 0.4014657437801361
+    },
+    {
+      "chunk_id": "6e4734f114f80e47aea4f3ce25da10794b20d863a25ffd7d78f5b4e21e4b8af6",
+      "score": 0.2214202731847763
+    },
+    {
+      "chunk_id": "e05eb877d93f79827901bc11018fa9695319c8f327506affefa48aa05bf577ad",
+      "score": 0.21066783368587494
+    },
+    {
+      "chunk_id": "d53509bb1ef9bdc163d1e1ac0c7929514d500fe6f74176f3c598829f89ad6fb5",
+      "score": 0.20216740667819977
+    },
+    {
+      "chunk_id": "ffd0d2a35e5d3678ac01ce6fef202e5fcaff96a1353af50c30cbb4f47b553774",
+      "score": 0.18310318887233734
+    },
+    {
+      "chunk_id": "184f930bd7dd0ae4ee5b1907fb1c75fc93c5e15c6fe9d6b25a641d6c6c9eca36",
+      "score": 0.15840938687324524
+    },
+    {
+      "chunk_id": "586643ee93417f74307431c8bb9351c84db80f6d578d71cf1704fc3b05d0a4f8",
+      "score": 0.15814320743083954
+    },
+    {
+      "chunk_id": "87252d84bdbc66c6197d80307e7d2139650ecef09e8089a465023b1d5feccc76",
+      "score": 0.12839655578136444
+    },
+    {
+      "chunk_id": "fcee1b47b43404c6acad24604f76e07316a62e9a41688ba8bf21b4675d4e3f85",
+      "score": 0.10941033810377121
+    },
+    {
+      "chunk_id": "54a4f79cb3c9593a6f2ce15f81fa7f22da4cf93f704abd88b14e85b1c1733df0",
+      "score": 0.08545004576444626
+    },
+    {
+      "chunk_id": "33d3845fc46cce59d2659c1f18bb364d853912d69a14b07587397a6d6fd0ecf5",
+      "score": 0.077314093708992
+    },
+    {
+      "chunk_id": "43d304f44cef627d0d79efd4d214f03eac3a92c87ade666220a757ac1822b116",
+      "score": 0.0707436352968216
+    },
+    {
+      "chunk_id": "91bf319d17f008cf175ace7206db2a4fdac0cd46eee7ee41516c8babd3d563a1",
+      "score": 0.0684562548995018
+    },
+    {
+      "chunk_id": "5db6302c76bdf80daa954c33ce01083a661d57bfbeaf0fe17a9056f42b09d45f",
+      "score": 0.058252908289432526
+    },
+    {
+      "chunk_id": "473bae346d831031520e9892c22dfa450ef541a1d8ffe7f52b3dd81f1c5557e5",
+      "score": 0.054649852216243744
+    },
+    {
+      "chunk_id": "ef2c5ccde8b3286bb1a96999a0a03864fa389003b4945520dc9486ac616c52ba",
+      "score": 0.04276962950825691
+    },
+    {
+      "chunk_id": "5b3fb73acc7ab01718de8448b7d8c8736ff20022f4114492577b19ed2431f34b",
+      "score": 0.04239153489470482
+    },
+    {
+      "chunk_id": "bfe56a7eb7273a3e6f0348284ebd42d556f0d68c58cbd9524537ff3f90cbda69",
+      "score": 0.04121391475200653
+    },
+    {
+      "chunk_id": "948dc357e12385809910633f9f9834e633e2718eda9e678593cbb0d92cbf01f7",
+      "score": 0.03561650589108467
+    },
+    {
+      "chunk_id": "a2fbce89f308efad300f3256c866575ee44b151623aae696cf96480f2c2d4509",
+      "score": 0.031666748225688934
+    },
+    {
+      "chunk_id": "846f50faceadb10df86cd95a4ad48e3b4aa18d152aab716a82af1d31ced51bf4",
+      "score": 0.03087339922785759
+    },
+    {
+      "chunk_id": "c070e30070948cc5de60fd8245708bc3a377e6fb1c7df8c46fc920ba57605652",
+      "score": 0.029790550470352173
+    },
+    {
+      "chunk_id": "a74656b88428114104d645970959d9f01e269ad9e192478cfd54aeb53213a68a",
+      "score": 0.020369229838252068
+    },
+    {
+      "chunk_id": "e9acc8635e0e2d21c096ccab00c92b712626f5a7751702faf825b79ace094cbc",
+      "score": 0.019081871956586838
+    },
+    {
+      "chunk_id": "8e16426a7df4179265039d9fb3454a4fb4b77aee03816399d5a0bac34b776bee",
+      "score": 0.013553444296121597
+    },
+    {
+      "chunk_id": "5cfb33be6dee93fe2086967f8b0d0495a9ddeeef4a457a8e3cfab86e93a78055",
+      "score": 0.012546852231025696
+    },
+    {
+      "chunk_id": "7def3afc356d7151eaa7c7b639ac400506c639229e4149b76650d9d4fcf43411",
+      "score": 0.011587428860366344
+    },
+    {
+      "chunk_id": "929504b72da347016de0800a60b2cd14b85531ce85be7cf007818ace0ced47fd",
+      "score": 0.011355465278029442
+    },
+    {
+      "chunk_id": "ed91f2c03ea993c39e80c71e33e40a01c51edcb1e6eeb4802e81623e08ee1911",
+      "score": 0.010604755021631718
+    },
+    {
+      "chunk_id": "7730e1a8f2a146eff342f9458b945411f93124bbbee2330b379283a5f3ba19dd",
+      "score": 0.009168400429189205
+    },
+    {
+      "chunk_id": "9c7bc77dc9db1c33bc84f7a79f063722f6e3e901d6e8877343fa330ac3145896",
+      "score": 0.008604008704423904
+    },
+    {
+      "chunk_id": "2d02f614df8b69460153134c5d906fd0d860aef9efd4e2b1d93d14a798845bd7",
+      "score": 0.00788850523531437
+    },
+    {
+      "chunk_id": "e218be82b73aa514135c435b7c92f3a6eff0f2e55e38d0cdea68d26b8ffbe909",
+      "score": 0.0065606459975242615
+    },
+    {
+      "chunk_id": "de20663fc0e4801f8c7b5527911f5b8f62628ca78875551cd9e80b7f8b283638",
+      "score": 0.00518790865316987
+    },
+    {
+      "chunk_id": "48e30555be25e12149d5cf06039ea22fa535e4998080c8cae42aaaa519d43b80",
+      "score": 0.004502483643591404
+    },
+    {
+      "chunk_id": "1a4890e964fcac71e8a48212424cdbe648097053f0bdd1775cd06e39541d91d9",
+      "score": 0.0028232464101165533
+    },
+    {
+      "chunk_id": "6e4f4c6501fa3f08e3c251b7b5332ddf412500ea257f38a5789cec7c5dbf952b",
+      "score": 0.002617836697027087
+    },
+    {
+      "chunk_id": "b281b47a24b7ca29ba82ff6cdeb7c98097aee0c76b9cd6141358b7187b9577e8",
+      "score": 0.0024117701686918736
+    }
+  ],
+  "hyde_cache_sha256": "c0533c89f8db31c1cc46485e0e43064c84d535126b0faf9e27206c259a3c7a7e",
+  "hyde_text": "O tema aborda a relação entre os artigos 457 e 458 da Consolidação das Leis do Trabalho (CLT), focando em como esses dispositivos tratam das parcelas vinculadas ao salário e à remuneração. O documento hipotético destaca que a busca por textos relevantes deve considerar expressões como \"salário\", \"remuneração\", \"parcelas\", \"vencimentos\", \"horas trabalhadas\", \"pagamento\", \"distribuição\" e \"valores\". É importante que a consulta inclua termos que indiquem a natureza dos pagamentos, como \"mensal\", \"diário\", \"extra\", \"adicionais\" ou \"benefícios\". A busca deve ser feita com cautela, evitando termos que possam gerar ambiguidade, como \"total\", \"integral\" ou \"composto\", que podem ser interpretados de forma diversa. A localização deve considerar o contexto jurídico, como a relação entre o salário base e os adicionais, e a forma como essas parcelas são integradas ao valor remuneratório. O documento não oferece interpretação jurídica, apenas orienta a estrutura de busca, com base em termos comuns e vagos, para auxiliar na localização de trechos legais.",
+  "hyde_synthetic_not_evidence": true,
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 146513.6050999863,
+  "hash_configuracao": "92a687a6133f3fb4a84c6bb0b2c0213bc30dc0f9228ca91e3276b6b75b3b6cca",
+  "embedding_corpus_recalculado": false
+}

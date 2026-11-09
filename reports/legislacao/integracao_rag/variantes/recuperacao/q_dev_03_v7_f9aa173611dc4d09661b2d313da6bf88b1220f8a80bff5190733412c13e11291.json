@@ -1,0 +1,363 @@
+{
+  "query_id": "q_dev_03_v7",
+  "pergunta": "Posso pedir rescisao em que situações?",
+  "sources": [
+    {
+      "chunk_id": "c832c94fba83535655185fb0d695e30bf2085034e96b7c39de4f088c90a4e47a",
+      "estrategia": "A_artigo",
+      "artigo_id": "4acd494b9f4dfdc8808ffd0f46e946144e5cb3a8949f76288cb568657916f96d",
+      "artigo_ref": "Art. 483",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 483]",
+      "corpo_chunk": "##### Art. 483\n\nO empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:\n\na) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;\n\nb) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;\n\nc) correr perigo manifesto de mal considerável;\n\nd) não cumprir o empregador as obrigações do contrato;\n\ne) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;\n\nf) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\ng) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.\n\n§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.\n\n§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.\n\n§ 3º - Nas hipóteses das letras \"d\" e \"g\", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 483]\n##### Art. 483\n\nO empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:\n\na) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;\n\nb) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;\n\nc) correr perigo manifesto de mal considerável;\n\nd) não cumprir o empregador as obrigações do contrato;\n\ne) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;\n\nf) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\ng) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.\n\n§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.\n\n§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.\n\n§ 3º - Nas hipóteses das letras \"d\" e \"g\", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1364,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1516,
+      "tokens_reais_corpo": 395,
+      "tokens_reais_total": 457,
+      "tokens_estimados_total": 379.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "51486d4c8622f1f4c36183d96fe1d2b40b80d59158f06908c079ae01b45ad2c6",
+          "rank": 1,
+          "score": 0.7135685682296753
+        },
+        {
+          "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+          "rank": 2,
+          "score": 0.5997014045715332
+        },
+        {
+          "chunk_id": "2d2654f7d16f80a4e0568098f35203d19c860e5f2b0a4df361b25c51dbf51dfb",
+          "rank": 7,
+          "score": 0.3563949763774872
+        },
+        {
+          "chunk_id": "d3f7ab52bdc4c55dfe95f88f282bc841f6be99df5e187d9a85fc3e1659e15910",
+          "rank": 9,
+          "score": 0.2672295570373535
+        }
+      ],
+      "best_child_rank": 1,
+      "source_id": "Fonte 1"
+    },
+    {
+      "chunk_id": "071732a40591af664a63c3940dc158b9f577c0d4893f51160d741404493a7022",
+      "estrategia": "A_artigo",
+      "artigo_id": "94580524a9e43790951fac5e5cc2dc7e7322e63edb11107bf71362f88822556a",
+      "artigo_ref": "Art 10",
+      "caminho_relativo": "leis/1970/lei-5584-1970.md",
+      "sha256_fonte": "021eb4818e2a3af2058757870aaa63585d1eea4f35f0326910e00b9c66d5870a",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/L5584.htm",
+      "date": 15206400000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": false,
+      "contexto": "[leis/1970/lei-5584-1970.md | Art 10]",
+      "corpo_chunk": "## Art 10. O\n\nartigo 477 da Consolidação das Leis do Trabalho, alterado pela Lei nº 5.562, de 12-12-68, e pelo Decreto-lei nº 766, de 15-8-69, passa a vigorar com a seguinte redação:\n\n\"Art. 477. É assegurado a todo empregado, não existindo prazo estipulado para a terminação do respectivo contrato, e quando não haja êle dado motivo para cessação das relações de trabalho, o direto de haver do empregador uma indenização, paga na base da maior remuneração que tenha percebido na mesma emprêsa.\n\n§ 1º O pedido de demissão ou recibo de quitação de rescisão, do contrato de trabalho, firmado por empregado com mais de 1 (um) ano de serviço, só será válido quando feito com a assistência do respectivo Sindicato ou perante a autoridade do Ministério do Trabalho e Previdência Social.\n\n§ 2º O instrumento de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ter especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas.\n\n§ 3º Quando não existir na localidade nenhum dos órgãos previstos neste artigo, a assistência será prestada pelo Represente do Ministério Público ou, onde houver, pelo Defensor Público e, na falta ou impedimento dêste, pelo Juiz de Paz.\n\n§ 4º O pagamento a que fizer jus o empregado será efetuado no ato da homologação da rescisão do contrato de trabalho, em dinheiro ou em cheque visado, conforme acordem as partes, salvo se o empregado fôr analfabeto, quando o pagamento sòmente poderá ser feito em dinheiro.\n\n§ 5º Qualquer compensação no pagamento de que trata o parágrafo anterior não poderá exceder o equivalente a um mês de remuneração do empregado\".\n\n",
+      "conteudo_chunk": "[leis/1970/lei-5584-1970.md | Art 10]\n## Art 10. O\n\nartigo 477 da Consolidação das Leis do Trabalho, alterado pela Lei nº 5.562, de 12-12-68, e pelo Decreto-lei nº 766, de 15-8-69, passa a vigorar com a seguinte redação:\n\n\"Art. 477. É assegurado a todo empregado, não existindo prazo estipulado para a terminação do respectivo contrato, e quando não haja êle dado motivo para cessação das relações de trabalho, o direto de haver do empregador uma indenização, paga na base da maior remuneração que tenha percebido na mesma emprêsa.\n\n§ 1º O pedido de demissão ou recibo de quitação de rescisão, do contrato de trabalho, firmado por empregado com mais de 1 (um) ano de serviço, só será válido quando feito com a assistência do respectivo Sindicato ou perante a autoridade do Ministério do Trabalho e Previdência Social.\n\n§ 2º O instrumento de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ter especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas.\n\n§ 3º Quando não existir na localidade nenhum dos órgãos previstos neste artigo, a assistência será prestada pelo Represente do Ministério Público ou, onde houver, pelo Defensor Público e, na falta ou impedimento dêste, pelo Juiz de Paz.\n\n§ 4º O pagamento a que fizer jus o empregado será efetuado no ato da homologação da rescisão do contrato de trabalho, em dinheiro ou em cheque visado, conforme acordem as partes, salvo se o empregado fôr analfabeto, quando o pagamento sòmente poderá ser feito em dinheiro.\n\n§ 5º Qualquer compensação no pagamento de que trata o parágrafo anterior não poderá exceder o equivalente a um mês de remuneração do empregado\".\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1718,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1756,
+      "tokens_reais_corpo": 509,
+      "tokens_reais_total": 529,
+      "tokens_estimados_total": 439.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "2645c886113f899fd00f24d380236fabb585c522c4c1bc4384c1a6baa44fffeb",
+          "rank": 3,
+          "score": 0.5167725682258606
+        },
+        {
+          "chunk_id": "5a4cbce5154385f151f3fd18d1bcab7f20f7a20c211d780567e09487b84cc129",
+          "rank": 25,
+          "score": 0.03535378351807594
+        }
+      ],
+      "best_child_rank": 3,
+      "source_id": "Fonte 2"
+    },
+    {
+      "chunk_id": "1de79074fb1b3d6981610059140d3a0268a0da775e76db4afadecd388ea7db85",
+      "estrategia": "A_artigo",
+      "artigo_id": "bccbfcc064bf835a548b042df6672d9f2eafa75750edf7f986bf86d4ded18cb1",
+      "artigo_ref": "Art. 482",
+      "caminho_relativo": "codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md",
+      "sha256_fonte": "59106e488eed2be8ff895024b11d747519ebf90320c7f19e919b36d7ec8c8494",
+      "status_declarado": "in_force",
+      "source": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm",
+      "date": -841708800000,
+      "retrieved": "2026-10-12",
+      "tem_alerta_parser": true,
+      "contexto": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]",
+      "corpo_chunk": "##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "conteudo_chunk": "[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]\n##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+      "inicio_no_artigo": 0,
+      "fim_no_artigo": 1480,
+      "parte": 0,
+      "record_id_origem": null,
+      "tamanho_caracteres": 1632,
+      "tokens_reais_corpo": 445,
+      "tokens_reais_total": 507,
+      "tokens_estimados_total": 408.0,
+      "tokenizador": "cl100k_base",
+      "posicao_inicio_original": null,
+      "posicao_fim_original": null,
+      "janela_tamanho": null,
+      "sobreposicao_configurada": null,
+      "unidade_janela": null,
+      "record_ids_json": null,
+      "tipo_bloco": null,
+      "retrieval_strategy": "D_para_A",
+      "retrieval_matches": [
+        {
+          "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+          "rank": 4,
+          "score": 0.45404955744743347
+        }
+      ],
+      "best_child_rank": 4,
+      "source_id": "Fonte 3"
+    }
+  ],
+  "omitted": [],
+  "context_text": "[Fonte 1]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 483]\n##### Art. 483\n\nO empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:\n\na) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;\n\nb) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;\n\nc) correr perigo manifesto de mal considerável;\n\nd) não cumprir o empregador as obrigações do contrato;\n\ne) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;\n\nf) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;\n\ng) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.\n\n§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.\n\n§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.\n\n§ 3º - Nas hipóteses das letras \"d\" e \"g\", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)\n\n\n\n[Fonte 2]\n[leis/1970/lei-5584-1970.md | Art 10]\n## Art 10. O\n\nartigo 477 da Consolidação das Leis do Trabalho, alterado pela Lei nº 5.562, de 12-12-68, e pelo Decreto-lei nº 766, de 15-8-69, passa a vigorar com a seguinte redação:\n\n\"Art. 477. É assegurado a todo empregado, não existindo prazo estipulado para a terminação do respectivo contrato, e quando não haja êle dado motivo para cessação das relações de trabalho, o direto de haver do empregador uma indenização, paga na base da maior remuneração que tenha percebido na mesma emprêsa.\n\n§ 1º O pedido de demissão ou recibo de quitação de rescisão, do contrato de trabalho, firmado por empregado com mais de 1 (um) ano de serviço, só será válido quando feito com a assistência do respectivo Sindicato ou perante a autoridade do Ministério do Trabalho e Previdência Social.\n\n§ 2º O instrumento de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ter especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas.\n\n§ 3º Quando não existir na localidade nenhum dos órgãos previstos neste artigo, a assistência será prestada pelo Represente do Ministério Público ou, onde houver, pelo Defensor Público e, na falta ou impedimento dêste, pelo Juiz de Paz.\n\n§ 4º O pagamento a que fizer jus o empregado será efetuado no ato da homologação da rescisão do contrato de trabalho, em dinheiro ou em cheque visado, conforme acordem as partes, salvo se o empregado fôr analfabeto, quando o pagamento sòmente poderá ser feito em dinheiro.\n\n§ 5º Qualquer compensação no pagamento de que trata o parágrafo anterior não poderá exceder o equivalente a um mês de remuneração do empregado\".\n\n\n\n[Fonte 3]\n[codigos/consolidacao-das-leis-do-trabalho-clt-del-5452-1943.md | TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO > CAPÍTULO V — DA RESCISÃO > Art. 482]\n##### Art. 482\n\nConstituem justa causa para rescisão do contrato de trabalho pelo empregador:\n\na) ato de improbidade;\n\nb) incontinência de conduta ou mau procedimento;\n\nc) negociação habitual por conta própria ou alheia sem permissão do empregador, e quando constituir ato de concorrência à empresa para a qual trabalha o empregado, ou for prejudicial ao serviço;\n\nd) condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena;\n\ne) desídia no desempenho das respectivas funções;\n\nf) embriaguez habitual ou em serviço;\n\ng) violação de segredo da empresa;\n\nh) ato de indisciplina ou de insubordinação;\n\ni) abandono de emprego;\n\nj) ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em caso de legítima defesa, própria ou de outrem;\n\nk) ato lesivo da honra ou da boa fama ou ofensas físicas praticadas contra o empregador e superiores hierárquicos, salvo em caso de legítima defesa, própria ou de outrem;\n\nl) prática constante de jogos de azar.\n\nm) perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa do empregado. (Incluído pela Lei nº 13.467, de 2017)\n\nParágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)\n\n",
+  "ranking_d": [
+    {
+      "chunk_id": "51486d4c8622f1f4c36183d96fe1d2b40b80d59158f06908c079ae01b45ad2c6",
+      "score": 0.7135685682296753
+    },
+    {
+      "chunk_id": "c365692367a42e0a881c6ec7de29aaae2f597ae25da88240ccc384f64f2b5069",
+      "score": 0.5997014045715332
+    },
+    {
+      "chunk_id": "2645c886113f899fd00f24d380236fabb585c522c4c1bc4384c1a6baa44fffeb",
+      "score": 0.5167725682258606
+    },
+    {
+      "chunk_id": "564a0f8ea6de4629ce5dae40dd2d4a29173e8e1908774ec2bada283289d07ea6",
+      "score": 0.45404955744743347
+    },
+    {
+      "chunk_id": "863b6246ef3c7332d5a5cb5264158737d89016be0dd16005caa852d73aba9eae",
+      "score": 0.4135890305042267
+    },
+    {
+      "chunk_id": "e97442ace765f74eb59fed3824bfe82dec28e1e02c94dcc1c057c43798ae1e1a",
+      "score": 0.38255101442337036
+    },
+    {
+      "chunk_id": "2d2654f7d16f80a4e0568098f35203d19c860e5f2b0a4df361b25c51dbf51dfb",
+      "score": 0.3563949763774872
+    },
+    {
+      "chunk_id": "f75819c623cd5b14952c772496e3185f68ec232aff585a99f1908099e6a4f96b",
+      "score": 0.28067919611930847
+    },
+    {
+      "chunk_id": "d3f7ab52bdc4c55dfe95f88f282bc841f6be99df5e187d9a85fc3e1659e15910",
+      "score": 0.2672295570373535
+    },
+    {
+      "chunk_id": "6c8a84288a8eb0e5b9db96dbbf3c6547c554d3d102c9c2a17c2f77f981cf7436",
+      "score": 0.22635163366794586
+    },
+    {
+      "chunk_id": "fa3cb4051124800f1acea204caafdd22ee9e978f22c107d9332033ae7d304e15",
+      "score": 0.20272323489189148
+    },
+    {
+      "chunk_id": "6493704240e09bd7b311fd7f88c73f22bb5c859e1962b40f322170327fd6804c",
+      "score": 0.15980665385723114
+    },
+    {
+      "chunk_id": "492e9c2abc69b2d36249544379cab413119f015cad86f34dceeaa28c93c96478",
+      "score": 0.15098415315151215
+    },
+    {
+      "chunk_id": "ba7e315624261276c26fa30139c6fb8c8a753801fe49ff2b0b8aa6478b4cc53b",
+      "score": 0.11496515572071075
+    },
+    {
+      "chunk_id": "5ff91ed9ea963db49ba4f36bd141772f2a3e3bb4d8eda370d65a1a4f115b96e7",
+      "score": 0.09755353629589081
+    },
+    {
+      "chunk_id": "b98be79e294e560e6c19f414e6570ef3dda9d24733bc06723c0acb9031046b42",
+      "score": 0.08930207788944244
+    },
+    {
+      "chunk_id": "04a361495d54b8651c9572cee8d384afdaa877e9e6cf791f321d7bd63645b443",
+      "score": 0.06228094920516014
+    },
+    {
+      "chunk_id": "97a2123930a673d804c5aea5b9399c9712727f8b85fba18afdffa5eed6df6d0e",
+      "score": 0.05734686180949211
+    },
+    {
+      "chunk_id": "4a63d4ddcea2930ca61937cb0571045c7d66ad8f5230f6759656c730c34d6167",
+      "score": 0.053320132195949554
+    },
+    {
+      "chunk_id": "e4e42fa5f9c3c5fc94b323cf0c1c6a44d7ed115660e7e19aaaaba82b3b3c545b",
+      "score": 0.05268104374408722
+    },
+    {
+      "chunk_id": "d2512f0e2a32b289fbab107229f4afabc8ff26c209ab72568f50aefdc5f741eb",
+      "score": 0.05086422339081764
+    },
+    {
+      "chunk_id": "ebe5ebd9aa0a247b3152764385ae9dd988cc3161b4e664e884c0dc714eb6eda7",
+      "score": 0.04456889629364014
+    },
+    {
+      "chunk_id": "0133ac72da0b4e12c5ee4604666cb2a52e9122dcebf452ed73cb4217c51e2852",
+      "score": 0.03721931204199791
+    },
+    {
+      "chunk_id": "dc193763f5cba585a4405b8dab4b3e115e13a3263fe8004b992b7d14417ec701",
+      "score": 0.03715221956372261
+    },
+    {
+      "chunk_id": "5a4cbce5154385f151f3fd18d1bcab7f20f7a20c211d780567e09487b84cc129",
+      "score": 0.03535378351807594
+    },
+    {
+      "chunk_id": "3628d8b7bc5ba52a248edd45c0482fb378448f844f3346cd1d1d5305ef19b02e",
+      "score": 0.03151046484708786
+    },
+    {
+      "chunk_id": "f303d2dfb6f4b4b936e54b7a73dab821e2f122f36009ff51cb9bd75f227d58bd",
+      "score": 0.0307136420160532
+    },
+    {
+      "chunk_id": "8f9be926cb104e29f69a4353dfdc984618854462b1d9ca8680a2739b9552a572",
+      "score": 0.028568193316459656
+    },
+    {
+      "chunk_id": "1f61b3d86d56685159c3af6250faed7c2c37fd8033fd73dd9e57c4c153406b40",
+      "score": 0.028241997584700584
+    },
+    {
+      "chunk_id": "7ecc619f95652ace79a2e6243685b2876b84117b3d3d116f7bd9045ce0e73303",
+      "score": 0.023822583258152008
+    },
+    {
+      "chunk_id": "caae26c4c1d0e85227bdec56698e36ef866ec691dac01b1cd04b3fd843ded49a",
+      "score": 0.018536390736699104
+    },
+    {
+      "chunk_id": "48e30555be25e12149d5cf06039ea22fa535e4998080c8cae42aaaa519d43b80",
+      "score": 0.015884820371866226
+    },
+    {
+      "chunk_id": "9f6935272d3972c18aa7d04c8b9d9a4b5b49dd825d49f9841e082edaec30d031",
+      "score": 0.015242707915604115
+    },
+    {
+      "chunk_id": "a76e48669a87894481d724cec7479ea5d4051cb187acf5a594807605d9abbff5",
+      "score": 0.012326412834227085
+    },
+    {
+      "chunk_id": "127927943a176cde3ee091099db33a35809362d61b150117eae15e38926dce07",
+      "score": 0.010557758621871471
+    },
+    {
+      "chunk_id": "3adaaf86e8da7996847b64900479ac4d906a2695ba658a4b1a8b0ec55ebc93e3",
+      "score": 0.007738306187093258
+    },
+    {
+      "chunk_id": "60951b7fe10c16e9f47fd33ff8c982f8420c3dc13e7cb0a882ef997dbd9c38f4",
+      "score": 0.0064521972090005875
+    },
+    {
+      "chunk_id": "fde03aeab4544153786918498dd41926582cd1f1e0e8c9868afbcb49f4b47dc2",
+      "score": 0.0060678753070533276
+    },
+    {
+      "chunk_id": "364f52cee0f508f0bbb9ab4cb65e1043983daf976ec069ad3128b4bc493aea44",
+      "score": 0.0045052566565573215
+    },
+    {
+      "chunk_id": "ef02b5825bf751af8c327b3bde301dbe121d95622a9f59194b834507cd04fdef",
+      "score": 0.003279453841969371
+    },
+    {
+      "chunk_id": "455deda8111585ddd3bb08c6efeee42b274fb1123333ffff353068c5a356fb1d",
+      "score": 0.0032183898147195578
+    },
+    {
+      "chunk_id": "b3aba6a0bd63470fece38aeda3bc9ff87caf217ee2059d3c79b7a8cbb357551f",
+      "score": 0.0031553274020552635
+    },
+    {
+      "chunk_id": "17dc70f197227279307607fc224052a7b9d1dcd6a0318b41e0340660c04f2a80",
+      "score": 0.0031369016505777836
+    },
+    {
+      "chunk_id": "876ee4c7a9c1dedad785d6c326437a2751251b7b6b1eaeca5d2d68a3720e9d66",
+      "score": 0.0030816099606454372
+    },
+    {
+      "chunk_id": "49cba00e56ff865d9453a97f075cce39219fa6922a57c6b30b4e1b1170143884",
+      "score": 0.0024369864258915186
+    },
+    {
+      "chunk_id": "655a461de2057a25e752dd536666dc199ded13810fc8d69dcabbf27cb633547d",
+      "score": 0.002282674890011549
+    },
+    {
+      "chunk_id": "e4bc71843a7438fdf0ba5cb5c61bcd854ed286bd3cea86ecb49ad028036caba0",
+      "score": 0.002095069270581007
+    },
+    {
+      "chunk_id": "8f2c8a47ebe893c26c971353ef2cfc4348975e8e4e49f58ea1b26e4d8aaaca73",
+      "score": 0.0019473816500976682
+    },
+    {
+      "chunk_id": "f9e3fdb7cb7fd819066714badd2c5d841abe819a333062b8dfc9934994878ab0",
+      "score": 0.0017432034946978092
+    },
+    {
+      "chunk_id": "a62edfb94d960b5524ebde60c156215ce5121626707a9ccfe709cd0adee6295b",
+      "score": 0.000854761223308742
+    }
+  ],
+  "hyde_cache_sha256": "22e177d365fe1cc6ab0ec34b23bb1d19cbc843fd8b7b1da668588e8bd6bd8286",
+  "estrategia": "D_para_A",
+  "backend": "pgvector",
+  "recuperacao_cache_hit": false,
+  "tempo_recuperacao_ms": 5153.745399991749,
+  "hash_configuracao": "f9aa173611dc4d09661b2d313da6bf88b1220f8a80bff5190733412c13e11291",
+  "embedding_corpus_recalculado": false
+}
