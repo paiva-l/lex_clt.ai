@@ -28,8 +28,8 @@ def freeze_configuration(root):
                         values[target.id] = value
         return values
 
-    nb07 = cells('notebooks/07_integracao_rag_legislacao.ipynb')
-    nb06 = cells('notebooks/06_experimentos_recuperacao.ipynb')
+    nb07 = cells('notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb')
+    nb06 = cells('notebooks/01_legislacao/06_experimentos_recuperacao.ipynb')
     config = literals(nb06['config_hyde'])
     prompt = literals(nb07['prompt_juridico'])['SYSTEM_PROMPT_LEGAL']
     hyde_prompt = literals(nb06['hyde_code'])['HYDE_PROMPT']

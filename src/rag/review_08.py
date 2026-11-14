@@ -36,7 +36,7 @@ def save_notebook_reviews(root):
     frozen = validate_frozen(root)
     folder = output_folder(root, frozen)
     results = {r['query_id']: r for r in read(folder / 'respostas_teste.json')}
-    notebook_path = root / 'notebooks/08_avaliacao_final_rag_legislacao.ipynb'
+    notebook_path = root / 'notebooks/01_legislacao/08_avaliacao_final_rag_legislacao.ipynb'
     raw = notebook_path.read_bytes()
     notebook = read(notebook_path)
     path = folder / 'revisao_juridica_teste.csv'

@@ -14,9 +14,9 @@ matplotlib.use('Agg')
 import IPython.display
 import matplotlib.pyplot as plt
 
-path = root / 'notebooks/08_avaliacao_final_rag_legislacao.ipynb'
+path = root / 'notebooks/01_legislacao/08_avaliacao_final_rag_legislacao.ipynb'
 nb = json.loads(path.read_text(encoding='utf-8'))
-protected = [root / 'notebooks/07_integracao_rag_legislacao.ipynb',
+protected = [root / 'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb',
     root / 'data/evaluation/legislacao/eval_dataset_test_aprovado.json']
 hashes = {p: hashlib.sha256(p.read_bytes()).hexdigest() for p in protected}
 namespace = {'__name__': '__main__'}

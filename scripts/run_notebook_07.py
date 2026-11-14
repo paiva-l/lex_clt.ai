@@ -7,7 +7,7 @@ from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
 sys.stdout.reconfigure(encoding='utf-8')
-path = root / 'notebooks/07_integracao_rag_legislacao.ipynb'
+path = root / 'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb'
 nb = json.loads(path.read_text(encoding='utf-8'))
 namespace = {'__name__':'__main__'}
 namespace['display'] = lambda value: print(value.to_string() if hasattr(value,'to_string') else value)

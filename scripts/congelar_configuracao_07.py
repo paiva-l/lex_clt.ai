@@ -9,7 +9,7 @@ root = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(root))
 from src.rag.frozen_config_07 import freeze_configuration
 
-path = root / 'notebooks/07_integracao_rag_legislacao.ipynb'
+path = root / 'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb'
 raw = path.read_bytes()
 nb = json.loads(raw)
 backup = root / 'reports/legislacao/integracao_rag/historico' / ('07_antes_congelamento_' + hashlib.sha256(raw).hexdigest() + '.ipynb')

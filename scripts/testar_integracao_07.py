@@ -10,7 +10,7 @@ sys.path.insert(0,str(root))
 from src.rag.workflow_07 import read_json, write_json
 import IPython.display as ipdisplay
 
-path=root/'notebooks/07_integracao_rag_legislacao.ipynb'
+path=root/'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb'
 namespace={'__name__':'__main__'}
 outputs=[]
 def capture_display(value):

@@ -41,7 +41,7 @@ def validate_frozen(root, check_ollama=False):
             raise ValueError(f'Arquivo alterado depois do congelamento: {name}')
     for notebook, expected_cells in [('06_experimentos_recuperacao.ipynb', config['codigo_06']),
             ('07_integracao_rag_legislacao.ipynb', config['codigo_07'])]:
-        cells = {c['id']: ''.join(c['source']) for c in read(root / 'notebooks' / notebook)['cells']}
+        cells = {c['id']: ''.join(c['source']) for c in read(root / 'notebooks' / '01_legislacao' / notebook)['cells']}
         if any(cells.get(name) != code for name, code in expected_cells.items()):
             raise ValueError(f'Código alterado depois do congelamento: {notebook}')
     budget = read(root / 'reports/legislacao/recuperacao/D_para_A_ollama_hyde_rrf_reranking/orcamento_contexto_llm.json')
@@ -155,7 +155,7 @@ def run_test(root, frozen, questions):
         'teste_sha256': load_test(root)[2], 'gabarito_fornecido_ao_modelo': False,
         'correcao_com_feedback_no_teste': False, 'embeddings_corpus_recalculados': False,
         'avaliador_sha256': sha(Path(__file__).read_bytes()),
-        'notebook_08_sha256': sha((Path(root) / 'notebooks/08_avaliacao_final_rag_legislacao.ipynb').read_bytes())})
+        'notebook_08_sha256': sha((Path(root) / 'notebooks/01_legislacao/08_avaliacao_final_rag_legislacao.ipynb').read_bytes())})
     return list(rows.values())
 
 

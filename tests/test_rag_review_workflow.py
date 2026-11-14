@@ -41,7 +41,7 @@ class ReviewWorkflowTests(unittest.TestCase):
     def test_new_render_preserves_manual_review_and_versions_changed_answer(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            path = root/'notebooks/07_integracao_rag_legislacao.ipynb'
+            path = root/'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb'
             write_json(path, {'cells':[{'id':'original','source':['Preservar']} ]})
             result = {'query_id':'q','pergunta':'Pergunta','resposta':'Resposta um',
                 'status_execucao':'concluida','sources':[]}
@@ -62,7 +62,7 @@ class ReviewWorkflowTests(unittest.TestCase):
             root = Path(directory)
             write_json(root/'reports/legislacao/integracao_rag/respostas_rag_dev.json',
                 [{'query_id':'q_dev_test','resposta':'Nova resposta sem revisão'}])
-            write_json(root/'notebooks/07_integracao_rag_legislacao.ipynb', {'cells':[
+            write_json(root/'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb', {'cells':[
                 {'id':'visualizacao_respostas_q_dev_test', 'source':[
                     '**Revisão jurídica:** aprovada por Revisora.\n\n**Resposta gerada**\n\nResposta antiga.']} ]})
             with self.assertRaisesRegex(ValueError,'não transferir sua revisão'):

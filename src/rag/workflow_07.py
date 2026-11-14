@@ -51,7 +51,7 @@ def persist_reviews(root):
     """Lê as decisões efetivamente escritas nas células, preservando seu texto."""
     root = Path(root)
     report = root / 'reports/legislacao/integracao_rag'
-    notebook = read_json(root / 'notebooks/07_integracao_rag_legislacao.ipynb')
+    notebook = read_json(root / 'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb')
     originals = {item['query_id']:item for item in read_json(report / 'respostas_rag_dev.json')}
     reviews = []
     for cell in notebook['cells']:
@@ -95,7 +95,7 @@ def persist_reviews(root):
 def load_generation_namespace(root):
     """Reutiliza as funções completas do 07 sem executar o lote original."""
     root = Path(root)
-    notebook = read_json(root / 'notebooks/07_integracao_rag_legislacao.ipynb')
+    notebook = read_json(root / 'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb')
     namespace = {'__name__':'rag_07_revisao'}
     for identifier in ('ambiente_rag', 'prompt_juridico', 'cliente_ollama'):
         cell = next(cell for cell in notebook['cells'] if cell['id'] == identifier)
@@ -185,7 +185,7 @@ class VariantRetriever:
         import torch
         from sentence_transformers import SentenceTransformer, CrossEncoder
         root = Path(root)
-        notebook = read_json(root / 'notebooks/06_experimentos_recuperacao.ipynb')
+        notebook = read_json(root / 'notebooks/01_legislacao/06_experimentos_recuperacao.ipynb')
         cells = {cell['id']:''.join(cell['source']) for cell in notebook['cells'] if cell['cell_type']=='code'}
         ns = {'__name__':'retrieval_variants_07'}
         exec(compile(cells['config_hyde'], '06_config', 'exec'), ns)
@@ -276,7 +276,7 @@ class VariantRetriever:
 
 def load_variants(root):
     root = Path(root)
-    nb = read_json(root / 'notebooks/07_integracao_rag_legislacao.ipynb')
+    nb = read_json(root / 'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb')
     rows = []
     for group in ('q_dev_03','q_dev_06'):
         rows.extend(read_json(root / f'reports/legislacao/integracao_rag/variantes/{group}_variantes.json'))
@@ -413,7 +413,7 @@ def diagnostic(root, reviews, corrections, variants):
 def append_answer_cells(root, corrections, variants):
     """Acrescenta saídas em outras células; não toca nas revisões e referências."""
     root = Path(root)
-    path = root / 'notebooks/07_integracao_rag_legislacao.ipynb'
+    path = root / 'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb'
     nb = read_json(path)
     prefix = 'novas_respostas_07_'
     existing = {cell.get('id'):cell for cell in nb['cells']}

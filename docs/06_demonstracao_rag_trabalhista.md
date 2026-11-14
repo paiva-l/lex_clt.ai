@@ -2,7 +2,7 @@
 
 Esta seção demonstra o funcionamento do protótipo de RAG trabalhista a partir de uma consulta real registrada no notebook 08. A pergunta percorre o fluxo de recuperação implementado no projeto: busca nos chunks da estratégia D com a pergunta original e com o documento hipotético do HyDE, combinação dos rankings pelo Reciprocal Rank Fusion (RRF), reordenação por um cross-encoder e recuperação dos artigos completos da estratégia A. Esses artigos são enviados ao modelo de linguagem com identificadores de fonte e metadados de origem.
 
-A demonstração utiliza a execução salva de `q_test_01`, sem realizar uma nova geração. O notebook [07 — Integração RAG](../notebooks/07_integracao_rag_legislacao.ipynb) apresenta a integração e o desenvolvimento do sistema; o notebook [08 — Avaliação final](../notebooks/08_avaliacao_final_rag_legislacao.ipynb) registra o teste da configuração congelada e a revisão das respostas.
+A demonstração utiliza a execução salva de `q_test_01`, sem realizar uma nova geração. O notebook [07 — Integração RAG](../notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb) apresenta a integração e o desenvolvimento do sistema; o notebook [08 — Avaliação final](../notebooks/01_legislacao/08_avaliacao_final_rag_legislacao.ipynb) registra o teste da configuração congelada e a revisão das respostas.
 
 ## 6.1 Consulta submetida ao sistema
 
@@ -98,8 +98,8 @@ A URL é a origem declarada nos metadados da base utilizada; esta documentação
 
 A demonstração foi elaborada a partir dos seguintes arquivos do projeto:
 
-- [Notebook 07 — Integração RAG](../notebooks/07_integracao_rag_legislacao.ipynb).
-- [Notebook 08 — Avaliação final e revisão humana](../notebooks/08_avaliacao_final_rag_legislacao.ipynb).
+- [Notebook 07 — Integração RAG](../notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb).
+- [Notebook 08 — Avaliação final e revisão humana](../notebooks/01_legislacao/08_avaliacao_final_rag_legislacao.ipynb).
 - [Implementação da recuperação e integração](../src/rag/workflow_07.py), especialmente `VariantRetriever.retrieve`.
 - [Expansão de chunks D para artigos A](../src/storage/parent_documents.py), pelas funções `expand_parent_documents` e `format_parent_context`.
 - [Respostas reais do teste](../reports/legislacao/avaliacao_final/2318200177f97e4df627986194bbba9cdaecd7fe2bdd8354fe3293b725734f1e/respostas_teste.json), registro `q_test_01`.

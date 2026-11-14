@@ -36,7 +36,7 @@ def ollama_json(endpoint, payload):
     with urlopen(request, timeout=60) as response:
         return json.load(response)
 
-nb = json.loads((root / 'notebooks/06_experimentos_recuperacao.ipynb').read_text(encoding='utf-8'))
+nb = json.loads((root / 'notebooks/01_legislacao/06_experimentos_recuperacao.ipynb').read_text(encoding='utf-8'))
 for cell in nb['cells']:
     if cell['id'] == 'config_hyde':
         nodes = [node for node in ast.parse(''.join(cell['source'])).body
@@ -61,6 +61,6 @@ for cell in nb['cells']:
             {'output_type': 'stream', 'name': 'stdout', 'text': captured.getvalue().splitlines(keepends=True)},
             {'output_type': 'display_data', 'metadata': {}, 'data': {'image/png': base64.b64encode(
                 (REPORT_DIR / 'comparacao_contexto_D_para_A.png').read_bytes()).decode('ascii')}}]
-(root / 'notebooks/06_experimentos_recuperacao.ipynb').write_text(
+(root / 'notebooks/01_legislacao/06_experimentos_recuperacao.ipynb').write_text(
     json.dumps(nb, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
 print(captured.getvalue())

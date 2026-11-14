@@ -35,10 +35,10 @@ escolhido e devolve uma resposta em que **cada frase indica de qual artigo veio*
 | :--- | :--- | :--- |
 | Base de conhecimento curada | Feito: 25 normas, 5.284 artigos, auditadas | Seção 3 · `notebooks/01_legislacao/01_auditoria_clt.ipynb`, `02`, `03` |
 | Mínimo de 20 documentos-fonte | Feito: 25 normas | Seção 3 (tabela completa) |
-| Descrição da estratégia de chunking | Feito: 5 estratégias testadas, escolhida D → A | Seção 5 · `notebooks/04_experimentos_chunking.ipynb` |
-| Descrição da estratégia de embeddings | Feito: BGE-M3 denso, 1.024 dimensões | Seção 6 · `notebooks/06_experimentos_recuperacao.ipynb` |
+| Descrição da estratégia de chunking | Feito: 5 estratégias testadas, escolhida D → A | Seção 5 · `notebooks/01_legislacao/04_experimentos_chunking.ipynb` |
+| Descrição da estratégia de embeddings | Feito: BGE-M3 denso, 1.024 dimensões | Seção 6 · `notebooks/01_legislacao/06_experimentos_recuperacao.ipynb` |
 | Implementação de um banco vetorial | Feito: PostgreSQL 16 + pgvector 0.8.7 | Seção 7 · `src/storage/pgvector_store.py` |
-| Consulta submetida ao sistema | Feito | Seção 10 · `notebooks/07_integracao_rag_legislacao.ipynb` |
+| Consulta submetida ao sistema | Feito | Seção 10 · `notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb` |
 | Recuperação dos chunks mais relevantes | Feito: medida em 11 perguntas de desenvolvimento | Seção 8 · notebook 06 |
 | Resposta fundamentada no conteúdo recuperado | Feito: implementada com o prompt do grupo | Seção 9 · notebook 07 |
 | Evidência das fontes utilizadas | Feito: tabela de fontes por resposta | Seções 9 e 10 · notebook 07 |
@@ -469,7 +469,7 @@ pelo RRF ele traz candidatos que o reranker aproveita.
 
 ## 9. Geração da resposta com fontes
 
-Implementada em `notebooks/07_integracao_rag_legislacao.ipynb`, com o prompt do grupo (`SYSTEM_PROMPT_LEGAL` e a
+Implementada em `notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb`, com o prompt do grupo (`SYSTEM_PROMPT_LEGAL` e a
 função `build_rag_prompt`, Apêndice B do Entregável 2).
 
 ### Como a resposta é montada
@@ -524,7 +524,7 @@ ollama serve                              # se o app não estiver aberto
 ollama pull qwen3:4b-instruct
 
 # 3. Notebook
-jupyter lab notebooks/07_integracao_rag_legislacao.ipynb
+jupyter lab notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb
 ```
 
 O notebook 07 tem dois modos:

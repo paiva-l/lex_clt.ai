@@ -65,7 +65,7 @@ def persist_generated_reviews(root, reviewer=None):
     import pandas as pd
     root=Path(root)
     report=root/'reports/legislacao/integracao_rag'
-    nb=read_json(root/'notebooks/07_integracao_rag_legislacao.ipynb')
+    nb=read_json(root/'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb')
     groups={'correcao':read_json(report/'correcoes/respostas_corrigidas_dev.json'),
         'variante':read_json(report/'variantes/respostas_variantes_rag.json')}
     history_dir=report/'revisoes/novas/historico'

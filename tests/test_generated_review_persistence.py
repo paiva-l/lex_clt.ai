@@ -24,7 +24,7 @@ class GeneratedReviewTests(unittest.TestCase):
             write_json(report/'correcoes/respostas_corrigidas_dev.json',[])
             write_json(report/'variantes/respostas_variantes_rag.json',[current])
             text='**Pergunta:** Pergunta sobre divórcio\n\n'+cell_text(refusal)
-            write_json(root/'notebooks/07_integracao_rag_legislacao.ipynb',{'cells':[
+            write_json(root/'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb',{'cells':[
                 {'id':'novas_respostas_07_variante_v1','source':[text]}]})
             legacy=parse_generated_cell(text,current,'Laisa')
             legacy.update(tipo='variante',query_id='v1',contexto_fontes_sha256=None)
@@ -40,7 +40,7 @@ class GeneratedReviewTests(unittest.TestCase):
             original={'query_id':'v1','pergunta':'Pergunta','resposta':'Texto revisado.',
                 'status_execucao':'concluida','sources':[]}
             write_json(report/'variantes/respostas_variantes_rag.json',[original])
-            write_json(root/'notebooks/07_integracao_rag_legislacao.ipynb',{'cells':[
+            write_json(root/'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb',{'cells':[
                 {'id':'novas_respostas_07_variante_v1','source':[cell_text('Texto revisado.')]}]})
             persist_generated_reviews(root,'Laisa')
             new=dict(original,resposta='Texto de outra execução.')
@@ -60,7 +60,7 @@ class GeneratedReviewTests(unittest.TestCase):
             original={'query_id':'v1','pergunta':'Pergunta','resposta':'Texto revisado.',
                 'status_execucao':'concluida','sources':[{'source_id':'Fonte 1','conteudo_chunk':'Fonte antiga'}]}
             write_json(report/'variantes/respostas_variantes_rag.json',[original])
-            write_json(root/'notebooks/07_integracao_rag_legislacao.ipynb',{'cells':[
+            write_json(root/'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb',{'cells':[
                 {'id':'novas_respostas_07_variante_v1','source':[cell_text('Texto revisado.')]}]})
             persist_generated_reviews(root,'Laisa')
             write_json(report/'variantes/respostas_variantes_rag.json',[dict(original,sources=[{'source_id':'Fonte 1','conteudo_chunk':'Outra fonte'}])])
@@ -104,7 +104,7 @@ class GeneratedReviewTests(unittest.TestCase):
                 {'query_id':'v2','pergunta':'Outra','status_execucao':'falha','erro':'limite','sources':[]}]
             write_json(report/'variantes/respostas_variantes_rag.json',raw)
             write_json(report/'correcoes/respostas_corrigidas_dev.json',[])
-            notebook=root/'notebooks/07_integracao_rag_legislacao.ipynb'
+            notebook=root/'notebooks/01_legislacao/07_integracao_rag_legislacao.ipynb'
             write_json(notebook,{'cells':[{'id':'novas_respostas_07_variante_v1',
                 'source':[cell_text('Resposta original.')]}]})
             old_notebook=notebook.read_bytes()
